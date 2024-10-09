@@ -1,0 +1,42 @@
+name: Amazon Job Applier
+
+on:
+  push:  # Run on every push to the repository
+    branches:
+      - main  # Replace with your branch if different
+  schedule:
+    - cron: '0 * * * *'  # Run the job every hour (adjust the cron schedule as needed)
+
+jobs:
+  run-selenium:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        pip install selenium webdriver-manager seleniumbase
+
+    - name: Install Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wget unzip
+        wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -fy install
+
+    - name: Run script
+      run: |
+        source venv/bin/activate
+        python amazontest3.py
+
+    - name: Show logs
+      run: cat ./amazon_log.log || echo "No log file generated"

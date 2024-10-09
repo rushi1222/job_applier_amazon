@@ -1,0 +1,5 @@
+venv/
+temp_profile/
+downloaded_files/
+*.pyc
+__pycache__/
