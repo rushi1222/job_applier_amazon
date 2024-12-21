@@ -1,0 +1,140 @@
+name: Amazon Job Applier
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  run-selenium:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        pip install selenium webdriver-manager
+
+    - name: Install Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wget unzip
+        wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -fy install
+
+    - name: Run script
+      run: |
+        source venv/bin/activate
+        python amazontest.py
+
+    - name: Show logs
+      run: cat ./amazon_log.log || echo "No log file generated"
+
+credentials:
+  email: "k.saraswathi1222@gmail.com"
+  password: "Pandu122@"
+  amazon_url: "https://www.amazon.jobs/en-US/applicant/login?relay=%2Fen-US%2Fapplicant"
+
+job_search:
+  positions:
+    - "software developer"
+  locations:
+    - "USA"
+
+blacklist:
+  titleBlacklist:
+    # - "Senior"
+    # - "Lead"
+  companyBlacklist:
+    # - "XYZ Corp"
+    # - "ABC Inc."
+
+experience:
+ # normal ones
+ Team leadership: 8
+ Training & Development: 8
+ Software Development: 8
+ Frontend Development: 8
+ Frontend: 8
+ Frontend Engineer: 8
+ Javascript: 8
+ Typescript: 6
+ AWS: 2
+ Azure: 2
+ Java: 8
+ NodeJS: 4
+ PHP: 2
+ WebDevelopment: 8
+ ProductDevelopmentLeadRole: 2
+ FullStackDevelopment: 8
+ FullStack: 8
+ OAuth2: 2
+ ReactReduxPython: 8
+ Spring: 8
+ PostgreSQL: 2
+ MySQL: 2
+ React: 8
+ Auditing: 0
+ MongoDB: 2
+ NoSQL: 2
+ Angular: 8
+ CSS: 4
+ Redux.js: 8
+ iOS: 1
+ Android: 1
+ PeopleSoft: 0
+ PeopleTools: 0
+ SQR: 0
+ HTML: 5
+ Bootstrap: 3
+ Mobile Applications: 2
+ Microsoft 365: 2
+ Kotlin: 2
+ Android Jetpack: 1
+ Debugging: 3
+ Microservices: 8
+ Python: 3
+ AEM: 8
+ Maven: 2
+ Databases: 4
+ Relational Databases: 4
+ Hibernate: 8
+ Fastlane: 8
+ REST: 8
+ Servlets: 8
+ JSON: 8
+ RPG: 0
+ Application Development: 8
+ CI/CD: 2
+ CNC: 0
+ Programming: 8
+ Machine Tools: 0
+ Engineering : 8
+ sql: 4
+ GraphQL: 2
+ django: 4
+ Redux: 8
+
+contact:
+  first_name: RUSHIDEEP
+  last_name: KOTAMRAJU
+  email: k.saraswathi1222@gmail.com
+  phone: +1 201-741-1028
+  address_line1: 948 W Side Ave
+  address_line2: Apt 1
+  city: Jersey City
+  postal_code: '07306'
+  country: United States
+  state: New York
+  
