@@ -44,7 +44,12 @@ jobs:
 credentials:
   email: "k.saraswathi1222@gmail.com"
   password: "Pandu122@"
-  amazon_url: "https://www.amazon.jobs/en-US/applicant/login?relay=%2Fen-US%2Fapplicant"
+  amazon_url: "https://www.amazon.jobs/en/search?base_query=Amazon+Customer+Service&loc_query=united+states&latitude=38.89037&longitude=-77.03196&loc_group_id=&invalid_location=false&country=USA&city=&region=&county="
+
+email:
+  sender_email: "thevaishnavi.9121@gmail.com"
+  sender_password: "kzjo kajo nmku feoi"
+  recipient_email: "vaishnavireddyvundyala@gmail.com"
 
 job_search:
   positions:

@@ -4,6 +4,15 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from amazon import AmazonJobApplier
+from selenium.webdriver.chrome.options import Options
+
+chrome_options = Options()
+
+chrome_options.add_argument("--headless") 
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+
 
 # Load configuration from YAML file
 def load_yaml_config(config_path):
@@ -46,21 +55,24 @@ if __name__ == '__main__':
         'locations': config['job_search']['locations'],
         'contact': config['contact'],  # This ensures 'contact' is a dictionary
         'experience': config['experience'],  # This ensures 'experience' is a dictionary
+        'email_config': config.get('email', {}),  # Email configuration for notifications
     }
     validate_yaml(parameters)
 
     # Initialize the browser
     browser = init_browser()
 
-    # Create an instance of AmazonJobApplier and perform login and search
+
     bot = AmazonJobApplier(parameters, browser)
-    bot.login()
+   
+    #print("Careers page opened successfully.")
     bot.search_jobs()
+    # notify_new_jobs is now called automatically within search_jobs
+   
 
-    # Keep the browser open for inspection
+
+
     input("Press Enter to close the browser...")
-
-    # Close the browser after pressing Enter
     print("Closing browser...")
     browser.quit()
     print("Browser closed.")

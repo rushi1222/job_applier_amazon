@@ -4,3 +4,4 @@ downloaded_files/
 *.pyc
 __pycache__/
 .DS_Store
+jobscrapperenv/
