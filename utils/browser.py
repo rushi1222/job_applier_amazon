@@ -21,15 +21,20 @@ def get_chrome_options(headless=True, download_dir=None):
     """
     chrome_options = Options()
     
+    # Set Chrome binary for Docker environments only
+    if os.path.exists("/usr/bin/chromium"):
+        chrome_options.binary_location = "/usr/bin/chromium"
+    
     if headless:
         chrome_options.add_argument("--headless=new")
     
-    # Basic required flags
+    # Universal Chrome flags
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-extensions")
     chrome_options.add_argument("--disable-setuid-sandbox")
+    chrome_options.add_argument("--remote-debugging-port=9222")
     
     # Configure download directory if specified
     if download_dir:
@@ -59,17 +64,30 @@ def init_browser(headless=True, download_dir=None):
     print("Initializing WebDriver...")
     chrome_options = get_chrome_options(headless=headless, download_dir=download_dir)
     
-    # Use system ChromeDriver if available (for Docker/Cloud Run)
+    # Try different ChromeDriver approaches for different environments
     try:
-        # Try to use ChromeDriver from system PATH (installed via chromium-driver package)
-        service = Service()
-        driver = webdriver.Chrome(service=service, options=chrome_options)
-    except Exception as e:
-        print(f"System ChromeDriver failed, trying ChromeDriverManager: {e}")
-        # Fallback to ChromeDriverManager for local development
+        # First: Try ChromeDriverManager (works great in GitHub Actions)
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
-    
+        print("WebDriver initialized with ChromeDriverManager")
+    except Exception as e1:
+        print(f"ChromeDriverManager failed: {e1}")
+        try:
+            # Second: Try system ChromeDriver (Docker/Cloud environments)
+            service = Service('/usr/bin/chromedriver')
+            driver = webdriver.Chrome(service=service, options=chrome_options)
+            print("WebDriver initialized with system ChromeDriver")
+        except Exception as e2:
+            print(f"System ChromeDriver failed: {e2}")
+            try:
+                # Last resort: Auto-detect
+                service = Service()
+                driver = webdriver.Chrome(service=service, options=chrome_options)
+                print("WebDriver initialized with auto-detection")
+            except Exception as e3:
+                print(f"All ChromeDriver methods failed: {e3}")
+                raise e3
+
     driver.implicitly_wait(10)
     print("WebDriver initialized successfully.")
     return driver
