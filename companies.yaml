@@ -1,0 +1,28 @@
+# Companies configuration
+# Enable/disable companies and specify their modules
+
+companies:
+  - name: amazon
+    enabled: true
+    requires_login: false  # Set to true when login functionality is implemented
+    search_module: companies_search.amazon
+    login_module: companies_login.amazon_login
+    config:
+      url: "https://www.amazon.jobs/en/search"
+      
+  # Add more companies here as you implement them
+  # - name: google
+  #   enabled: true
+  #   requires_login: false
+  #   search_module: companies_search.google
+  #   login_module: null
+  #   config:
+  #     url: "https://www.google.com/careers"
+  
+  # - name: airbnb
+  #   enabled: false
+  #   requires_login: true
+  #   search_module: companies_search.airbnb
+  #   login_module: companies_login.airbnb_login
+  #   config:
+  #     url: "https://careers.airbnb.com"

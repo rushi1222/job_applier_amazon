@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Git
+.git/
+.gitignore
+.github/
+
+# Data files (will be created fresh in container)
+data/
+*.txt
+!requirements.txt
+downloaded_files/
+temp_profile/
+
+# Environment files (will be provided via secrets)
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (not needed in container)
+README.md
+DEPLOYMENT_PLAN.md
+cron-setup.md
+
+# Test files
+*test*.py
+amazontest*.py

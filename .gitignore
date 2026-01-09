@@ -1,7 +1,10 @@
 venv/
 temp_profile/
 downloaded_files/
+companies_search/downloaded_files/
 *.pyc
 __pycache__/
 .DS_Store
 jobscrapperenv/
+.venv/
+.env

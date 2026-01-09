@@ -1,0 +1,28 @@
+3154041,Software Engineer I, Builder,https://www.amazon.jobs/en/jobs/3154041/software-engineer-i-builder,2026-01-07 10:47:58
+3153885,Senior Software Dev Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3153885/senior-software-dev-engineer-amazon-leo,2026-01-07 10:47:58
+3153858,Front End Engineer II, Amazon Connect - Contact Control Panel,https://www.amazon.jobs/en/jobs/3153858/front-end-engineer-ii-amazon-connect-contact-control-panel,2026-01-07 10:47:58
+3153967,Sr SDE, Amazon Selection Catalog Systems,https://www.amazon.jobs/en/jobs/3153967/sr-sde-amazon-selection-catalog-systems,2026-01-07 10:47:58
+3152631,Sr. Software Engineer, Amazon Leo Government,https://www.amazon.jobs/en/jobs/3152631/sr-software-engineer-amazon-leo-government,2026-01-07 10:47:58
+3150722,Device Software Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3150722/device-software-engineer-amazon-leo-for-government,2026-01-07 10:47:58
+3150022,Sr. Software Dev Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3150022/sr-software-dev-engineer-amazon-leo-for-government,2026-01-07 10:47:58
+3150034,Software Development Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3150034/software-development-engineer-amazon-leo-for-government,2026-01-07 10:47:58
+3150187,Software Development Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3150187/software-development-engineer-amazon-leo-for-government,2026-01-07 10:47:58
+3151417,Sr. Software Dev Engineer in Test, Leo Anchor,https://www.amazon.jobs/en/jobs/3151417/sr-software-dev-engineer-in-test-leo-anchor,2026-01-07 10:47:58
+3154397,Software Dev Engineer, Amazon Leo for Government, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3154397/software-dev-engineer-amazon-leo-for-government-amazon-leo-for-government,2026-01-07 11:21:43
+3154865,Sr. Software Engineer, Power Hardware-in-the-Loop, Amazon Leo,https://www.amazon.jobs/en/jobs/3154865/sr-software-engineer-power-hardware-in-the-loop-amazon-leo,2026-01-08 15:03:10
+3154640,Embedded SDE, Amazon Devices,https://www.amazon.jobs/en/jobs/3154640/embedded-sde-amazon-devices,2026-01-08 15:03:10
+3155525,Sr. Software Development Engineer, Devices & Services Trust CX Innovations,https://www.amazon.jobs/en/jobs/3155525/sr-software-development-engineer-devices-services-trust-cx-innovations,2026-01-08 15:03:10
+3155521,Sr. Software Development Engineer, Devices & Services Trust CX Innovations,https://www.amazon.jobs/en/jobs/3155521/sr-software-development-engineer-devices-services-trust-cx-innovations,2026-01-08 15:03:10
+3155492,Software Development Engineer (Level 5) - GENAI/ML, Amazon Selection and Catalog Systems (ASCS),https://www.amazon.jobs/en/jobs/3155492/software-development-engineer-level-5-genai-ml-amazon-selection-and-catalog-systems-ascs,2026-01-08 15:03:10
+3155746,Software Engineer I,https://www.amazon.jobs/en/jobs/3155746/software-engineer-i,2026-01-08 21:25:54
+3155750,Software Engineer I,https://www.amazon.jobs/en/jobs/3155750/software-engineer-i,2026-01-08 21:25:54
+3155744,Software Engineer - Ads Demand,https://www.amazon.jobs/en/jobs/3155744/software-engineer-ads-demand,2026-01-08 21:25:54
+3155747,Software Development Engineer II, Defensive Security - Vulnerability Management,https://www.amazon.jobs/en/jobs/3155747/software-development-engineer-ii-defensive-security-vulnerability-management,2026-01-08 21:25:54
+3156517,Sr. Research Engineer, Machine Learning, AGI Foundations,https://www.amazon.jobs/en/jobs/3156517/sr-research-engineer-machine-learning-agi-foundations,Bellevue, WA, USA
+Boston, MA, USA
+New York, NY, USA
++1 other locations,Posted January 9, 2026,2026-01-09 14:44:55
+3156503,Embedded Software Engineer, Project Leo Customer Terminals,https://www.amazon.jobs/en/jobs/3156503/embedded-software-engineer-project-leo-customer-terminals,Redmond, WA, USA,Posted January 9, 2026,2026-01-09 14:44:55
+3156498,Sr. MLE, Creative-X, Amazon Advertising, Creative-X,https://www.amazon.jobs/en/jobs/3156498/sr-mle-creative-x-amazon-advertising-creative-x,New York, NY, USA
+Seattle, WA, USA,Posted January 9, 2026,2026-01-09 14:44:55
+3154864,Software Development Engineer, Satellite Engineering and Mechanical Development,https://www.amazon.jobs/en/jobs/3154864/software-development-engineer-satellite-engineering-and-mechanical-development,Redmond, WA, USA,Posted January 8, 2026,2026-01-09 14:44:55

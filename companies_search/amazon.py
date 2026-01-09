@@ -1,46 +1,32 @@
 import time
 import os
-import smtplib
 from datetime import datetime
 from itertools import product
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import traceback
-
-applied_jobs_file = 'applied_jobs.txt'
-failed_jobs_file = 'failed_jobs.txt'
-datastore_file = 'datastore.txt'
-failed_jobs = []
+from .base_scraper import BaseScraper
 
 
-class AmazonJobApplier:
+class AmazonJobApplier(BaseScraper):
+    """Amazon job scraper - extends BaseScraper"""
+    
     def __init__(self, parameters, driver):
-        self.browser = driver
+        # Initialize base scraper
+        super().__init__('amazon', parameters, driver)
+        
+        # Amazon-specific parameters
         self.email = parameters.get('email')
         self.password = parameters.get('password')
         self.amazon_url = parameters.get('amazon_url')
         
-        self.positions = parameters.get('positions', [])
-        self.locations = parameters.get('locations', [])
         self.seen_jobs = []  # Keep track of jobs you've already applied for
         self.title_blacklist = parameters.get('titleBlacklist', []) or []
-        self.company_blacklist = []  # Add companies to this list if needed
         self.company_blacklist = parameters.get('companyBlacklist', []) or []
         self.contact_info = parameters.get('contact', {})
         self.experience = parameters.get('experience', {})
         self.submission = False  # Flag to track successful submission
-        
-        # Email configuration
-        email_config = parameters.get('email_config', {})
-        self.sender_email = email_config.get('sender_email', '')
-        self.sender_password = email_config.get('sender_password', '')
-        self.recipient_email = email_config.get('recipient_email', '')
-        
-        # Store all scraped jobs
-        self.all_scraped_jobs = []
 
 
    
@@ -86,13 +72,14 @@ class AmazonJobApplier:
             page_jobs = self._extract_jobs_from_page()
             self.all_scraped_jobs.extend(page_jobs)
         
-        # After all searches, check for duplicates and notify
+        # After all searches, check for duplicates and save
         new_jobs = self._filter_new_jobs()
         if new_jobs:
             self._save_jobs_to_datastore(new_jobs)
-            self._send_email_notification(new_jobs)
         else:
-            print("\nNo new jobs found. All jobs already in datastore.")
+            print(f"\n{self.company_name.upper()}: No new jobs found. All jobs already in datastore.")
+        
+        return new_jobs  # Return new jobs instead of sending email
     
     
     def _sort_by_recent(self):
@@ -215,16 +202,47 @@ class AmazonJobApplier:
                     # Extract job ID from URL (format: /jobs/JOB_ID/job-title)
                     job_id = self._extract_job_id_from_url(job_link)
                     
+                    # Try to extract location
+                    location = "N/A"
+                    try:
+                        location_elem = job_tile.find_element(By.CLASS_NAME, 'location-and-id')
+                        location = location_elem.text.split('|')[0].strip() if '|' in location_elem.text else location_elem.text.strip()
+                    except:
+                        try:
+                            # Alternative selector
+                            location_elem = job_tile.find_element(By.CSS_SELECTOR, '.location')
+                            location = location_elem.text.strip()
+                        except:
+                            pass
+                    
+                    # Try to extract posted date
+                    posted_date = "N/A"
+                    try:
+                        date_elem = job_tile.find_element(By.CLASS_NAME, 'posting-date')
+                        posted_date = date_elem.text.strip()
+                    except:
+                        try:
+                            # Alternative selector - sometimes in data attributes
+                            posted_date = job_tile.get_attribute('data-posted-date')
+                            if not posted_date:
+                                posted_date = "N/A"
+                        except:
+                            pass
+                    
                     job_data = {
                         'job_id': job_id,
                         'title': job_title,
-                        'url': job_link
+                        'url': job_link,
+                        'location': location,
+                        'posted_date': posted_date
                     }
                     
                     jobs.append(job_data)
                     print(f"Title: {job_title}")
                     print(f"URL: {job_link}")
-                    print(f"Job ID: {job_id}\n")
+                    print(f"Job ID: {job_id}")
+                    print(f"Location: {location}")
+                    print(f"Posted: {posted_date}\n")
                     
                 except Exception as e:
                     print(f"Error extracting job details: {e}")
@@ -249,121 +267,6 @@ class AmazonJobApplier:
         return None
 
 
-    def _filter_new_jobs(self):
-        """Filter out jobs that already exist in datastore.txt. Returns list of new jobs."""
-        existing_job_ids = self._load_datastore()
-        new_jobs = []
-        
-        for job in self.all_scraped_jobs:
-            job_id = job.get('job_id')
-            if job_id and job_id not in existing_job_ids:
-                new_jobs.append(job)
-        
-        print(f"\nTotal jobs scraped: {len(self.all_scraped_jobs)}")
-        print(f"New jobs found: {len(new_jobs)}")
-        print(f"Duplicate jobs (skipped): {len(self.all_scraped_jobs) - len(new_jobs)}")
-        
-        return new_jobs
-    
-    def _load_datastore(self):
-        """Load existing job IDs from datastore.txt. Returns set of job IDs."""
-        existing_ids = set()
-        if os.path.exists(datastore_file):
-            try:
-                with open(datastore_file, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if line:
-                            # Handle both formats: just ID or ID,title,url,date
-                            job_id = line.split(',')[0]
-                            existing_ids.add(job_id)
-            except Exception as e:
-                print(f"Error loading datastore: {e}")
-        return existing_ids
-    
-    def _save_jobs_to_datastore(self, jobs):
-        """Save new jobs to datastore.txt."""
-        try:
-            with open(datastore_file, 'a', encoding='utf-8') as f:
-                current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                for job in jobs:
-                    # Format: job_id,title,url,date
-                    line = f"{job['job_id']},{job['title']},{job['url']},{current_time}\n"
-                    f.write(line)
-            print(f"\nSaved {len(jobs)} new jobs to {datastore_file}")
-        except Exception as e:
-            print(f"Error saving to datastore: {e}")
-    
-    def _send_email_notification(self, jobs):
-        """Send email notification with new jobs."""
-        if not self.sender_email or not self.sender_password or not self.recipient_email:
-            print("Email configuration missing. Skipping email notification.")
-            return
-        
-        try:
-            msg = MIMEMultipart('alternative')
-            msg['Subject'] = f'New Amazon Jobs Found - {len(jobs)} positions'
-            msg['From'] = self.sender_email
-            msg['To'] = self.recipient_email
-            
-            # Create email body
-            text_body = self._format_email_text(jobs)
-            html_body = self._format_email_html(jobs)
-            
-            part1 = MIMEText(text_body, 'plain')
-            part2 = MIMEText(html_body, 'html')
-            msg.attach(part1)
-            msg.attach(part2)
-            
-            # Send email via Gmail SMTP
-            print(f"\nSending email to {self.recipient_email}...")
-            with smtplib.SMTP('smtp.gmail.com', 587) as server:
-                server.starttls()
-                server.login(self.sender_email, self.sender_password)
-                server.send_message(msg)
-            
-            print("Email sent successfully!")
-        
-        except Exception as e:
-            print(f"Error sending email: {e}")
-            traceback.print_exc()
-    
-    def _format_email_text(self, jobs):
-        """Format jobs as plain text for email."""
-        text = f"Found {len(jobs)} new Amazon job(s):\n\n"
-        for i, job in enumerate(jobs, 1):
-            text += f"{i}. {job['title']}\n"
-            text += f"   Job ID: {job['job_id']}\n"
-            text += f"   Link: {job['url']}\n\n"
-        return text
-    
-    def _format_email_html(self, jobs):
-        """Format jobs as HTML for email."""
-        html = f"""
-        <html>
-          <body>
-            <h2>Found {len(jobs)} new Amazon job(s):</h2>
-            <ul>
-        """
-        for job in jobs:
-            html += f"""
-              <li>
-                <strong>{job['title']}</strong><br>
-                Job ID: {job['job_id']}<br>
-                <a href="{job['url']}">View Job</a>
-              </li><br>
-            """
-        html += """
-            </ul>
-          </body>
-        </html>
-        """
-        return html
-
-
-    
-
-    
     
     def no_more_jobs(self):
         # Placeholder function to determine if there are more jobs to apply for

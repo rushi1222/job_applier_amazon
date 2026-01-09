@@ -1,0 +1,113 @@
+[0;32m======================================[0m
+[0;32mJob Scraper - Google Cloud Deployment[0m
+[0;32m======================================[0m
+
+[0;32mUsing Project ID: job-scraper-1767932517[0m
+[0;32mUsing Region: us-central1[0m
+
+Updated property [core/project].
+[1;33mEnabling required Google Cloud APIs...[0m
+Operation "operations/acat.p2-1006402765674-638d8ef2-2f91-4a4f-a571-311e8a8b55fe" finished successfully.
+[0;32m✓ APIs enabled[0m
+
+[1;33mSetting up secrets in Secret Manager...[0m
+Secret GMAIL_SENDER_EMAIL already exists, updating...
+Created version [3] of the secret [GMAIL_SENDER_EMAIL].
+Secret GMAIL_SENDER_PASSWORD already exists, updating...
+Created version [3] of the secret [GMAIL_SENDER_PASSWORD].
+Secret RECIPIENT_EMAIL already exists, updating...
+Created version [3] of the secret [RECIPIENT_EMAIL].
+[0;32m✓ Secrets created/updated[0m
+
+[1;33mSetting up Artifact Registry...[0m
+Repository already exists
+WARNING: Your config file at [/Users/rushideep/.docker/config.json] contains these credential helper entries:
+
+{
+  "credHelpers": {
+    "asia.gcr.io": "gcloud",
+    "eu.gcr.io": "gcloud",
+    "gcr.io": "gcloud",
+    "marketplace.gcr.io": "gcloud",
+    "staging-k8s.gcr.io": "gcloud",
+    "us-central1-docker.pkg.dev": "gcloud",
+    "us.gcr.io": "gcloud"
+  }
+}
+Adding credentials for: us-central1-docker.pkg.dev
+gcloud credential helpers already registered correctly.
+
+[1;33mBuilding Docker image...[0m
+#0 building with "desktop-linux" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 724B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for docker.io/library/python:3.10-slim
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 533B done
+#3 DONE 0.0s
+
+#4 [1/7] FROM docker.io/library/python:3.10-slim@sha256:7b68a5fa7cf0d20b4cedb1dc9a134fdd394fe27edbc4c2519756c91d21df2313
+#4 DONE 0.0s
+
+#5 [internal] load build context
+#5 transferring context: 3.57kB done
+#5 DONE 0.0s
+
+#6 [4/7] COPY requirements.txt .
+#6 CACHED
+
+#7 [2/7] RUN apt-get update && apt-get install -y     chromium     chromium-driver     wget     unzip     && rm -rf /var/lib/apt/lists/*
+#7 CACHED
+
+#8 [3/7] WORKDIR /app
+#8 CACHED
+
+#9 [5/7] RUN pip install --no-cache-dir -r requirements.txt
+#9 CACHED
+
+#10 [6/7] COPY . .
+#10 DONE 0.0s
+
+#11 [7/7] RUN mkdir -p data/amazon
+#11 DONE 0.1s
+
+#12 exporting to image
+#12 exporting layers done
+#12 writing image sha256:29a2495d5dac1aca9dab60765a987682ef0b7e1ad95f4906a08af26f1151c26c done
+#12 naming to us-central1-docker.pkg.dev/job-scraper-1767932517/job-scraper-repo/job-scraper:latest done
+#12 DONE 0.0s
+
+View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/xwdu004mgsuelpwzbzboskudz
+[0;32m✓ Docker image built[0m
+
+[1;33mPushing image to Artifact Registry...[0m
+The push refers to repository [us-central1-docker.pkg.dev/job-scraper-1767932517/job-scraper-repo/job-scraper]
+21d752b6fbe3: Preparing
+50eba59ee4fa: Preparing
+a21621aa242a: Preparing
+21f3bb6b6975: Preparing
+896dec1d2b28: Preparing
+94d9529fe10b: Preparing
+b4ddb5dc2e02: Preparing
+75b5fbf56130: Preparing
+b12fdd0942e9: Preparing
+6a7f953ae30c: Preparing
+94d9529fe10b: Waiting
+b12fdd0942e9: Waiting
+6a7f953ae30c: Waiting
+b4ddb5dc2e02: Waiting
+75b5fbf56130: Waiting
+a21621aa242a: Layer already exists
+896dec1d2b28: Layer already exists
+21f3bb6b6975: Layer already exists
+b4ddb5dc2e02: Layer already exists
+75b5fbf56130: Layer already exists
+6a7f953ae30c: Layer already exists
+b12fdd0942e9: Layer already exists
+21d752b6fbe3: Pushed
+50eba59ee4fa: Pushed

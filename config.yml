@@ -1,0 +1,11 @@
+
+job_search:
+  positions:
+    - "software developer"
+  locations:
+    - "USA"
+
+contact:
+  name: "Your Name"
+  email: "k.saraswathi1222@gmail.com"
+  phone: "1234567890"
