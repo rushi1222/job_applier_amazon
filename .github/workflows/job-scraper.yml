@@ -2,9 +2,8 @@ name: Multi-Company Job Scraper
 
 on:
   schedule:
-    # Run every 30 minutes from 9 AM to 7 PM CT (14:00-01:00 UTC)
-    - cron: '*/30 14-23 * * *'  # 9 AM - 6:30 PM CT
-    - cron: '0 0-1 * * *'       # 6:30 PM - 7 PM CT (next day UTC)
+    # Run every 30 minutes (GitHub Actions free tier may have delays)
+    - cron: '*/30 * * * *'  # Every 30 minutes, all day
   workflow_dispatch:  # Allow manual runs
 
 jobs:
