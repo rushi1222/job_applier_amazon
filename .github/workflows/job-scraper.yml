@@ -9,6 +9,8 @@ on:
 jobs:
   scrape-jobs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allow pushing datastore updates back to repo
     
     steps:
     - name: Checkout code
@@ -35,3 +37,15 @@ jobs:
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
       run: |
         python main.py
+        
+    - name: Commit datastore updates
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/*/
+        if git diff --staged --quiet; then
+          echo "No new jobs found, nothing to commit"
+        else
+          git commit -m "Update job datastores - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
