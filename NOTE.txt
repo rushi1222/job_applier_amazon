@@ -1,0 +1,207 @@
+================================================================================
+                         MULTI-COMPANY JOB SCRAPER
+================================================================================
+
+📋 WHAT THIS APPLICATION DOES:
+=============================
+This is an automated job scraper that monitors multiple company career pages,
+finds new job postings, and sends email notifications. It runs on GitHub Actions
+every 30 minutes to continuously monitor for new opportunities.
+
+🎯 MAIN GOALS:
+=============
+1. Scrape job postings from multiple companies (Amazon, Google, etc.)
+2. Track previously seen jobs to avoid duplicate notifications
+3. Send consolidated email alerts for new job postings only
+4. Run automatically via GitHub Actions (hands-off operation)
+5. Store job data persistently between runs
+
+🏗️ ARCHITECTURE OVERVIEW:
+=========================
+
+├── main.py                     # Main orchestrator script
+├── companies.yaml              # Company configurations (enable/disable)
+├── config.yml                  # Job search parameters (positions, locations, email)
+├── companies_search/           # Company-specific scraper modules
+│   ├── base_scraper.py        # Base class for all scrapers
+│   ├── amazon.py              # Amazon job scraper
+│   └── google.py              # Google job scraper (to be implemented)
+├── companies_login/            # Login handlers (conditional based on requires_login)
+│   ├── __init__.py
+│   ├── base_login.py          # Base login class
+│   └── amazon_login.py        # Amazon authentication handler
+├── data/                       # Persistent job data storage
+│   ├── amazon/
+│   │   └── amazondatastore.txt # Previously found Amazon jobs
+│   └── google/
+│       └── googledatastore.txt # Previously found Google jobs
+└── utils/                      # Helper utilities
+    ├── browser.py             # Selenium browser setup
+    └── email_sender.py        # Email notification system
+
+🔄 WORKFLOW PROCESS:
+===================
+
+1. CONFIGURATION LOADING:
+   - Load job search criteria from config.yml (positions, locations)
+   - Load company configs from companies.yaml (enabled companies)
+   - Load email credentials from environment variables
+
+2. PER-COMPANY PROCESSING:
+   For each enabled company:
+   a) Check requires_login boolean in companies.yaml
+   b) If requires_login=true: Import and execute login_module for authentication
+   c) Import company-specific scraper class (e.g., AmazonJobApplier)
+   d) Search for jobs matching position/location combinations
+   e) Extract job data: ID, title, URL, location, posted_date
+   f) Filter out jobs already in company's datastore file
+   g) Save NEW jobs to datastore file
+   h) Return list of new jobs
+
+3. EMAIL NOTIFICATION:
+   - Collect new jobs from ALL companies
+   - Send ONE consolidated email with jobs from all companies
+   - Only send email if new jobs were found
+
+4. DATA PERSISTENCE:
+   - Each company has its own datastore file (e.g., amazondatastore.txt)
+   - Format: job_id,title,url,location,posted_date,scraped_timestamp
+   - GitHub Actions commits datastore updates back to repo
+   - This prevents duplicate notifications in future runs
+
+📧 EMAIL SYSTEM:
+===============
+- Uses Gmail SMTP for notifications
+- Credentials stored in GitHub Secrets (GMAIL_SENDER_EMAIL, GMAIL_SENDER_PASSWORD)
+- Sends HTML + plain text emails with clickable job links
+- Only sends emails when NEW jobs are found
+- Includes job details: title, location, posting date, direct application link
+
+🤖 AUTOMATION (GitHub Actions):
+==============================
+- Runs every 30 minutes automatically
+- Uses Ubuntu environment with Chrome browser
+- Installs Python dependencies
+- Executes main.py with environment variables
+- Commits updated datastore files back to repo (prevents duplicates)
+- No manual intervention required
+
+🔧 ADDING NEW COMPANIES:
+=======================
+
+To add a new company (e.g., Microsoft):
+
+1. ADD TO companies.yaml:
+   ```yaml
+   - name: microsoft
+     enabled: true
+     requires_login: false              # Set to true if login needed
+     search_module: companies_search.microsoft
+     login_module: companies_login.microsoft_login  # null if no login needed
+     config:
+       url: "https://careers.microsoft.com/search"
+   ```
+
+2. CREATE SCRAPER FILE:
+   companies_search/microsoft.py with class MicrosoftJobApplier
+   - Must extend BaseScraper
+   - Must implement search_jobs() method
+   - Must extract job_id, title, url, location, posted_date
+   - Must handle company-specific page structure
+
+3. CREATE LOGIN FILE (if requires_login=true):
+   companies_login/microsoft_login.py with class MicrosoftLogin
+   - Must extend base login class
+   - Must implement authentication flow
+   - Must handle company-specific login process
+
+4. DATA DIRECTORY:
+   - data/microsoft/ will be auto-created
+   - microsoftdatastore.txt will be auto-created
+
+🔐 LOGIN SYSTEM:
+===============
+The system supports conditional authentication based on company requirements:
+
+YAML Configuration:
+- requires_login: false  → Skip authentication, go directly to scraping
+- requires_login: true   → Execute login_module before scraping
+
+Login Flow (when requires_login=true):
+1. Load login_module specified in companies.yaml
+2. Import and instantiate login class (e.g., AmazonLogin)
+3. Execute authentication (cookies, sessions, etc.)
+4. Pass authenticated browser session to scraper
+5. Scraper uses authenticated session for job searching
+
+Example companies.yaml configurations:
+
+NO LOGIN REQUIRED:
+```yaml
+- name: google
+  enabled: true
+  requires_login: false
+  search_module: companies_search.google
+  login_module: null
+```
+
+LOGIN REQUIRED:
+```yaml
+- name: amazon
+  enabled: true
+  requires_login: true
+  search_module: companies_search.amazon
+  login_module: companies_login.amazon_login
+```
+
+🎛️ KEY CONFIGURATION FILES:
+===========================
+
+companies.yaml:
+- Controls which companies are active (enabled: true/false)
+- Specifies scraper module paths (search_module)
+- Controls authentication flow (requires_login: true/false)
+- Specifies login module paths (login_module)
+- Company-specific URLs and settings
+
+config.yml:
+- Job search parameters (positions, locations to search)
+- Email configuration
+- Global application settings
+
+Environment Variables (GitHub Secrets):
+- GMAIL_SENDER_EMAIL: Email address for sending notifications
+- GMAIL_SENDER_PASSWORD: Gmail app password
+- RECIPIENT_EMAIL: Where to send job notifications
+
+🚨 IMPORTANT NOTES:
+==================
+1. Each company needs its own scraper class following naming convention:
+   CompanyNameJobApplier (e.g., AmazonJobApplier, GoogleJobApplier)
+
+2. Datastore files prevent duplicate notifications - they MUST be committed
+   back to the repository for GitHub Actions to work correctly
+
+3. Job IDs must be unique and stable for effective duplicate detection
+
+4. The system is designed for hands-off operation - once set up, it runs
+   automatically and only notifies you of genuinely new opportunities
+
+5. Browser runs in headless mode for GitHub Actions compatibility
+
+6. All scrapers use the same base class (BaseScraper) for consistent behavior
+
+🔄 CURRENT STATUS:
+=================
+- ✅ Amazon scraper: IMPLEMENTED and WORKING
+- 🚧 Google scraper: IN DEVELOPMENT
+- 📋 Ready to add more companies following the established pattern
+
+📝 DEVELOPMENT WORKFLOW:
+=======================
+1. Comment out working companies in companies.yaml during development
+2. Enable only the company being developed/tested
+3. Test locally before committing
+4. Once working, enable in production and let GitHub Actions handle automation
+
+This system scales easily - just add new scraper files following the pattern!

@@ -1,0 +1,421 @@
+================================================================================
+                         SIMPLE TESTING FRAMEWORK
+================================================================================
+
+📋 SIMPLE BOOLEAN TESTING STRUCTURE:
+====================================
+
+tests/
+├── simple_test_runner.py      # Main test script with boolean checks
+├── company_validators/        # Simple validation functions
+│   ├── amazon_validator.py   # Amazon-specific checks
+│   ├── google_validator.py   # Google-specific checks
+│   └── base_validator.py     # Common validation functions
+└── test_data/                 # Sample data for testing
+    ├── sample_urls.json      # Test URLs for each company
+    └── expected_fields.json   # Required fields for validation
+
+🧪 MAIN TEST FILE - simple_test_runner.py:
+==========================================
+
+```python
+#!/usr/bin/env python3
+"""
+Simple Boolean Testing Framework for Job Scrapers
+Each test returns True/False with clear pass/fail results
+"""
+
+import sys
+import importlib
+import traceback
+from datetime import datetime
+import json
+from pathlib import Path
+
+class SimpleTestRunner:
+    def __init__(self):
+        self.results = {}
+        self.total_tests = 0
+        self.passed_tests = 0
+    
+    def run_all_tests(self):
+        """Run all company tests"""
+        print("="*70)
+        print("🧪 SIMPLE JOB SCRAPER TESTING FRAMEWORK")
+        print("="*70)
+        print(f"Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        
+        # Get all enabled companies from companies.yaml
+        companies = self.load_enabled_companies()
+        
+        for company in companies:
+            print(f"\n{'='*50}")
+            print(f"🏢 TESTING: {company.upper()}")
+            print(f"{'='*50}")
+            
+            company_results = self.test_company(company)
+            self.results[company] = company_results
+            
+            # Print company summary
+            company_passed = sum(1 for result in company_results.values() if result['passed'])
+            company_total = len(company_results)
+            status = "✅ PASSED" if company_passed == company_total else "❌ FAILED"
+            
+            print(f"\n📊 {company.upper()} SUMMARY: {company_passed}/{company_total} tests passed {status}")
+        
+        # Print final summary
+        self.print_final_summary()
+    
+    def test_company(self, company_name):
+        """Test specific company with boolean checks"""
+        results = {}
+        
+        # Test 1: Can import scraper module
+        results['import_scraper'] = self.test_import_scraper(company_name)
+        
+        # Test 2: Can create scraper instance
+        results['create_instance'] = self.test_create_instance(company_name)
+        
+        # Test 3: Has required methods
+        results['has_methods'] = self.test_required_methods(company_name)
+        
+        # Test 4: Can load datastore
+        results['load_datastore'] = self.test_datastore_loading(company_name)
+        
+        # Test 5: URL structure validation
+        results['url_validation'] = self.test_url_structure(company_name)
+        
+        # Test 6: Job ID extraction works
+        results['job_id_extraction'] = self.test_job_id_extraction(company_name)
+        
+        # Test 7: Configuration is valid
+        results['config_validation'] = self.test_config_validation(company_name)
+        
+        return results
+    
+    def test_import_scraper(self, company_name):
+        """Test: Can import company scraper module"""
+        try:
+            module_path = f"companies_search.{company_name}"
+            module = importlib.import_module(module_path)
+            
+            # Try to find scraper class
+            class_name = f"{company_name.capitalize()}JobApplier"
+            scraper_class = getattr(module, class_name, None)
+            
+            passed = scraper_class is not None
+            message = f"✅ Can import {class_name}" if passed else f"❌ Cannot find {class_name}"
+            
+            print(f"  1. Import Scraper: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ Import failed: {str(e)}"
+            print(f"  1. Import Scraper: {message}")
+            return {'passed': False, 'message': message}
+    
+    def test_create_instance(self, company_name):
+        """Test: Can create scraper instance"""
+        try:
+            # Mock parameters
+            test_params = {
+                'positions': ['Software Engineer'],
+                'locations': ['USA'],
+                'email_config': {'sender_email': 'test@test.com'},
+                'contact': {}, 'experience': {}
+            }
+            
+            # Mock browser
+            from unittest.mock import Mock
+            mock_browser = Mock()
+            
+            # Import and create instance
+            module_path = f"companies_search.{company_name}"
+            module = importlib.import_module(module_path)
+            class_name = f"{company_name.capitalize()}JobApplier"
+            scraper_class = getattr(module, class_name)
+            
+            instance = scraper_class(test_params, mock_browser)
+            passed = instance is not None
+            
+            message = "✅ Scraper instance created" if passed else "❌ Cannot create instance"
+            print(f"  2. Create Instance: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ Instance creation failed: {str(e)}"
+            print(f"  2. Create Instance: {message}")
+            return {'passed': False, 'message': message}
+    
+    def test_required_methods(self, company_name):
+        """Test: Has all required methods"""
+        try:
+            required_methods = ['search_jobs', '_extract_jobs_from_page', '_filter_new_jobs']
+            
+            # Get scraper class
+            module_path = f"companies_search.{company_name}"
+            module = importlib.import_module(module_path)
+            class_name = f"{company_name.capitalize()}JobApplier"
+            scraper_class = getattr(module, class_name)
+            
+            missing_methods = []
+            for method in required_methods:
+                if not hasattr(scraper_class, method):
+                    missing_methods.append(method)
+            
+            passed = len(missing_methods) == 0
+            if passed:
+                message = "✅ All required methods present"
+            else:
+                message = f"❌ Missing methods: {', '.join(missing_methods)}"
+            
+            print(f"  3. Required Methods: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ Method check failed: {str(e)}"
+            print(f"  3. Required Methods: {message}")
+            return {'passed': False, 'message': message}
+    
+    def test_datastore_loading(self, company_name):
+        """Test: Can load/create datastore"""
+        try:
+            import tempfile
+            import os
+            
+            # Create temp datastore file
+            with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt') as f:
+                f.write("12345,Test Job,http://test.com,USA,2024-01-01,2024-01-01 10:00:00\n")
+                temp_file = f.name
+            
+            # Test loading
+            from companies_search.base_scraper import BaseScraper
+            
+            # Mock instance to test datastore loading
+            test_params = {'positions': [], 'locations': []}
+            from unittest.mock import Mock
+            base_scraper = BaseScraper(company_name, test_params, Mock())
+            base_scraper.datastore_file = temp_file
+            
+            existing_ids = base_scraper._load_datastore()
+            passed = '12345' in existing_ids
+            
+            # Cleanup
+            os.unlink(temp_file)
+            
+            message = "✅ Datastore loading works" if passed else "❌ Datastore loading failed"
+            print(f"  4. Datastore Loading: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ Datastore test failed: {str(e)}"
+            print(f"  4. Datastore Loading: {message}")
+            return {'passed': False, 'message': message}
+    
+    def test_url_structure(self, company_name):
+        """Test: URL structure is valid for company"""
+        try:
+            # Load company config
+            companies_config = self.load_companies_config()
+            company_config = next((c for c in companies_config.get('companies', []) 
+                                 if c['name'] == company_name), None)
+            
+            if not company_config:
+                message = "❌ Company not found in config"
+                print(f"  5. URL Structure: {message}")
+                return {'passed': False, 'message': message}
+            
+            url = company_config.get('config', {}).get('url', '')
+            passed = url.startswith('https://') and len(url) > 10
+            
+            message = f"✅ Valid URL: {url[:50]}..." if passed else f"❌ Invalid URL: {url}"
+            print(f"  5. URL Structure: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ URL test failed: {str(e)}"
+            print(f"  5. URL Structure: {message}")
+            return {'passed': False, 'message': message}
+    
+    def test_job_id_extraction(self, company_name):
+        """Test: Job ID extraction works"""
+        try:
+            # Test URLs for each company
+            test_urls = {
+                'amazon': "https://www.amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
+                'google': "https://www.google.com/about/careers/applications/jobs/results/123456789",
+                # Add more as needed
+            }
+            
+            if company_name not in test_urls:
+                message = f"⚠️  No test URL defined for {company_name}"
+                print(f"  6. Job ID Extraction: {message}")
+                return {'passed': True, 'message': message}  # Pass if no test URL
+            
+            # Get scraper and test extraction
+            module_path = f"companies_search.{company_name}"
+            module = importlib.import_module(module_path)
+            class_name = f"{company_name.capitalize()}JobApplier"
+            scraper_class = getattr(module, class_name)
+            
+            # Create instance with mock
+            test_params = {'positions': [], 'locations': [], 'email_config': {}}
+            from unittest.mock import Mock
+            instance = scraper_class(test_params, Mock())
+            
+            # Test extraction
+            test_url = test_urls[company_name]
+            if hasattr(instance, '_extract_job_id_from_url'):
+                job_id = instance._extract_job_id_from_url(test_url)
+                passed = job_id is not None and len(str(job_id)) > 0
+                message = f"✅ Extracted ID: {job_id}" if passed else "❌ Could not extract job ID"
+            else:
+                passed = False
+                message = "❌ No job ID extraction method"
+            
+            print(f"  6. Job ID Extraction: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ Job ID test failed: {str(e)}"
+            print(f"  6. Job ID Extraction: {message}")
+            return {'passed': False, 'message': message}
+    
+    def test_config_validation(self, company_name):
+        """Test: Company configuration is valid"""
+        try:
+            companies_config = self.load_companies_config()
+            company_config = next((c for c in companies_config.get('companies', []) 
+                                 if c['name'] == company_name), None)
+            
+            if not company_config:
+                message = "❌ Company not in config"
+                print(f"  7. Config Validation: {message}")
+                return {'passed': False, 'message': message}
+            
+            required_fields = ['name', 'enabled', 'requires_login', 'search_module']
+            missing_fields = [field for field in required_fields if field not in company_config]
+            
+            passed = len(missing_fields) == 0
+            if passed:
+                message = "✅ Valid configuration"
+            else:
+                message = f"❌ Missing fields: {', '.join(missing_fields)}"
+            
+            print(f"  7. Config Validation: {message}")
+            return {'passed': passed, 'message': message}
+            
+        except Exception as e:
+            message = f"❌ Config test failed: {str(e)}"
+            print(f"  7. Config Validation: {message}")
+            return {'passed': False, 'message': message}
+    
+    def load_enabled_companies(self):
+        """Load enabled companies from config"""
+        try:
+            companies_config = self.load_companies_config()
+            return [c['name'] for c in companies_config.get('companies', []) if c.get('enabled', False)]
+        except:
+            return ['amazon']  # Default fallback
+    
+    def load_companies_config(self):
+        """Load companies.yaml"""
+        import yaml
+        with open('companies.yaml', 'r') as f:
+            return yaml.safe_load(f)
+    
+    def print_final_summary(self):
+        """Print final test summary"""
+        print(f"\n{'='*70}")
+        print("📊 FINAL SUMMARY")
+        print(f"{'='*70}")
+        
+        overall_passed = 0
+        overall_total = 0
+        
+        for company, results in self.results.items():
+            company_passed = sum(1 for result in results.values() if result['passed'])
+            company_total = len(results)
+            overall_passed += company_passed
+            overall_total += company_total
+            
+            status = "✅" if company_passed == company_total else "❌"
+            print(f"{status} {company.upper()}: {company_passed}/{company_total} tests passed")
+        
+        print(f"\n🎯 OVERALL: {overall_passed}/{overall_total} tests passed")
+        
+        if overall_passed == overall_total:
+            print("🎉 ALL TESTS PASSED! Ready for production.")
+        else:
+            print("⚠️  Some tests failed. Check issues above.")
+        
+        print(f"\nCompleted at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        print("="*70)
+
+if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Simple Job Scraper Testing')
+    parser.add_argument('--company', help='Test specific company only')
+    args = parser.parse_args()
+    
+    runner = SimpleTestRunner()
+    
+    if args.company:
+        # Test single company
+        print(f"Testing {args.company.upper()} only...\n")
+        results = runner.test_company(args.company)
+        runner.results[args.company] = results
+        runner.print_final_summary()
+    else:
+        # Test all companies
+        runner.run_all_tests()
+```
+
+🏃‍♂️ SIMPLE USAGE:
+==================
+
+# Test all enabled companies
+python tests/simple_test_runner.py
+
+# Test specific company
+python tests/simple_test_runner.py --company amazon
+python tests/simple_test_runner.py --company google
+
+📊 OUTPUT EXAMPLE:
+=================
+
+🧪 SIMPLE JOB SCRAPER TESTING FRAMEWORK
+======================================================================
+Started at: 2026-01-10 14:30:00
+
+==================================================
+🏢 TESTING: AMAZON
+==================================================
+  1. Import Scraper: ✅ Can import AmazonJobApplier
+  2. Create Instance: ✅ Scraper instance created
+  3. Required Methods: ✅ All required methods present
+  4. Datastore Loading: ✅ Datastore loading works
+  5. URL Structure: ✅ Valid URL: https://www.amazon.jobs/en/search...
+  6. Job ID Extraction: ✅ Extracted ID: 3154041
+  7. Config Validation: ✅ Valid configuration
+
+📊 AMAZON SUMMARY: 7/7 tests passed ✅ PASSED
+
+======================================================================
+📊 FINAL SUMMARY
+======================================================================
+✅ AMAZON: 7/7 tests passed
+
+🎯 OVERALL: 7/7 tests passed
+🎉 ALL TESTS PASSED! Ready for production.
+
+🎯 WHAT IT TESTS:
+================
+1. ✅/❌ Can import scraper module
+2. ✅/❌ Can create scraper instance  
+3. ✅/❌ Has required methods
+4. ✅/❌ Datastore loading works
+5. ✅/❌ URL structure is valid
+6. ✅/❌ Job ID extraction works
+7. ✅/❌ Configuration is valid
