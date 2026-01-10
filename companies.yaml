@@ -1,7 +1,7 @@
 # Companies configuration
 # Enable/disable companies and specify their modules
 
-# companies:
+companies:
   - name: amazon
     enabled: true
     requires_login: false  # Set to true when login functionality is implemented
