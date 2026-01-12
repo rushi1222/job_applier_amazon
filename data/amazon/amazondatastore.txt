@@ -32,3 +32,4 @@ Seattle, WA, USA,Posted January 9, 2026,2026-01-10 03:50:27
 3157329,AI & AWS Software Development Engineer , Ring/Blink CS Technology Enablement,https://www.amazon.jobs/en/jobs/3157329/ai-aws-software-development-engineer-ring-blink-cs-technology-enablement,Hawthorne, CA, USA,Posted January 12, 2026,2026-01-12 19:07:46
 3157418,Sr. SDE - CPLD / FPGA,https://www.amazon.jobs/en/jobs/3157418/sr-sde-cpld-fpga,Cupertino, CA, USA
 Seattle, WA, USA,Posted January 12, 2026,2026-01-12 20:06:34
+3157447,Sr. Software Dev Engineer, Amazon Advertising Creative X,https://www.amazon.jobs/en/jobs/3157447/sr-software-dev-engineer-amazon-advertising-creative-x,Santa Monica, CA, USA,Posted January 12, 2026,2026-01-12 20:40:11
