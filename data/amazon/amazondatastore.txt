@@ -30,3 +30,5 @@ Seattle, WA, USA,Posted January 9, 2026,2026-01-10 03:50:27
 3156581,Full Stack SDE II, AWS MSK,https://www.amazon.jobs/en/jobs/3156581/full-stack-sde-ii-aws-msk,Santa Monica, CA, USA,Posted January 9, 2026,2026-01-10 03:50:27
 3156503,Embedded Software Engineer, Project Leo Customer Terminals,https://www.amazon.jobs/en/jobs/3156503/embedded-software-engineer-project-leo-customer-terminals,Redmond, WA, USA,Posted January 9, 2026,2026-01-10 03:50:27
 3157329,AI & AWS Software Development Engineer , Ring/Blink CS Technology Enablement,https://www.amazon.jobs/en/jobs/3157329/ai-aws-software-development-engineer-ring-blink-cs-technology-enablement,Hawthorne, CA, USA,Posted January 12, 2026,2026-01-12 19:07:46
+3157418,Sr. SDE - CPLD / FPGA,https://www.amazon.jobs/en/jobs/3157418/sr-sde-cpld-fpga,Cupertino, CA, USA
+Seattle, WA, USA,Posted January 12, 2026,2026-01-12 20:06:34
