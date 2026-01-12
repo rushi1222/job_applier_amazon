@@ -22,19 +22,28 @@ jobs:
         python-version: '3.10'
         
     - name: Install Chrome
-      uses: browser-actions/setup-chrome@v1
-      with:
-        chrome-version: stable
+      run: |
+        # Install Chrome using the official method
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
         
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        
+    - name: Verify Chrome installation
+      run: |
+        google-chrome --version
+        which google-chrome
         
     - name: Run job scraper
       env:
         GMAIL_SENDER_EMAIL: ${{ secrets.GMAIL_SENDER_EMAIL }}
         GMAIL_SENDER_PASSWORD: ${{ secrets.GMAIL_SENDER_PASSWORD }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        CI: true
       run: |
         python main.py
         

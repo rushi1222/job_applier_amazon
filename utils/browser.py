@@ -21,20 +21,49 @@ def get_chrome_options(headless=True, download_dir=None):
     """
     chrome_options = Options()
     
-    # Set Chrome binary for Docker environments only
-    if os.path.exists("/usr/bin/chromium"):
-        chrome_options.binary_location = "/usr/bin/chromium"
+    # Set Chrome binary for different environments
+    chrome_binary_paths = [
+        "/usr/bin/google-chrome",        # Standard installation
+        "/usr/bin/google-chrome-stable", # Ubuntu/Debian
+        "/usr/bin/chromium-browser",     # Chromium
+        "/usr/bin/chromium",             # Alternative chromium path
+        "/opt/google/chrome/chrome",     # Alternative installation
+    ]
+    
+    for binary_path in chrome_binary_paths:
+        if os.path.exists(binary_path):
+            chrome_options.binary_location = binary_path
+            print(f"Using Chrome binary: {binary_path}")
+            break
+    
+    # Force headless in CI environments
+    ci_environment = os.environ.get('GITHUB_ACTIONS') == 'true' or os.environ.get('CI') == 'true'
+    if ci_environment and not headless:
+        print("⚠️  Forcing headless mode in CI environment")
+        headless = True
     
     if headless:
         chrome_options.add_argument("--headless=new")
+        print("Running in headless mode")
     
-    # Universal Chrome flags
+    # Universal Chrome flags (optimized for CI/CD environments)
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-extensions")
     chrome_options.add_argument("--disable-setuid-sandbox")
     chrome_options.add_argument("--remote-debugging-port=9222")
+    chrome_options.add_argument("--disable-web-security")
+    chrome_options.add_argument("--disable-background-timer-throttling")
+    chrome_options.add_argument("--disable-backgrounding-occluded-windows")
+    chrome_options.add_argument("--disable-renderer-backgrounding")
+    chrome_options.add_argument("--disable-features=TranslateUI")
+    chrome_options.add_argument("--single-process")
+    chrome_options.add_argument("--no-zygote")
+    
+    # CI-specific settings
+    if ci_environment:
+        chrome_options.add_argument("--window-size=1920,1080")
     
     # Configure download directory if specified
     if download_dir:
