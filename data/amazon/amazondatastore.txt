@@ -34,3 +34,5 @@ Seattle, WA, USA,Posted January 9, 2026,2026-01-10 03:50:27
 Seattle, WA, USA,Posted January 12, 2026,2026-01-12 20:06:34
 3157447,Sr. Software Dev Engineer, Amazon Advertising Creative X,https://www.amazon.jobs/en/jobs/3157447/sr-software-dev-engineer-amazon-advertising-creative-x,Santa Monica, CA, USA,Posted January 12, 2026,2026-01-12 20:40:11
 3157492,Sr. Software Dev Engineer, Leo AI Foundations,https://www.amazon.jobs/en/jobs/3157492/sr-software-dev-engineer-leo-ai-foundations,Redmond, WA, USA,Posted January 12, 2026,2026-01-12 21:37:56
+3158164,Sr. Software Development Engineer - ASIC Infrastructure, MLA-MI, Annapurna Labs,https://www.amazon.jobs/en/jobs/3158164/sr-software-development-engineer-asic-infrastructure-mla-mi-annapurna-labs,Austin, TX, USA
+Cupertino, CA, USA,Posted January 13, 2026,2026-01-13 18:09:36
