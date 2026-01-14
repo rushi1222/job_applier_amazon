@@ -43,3 +43,4 @@ San Francisco, CA, USA
 Seattle, WA, USA,Posted January 14, 2026,2026-01-14 19:06:22
 3159617,Software Development Engineer - Systems Performance, Kuiper Ground Software & Analytics,https://www.amazon.jobs/en/jobs/3159617/software-development-engineer-systems-performance-kuiper-ground-software-analytics,Redmond, WA, USA,Posted January 14, 2026,2026-01-14 21:38:30
 3159615,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3159615/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted January 14, 2026,2026-01-14 21:38:30
+3159643,Software Development Engineer, Sponsored Products,https://www.amazon.jobs/en/jobs/3159643/software-development-engineer-sponsored-products,Seattle, WA, USA,Posted January 14, 2026,2026-01-14 22:06:33
