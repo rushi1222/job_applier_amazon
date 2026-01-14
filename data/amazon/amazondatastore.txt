@@ -38,3 +38,6 @@ Seattle, WA, USA,Posted January 12, 2026,2026-01-12 20:06:34
 Cupertino, CA, USA,Posted January 13, 2026,2026-01-13 18:09:36
 3158507,Software Dev Engineer, Leo AI Foundations,https://www.amazon.jobs/en/jobs/3158507/software-dev-engineer-leo-ai-foundations,Redmond, WA, USA,Posted January 14, 2026,2026-01-14 00:50:14
 3159441,Software Development Engineer - Boston, EFS,https://www.amazon.jobs/en/jobs/3159441/software-development-engineer-boston-efs,Boston, MA, USA,Posted January 14, 2026,2026-01-14 18:46:11
+3159479,Software Development Engineer, Professional Services, Insights and Analytics Team,https://www.amazon.jobs/en/jobs/3159479/software-development-engineer-professional-services-insights-and-analytics-team,Irvine, CA, USA
+San Francisco, CA, USA
+Seattle, WA, USA,Posted January 14, 2026,2026-01-14 19:06:22
