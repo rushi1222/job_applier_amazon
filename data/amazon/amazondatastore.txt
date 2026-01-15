@@ -57,3 +57,4 @@ Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
 3160296,Senior Software Development Engineer - BIOS, AWS Hardware Engineering, Firmware Development,https://www.amazon.jobs/en/jobs/3160296/senior-software-development-engineer-bios-aws-hardware-engineering-firmware-development,Austin, TX, USA
 Cupertino, CA, USA
 Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
+3160310,Software Development Engineer- Robotics, Frontier AI Robotics,https://www.amazon.jobs/en/jobs/3160310/software-development-engineer-robotics-frontier-ai-robotics,San Francisco, CA, USA,Posted January 15, 2026,2026-01-15 18:11:46
