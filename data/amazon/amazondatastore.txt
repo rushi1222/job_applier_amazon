@@ -58,3 +58,5 @@ Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
 Cupertino, CA, USA
 Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
 3160310,Software Development Engineer- Robotics, Frontier AI Robotics,https://www.amazon.jobs/en/jobs/3160310/software-development-engineer-robotics-frontier-ai-robotics,San Francisco, CA, USA,Posted January 15, 2026,2026-01-15 18:11:46
+3160505,Embedded Software Dev, Amazon Leo,https://www.amazon.jobs/en/jobs/3160505/embedded-software-dev-amazon-leo,Redmond, WA, USA
+Sunnyvale, CA, USA,Posted January 15, 2026,2026-01-15 21:37:54
