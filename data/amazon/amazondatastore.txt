@@ -46,3 +46,14 @@ Seattle, WA, USA,Posted January 14, 2026,2026-01-14 19:06:22
 3159643,Software Development Engineer, Sponsored Products,https://www.amazon.jobs/en/jobs/3159643/software-development-engineer-sponsored-products,Seattle, WA, USA,Posted January 14, 2026,2026-01-14 22:06:33
 3159659,Software Engineer II, Amazon Interactive Video Service,https://www.amazon.jobs/en/jobs/3159659/software-engineer-ii-amazon-interactive-video-service,Santa Clara, CA, USA,Posted January 14, 2026,2026-01-14 22:40:06
 3159745,Software Development Engineer, Money,https://www.amazon.jobs/en/jobs/3159745/software-development-engineer-money,San Francisco, CA, USA,Posted January 15, 2026,2026-01-15 01:34:35
+3160283,SDE - Firmware, AWS Hardware Engineering, Firmware Development,https://www.amazon.jobs/en/jobs/3160283/sde-firmware-aws-hardware-engineering-firmware-development,Cupertino, CA, USA,Posted January 15, 2026,2026-01-15 17:44:48
+3160261,Senior Software Development Engineer - BIOS, AWS Hardware Engineering, Firmware Development,https://www.amazon.jobs/en/jobs/3160261/senior-software-development-engineer-bios-aws-hardware-engineering-firmware-development,Austin, TX, USA
+Cupertino, CA, USA
+Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
+3160263,Senior Software Development Engineer - BIOS, AWS Hardware Engineering, Firmware Development,https://www.amazon.jobs/en/jobs/3160263/senior-software-development-engineer-bios-aws-hardware-engineering-firmware-development,Austin, TX, USA
+Cupertino, CA, USA
+Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
+3160286,Software Dev Engineer II, AWS Builder Acceleration,https://www.amazon.jobs/en/jobs/3160286/software-dev-engineer-ii-aws-builder-acceleration,Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
+3160296,Senior Software Development Engineer - BIOS, AWS Hardware Engineering, Firmware Development,https://www.amazon.jobs/en/jobs/3160296/senior-software-development-engineer-bios-aws-hardware-engineering-firmware-development,Austin, TX, USA
+Cupertino, CA, USA
+Seattle, WA, USA,Posted January 15, 2026,2026-01-15 17:44:48
