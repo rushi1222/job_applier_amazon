@@ -45,3 +45,4 @@ Seattle, WA, USA,Posted January 14, 2026,2026-01-14 19:06:22
 3159615,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3159615/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted January 14, 2026,2026-01-14 21:38:30
 3159643,Software Development Engineer, Sponsored Products,https://www.amazon.jobs/en/jobs/3159643/software-development-engineer-sponsored-products,Seattle, WA, USA,Posted January 14, 2026,2026-01-14 22:06:33
 3159659,Software Engineer II, Amazon Interactive Video Service,https://www.amazon.jobs/en/jobs/3159659/software-engineer-ii-amazon-interactive-video-service,Santa Clara, CA, USA,Posted January 14, 2026,2026-01-14 22:40:06
+3159745,Software Development Engineer, Money,https://www.amazon.jobs/en/jobs/3159745/software-development-engineer-money,San Francisco, CA, USA,Posted January 15, 2026,2026-01-15 01:34:35
