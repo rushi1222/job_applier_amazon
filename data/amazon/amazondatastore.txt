@@ -63,3 +63,5 @@ Sunnyvale, CA, USA,Posted January 15, 2026,2026-01-15 21:37:54
 3160829,Software Engineer, Release and Automation Annapurna Labs ML Acceleration Server Software,https://www.amazon.jobs/en/jobs/3160829/software-engineer-release-and-automation-annapurna-labs-ml-acceleration-server-software,Austin, TX, USA,Posted January 16, 2026,2026-01-16 14:07:42
 3161157,Sr. Software Development Engineer, AWS Hardware Engineering,https://www.amazon.jobs/en/jobs/3161157/sr-software-development-engineer-aws-hardware-engineering,Cupertino, CA, USA
 Seattle, WA, USA,Posted January 16, 2026,2026-01-16 20:07:02
+3161342,Machine Learning Engineer II, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3161342/machine-learning-engineer-ii-sponsored-products-and-brands,Palo Alto, CA, USA,Posted January 16, 2026,2026-01-16 22:06:03
+3161333,Software Development Engineer, AGI,https://www.amazon.jobs/en/jobs/3161333/software-development-engineer-agi,Bellevue, WA, USA,Posted January 16, 2026,2026-01-16 22:06:03
