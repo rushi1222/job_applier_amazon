@@ -78,3 +78,4 @@ Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3163521,Software Development Engineer III, Software Automation, Secure Tool Foundations,https://www.amazon.jobs/en/jobs/3163521/software-development-engineer-iii-software-automation-secure-tool-foundations,Herndon, VA, USA,Posted January 21, 2026,2026-01-21 17:49:36
 3163612,Software Development Engineer, Last Mile Delivery,https://www.amazon.jobs/en/jobs/3163612/software-development-engineer-last-mile-delivery,Bellevue, WA, USA,Posted January 21, 2026,2026-01-21 18:48:07
 3163715,Embedded SW Engineer, Wireless Systems,https://www.amazon.jobs/en/jobs/3163715/embedded-sw-engineer-wireless-systems,Austin, TX, USA,Posted January 21, 2026,2026-01-21 19:42:05
+3163911,Software Development Engineer, AWS Partnerships,https://www.amazon.jobs/en/jobs/3163911/software-development-engineer-aws-partnerships,Austin, TX, USA,Posted January 21, 2026,2026-01-21 22:07:55
