@@ -70,3 +70,4 @@ Seattle, WA, USA,Posted January 16, 2026,2026-01-16 20:07:02
 3162937,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3162937/software-development-engineer-sponsored-products-and-brands,Palo Alto, CA, USA
 Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3162944,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3162944/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
+3163394,Software Dev Engineer III - AMZ9898639,https://www.amazon.jobs/en/jobs/3163394/software-dev-engineer-iii-amz9898639,Seattle, WA, USA,Posted January 21, 2026,2026-01-21 15:10:57
