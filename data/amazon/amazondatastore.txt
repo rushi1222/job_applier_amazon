@@ -67,3 +67,6 @@ Seattle, WA, USA,Posted January 16, 2026,2026-01-16 20:07:02
 3161333,Software Development Engineer, AGI,https://www.amazon.jobs/en/jobs/3161333/software-development-engineer-agi,Bellevue, WA, USA,Posted January 16, 2026,2026-01-16 22:06:03
 3161390,Software Engineer, Safety ML,https://www.amazon.jobs/en/jobs/3161390/software-engineer-safety-ml,San Francisco, CA, USA,Posted January 16, 2026,2026-01-17 00:22:36
 3162788,Software Engineer- AI/ML, AWS Neuron Distributed Training,https://www.amazon.jobs/en/jobs/3162788/software-engineer-ai-ml-aws-neuron-distributed-training,Cupertino, CA, USA,Posted January 20, 2026,2026-01-20 21:06:52
+3162937,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3162937/software-development-engineer-sponsored-products-and-brands,Palo Alto, CA, USA
+Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
+3162944,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3162944/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
