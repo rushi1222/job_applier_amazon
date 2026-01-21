@@ -76,3 +76,4 @@ Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3163514,Software Development Engineer, ML Systems, Annapurna Labs,https://www.amazon.jobs/en/jobs/3163514/software-development-engineer-ml-systems-annapurna-labs,New York, NY, USA,Posted January 21, 2026,2026-01-21 17:25:52
 3163502,Software Engineer, ML Infra,https://www.amazon.jobs/en/jobs/3163502/software-engineer-ml-infra,San Francisco, CA, USA,Posted January 21, 2026,2026-01-21 17:25:52
 3163521,Software Development Engineer III, Software Automation, Secure Tool Foundations,https://www.amazon.jobs/en/jobs/3163521/software-development-engineer-iii-software-automation-secure-tool-foundations,Herndon, VA, USA,Posted January 21, 2026,2026-01-21 17:49:36
+3163612,Software Development Engineer, Last Mile Delivery,https://www.amazon.jobs/en/jobs/3163612/software-development-engineer-last-mile-delivery,Bellevue, WA, USA,Posted January 21, 2026,2026-01-21 18:48:07
