@@ -72,3 +72,6 @@ Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3162944,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3162944/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3163394,Software Dev Engineer III - AMZ9898639,https://www.amazon.jobs/en/jobs/3163394/software-dev-engineer-iii-amz9898639,Seattle, WA, USA,Posted January 21, 2026,2026-01-21 15:10:57
 3160241,Software Dev Engineer III - AMZ9674087,https://www.amazon.jobs/en/jobs/3160241/software-dev-engineer-iii-amz9674087,Denver, CO, USA,Posted January 15, 2026,2026-01-21 15:44:51
+3163516,Software Development Engineer III, Annapurna Labs,https://www.amazon.jobs/en/jobs/3163516/software-development-engineer-iii-annapurna-labs,New York, NY, USA,Posted January 21, 2026,2026-01-21 17:25:52
+3163514,Software Development Engineer, ML Systems, Annapurna Labs,https://www.amazon.jobs/en/jobs/3163514/software-development-engineer-ml-systems-annapurna-labs,New York, NY, USA,Posted January 21, 2026,2026-01-21 17:25:52
+3163502,Software Engineer, ML Infra,https://www.amazon.jobs/en/jobs/3163502/software-engineer-ml-infra,San Francisco, CA, USA,Posted January 21, 2026,2026-01-21 17:25:52
