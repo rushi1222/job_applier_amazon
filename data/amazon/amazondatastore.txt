@@ -87,3 +87,4 @@ Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3163999,Software Development Engineer, Leo Commerce,https://www.amazon.jobs/en/jobs/3163999/software-development-engineer-leo-commerce,Redmond, WA, USA,Posted January 22, 2026,2026-01-22 17:43:22
 3165004,Software Development Engineer II, AWS Partnerships Engineering,https://www.amazon.jobs/en/jobs/3165004/software-development-engineer-ii-aws-partnerships-engineering,Seattle, WA, USA,Posted January 22, 2026,2026-01-22 20:42:32
 3165001,Software Development Engineer, AWS WWCO Partner Systems,https://www.amazon.jobs/en/jobs/3165001/software-development-engineer-aws-wwco-partner-systems,Seattle, WA, USA,Posted January 22, 2026,2026-01-22 20:42:32
+3165108,Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3165108/embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted January 22, 2026,2026-01-22 22:40:34
