@@ -2,6 +2,7 @@
 job_search:
   positions:
     - "software developer"
+    - "frontend engineer"
   locations:
     - "USA"
 
