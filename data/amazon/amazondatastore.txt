@@ -82,3 +82,4 @@ Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3164006,Software Development Engineer, Customer Experience and Business Trends,https://www.amazon.jobs/en/jobs/3164006/software-development-engineer-customer-experience-and-business-trends,Seattle, WA, USA,Posted January 22, 2026,2026-01-22 00:50:09
 3164027,SDE II, Delivery Experience,https://www.amazon.jobs/en/jobs/3164027/sde-ii-delivery-experience,Bellevue, WA, USA,Posted January 22, 2026,2026-01-22 01:35:07
 3164095,Software Dev Engineer II - AMZ9673815,https://www.amazon.jobs/en/jobs/3164095/software-dev-engineer-ii-amz9673815,New York, NY, USA,Posted January 22, 2026,2026-01-22 03:36:43
+3164549,Software Development Engineer, Amazon Leo GBO Engineering,https://www.amazon.jobs/en/jobs/3164549/software-development-engineer-amazon-leo-gbo-engineering,Bellevue, WA, USA,Posted January 22, 2026,2026-01-22 14:44:20
