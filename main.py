@@ -55,7 +55,7 @@ if __name__ == '__main__':
     
     # Initialize browser once for all companies
     download_dir = os.path.join(base_dir, "data", "downloads")
-    browser = init_browser(headless=True, download_dir=download_dir)
+    browser = init_browser(headless=False, download_dir=download_dir)
     
     # Store all new jobs by company
     all_new_jobs = {}
