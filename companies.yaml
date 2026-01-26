@@ -11,13 +11,13 @@ companies:
       url: "https://www.amazon.jobs/en/search"
       
   # Add more companies here as you implement them
-  # - name: google
-  #   enabled: true
-  #   requires_login: false
-  #   search_module: companies_search.google
-  #   login_module: null
-  #   config:
-  #     url: "https://www.google.com/about/careers/applications/jobs/results"
+  - name: google
+    enabled: true
+    requires_login: false
+    search_module: companies_search.google
+    login_module: null
+    config:
+      url: "https://www.google.com/about/careers/applications/jobs/results"
   
   # - name: airbnb
   #   enabled: false

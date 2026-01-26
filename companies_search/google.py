@@ -1,28 +1,41 @@
 """
 GOOGLE JOB SCRAPER FLOW:
+
 1. Initialize scraper with Google settings (__init__)
-   INPUT: parameters from config.yml, browser driver from main.py
-   OUTPUT: None (initialization only)
-   
+   - Sets up driver, positions, locations from config.yml
+   - Initializes blacklists and contact info
+   - Prepares scraper to search for jobs
+
 2. Search jobs for all position/location combinations (search_jobs)
-   INPUT: Called by main.py, uses self.positions & self.locations from config
-   OUTPUT: List of new job dictionaries (sent to main.py for email)
-   
-3. Build Google search URLs with direct parameters (_build_google_search_url)
-   INPUT: position & location strings from search_jobs loop
-   OUTPUT: Direct navigation to Google search results page
-   
-4. Extract jobs from page HTML (_extract_jobs_from_page)
-   INPUT: Current browser page HTML after URL navigation
-   OUTPUT: List of job dictionaries with job_id, title, url, location, posted_date
-   
-5. Get job IDs from URLs (_extract_job_id_from_url)
-   INPUT: job URLs extracted from HTML in step 4
-   OUTPUT: Job ID string or None if extraction fails
-   
-6. Filter duplicates and save new jobs (_filter_new_jobs, _save_jobs_to_datastore)
-   INPUT: all_scraped_jobs list and existing googledatastore.txt file
-   OUTPUT: _filter_new_jobs returns new jobs list, _save_jobs_to_datastore saves to file
+   - Loops through all position/location combinations
+   - Calls _extract_jobs_from_page() for each search
+   - Filters duplicates and saves new jobs to datastore
+   - Returns list of new jobs found
+
+3. Build Google search URLs (_build_google_search_url)
+   - Creates direct Google jobs search URL with position & location parameters
+   - Navigates to the Google jobs page
+   - Waits 3 seconds for page to load
+
+4. Extract jobs from page HTML (_extract_jobs_from_page) - MAIN PARSING LOGIC
+   - Counts ul elements on page (51 found)
+   - Pauses for debugging when ul is found
+   - Finds li elements within ul containers
+   - Extracts job data from each li element:
+     * Job title from h3.QJPWVe
+     * Job URL from a.WpHeLc link
+     * Job location from span.r0wTof
+   - Limits processing to 20 job-like elements to prevent timeout
+   - Returns list of job dictionaries
+
+5. Extract job IDs from URLs (_extract_job_id_from_url)
+   - Parses Google job URLs to extract numeric job IDs
+   - Uses regex to match job ID patterns
+   - Returns job ID or "N/A" if extraction fails
+
+6. Filter and save jobs
+   - _filter_new_jobs: Removes duplicates using existing datastore
+   - _save_jobs_to_datastore: Persists new jobs to googledatastore.txt
 """
 
 import time
@@ -99,7 +112,7 @@ class GoogleJobApplier(BaseScraper):
         
         print(f"Direct Google search URL: {search_url}")
         self.browser.get(search_url)
-        time.sleep(3)  # Wait for page to load
+        time.sleep(5)  # Wait for page to load (increased from 3 to 5 seconds)
         
         return search_url
     
@@ -137,7 +150,7 @@ class GoogleJobApplier(BaseScraper):
         except Exception as e:
             print(f"Error submitting Google search: {e}")
             print("🛑 Pausing for debugging - check submit button")
-            space_continue(self.browser, "Google search submission failed - check buttons")
+            # space_continue(self.browser, "Google search submission failed - check buttons")
     
     # 4. HTML PARSER: Extract job data from Google's page HTML
     def _extract_jobs_from_page(self):
@@ -145,169 +158,89 @@ class GoogleJobApplier(BaseScraper):
         jobs = []
         
         try:
-            # Find h2 with "Jobs search results" text, then navigate to ul child with li elements
-            h2_elements = self.browser.find_elements(By.TAG_NAME, 'h2')
-            jobs_section = None
+            # Wait for page to load and trigger lazy loading
+            print("Waiting for page to load...")
+            time.sleep(5)
+            self.browser.execute_script("window.scrollTo(0, 500);")
+            time.sleep(2)
+            self.browser.execute_script("window.scrollTo(0, 0);")
+            time.sleep(2)
             
-            # Look for h2 containing "Jobs search results" or similar text
-            for h2 in h2_elements:
-                if 'job' in h2.text.lower() and ('result' in h2.text.lower() or 'search' in h2.text.lower()):
-                    jobs_section = h2
-                    print(f"Found jobs section: {h2.text}")
-                    break
+            # Find all <a> tags with href containing "jobs/results/"
+            print("\n🔍 Searching for job links...")
+            all_links = self.browser.find_elements(By.TAG_NAME, 'a')
+            job_links = []
             
-            if not jobs_section:
-                print("No jobs section found, looking for ul with li children directly")
-                # Fallback: look for ul elements with multiple li children
-                ul_elements = self.browser.find_elements(By.TAG_NAME, 'ul')
-                print(f"Total ul elements found on page: {len(ul_elements)}")
-                
-                for i, ul in enumerate(ul_elements):
-                    li_elements = ul.find_elements(By.TAG_NAME, 'li')
-                    if len(li_elements) > 3:  # Likely a job list if it has multiple items
-                        print(f"ul[{i}] has {len(li_elements)} li elements - potential job container")
-                        jobs_section = ul
-                        
-                # Use the ul with the most li elements (most likely job container)
-                max_li_count = 0
-                best_ul = None
-                for ul in ul_elements:
-                    li_count = len(ul.find_elements(By.TAG_NAME, 'li'))
-                    if li_count > max_li_count:
-                        max_li_count = li_count
-                        best_ul = ul
-                        
-                if best_ul:
-                    jobs_section = best_ul
-                    print(f"Selected ul with {max_li_count} li elements as main job container")
+            for link in all_links:
+                try:
+                    href = link.get_attribute('href')
+                    if href and 'jobs/results/' in href:
+                        job_links.append({
+                            'element': link,
+                            'href': href,
+                            'text': link.text.strip()
+                        })
+                except:
+                    pass
             
-            if jobs_section:
-                # Find ul child under the jobs section
-                if jobs_section.tag_name == 'h2':
-                    # Navigate from h2 to find ul (could be sibling or in parent container)
-                    parent = jobs_section.find_element(By.XPATH, './..')
-                    ul_elements = parent.find_elements(By.TAG_NAME, 'ul')
-                    if ul_elements:
-                        ul_container = ul_elements[0]
-                    else:
-                        print("No ul found near h2, searching page-wide")
-                        ul_container = self.browser
-                else:
-                    ul_container = jobs_section
-                
-                # Find all li elements in the ul container
-                if ul_container.tag_name == 'ul':
-                    li_elements = ul_container.find_elements(By.TAG_NAME, 'li')
-                else:
-                    li_elements = ul_container.find_elements(By.TAG_NAME, 'li')
-                
-                print(f"Found {len(li_elements)} job listing elements")
-                
-                # Add debugging: check if all li elements have job-like content
-                job_like_lis = 0
-                for li in li_elements:
-                    try:
-                        # Check if li has job-related div structure
-                        main_divs = li.find_elements(By.XPATH, "./div[@jscontroller]")
-                        if main_divs:
-                            job_like_lis += 1
-                    except:
-                        pass
-                        
-                print(f"Of {len(li_elements)} li elements, {job_like_lis} appear to have job-like structure")
-                
-                # Only process job-like li elements to avoid browser timeout
-                job_like_elements = []
-                for li in li_elements:
-                    try:
-                        # Check if li has job-related div structure
-                        main_divs = li.find_elements(By.XPATH, "./div[@jscontroller]")
-                        if main_divs:
-                            job_like_elements.append(li)
-                            if len(job_like_elements) >= 20:  # Limit to first 20 job-like elements
-                                break
-                    except:
-                        pass
-                
-                print(f"Processing {len(job_like_elements)} job-like li elements (limited to prevent timeout)")
+            print(f"Found {len(job_links)} <a> tags with 'jobs/results/' in href:")
+            for i, job_link in enumerate(job_links[:20]):  # Show first 20
+                print(f"  Link[{i}]: href='{job_link['href']}' | text='{job_link['text'][:100]}'")
+            
+            # space_continue(self.browser, f"📋 Found {len(job_links)} job links - check the page structure")
+            
+            # Extract job data from URLs
+            if job_links:
+                print(f"\n✓ Processing {len(job_links)} job links...")
                 
                 extracted_jobs_count = 0
-                for i, li in enumerate(job_like_elements):
+                for i, job_link_data in enumerate(job_links[:20]):  # Limit to first 20
                     try:
-                        print(f"Processing job-like element {i+1}/{len(job_like_elements)}")
+                        job_url = job_link_data['href']
                         
-                        # Navigate hierarchy: li -> div[jscontroller] -> nested structure
-                        main_div = li.find_element(By.XPATH, "./div[@jscontroller]")
-                        
-                        # Extract job title from deeply nested h3 (li > div > ... > h3.QJPWVe)
-                        try:
-                            title_element = main_div.find_element(By.CSS_SELECTOR, "h3.QJPWVe")
-                            title = title_element.text.strip() if title_element else "N/A"
-                        except:
-                            title = "N/A"
-                            print("No title found using CSS selector h3.QJPWVe, using default")
-                            
-                        if title == "N/A":
-                            print(f"Skipped li element {i+1} - no title found")
-                            continue  # Skip if no title found
-                        
-                        # Extract job URL from a.WpHeLc link (nested deep in structure)
-                        job_url = "N/A"
-                        try:
-                            link_element = main_div.find_element(By.CSS_SELECTOR, "a.WpHeLc")
-                            relative_url = link_element.get_attribute('href')
-                            
-                            if relative_url:
-                                # Convert to full URL if relative
-                                if relative_url.startswith('jobs/results'):
-                                    job_url = f"https://www.google.com/about/careers/applications/{relative_url}"
-                                elif relative_url.startswith('/'):
-                                    job_url = f"https://www.google.com/about/careers/applications{relative_url}"
-                                else:
-                                    job_url = relative_url
-                        except:
-                            print(f"No valid job URL found for: {title}, using default")
-                            
-                        # Extract job ID from URL
+                        # Extract job ID from URL using existing function
                         job_id = self._extract_job_id_from_url(job_url)
                         
-                        if not job_id or job_id == "N/A":
-                            print(f"Could not extract job ID from URL: {job_url}, using default")
-                            job_id = "N/A"
+                        # Extract job title from URL slug
+                        # URL format: jobs/results/123456-job-title-here
+                        title = "Unknown"
+                        if 'jobs/results/' in job_url:
+                            # Get the part after job ID
+                            import re
+                            match = re.search(r'jobs/results/\d+-(.*?)(?:\?|$)', job_url)
+                            if match:
+                                # Convert URL slug to readable title
+                                title_slug = match.group(1)
+                                title = title_slug.replace('-', ' ').title()
                         
-                        # Extract location from span.r0wTof (li > div > ... > span.r0wTof)
-                        location = "N/A"
-                        try:
-                            # Look for location spans in the structure
-                            location_spans = main_div.find_elements(By.CSS_SELECTOR, "span.r0wTof")
-                            if location_spans:
-                                # Take first location span and clean it up
-                                location_text = location_spans[0].text.strip()
-                                if location_text:
-                                    location = location_text
-                        except:
-                            print(f"No location found for job: {title}, using default")
+                        if job_id == "N/A" or not title or title == "Unknown":
+                            print(f"  ⚠️  Skipped link {i+1} - invalid data (ID={job_id}, title={title})")
+                            continue
                         
                         # Create job dictionary
                         job = {
-                            'job_id': job_id,  # Keep N/A for debugging when extraction fails
+                            'job_id': job_id,
                             'title': title,
                             'url': job_url,
-                            'location': location,
-                            'posted_date': "N/A"  # Google doesn't clearly show posted date, use default
+                            'location': "N/A",  # Location not available in URL
+                            'posted_date': None  # Date not available
                         }
                         
                         jobs.append(job)
                         extracted_jobs_count += 1
-                        print(f"✓ Extracted job {extracted_jobs_count}: {title[:50]}... | {location}")
+                        print(f"  ✓ [{extracted_jobs_count}] {title} | ID: {job_id}")
                         
                     except Exception as e:
-                        print(f"Error extracting individual job {i+1}: {e}")
+                        print(f"  ❌ Error extracting job {i+1}: {e}")
                         continue
                         
-                print(f"\nSummary: Extracted {extracted_jobs_count} jobs out of {len(job_like_elements)} job-like li elements")
+                print(f"\n✅ Extracted {extracted_jobs_count} jobs from {len(job_links)} job links")
+                
+                # Save to data/google/googledatastore.txt
+                if jobs:
+                    self._save_to_google_txt(jobs)
             else:
-                print("No jobs section or ul container found")
+                print("\n❌ No job links found on page")
                 
         except Exception as e:
             print(f"Error extracting jobs from Google page: {e}")
@@ -344,6 +277,44 @@ class GoogleJobApplier(BaseScraper):
             print(f"Error extracting job ID from URL {url}: {e}")
             return "N/A"  # Default for errors
 
+    def _save_to_google_txt(self, jobs):
+        """Save jobs to data/google/googledatastore.txt file in CSV format like Amazon."""
+        try:
+            # Create directory if it doesn't exist
+            google_dir = os.path.join('data', 'google')
+            os.makedirs(google_dir, exist_ok=True)
+            
+            google_txt_path = os.path.join(google_dir, 'googledatastore.txt')
+            
+            # Read existing job IDs to avoid duplicates
+            existing_job_ids = set()
+            if os.path.exists(google_txt_path):
+                with open(google_txt_path, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        if line.strip():
+                            job_id = line.split(',')[0]
+                            existing_job_ids.add(job_id)
+            
+            # Filter out jobs that already exist
+            new_jobs = [job for job in jobs if job['job_id'] not in existing_job_ids]
+            
+            if not new_jobs:
+                print(f"\n💾 No new jobs to save - all {len(jobs)} jobs already exist in googledatastore.txt")
+                return
+            
+            # Append only new jobs to file in CSV format
+            with open(google_txt_path, 'a', encoding='utf-8') as f:
+                for job in new_jobs:
+                    # Format: job_id,title,url,null,null (no location or date available)
+                    line = f"{job['job_id']},{job['title']},{job['url']},null,null\n"
+                    f.write(line)
+            
+            print(f"\n💾 Saved {len(new_jobs)} new jobs to {google_txt_path} (skipped {len(jobs) - len(new_jobs)} duplicates)")
+            
+        except Exception as e:
+            print(f"❌ Error saving to googledatastore.txt: {e}")
+            traceback.print_exc()
+    
     def no_more_jobs(self):
         # Placeholder function to determine if there are more jobs to apply for
         return False
