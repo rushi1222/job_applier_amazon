@@ -89,3 +89,20 @@ Seattle, WA, USA,Posted January 21, 2026,2026-01-21 01:35:43
 3165001,Software Development Engineer, AWS WWCO Partner Systems,https://www.amazon.jobs/en/jobs/3165001/software-development-engineer-aws-wwco-partner-systems,Seattle, WA, USA,Posted January 22, 2026,2026-01-22 20:42:32
 3165108,Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3165108/embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted January 22, 2026,2026-01-22 22:40:34
 3165140,Software Development Engineer - 2026 (US),https://www.amazon.jobs/en/jobs/3165140/software-development-engineer-2026-us,Seattle, WA, USA,Posted January 22, 2026,2026-01-22 23:37:40
+3166054,Software Engineer II, Android,https://www.amazon.jobs/en/jobs/3166054/software-engineer-ii-android,Irvine, CA, USA
+San Francisco, CA, USA
+Seattle, WA, USA,Posted January 24, 2026,2026-01-26 03:41:06
+3165799,Lead Software Development Engineer, Consumer Domains,https://www.amazon.jobs/en/jobs/3165799/lead-software-development-engineer-consumer-domains,Newark, NJ, USA,Posted January 23, 2026,2026-01-26 03:41:06
+3165744,Senior Software Development Engineer, Ads-Full-Funnel Agentic Intell,https://www.amazon.jobs/en/jobs/3165744/senior-software-development-engineer-ads-full-funnel-agentic-intell,Seattle, WA, USA,Posted January 23, 2026,2026-01-26 03:41:06
+3165783,Senior Software Development Engineer, Prime Air,https://www.amazon.jobs/en/jobs/3165783/senior-software-development-engineer-prime-air,Seattle, WA, USA,Posted January 23, 2026,2026-01-26 03:41:06
+3165911,Software Development Engineer,https://www.amazon.jobs/en/jobs/3165911/software-development-engineer,Austin, TX, USA,Posted January 23, 2026,2026-01-26 03:41:06
+3164011,Front End Engineer, Customer Experience and Business Trends,https://www.amazon.jobs/en/jobs/3164011/front-end-engineer-customer-experience-and-business-trends,Seattle, WA, USA,Posted January 22, 2026,2026-01-26 03:41:06
+3146001,Frontend Engineer, Bedrock AgentCore,https://www.amazon.jobs/en/jobs/3146001/frontend-engineer-bedrock-agentcore,Seattle, WA, USA,Posted December 18, 2025,2026-01-26 03:41:06
+3138826,Web Development Engineer I, Content Development,https://www.amazon.jobs/en/jobs/3138826/web-development-engineer-i-content-development,Madison, WI, USA,Posted December 8, 2025,2026-01-26 03:41:06
+3125426,Sr. Front End Engineer, Device Design Team,https://www.amazon.jobs/en/jobs/3125426/sr-front-end-engineer-device-design-team,San Francisco, CA, USA
+Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
+3128535,Front End Engineer, Applied AI Solutions,https://www.amazon.jobs/en/jobs/3128535/front-end-engineer-applied-ai-solutions,Seattle, WA, USA,Posted November 18, 2025,2026-01-26 03:41:06
+3123916,Frontend Engineer II, Amazon Business Marketing Tech,https://www.amazon.jobs/en/jobs/3123916/frontend-engineer-ii-amazon-business-marketing-tech,Seattle, WA, USA,Posted November 10, 2025,2026-01-26 03:41:06
+3110464,Front-End Engineer III - AMZ9442178,https://www.amazon.jobs/en/jobs/3110464/front-end-engineer-iii-amz9442178,Seattle, WA, USA,Posted October 16, 2025,2026-01-26 03:41:06
+3120158,Frontend Engineer II, StoreCraft Team,https://www.amazon.jobs/en/jobs/3120158/frontend-engineer-ii-storecraft-team,Seattle, WA, USA,Posted November 3, 2025,2026-01-26 03:41:06
+3105439,Front-End Engineer II, Amazon Leo Capacity Planning,https://www.amazon.jobs/en/jobs/3105439/front-end-engineer-ii-amazon-leo-capacity-planning,Bellevue, WA, USA,Posted October 9, 2025,2026-01-26 03:41:06
