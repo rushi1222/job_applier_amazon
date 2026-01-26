@@ -107,3 +107,4 @@ Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
 3120158,Frontend Engineer II, StoreCraft Team,https://www.amazon.jobs/en/jobs/3120158/frontend-engineer-ii-storecraft-team,Seattle, WA, USA,Posted November 3, 2025,2026-01-26 03:41:06
 3105439,Front-End Engineer II, Amazon Leo Capacity Planning,https://www.amazon.jobs/en/jobs/3105439/front-end-engineer-ii-amazon-leo-capacity-planning,Bellevue, WA, USA,Posted October 9, 2025,2026-01-26 03:41:06
 3165937,Sr. Software Dev Engineer, AI Security,https://www.amazon.jobs/en/jobs/3165937/sr-software-dev-engineer-ai-security,Seattle, WA, USA,Posted January 23, 2026,2026-01-26 13:47:33
+3166486,Front End Engineer, FinAuto GREF Tech,https://www.amazon.jobs/en/jobs/3166486/front-end-engineer-finauto-gref-tech,Seattle, WA, USA,Posted January 26, 2026,2026-01-26 16:46:44
