@@ -119,3 +119,5 @@ Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
 3167815,Software Development Engineer II, Defensive Security - Security Findings Management,https://www.amazon.jobs/en/jobs/3167815/software-development-engineer-ii-defensive-security-security-findings-management,Austin, TX, USA,Posted January 27, 2026,2026-01-27 18:47:05
 3167880,Senior Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3167880/senior-embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted January 27, 2026,2026-01-27 19:11:48
 3167878,Senior Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3167878/senior-embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted January 27, 2026,2026-01-27 19:11:48
+3167895,Sr. Software Development Engineer, Leo Data Science Platform,https://www.amazon.jobs/en/jobs/3167895/sr-software-development-engineer-leo-data-science-platform,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 19:41:39
+3167899,Senior SDE, Amazon Leo,https://www.amazon.jobs/en/jobs/3167899/senior-sde-amazon-leo,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 19:41:39
