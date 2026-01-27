@@ -121,3 +121,4 @@ Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
 3167878,Senior Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3167878/senior-embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted January 27, 2026,2026-01-27 19:11:48
 3167895,Sr. Software Development Engineer, Leo Data Science Platform,https://www.amazon.jobs/en/jobs/3167895/sr-software-development-engineer-leo-data-science-platform,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 19:41:39
 3167899,Senior SDE, Amazon Leo,https://www.amazon.jobs/en/jobs/3167899/senior-sde-amazon-leo,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 19:41:39
+3168170,Sr. Software Dev Engineer, Leo AI Foundations,https://www.amazon.jobs/en/jobs/3168170/sr-software-dev-engineer-leo-ai-foundations,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 23:06:41
