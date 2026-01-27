@@ -113,3 +113,5 @@ Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
 3167057,Senior SDE, Firmware, Satellite Engineering and Mechanical Development,https://www.amazon.jobs/en/jobs/3167057/senior-sde-firmware-satellite-engineering-and-mechanical-development,Redmond, WA, USA,Posted January 26, 2026,2026-01-26 23:06:50
 3167049,Frontend Engineer II, Ground Control Console,https://www.amazon.jobs/en/jobs/3167049/frontend-engineer-ii-ground-control-console,Redmond, WA, USA,Posted January 26, 2026,2026-01-26 23:06:50
 3167049,Frontend Engineer II, Ground Control Console,https://www.amazon.jobs/en/jobs/3167049/frontend-engineer-ii-ground-control-console,Redmond, WA, USA,Posted January 26, 2026,2026-01-26 23:06:50
+3167125,Sr. Software Development Engineer, AWS Billing,https://www.amazon.jobs/en/jobs/3167125/sr-software-development-engineer-aws-billing,Seattle, WA, USA,Posted January 27, 2026,2026-01-27 01:35:27
+3167124,Software Development Engineer, Leo Commerce,https://www.amazon.jobs/en/jobs/3167124/software-development-engineer-leo-commerce,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 01:35:27
