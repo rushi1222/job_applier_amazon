@@ -164,3 +164,4 @@
 135889157963555526,Data Center Technician,https://www.google.com/about/careers/applications/jobs/results/135889157963555526-data-center-technician?q=software%20developer&location=USA&sort_by=date,null,null
 73353386161775302,Software Engineer System Test,https://www.google.com/about/careers/applications/jobs/results/73353386161775302-software-engineer-system-test?q=software%20developer&location=USA&sort_by=date,null,null
 120977993584517830,Artificial Intelligence Sales Specialist Iii Google Cloud,https://www.google.com/about/careers/applications/jobs/results/120977993584517830-artificial-intelligence-sales-specialist-iii-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
+81040346829464262,Field Sales Representative Iii Enterprise Greenfield,https://www.google.com/about/careers/applications/jobs/results/81040346829464262-field-sales-representative-iii-enterprise-greenfield?q=software%20developer&location=USA&sort_by=date,null,null
