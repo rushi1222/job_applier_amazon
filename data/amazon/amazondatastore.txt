@@ -126,3 +126,9 @@ Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
 3168251,Software Dev Engineer II, Platform Engineering , Amazon Aurora DSQL,https://www.amazon.jobs/en/jobs/3168251/software-dev-engineer-ii-platform-engineering-amazon-aurora-dsql,Seattle, WA, USA,Posted January 28, 2026,2026-01-28 00:50:13
 3168533,Software Development Engineer II, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3168533/software-development-engineer-ii-amazon-industrial-robotics,N.reading, MA, USA
 N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 14:12:51
+3168733,Senior Software Development Engineer, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3168733/senior-software-development-engineer-amazon-industrial-robotics,N.reading, MA, USA
+N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 20:09:15
+3168797,Firmware Engineer II, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3168797/firmware-engineer-ii-amazon-industrial-robotics,N.reading, MA, USA
+N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 20:09:15
+3168784,Senior Firmware Engineer, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3168784/senior-firmware-engineer-amazon-industrial-robotics,N.reading, MA, USA
+N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 20:09:15
