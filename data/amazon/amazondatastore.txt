@@ -124,3 +124,5 @@ Seattle, WA, USA,Posted November 12, 2025,2026-01-26 03:41:06
 3168170,Sr. Software Dev Engineer, Leo AI Foundations,https://www.amazon.jobs/en/jobs/3168170/sr-software-dev-engineer-leo-ai-foundations,Redmond, WA, USA,Posted January 27, 2026,2026-01-27 23:06:41
 3168236,Software Dev Engineer, Amazon Leo Mission Operations,https://www.amazon.jobs/en/jobs/3168236/software-dev-engineer-amazon-leo-mission-operations,Redmond, WA, USA,Posted January 28, 2026,2026-01-28 00:24:23
 3168251,Software Dev Engineer II, Platform Engineering , Amazon Aurora DSQL,https://www.amazon.jobs/en/jobs/3168251/software-dev-engineer-ii-platform-engineering-amazon-aurora-dsql,Seattle, WA, USA,Posted January 28, 2026,2026-01-28 00:50:13
+3168533,Software Development Engineer II, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3168533/software-development-engineer-ii-amazon-industrial-robotics,N.reading, MA, USA
+N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 14:12:51
