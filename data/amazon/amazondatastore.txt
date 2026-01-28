@@ -132,3 +132,5 @@ N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 20:09:15
 N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 20:09:15
 3168784,Senior Firmware Engineer, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3168784/senior-firmware-engineer-amazon-industrial-robotics,N.reading, MA, USA
 N.Reading, MA, USA,Posted January 28, 2026,2026-01-28 20:09:15
+3168929,ML Kernel Performance Engineer, AWS Neuron, Annapurna Labs,https://www.amazon.jobs/en/jobs/3168929/ml-kernel-performance-engineer-aws-neuron-annapurna-labs,Cupertino, CA, USA,Posted January 28, 2026,2026-01-28 20:45:35
+3168926,Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs,https://www.amazon.jobs/en/jobs/3168926/sr-machine-learning-compiler-engineer-iii-aws-neuron-annapurna-labs,Cupertino, CA, USA,Posted January 28, 2026,2026-01-28 20:45:35
