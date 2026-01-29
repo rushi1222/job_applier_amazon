@@ -139,3 +139,4 @@ Bellevue, WA, USA
 Boston, MA, USA
 +7 other locations,Posted January 28, 2026,2026-01-28 21:10:47
 2989980,Sr. Front-End Engineer, Amazon Autos,https://www.amazon.jobs/en/jobs/2989980/sr-front-end-engineer-amazon-autos,New York, NY, USA,Posted May 22, 2025,2026-01-29 05:22:11
+3169650,Software Development Engineer, Aurora DSQL,https://www.amazon.jobs/en/jobs/3169650/software-development-engineer-aurora-dsql,Seattle, WA, USA,Posted January 29, 2026,2026-01-29 17:46:18
