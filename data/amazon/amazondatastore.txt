@@ -155,3 +155,4 @@ Northridge, CA, USA
 3170473,Software Development Engineer, Open Data Analytics - Engines,https://www.amazon.jobs/en/jobs/3170473/software-development-engineer-open-data-analytics-engines,Arlington, VA, USA,Posted January 30, 2026,2026-01-30 15:13:11
 3170503,Front End Engineer I, Quick Commerce,https://www.amazon.jobs/en/jobs/3170503/front-end-engineer-i-quick-commerce,Bellevue, WA, USA,Posted January 30, 2026,2026-01-30 15:46:21
 3170560,Web Development Engineer II, Content Development,https://www.amazon.jobs/en/jobs/3170560/web-development-engineer-ii-content-development,Madison, WI, USA,Posted January 30, 2026,2026-01-30 16:12:47
+3170661,Software Dev Engineer, Supply Chain Security, AWS Hardware Supply Chain Security,https://www.amazon.jobs/en/jobs/3170661/software-dev-engineer-supply-chain-security-aws-hardware-supply-chain-security,Austin, TX, USA,Posted January 30, 2026,2026-01-30 17:45:21
