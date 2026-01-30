@@ -150,3 +150,6 @@ Boston, MA, USA
 El Segundo, CA, USA
 Northridge, CA, USA
 +1 other locations,Posted January 30, 2026,2026-01-30 02:59:59
+3170461,Software Development Engineer, Open Data Analytics - Engines,https://www.amazon.jobs/en/jobs/3170461/software-development-engineer-open-data-analytics-engines,Arlington, VA, USA,Posted January 30, 2026,2026-01-30 15:13:11
+3170463,Software Development Engineer, Open Data Analytics - Engines,https://www.amazon.jobs/en/jobs/3170463/software-development-engineer-open-data-analytics-engines,Arlington, VA, USA,Posted January 30, 2026,2026-01-30 15:13:11
+3170473,Software Development Engineer, Open Data Analytics - Engines,https://www.amazon.jobs/en/jobs/3170473/software-development-engineer-open-data-analytics-engines,Arlington, VA, USA,Posted January 30, 2026,2026-01-30 15:13:11
