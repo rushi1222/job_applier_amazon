@@ -146,3 +146,7 @@ Boston, MA, USA
 3170016,Software Development Engineer - Robotics, Frontier AI Robotics,https://www.amazon.jobs/en/jobs/3170016/software-development-engineer-robotics-frontier-ai-robotics,San Francisco, CA, USA,Posted January 29, 2026,2026-01-29 21:42:13
 3170102,SDE I, Creator Monetization,https://www.amazon.jobs/en/jobs/3170102/sde-i-creator-monetization,San Francisco, CA, USA,Posted January 29, 2026,2026-01-29 23:41:35
 3170105,Sr Software Dev Engineer, AI Platform (Level 6), Edge AI Platform,https://www.amazon.jobs/en/jobs/3170105/sr-software-dev-engineer-ai-platform-level-6-edge-ai-platform,Sunnyvale, CA, USA,Posted January 29, 2026,2026-01-29 23:41:35
+3170212,Software Development Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3170212/software-development-engineer-amazon-leo-for-government,Arlington, VA, USA
+El Segundo, CA, USA
+Northridge, CA, USA
++1 other locations,Posted January 30, 2026,2026-01-30 02:59:59
