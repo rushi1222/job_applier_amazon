@@ -158,3 +158,4 @@ Northridge, CA, USA
 3170661,Software Dev Engineer, Supply Chain Security, AWS Hardware Supply Chain Security,https://www.amazon.jobs/en/jobs/3170661/software-dev-engineer-supply-chain-security-aws-hardware-supply-chain-security,Austin, TX, USA,Posted January 30, 2026,2026-01-30 17:45:21
 3170701,Software Development Engineer, Leo Manufacturing Software Systems,https://www.amazon.jobs/en/jobs/3170701/software-development-engineer-leo-manufacturing-software-systems,Bellevue, WA, USA,Posted January 30, 2026,2026-01-30 18:13:52
 3170758,Software Engineer II, Server Control Firmware,https://www.amazon.jobs/en/jobs/3170758/software-engineer-ii-server-control-firmware,Austin, TX, USA,Posted January 30, 2026,2026-01-30 19:14:48
+3170917,Software Development Engineer II, Post Silicon Validation,https://www.amazon.jobs/en/jobs/3170917/software-development-engineer-ii-post-silicon-validation,Austin, TX, USA,Posted January 30, 2026,2026-01-30 20:08:45
