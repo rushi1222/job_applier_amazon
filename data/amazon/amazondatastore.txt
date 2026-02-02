@@ -164,3 +164,7 @@ Northridge, CA, USA
 3171554,Sr. SDE, Machine Learning, Prime Video Personalization and Discovery,https://www.amazon.jobs/en/jobs/3171554/sr-sde-machine-learning-prime-video-personalization-and-discovery,Seattle, WA, USA,Posted February 2, 2026,2026-02-02 13:30:21
 3171597,Software Dev Engineer, Supply Chain Security, AWS Hardware Supply Chain Security,https://www.amazon.jobs/en/jobs/3171597/software-dev-engineer-supply-chain-security-aws-hardware-supply-chain-security,Austin, TX, USA,Posted February 2, 2026,2026-02-02 14:19:40
 3171738,Software Engineer II,https://www.amazon.jobs/en/jobs/3171738/software-engineer-ii,Cupertino, CA, USA,Posted February 2, 2026,2026-02-02 17:17:34
+3172104,Sr Software Engineer, AdTech, Amazon Ads Exchange,https://www.amazon.jobs/en/jobs/3172104/sr-software-engineer-adtech-amazon-ads-exchange,Arlington, VA, USA
+Palo Alto, CA, USA
+San Francisco, CA, USA,Posted February 2, 2026,2026-02-02 23:09:43
+3172099,Senior Software Development Engineer, GenAI, Ads Agentic Intelligence,https://www.amazon.jobs/en/jobs/3172099/senior-software-development-engineer-genai-ads-agentic-intelligence,Seattle, WA, USA,Posted February 2, 2026,2026-02-02 23:09:43
