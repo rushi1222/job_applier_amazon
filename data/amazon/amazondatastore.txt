@@ -173,3 +173,4 @@ San Francisco, CA, USA,Posted February 2, 2026,2026-02-02 23:09:43
 3173088,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173088/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
 3173090,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173090/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
 3173095,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173095/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
+3173109,Senior Software Development Engineer, AWS Identity and Access Management,https://www.amazon.jobs/en/jobs/3173109/senior-software-development-engineer-aws-identity-and-access-management,Seattle, WA, USA,Posted February 3, 2026,2026-02-03 19:47:12
