@@ -168,3 +168,8 @@ Northridge, CA, USA
 Palo Alto, CA, USA
 San Francisco, CA, USA,Posted February 2, 2026,2026-02-02 23:09:43
 3172099,Senior Software Development Engineer, GenAI, Ads Agentic Intelligence,https://www.amazon.jobs/en/jobs/3172099/senior-software-development-engineer-genai-ads-agentic-intelligence,Seattle, WA, USA,Posted February 2, 2026,2026-02-02 23:09:43
+3173092,Senior Software Engineer, Server Control Firmware,https://www.amazon.jobs/en/jobs/3173092/senior-software-engineer-server-control-firmware,Austin, TX, USA,Posted February 3, 2026,2026-02-03 19:21:31
+3173087,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173087/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
+3173088,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173088/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
+3173090,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173090/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
+3173095,Software Development Engineer, STRADA,https://www.amazon.jobs/en/jobs/3173095/software-development-engineer-strada,Minneapolis, MN, USA,Posted February 3, 2026,2026-02-03 19:21:31
