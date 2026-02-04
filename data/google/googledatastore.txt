@@ -658,3 +658,4 @@
 104646788463370950,Technical Program Manager Ii,https://www.google.com/about/careers/applications/jobs/results/104646788463370950-technical-program-manager-ii?q=software%20developer&location=USA&sort_by=date,null,null
 82179367861396166,Software Engineer Iii Video Processing,https://www.google.com/about/careers/applications/jobs/results/82179367861396166-software-engineer-iii-video-processing?q=software%20developer&location=USA&sort_by=date,null,null
 81410809233580742,Senior Software Engineer Video Processing,https://www.google.com/about/careers/applications/jobs/results/81410809233580742-senior-software-engineer-video-processing?q=software%20developer&location=USA&sort_by=date,null,null
+142744899920241350,Staff Software Engineer Ios Graphics Android Xr,https://www.google.com/about/careers/applications/jobs/results/142744899920241350-staff-software-engineer-ios-graphics-android-xr?q=software%20developer&location=USA&sort_by=date,null,null
