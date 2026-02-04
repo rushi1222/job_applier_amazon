@@ -180,3 +180,5 @@ San Francisco, CA, USA,Posted February 2, 2026,2026-02-02 23:09:43
 3173458,Senior Software Development Engineer, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3173458/senior-software-development-engineer-amazon-industrial-robotics,Seattle, WA, USA,Posted February 4, 2026,2026-02-04 03:01:05
 3173457,Senior Software Development Engineer, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3173457/senior-software-development-engineer-amazon-industrial-robotics,Seattle, WA, USA,Posted February 4, 2026,2026-02-04 03:01:05
 3173437,Sr Software Development Engineer , AXU,https://www.amazon.jobs/en/jobs/3173437/sr-software-development-engineer-axu,Arlington, VA, USA,Posted February 4, 2026,2026-02-04 03:01:05
+3173484,Sr. Software Dev Engineer, Kiro,https://www.amazon.jobs/en/jobs/3173484/sr-software-dev-engineer-kiro,San Francisco, CA, USA,Posted February 4, 2026,2026-02-04 04:35:46
+3173483,Software Dev Engineer, Kiro,https://www.amazon.jobs/en/jobs/3173483/software-dev-engineer-kiro,San Francisco, CA, USA,Posted February 4, 2026,2026-02-04 04:35:46
