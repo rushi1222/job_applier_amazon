@@ -633,3 +633,4 @@
 88724623142593222,Software Engineer F1 Query,https://www.google.com/about/careers/applications/jobs/results/88724623142593222-software-engineer-f1-query?q=software%20developer&location=USA&sort_by=date,null,null
 119897976813298374,Engineer Manager Ii Kubernetes Storage Google Distributed Cloud,https://www.google.com/about/careers/applications/jobs/results/119897976813298374-engineer-manager-ii-kubernetes-storage-google-distributed-cloud?q=software%20developer&location=USA&sort_by=date,null,null
 130945869649191622,Senior Staff Hardware Engineer Networking Platforms,https://www.google.com/about/careers/applications/jobs/results/130945869649191622-senior-staff-hardware-engineer-networking-platforms?q=software%20developer&location=USA&sort_by=date,null,null
+79831773097140934,Supplier Quality Engineer,https://www.google.com/about/careers/applications/jobs/results/79831773097140934-supplier-quality-engineer?q=software%20developer&location=USA&sort_by=date,null,null
