@@ -187,3 +187,4 @@ San Francisco, CA, USA,Posted February 2, 2026,2026-02-02 23:09:43
 North Reading, MA, USA
 Sunnyvale, CA, USA,Posted February 4, 2026,2026-02-05 00:29:31
 3174930,Software Development Engineer, ML Systems, Annapurna Labs,https://www.amazon.jobs/en/jobs/3174930/software-development-engineer-ml-systems-annapurna-labs,New York, NY, USA,Posted February 5, 2026,2026-02-05 15:47:33
+3175027,Software Development Engineer, Music Metrics & Data Platform,https://www.amazon.jobs/en/jobs/3175027/software-development-engineer-music-metrics-data-platform,San Francisco, CA, USA,Posted February 5, 2026,2026-02-05 17:20:49
