@@ -183,3 +183,6 @@ San Francisco, CA, USA,Posted February 2, 2026,2026-02-02 23:09:43
 3173484,Sr. Software Dev Engineer, Kiro,https://www.amazon.jobs/en/jobs/3173484/sr-software-dev-engineer-kiro,San Francisco, CA, USA,Posted February 4, 2026,2026-02-04 04:35:46
 3173483,Software Dev Engineer, Kiro,https://www.amazon.jobs/en/jobs/3173483/software-dev-engineer-kiro,San Francisco, CA, USA,Posted February 4, 2026,2026-02-04 04:35:46
 3174060,Sr. Software Development Engineer, AWS Applied AI Solution,https://www.amazon.jobs/en/jobs/3174060/sr-software-development-engineer-aws-applied-ai-solution,Seattle, WA, USA,Posted February 4, 2026,2026-02-04 18:48:47
+3174373,Device Embedded Software SDE, Ring,https://www.amazon.jobs/en/jobs/3174373/device-embedded-software-sde-ring,Hawthorne, CA, USA
+North Reading, MA, USA
+Sunnyvale, CA, USA,Posted February 4, 2026,2026-02-05 00:29:31
