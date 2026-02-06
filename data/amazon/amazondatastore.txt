@@ -207,3 +207,4 @@ N.Reading, MA, USA,Posted February 6, 2026,2026-02-06 16:47:56
 Cupertino, CA, USA
 Seattle, WA, USA,Posted February 6, 2026,2026-02-06 17:47:04
 3176145,Software Development Engineer, Ring Neighbors,https://www.amazon.jobs/en/jobs/3176145/software-development-engineer-ring-neighbors,Hawthorne, CA, USA,Posted February 6, 2026,2026-02-06 20:10:24
+3176178,Sr. Software Development Engineer, Center for Quantum Computing,https://www.amazon.jobs/en/jobs/3176178/sr-software-development-engineer-center-for-quantum-computing,Pasadena, CA, USA,Posted February 6, 2026,2026-02-06 20:45:48
