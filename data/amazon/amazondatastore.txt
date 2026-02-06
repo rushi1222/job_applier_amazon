@@ -199,3 +199,7 @@ Seattle, WA, USA,Posted February 6, 2026,2026-02-06 16:16:45
 3175846,Software Development Engineer, NextGen Security Automation,https://www.amazon.jobs/en/jobs/3175846/software-development-engineer-nextgen-security-automation,Arlington, VA, USA
 Austin, TX, USA
 Seattle, WA, USA,Posted February 6, 2026,2026-02-06 16:16:45
+3175887,Firmware Engineer II, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3175887/firmware-engineer-ii-amazon-industrial-robotics,N.reading, MA, USA
+N.Reading, MA, USA,Posted February 6, 2026,2026-02-06 16:47:56
+3175867,Senior Firmware Engineer, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3175867/senior-firmware-engineer-amazon-industrial-robotics,N.reading, MA, USA
+N.Reading, MA, USA,Posted February 6, 2026,2026-02-06 16:47:56
