@@ -193,3 +193,9 @@ Sunnyvale, CA, USA,Posted February 4, 2026,2026-02-05 00:29:31
 3175315,Front-End Engineer II, Leo Network Services - Network Orchestration,https://www.amazon.jobs/en/jobs/3175315/front-end-engineer-ii-leo-network-services-network-orchestration,Redmond, WA, USA,Posted February 5, 2026,2026-02-05 21:10:48
 3175315,Front-End Engineer II, Leo Network Services - Network Orchestration,https://www.amazon.jobs/en/jobs/3175315/front-end-engineer-ii-leo-network-services-network-orchestration,Redmond, WA, USA,Posted February 5, 2026,2026-02-05 21:10:48
 3175589,Sr. SDE - AI/ML, Ads Performance Measurement,https://www.amazon.jobs/en/jobs/3175589/sr-sde-ai-ml-ads-performance-measurement,New York, NY, USA,Posted February 6, 2026,2026-02-06 03:01:59
+3175859,Software Development Engineer, NextGen Security Automation,https://www.amazon.jobs/en/jobs/3175859/software-development-engineer-nextgen-security-automation,Arlington, VA, USA
+Austin, TX, USA
+Seattle, WA, USA,Posted February 6, 2026,2026-02-06 16:16:45
+3175846,Software Development Engineer, NextGen Security Automation,https://www.amazon.jobs/en/jobs/3175846/software-development-engineer-nextgen-security-automation,Arlington, VA, USA
+Austin, TX, USA
+Seattle, WA, USA,Posted February 6, 2026,2026-02-06 16:16:45
