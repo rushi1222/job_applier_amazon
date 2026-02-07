@@ -39,15 +39,46 @@ jobs:
         which google-chrome
         
     - name: Run job scraper
+      timeout-minutes: 10
       env:
         GMAIL_SENDER_EMAIL: ${{ secrets.GMAIL_SENDER_EMAIL }}
         GMAIL_SENDER_PASSWORD: ${{ secrets.GMAIL_SENDER_PASSWORD }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         CI: true
       run: |
-        python main.py
+        # Retry logic for transient failures
+        MAX_RETRIES=2
+        RETRY_COUNT=0
+        
+        while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+          echo "Attempt $((RETRY_COUNT + 1)) of $MAX_RETRIES"
+          
+          if python main.py; then
+            echo "✅ Job scraper completed successfully"
+            exit 0
+          else
+            RETRY_COUNT=$((RETRY_COUNT + 1))
+            if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+              echo "⚠️ Attempt failed, retrying in 30 seconds..."
+              # Kill any hanging Chrome processes
+              pkill -9 chrome || true
+              pkill -9 chromedriver || true
+              sleep 30
+            fi
+          fi
+        done
+        
+        echo "❌ All retry attempts failed"
+        exit 1
+    
+    - name: Cleanup Chrome processes
+      if: always()
+      run: |
+        pkill -9 chrome || true
+        pkill -9 chromedriver || true
         
     - name: Commit datastore updates
+      if: success() || failure()  # Run even if scraper fails to save partial results
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -56,5 +87,5 @@ jobs:
           echo "No new jobs found, nothing to commit"
         else
           git commit -m "Update job datastores - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git push || echo "Failed to push changes"
         fi

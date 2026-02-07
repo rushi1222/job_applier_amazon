@@ -55,7 +55,9 @@ if __name__ == '__main__':
     
     # Initialize browser once for all companies
     download_dir = os.path.join(base_dir, "data", "downloads")
-    browser = init_browser(headless=False, download_dir=download_dir)
+    # Force headless in CI environments (GitHub Actions, etc.)
+    is_ci = os.getenv('CI') == 'true' or os.getenv('GITHUB_ACTIONS') == 'true'
+    browser = init_browser(headless=is_ci, download_dir=download_dir)
     
     # Store all new jobs by company
     all_new_jobs = {}
@@ -132,6 +134,15 @@ if __name__ == '__main__':
                     all_new_jobs[company_name] = new_jobs
                     print(f"✅ {company_name.upper()}: Found {len(new_jobs)} new jobs")
                 else:
+                    # Check if Google specifically had blocking issues
+                    if company_name.lower() == 'google' and hasattr(scraper, 'all_scraped_jobs') and len(scraper.all_scraped_jobs) == 0:
+                        ci_environment = os.getenv('GITHUB_ACTIONS') == 'true' or os.getenv('CI') == 'true'
+                        if ci_environment:
+                            print(f"⚠️  {company_name.upper()}: Possible bot detection blocking in CI")
+                            # Send notification about blocking
+                            blocking_msg = f"Google jobs scraper may be blocked by bot detection in GitHub Actions. No jobs were scraped."
+                            send_failure_notification(company_name, blocking_msg, parameters['email_config'])
+                    
                     print(f"ℹ️  {company_name.upper()}: No new jobs found")
                 
             except Exception as e:
@@ -160,6 +171,9 @@ if __name__ == '__main__':
     
     finally:
         print("\n🧹 Cleaning up...")
-        browser.quit()
-        print("✅ Browser closed successfully.")
+        try:
+            browser.quit()
+            print("✅ Browser closed successfully.")
+        except Exception as e:
+            print(f"⚠️  Error closing browser: {e}")
         print("="*70)

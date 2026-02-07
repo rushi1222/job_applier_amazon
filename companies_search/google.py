@@ -76,24 +76,57 @@ class GoogleJobApplier(BaseScraper):
         searches = list(product(self.positions, self.locations))
         print(f"Generated {len(searches)} search combinations")
         
+        # Check if we're in CI environment
+        ci_environment = os.environ.get('GITHUB_ACTIONS') == 'true' or os.environ.get('CI') == 'true'
+        if ci_environment:
+            print("🤖 Running in CI environment - using enhanced anti-detection")
+        
         # Iterate through each combination of position and location
         for position, location in searches:
             print(f"\nSearching for position: '{position}' in location: '{location}'")
             
-            # Build direct URL and navigate to Google search results
-            search_url = self._build_google_search_url(position, location)
-            print(f"Navigated to: {search_url}")
+            # Try multiple approaches if blocked
+            success = False
+            approaches = ['direct_url']  # Can add more approaches later
             
-            # Extract jobs from results page
-            page_jobs = self._extract_jobs_from_page()
-            self.all_scraped_jobs.extend(page_jobs)
+            for approach in approaches:
+                try:
+                    if approach == 'direct_url':
+                        # Build direct URL and navigate to Google search results
+                        search_url = self._build_google_search_url(position, location)
+                        print(f"Navigated to: {search_url}")
+                        
+                        # Extract jobs from results page
+                        page_jobs = self._extract_jobs_from_page()
+                        
+                        # Check if we got results or if we were blocked
+                        if len(page_jobs) > 0:
+                            self.all_scraped_jobs.extend(page_jobs)
+                            success = True
+                            break
+                        elif ci_environment:
+                            print("⚠️  No jobs found - possible blocking in CI environment")
+                        else:
+                            print("ℹ️  No new jobs for this search combination")
+                            success = True  # Not blocked, just no results
+                            break
+                            
+                except Exception as e:
+                    print(f"❌ Approach '{approach}' failed: {e}")
+                    continue
+            
+            if not success and ci_environment:
+                print("🚫 All approaches failed - Google may be blocking CI access")
         
         # After all searches, check for duplicates and save
         new_jobs = self._filter_new_jobs()
         if new_jobs:
             self._save_jobs_to_datastore(new_jobs)
         else:
-            print(f"\n{self.company_name.upper()}: No new jobs found. All jobs already in datastore.")
+            if len(self.all_scraped_jobs) == 0 and ci_environment:
+                print(f"\n⚠️  {self.company_name.upper()}: No jobs scraped - likely blocked by anti-bot protection")
+            else:
+                print(f"\n{self.company_name.upper()}: No new jobs found. All jobs already in datastore.")
         
         return new_jobs  # Return new jobs instead of sending email
     
@@ -110,9 +143,26 @@ class GoogleJobApplier(BaseScraper):
         # Build direct search URL with parameters
         search_url = f"{base_url}?q={position_encoded}&location={location_encoded}&sort_by=date"
         
+        # Add anti-detection measures for CI environments
+        ci_environment = os.environ.get('GITHUB_ACTIONS') == 'true' or os.environ.get('CI') == 'true'
+        if ci_environment:
+            print("🤖 CI environment detected - applying anti-detection measures")
+            try:
+                # Set realistic user agent if not already set
+                self.browser.execute_script("""
+                    Object.defineProperty(navigator, 'webdriver', {
+                        get: () => undefined,
+                        configurable: true
+                    });
+                """)
+            except Exception as e:
+                print(f"⚠️  Failed to apply webdriver detection removal: {e}")
+            # Add slight delays to mimic human behavior
+            time.sleep(2)
+        
         print(f"Direct Google search URL: {search_url}")
         self.browser.get(search_url)
-        time.sleep(5)  # Wait for page to load (increased from 3 to 5 seconds)
+        time.sleep(7 if ci_environment else 5)  # Longer wait in CI
         
         return search_url
     
@@ -158,10 +208,23 @@ class GoogleJobApplier(BaseScraper):
         jobs = []
         
         try:
+            # Check if we're blocked or on an error page
+            page_title = self.browser.title.lower()
+            if 'blocked' in page_title or 'error' in page_title or 'access denied' in page_title:
+                print("⚠️  Possible bot detection - page title suggests blocking")
+                print(f"Page title: {self.browser.title}")
+                return []
+            
             # Wait for page to load and trigger lazy loading
             print("Waiting for page to load...")
-            time.sleep(5)
+            ci_environment = os.environ.get('GITHUB_ACTIONS') == 'true' or os.environ.get('CI') == 'true'
+            initial_wait = 8 if ci_environment else 5
+            time.sleep(initial_wait)
+            
+            # Scroll to trigger lazy loading (with human-like behavior)
             self.browser.execute_script("window.scrollTo(0, 500);")
+            time.sleep(2)
+            self.browser.execute_script("window.scrollTo(0, 1000);")
             time.sleep(2)
             self.browser.execute_script("window.scrollTo(0, 0);")
             time.sleep(2)
@@ -183,11 +246,21 @@ class GoogleJobApplier(BaseScraper):
                 except:
                     pass
             
-            print(f"Found {len(job_links)} <a> tags with 'jobs/results/' in href:")
-            for i, job_link in enumerate(job_links[:20]):  # Show first 20
-                print(f"  Link[{i}]: href='{job_link['href']}' | text='{job_link['text'][:100]}'")
+            # Check if we found any job links
+            if not job_links:
+                print("❌ No job links found - checking page content")
+                page_source = self.browser.page_source[:1000]  # First 1000 chars
+                print(f"Page source preview: {page_source}")
+                
+                # Check for common blocking indicators
+                blocking_indicators = ['captcha', 'verify', 'robot', 'automated', 'blocked']
+                if any(indicator in page_source.lower() for indicator in blocking_indicators):
+                    print("🚫 Bot detection triggered - Google is blocking automated access")
+                    return []
             
-            # space_continue(self.browser, f"📋 Found {len(job_links)} job links - check the page structure")
+            print(f"Found {len(job_links)} <a> tags with 'jobs/results/' in href:")
+            for i, job_link in enumerate(job_links[:10]):  # Show first 10
+                print(f"  Link[{i}]: href='{job_link['href'][:100]}...' | text='{job_link['text'][:50]}...'")
             
             # Extract job data from URLs
             if job_links:

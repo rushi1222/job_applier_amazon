@@ -72,6 +72,14 @@ def get_chrome_options(headless=True, download_dir=None):
     if ci_environment:
         chrome_options.add_argument("--window-size=1920,1080")
         chrome_options.add_argument("--max_old_space_size=4096")
+        # Memory optimization for CI
+        chrome_options.add_argument("--disable-dev-shm-usage")  # Already added above but critical
+        chrome_options.add_argument("--js-flags=--max-old-space-size=512")
+        chrome_options.add_argument("--aggressive-cache-discard")
+        chrome_options.add_argument("--disable-cache")
+        chrome_options.add_argument("--disable-application-cache")
+        chrome_options.add_argument("--disable-offline-load-stale-cache")
+        chrome_options.add_argument("--disk-cache-size=0")
     
     # Configure download directory if specified
     if download_dir:
@@ -105,6 +113,20 @@ def init_browser(headless=True, download_dir=None):
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     chrome_options.add_experimental_option('useAutomationExtension', False)
     
+    # Anti-detection measures for Google and other sophisticated sites
+    ci_environment = os.environ.get('GITHUB_ACTIONS') == 'true' or os.environ.get('CI') == 'true'
+    if ci_environment:
+        # Set realistic user agent for CI
+        chrome_options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+        # Additional fingerprinting evasion
+        chrome_options.add_argument("--disable-features=VizDisplayCompositor")
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        chrome_options.add_experimental_option("prefs", {
+            "profile.default_content_setting_values.notifications": 2,
+            "profile.default_content_settings.popups": 0,
+            "profile.managed_default_content_settings.images": 2
+        })
+    
     # Try different ChromeDriver approaches for different environments
     try:
         # First: Try ChromeDriverManager (works great in GitHub Actions)
@@ -136,9 +158,35 @@ def init_browser(headless=True, download_dir=None):
     
     # Execute script to remove webdriver detection
     try:
-        driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
-    except Exception:
-        pass  # Ignore if script execution fails
+        # More robust webdriver property modification
+        driver.execute_script("""
+            if (navigator.webdriver) {
+                Object.defineProperty(navigator, 'webdriver', {
+                    get: () => undefined,
+                    configurable: true
+                });
+            }
+        """)
+        # Additional stealth measures for sophisticated detection
+        driver.execute_script("""
+            Object.defineProperty(navigator, 'plugins', {
+                get: () => [1, 2, 3, 4, 5],
+                configurable: true
+            });
+            Object.defineProperty(navigator, 'languages', {
+                get: () => ['en-US', 'en'],
+                configurable: true
+            });
+        """)
+        print("✅ Stealth scripts applied successfully")
+    except Exception as e:
+        print(f"⚠️  Some stealth scripts failed: {e}")  # Don't fail completely
     
-    print("WebDriver initialized successfully.")
+    # Verify browser is responsive
+    try:
+        driver.execute_script("return document.readyState")
+    except Exception as e:
+        print(f"⚠️  Browser may not be fully responsive: {e}")
+    
+    print("✅ WebDriver initialized successfully.")
     return driver
