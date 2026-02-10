@@ -221,3 +221,4 @@ Seattle, WA, USA,Posted February 6, 2026,2026-02-06 17:47:04
 BELLEVUE, WA, USA,Posted February 10, 2026,2026-02-10 18:26:16
 3177999,Software Development Engineer , AWS SMGS Ops DP&I - Atlas,https://www.amazon.jobs/en/jobs/3177999/software-development-engineer-aws-smgs-ops-dp-i-atlas,Dallas, TX, USA
 Seattle, WA, USA,Posted February 10, 2026,2026-02-10 18:26:16
+3178067,Software Development Engineer, Alexa Endpoint Experiences,https://www.amazon.jobs/en/jobs/3178067/software-development-engineer-alexa-endpoint-experiences,Seattle, WA, USA,Posted February 10, 2026,2026-02-10 18:51:11
