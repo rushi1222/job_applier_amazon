@@ -217,3 +217,7 @@ Seattle, WA, USA,Posted February 6, 2026,2026-02-06 17:47:04
 3177500,Senior Software Engineer, Prime Air,https://www.amazon.jobs/en/jobs/3177500/senior-software-engineer-prime-air,Seattle, WA, USA,Posted February 10, 2026,2026-02-10 05:59:57
 3177332,SDE-Machine Learning, AgentCore,https://www.amazon.jobs/en/jobs/3177332/sde-machine-learning-agentcore,Santa Clara, CA, USA,Posted February 9, 2026,2026-02-10 16:52:25
 3173288,Front End Engineer, Amazon Quick,https://www.amazon.jobs/en/jobs/3173288/front-end-engineer-amazon-quick,Seattle, WA, USA,Posted February 3, 2026,2026-02-10 17:25:52
+3177994,Software Development Engineer, Amazon Leo GBO Engineering,https://www.amazon.jobs/en/jobs/3177994/software-development-engineer-amazon-leo-gbo-engineering,Bellevue, WA, USA
+BELLEVUE, WA, USA,Posted February 10, 2026,2026-02-10 18:26:16
+3177999,Software Development Engineer , AWS SMGS Ops DP&I - Atlas,https://www.amazon.jobs/en/jobs/3177999/software-development-engineer-aws-smgs-ops-dp-i-atlas,Dallas, TX, USA
+Seattle, WA, USA,Posted February 10, 2026,2026-02-10 18:26:16
