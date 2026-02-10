@@ -224,3 +224,5 @@ Seattle, WA, USA,Posted February 10, 2026,2026-02-10 18:26:16
 3178067,Software Development Engineer, Alexa Endpoint Experiences,https://www.amazon.jobs/en/jobs/3178067/software-development-engineer-alexa-endpoint-experiences,Seattle, WA, USA,Posted February 10, 2026,2026-02-10 18:51:11
 3178159,Software Engineer I, Monetization ML,https://www.amazon.jobs/en/jobs/3178159/software-engineer-i-monetization-ml,San Francisco, CA, USA
 Seattle, WA, USA,Posted February 10, 2026,2026-02-10 19:54:38
+3178166,Front End Engineer II, Prime Video Ads,https://www.amazon.jobs/en/jobs/3178166/front-end-engineer-ii-prime-video-ads,New York, NY, USA,Posted February 10, 2026,2026-02-10 20:17:24
+3178166,Front End Engineer II, Prime Video Ads,https://www.amazon.jobs/en/jobs/3178166/front-end-engineer-ii-prime-video-ads,New York, NY, USA,Posted February 10, 2026,2026-02-10 20:17:24
