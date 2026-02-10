@@ -214,3 +214,4 @@ Seattle, WA, USA,Posted February 6, 2026,2026-02-06 17:47:04
 3177253,Senior Software Development Engineer, Data Center Controls Automation and Support,https://www.amazon.jobs/en/jobs/3177253/senior-software-development-engineer-data-center-controls-automation-and-support,Denver, CO, USA,Posted February 9, 2026,2026-02-09 21:16:27
 3177365,Front End Engineer II, Quick Commerce,https://www.amazon.jobs/en/jobs/3177365/front-end-engineer-ii-quick-commerce,Bellevue, WA, USA,Posted February 9, 2026,2026-02-09 22:47:45
 3177365,Front End Engineer II, Quick Commerce,https://www.amazon.jobs/en/jobs/3177365/front-end-engineer-ii-quick-commerce,Bellevue, WA, USA,Posted February 9, 2026,2026-02-09 22:47:45
+3177500,Senior Software Engineer, Prime Air,https://www.amazon.jobs/en/jobs/3177500/senior-software-engineer-prime-air,Seattle, WA, USA,Posted February 10, 2026,2026-02-10 05:59:57
