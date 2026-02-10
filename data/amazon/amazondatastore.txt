@@ -215,3 +215,4 @@ Seattle, WA, USA,Posted February 6, 2026,2026-02-06 17:47:04
 3177365,Front End Engineer II, Quick Commerce,https://www.amazon.jobs/en/jobs/3177365/front-end-engineer-ii-quick-commerce,Bellevue, WA, USA,Posted February 9, 2026,2026-02-09 22:47:45
 3177365,Front End Engineer II, Quick Commerce,https://www.amazon.jobs/en/jobs/3177365/front-end-engineer-ii-quick-commerce,Bellevue, WA, USA,Posted February 9, 2026,2026-02-09 22:47:45
 3177500,Senior Software Engineer, Prime Air,https://www.amazon.jobs/en/jobs/3177500/senior-software-engineer-prime-air,Seattle, WA, USA,Posted February 10, 2026,2026-02-10 05:59:57
+3177332,SDE-Machine Learning, AgentCore,https://www.amazon.jobs/en/jobs/3177332/sde-machine-learning-agentcore,Santa Clara, CA, USA,Posted February 9, 2026,2026-02-10 16:52:25
