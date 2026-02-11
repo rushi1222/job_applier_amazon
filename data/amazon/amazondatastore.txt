@@ -234,3 +234,6 @@ Seattle, WA, USA,Posted February 11, 2026,2026-02-11 01:38:06
 3178943,Machine Learning Engineer II, Special Projects,https://www.amazon.jobs/en/jobs/3178943/machine-learning-engineer-ii-special-projects,Seattle, WA, USA,Posted February 11, 2026,2026-02-11 17:25:16
 3179007,Senior Embedded Software Engineer, Amazon Leo Optical Inter-Satellite Link,https://www.amazon.jobs/en/jobs/3179007/senior-embedded-software-engineer-amazon-leo-optical-inter-satellite-link,Northridge, CA, USA
 NORTHRIDGE, CA, USA,Posted February 11, 2026,2026-02-11 18:24:29
+3179126,Software Engineer, Community Health,https://www.amazon.jobs/en/jobs/3179126/software-engineer-community-health,San Francisco, CA, USA,Posted February 11, 2026,2026-02-11 19:50:11
+3179114,Post-Silicon Systems Validation Engineer, Annapurna Labs,https://www.amazon.jobs/en/jobs/3179114/post-silicon-systems-validation-engineer-annapurna-labs,Austin, TX, USA
+Cupertino, CA, USA,Posted February 11, 2026,2026-02-11 19:50:11
