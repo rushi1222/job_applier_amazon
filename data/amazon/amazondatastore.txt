@@ -226,3 +226,6 @@ Seattle, WA, USA,Posted February 10, 2026,2026-02-10 18:26:16
 Seattle, WA, USA,Posted February 10, 2026,2026-02-10 19:54:38
 3178166,Front End Engineer II, Prime Video Ads,https://www.amazon.jobs/en/jobs/3178166/front-end-engineer-ii-prime-video-ads,New York, NY, USA,Posted February 10, 2026,2026-02-10 20:17:24
 3178166,Front End Engineer II, Prime Video Ads,https://www.amazon.jobs/en/jobs/3178166/front-end-engineer-ii-prime-video-ads,New York, NY, USA,Posted February 10, 2026,2026-02-10 20:17:24
+3178388,Software Dev. Engineer SDE II, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3178388/software-dev-engineer-sde-ii-sponsored-products-and-brands,New York, NY, USA
+Seattle, WA, USA,Posted February 11, 2026,2026-02-11 01:38:06
+3178394,Software Development Engineer, AWS Marketplace & Partnerships,https://www.amazon.jobs/en/jobs/3178394/software-development-engineer-aws-marketplace-partnerships,Seattle, WA, USA,Posted February 11, 2026,2026-02-11 01:38:06
