@@ -237,3 +237,11 @@ NORTHRIDGE, CA, USA,Posted February 11, 2026,2026-02-11 18:24:29
 3179126,Software Engineer, Community Health,https://www.amazon.jobs/en/jobs/3179126/software-engineer-community-health,San Francisco, CA, USA,Posted February 11, 2026,2026-02-11 19:50:11
 3179114,Post-Silicon Systems Validation Engineer, Annapurna Labs,https://www.amazon.jobs/en/jobs/3179114/post-silicon-systems-validation-engineer-annapurna-labs,Austin, TX, USA
 Cupertino, CA, USA,Posted February 11, 2026,2026-02-11 19:50:11
+3179205,Software Development Engineer - Military Veterans,https://www.amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans,Arlington, VA, USA
+Bellevue, WA, USA
+Culver City, CA, USA
++4 other locations,Posted February 11, 2026,2026-02-11 21:45:06
+3179209,Software Development Engineer Internship - Military Veteran,https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran,Arlington, VA, USA
+Boston, MA, USA
+Brooklyn, NY, USA
++7 other locations,Posted February 11, 2026,2026-02-11 21:45:06
