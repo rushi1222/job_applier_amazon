@@ -1054,3 +1054,4 @@
 118257155424821958,Data Center Technician Ii,https://www.google.com/about/careers/applications/jobs/results/118257155424821958-data-center-technician-ii?q=software%20developer&location=USA&sort_by=date,null,null
 106716681379685062,Field Sales Representative Public Sector,https://www.google.com/about/careers/applications/jobs/results/106716681379685062-field-sales-representative-public-sector?q=software%20developer&location=USA&sort_by=date,null,null
 138544244468916934,Customer Engineer Ii Outcome Saas Google Cloud,https://www.google.com/about/careers/applications/jobs/results/138544244468916934-customer-engineer-ii-outcome-saas-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
+86209690010034886,Senior Manager Silicon Product And Test Engineering,https://www.google.com/about/careers/applications/jobs/results/86209690010034886-senior-manager-silicon-product-and-test-engineering?q=software%20developer&location=USA&sort_by=date,null,null
