@@ -229,3 +229,4 @@ Seattle, WA, USA,Posted February 10, 2026,2026-02-10 19:54:38
 3178388,Software Dev. Engineer SDE II, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/3178388/software-dev-engineer-sde-ii-sponsored-products-and-brands,New York, NY, USA
 Seattle, WA, USA,Posted February 11, 2026,2026-02-11 01:38:06
 3178394,Software Development Engineer, AWS Marketplace & Partnerships,https://www.amazon.jobs/en/jobs/3178394/software-development-engineer-aws-marketplace-partnerships,Seattle, WA, USA,Posted February 11, 2026,2026-02-11 01:38:06
+3178487,SDE II, GenAI Apps, People eXperience and Technology Central Science (PXTCS),https://www.amazon.jobs/en/jobs/3178487/sde-ii-genai-apps-people-experience-and-technology-central-science-pxtcs,Bellevue, WA, USA,Posted February 11, 2026,2026-02-11 05:12:07
