@@ -1114,3 +1114,4 @@
 76058070949470918,Field Sales Manager Startups Google Cloud,https://www.google.com/about/careers/applications/jobs/results/76058070949470918-field-sales-manager-startups-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
 97349151548678854,Senior Creative Technologist Ios Search,https://www.google.com/about/careers/applications/jobs/results/97349151548678854-senior-creative-technologist-ios-search?q=frontend%20engineer&location=USA&sort_by=date,null,null
 111672901840577222,Software Engineer Iii Google Ads,https://www.google.com/about/careers/applications/jobs/results/111672901840577222-software-engineer-iii-google-ads?q=software%20developer&location=USA&sort_by=date,null,null
+81297106416870086,Senior Staff Software Engineer Ios,https://www.google.com/about/careers/applications/jobs/results/81297106416870086-senior-staff-software-engineer-ios?q=software%20developer&location=USA&sort_by=date,null,null
