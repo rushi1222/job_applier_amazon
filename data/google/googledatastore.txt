@@ -1126,3 +1126,4 @@
 76263061148574406,Software Engineer Iii Google Cloud Platforms,https://www.google.com/about/careers/applications/jobs/results/76263061148574406-software-engineer-iii-google-cloud-platforms?q=software%20developer&location=USA&sort_by=date,null,null
 72146489614181062,Security Engineer Platform Security And Privacy,https://www.google.com/about/careers/applications/jobs/results/72146489614181062-security-engineer-platform-security-and-privacy?q=software%20developer&location=USA&sort_by=date,null,null
 140067720908415686,System Software And Performance Architect,https://www.google.com/about/careers/applications/jobs/results/140067720908415686-system-software-and-performance-architect?q=software%20developer&location=USA&sort_by=date,null,null
+115334145906746054,Ux Designer Chrome On Android,https://www.google.com/about/careers/applications/jobs/results/115334145906746054-ux-designer-chrome-on-android?q=software%20developer&location=USA&sort_by=date,null,null
