@@ -1121,3 +1121,4 @@
 83241111694254790,Supplier Relationship And Strategy Manager,https://www.google.com/about/careers/applications/jobs/results/83241111694254790-supplier-relationship-and-strategy-manager?q=software%20developer&location=USA&sort_by=date,null,null
 93295046018638534,Product Support Manager Google Fi,https://www.google.com/about/careers/applications/jobs/results/93295046018638534-product-support-manager-google-fi?q=software%20developer&location=USA&sort_by=date,null,null
 81002506020102854,Mechanical Testing Engineer,https://www.google.com/about/careers/applications/jobs/results/81002506020102854-mechanical-testing-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+103573280715088582,Senior System Software And Performance Architect,https://www.google.com/about/careers/applications/jobs/results/103573280715088582-senior-system-software-and-performance-architect?q=software%20developer&location=USA&sort_by=date,null,null
