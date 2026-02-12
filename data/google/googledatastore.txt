@@ -1112,3 +1112,4 @@
 132516343768326854,Staff Software Engineer Ios Google Search App,https://www.google.com/about/careers/applications/jobs/results/132516343768326854-staff-software-engineer-ios-google-search-app?q=software%20developer&location=USA&sort_by=date,null,null
 95124702086734534,Senior Security Engineer Saas Protection,https://www.google.com/about/careers/applications/jobs/results/95124702086734534-senior-security-engineer-saas-protection?q=software%20developer&location=USA&sort_by=date,null,null
 76058070949470918,Field Sales Manager Startups Google Cloud,https://www.google.com/about/careers/applications/jobs/results/76058070949470918-field-sales-manager-startups-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
+97349151548678854,Senior Creative Technologist Ios Search,https://www.google.com/about/careers/applications/jobs/results/97349151548678854-senior-creative-technologist-ios-search?q=frontend%20engineer&location=USA&sort_by=date,null,null
