@@ -253,3 +253,4 @@ Brooklyn, NY, USA
 3180288,Software Development Engineer, Weblab Amplified Learning,https://www.amazon.jobs/en/jobs/3180288/software-development-engineer-weblab-amplified-learning,Seattle, WA, USA,Posted February 12, 2026,2026-02-12 22:44:54
 3180951,Senior Software Engineer, Amazon AI at Work,https://www.amazon.jobs/en/jobs/3180951/senior-software-engineer-amazon-ai-at-work,Seattle, WA, USA,Posted February 13, 2026,2026-02-13 17:46:13
 3181001,Application Builder, Mobile Applications,https://www.amazon.jobs/en/jobs/3181001/application-builder-mobile-applications,North Reading, MA, USA,Posted February 13, 2026,2026-02-13 18:48:16
+3181302,Software Builder, Amazon Devices,https://www.amazon.jobs/en/jobs/3181302/software-builder-amazon-devices,North Reading, MA, USA,Posted February 13, 2026,2026-02-13 23:12:00
