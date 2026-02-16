@@ -1210,3 +1210,4 @@
 114760871657251526,Machine Learning Engineer Computer Vision,https://www.google.com/about/careers/applications/jobs/results/114760871657251526-machine-learning-engineer-computer-vision?q=software%20developer&location=USA&sort_by=date,null,null
 97919102298792646,Technical Program Manager Iii Aiml Platforms And Devices,https://www.google.com/about/careers/applications/jobs/results/97919102298792646-technical-program-manager-iii-aiml-platforms-and-devices?q=software%20developer&location=USA&sort_by=date,null,null
 86331899009475270,Senior Ux Engineer Jigsaw,https://www.google.com/about/careers/applications/jobs/results/86331899009475270-senior-ux-engineer-jigsaw?q=software%20developer&location=USA&sort_by=date,null,null
+139655893674271430,Staff Software Engineer Google Photos,https://www.google.com/about/careers/applications/jobs/results/139655893674271430-staff-software-engineer-google-photos?q=software%20developer&location=USA&sort_by=date,null,null
