@@ -258,3 +258,6 @@ Brooklyn, NY, USA
 3182082,Software Development Engineer, Alexa Endpoint Experiences,https://www.amazon.jobs/en/jobs/3182082/software-development-engineer-alexa-endpoint-experiences,Seattle, WA, USA,Posted February 16, 2026,2026-02-16 20:44:47
 3182043,ASIC Design Engineer II, Annapurna Labs - Cloud-Scale Machine Learning Acceleration,https://www.amazon.jobs/en/jobs/3182043/asic-design-engineer-ii-annapurna-labs-cloud-scale-machine-learning-acceleration,Cupertino, CA, USA,Posted February 16, 2026,2026-02-16 20:44:47
 3182191,Software Dev Engineer II, Live Events Amazon Advertising,https://www.amazon.jobs/en/jobs/3182191/software-dev-engineer-ii-live-events-amazon-advertising,New York, NY, USA,Posted February 16, 2026,2026-02-16 23:10:01
+3182212,Software Development Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3182212/software-development-engineer-amazon-leo-for-government,El Segundo, CA, USA
+NORTHRIDGE, CA, USA
+Redmond, WA, USA,Posted February 16, 2026,2026-02-16 23:42:56
