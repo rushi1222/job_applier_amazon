@@ -255,3 +255,5 @@ Brooklyn, NY, USA
 3181001,Application Builder, Mobile Applications,https://www.amazon.jobs/en/jobs/3181001/application-builder-mobile-applications,North Reading, MA, USA,Posted February 13, 2026,2026-02-13 18:48:16
 3181302,Software Builder, Amazon Devices,https://www.amazon.jobs/en/jobs/3181302/software-builder-amazon-devices,North Reading, MA, USA,Posted February 13, 2026,2026-02-13 23:12:00
 3182024,Senior Software Development Engineer, Ads Agent Fabric (Ads AI Core Infrastructure),https://www.amazon.jobs/en/jobs/3182024/senior-software-development-engineer-ads-agent-fabric-ads-ai-core-infrastructure,New York, NY, USA,Posted February 16, 2026,2026-02-16 19:43:20
+3182082,Software Development Engineer, Alexa Endpoint Experiences,https://www.amazon.jobs/en/jobs/3182082/software-development-engineer-alexa-endpoint-experiences,Seattle, WA, USA,Posted February 16, 2026,2026-02-16 20:44:47
+3182043,ASIC Design Engineer II, Annapurna Labs - Cloud-Scale Machine Learning Acceleration,https://www.amazon.jobs/en/jobs/3182043/asic-design-engineer-ii-annapurna-labs-cloud-scale-machine-learning-acceleration,Cupertino, CA, USA,Posted February 16, 2026,2026-02-16 20:44:47
