@@ -262,3 +262,5 @@ Brooklyn, NY, USA
 NORTHRIDGE, CA, USA
 Redmond, WA, USA,Posted February 16, 2026,2026-02-16 23:42:56
 3183024,Software Dev Engineer II, Amazon Security, Amazon Foundational Security Services (AFSS),https://www.amazon.jobs/en/jobs/3183024/software-dev-engineer-ii-amazon-security-amazon-foundational-security-services-afss,Arlington, VA, USA,Posted February 17, 2026,2026-02-17 19:23:22
+3183175,Software Development Engineer , AWS SMGS Ops DP&I - Atlas,https://www.amazon.jobs/en/jobs/3183175/software-development-engineer-aws-smgs-ops-dp-i-atlas,Seattle, WA, USA,Posted February 17, 2026,2026-02-17 20:46:51
+3183196,Software Development Engineer, AWS Fintech,https://www.amazon.jobs/en/jobs/3183196/software-development-engineer-aws-fintech,Seattle, WA, USA,Posted February 17, 2026,2026-02-17 20:46:51
