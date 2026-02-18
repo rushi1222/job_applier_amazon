@@ -271,3 +271,4 @@ Redmond, WA, USA,Posted February 16, 2026,2026-02-16 23:42:56
 3183389,Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3183389/embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted February 18, 2026,2026-02-18 00:57:52
 3183399,Software Development Engineer – Simulation Infrastructure & Platform, Amazon Industrial Robotics,https://www.amazon.jobs/en/jobs/3183399/software-development-engineer-simulation-infrastructure-platform-amazon-industrial-robotics,N.reading, MA, USA
 N.Reading, MA, USA,Posted February 18, 2026,2026-02-18 01:42:22
+3183456,Software Development Engineer II, Amazon SageMaker Catalog,https://www.amazon.jobs/en/jobs/3183456/software-development-engineer-ii-amazon-sagemaker-catalog,Arlington, VA, USA,Posted February 18, 2026,2026-02-18 03:05:13
