@@ -265,3 +265,5 @@ Redmond, WA, USA,Posted February 16, 2026,2026-02-16 23:42:56
 3183175,Software Development Engineer , AWS SMGS Ops DP&I - Atlas,https://www.amazon.jobs/en/jobs/3183175/software-development-engineer-aws-smgs-ops-dp-i-atlas,Seattle, WA, USA,Posted February 17, 2026,2026-02-17 20:46:51
 3183196,Software Development Engineer, AWS Fintech,https://www.amazon.jobs/en/jobs/3183196/software-development-engineer-aws-fintech,Seattle, WA, USA,Posted February 17, 2026,2026-02-17 20:46:51
 3183357,Software Engineer-AI/ML, AWS Neuron Inference,https://www.amazon.jobs/en/jobs/3183357/software-engineer-ai-ml-aws-neuron-inference,Seattle, WA, USA,Posted February 17, 2026,2026-02-17 23:42:48
+3183392,Software Development Engineer, Alexa Endpoint Experiences,https://www.amazon.jobs/en/jobs/3183392/software-development-engineer-alexa-endpoint-experiences,Seattle, WA, USA,Posted February 18, 2026,2026-02-18 00:29:52
+3183367,Sr. FPGA Development Engineer, Antenna Calibration, Amazon Leo,https://www.amazon.jobs/en/jobs/3183367/sr-fpga-development-engineer-antenna-calibration-amazon-leo,Redmond, WA, USA,Posted February 17, 2026,2026-02-18 00:29:52
