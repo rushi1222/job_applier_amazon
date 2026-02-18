@@ -279,3 +279,5 @@ Seattle, WA, USA,Posted February 18, 2026,2026-02-18 15:21:22
 3183976,Device Software Engineer, Amazon Leo Government,https://www.amazon.jobs/en/jobs/3183976/device-software-engineer-amazon-leo-government,Arlington, VA, USA
 NORTHRIDGE, CA, USA
 Redmond, WA, USA,Posted February 18, 2026,2026-02-18 15:48:55
+3184101,Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR),https://www.amazon.jobs/en/jobs/3184101/software-development-engineer-big-data-aws-elastic-mapreduce-emr,Redmond, WA, USA,Posted February 18, 2026,2026-02-18 17:50:22
+3184100,Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR),https://www.amazon.jobs/en/jobs/3184100/software-development-engineer-big-data-aws-elastic-mapreduce-emr,Redmond, WA, USA,Posted February 18, 2026,2026-02-18 17:50:22
