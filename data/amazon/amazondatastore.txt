@@ -276,3 +276,6 @@ N.Reading, MA, USA,Posted February 18, 2026,2026-02-18 01:42:22
 3183911,Software Development Engineer, AWS Proactive Security,https://www.amazon.jobs/en/jobs/3183911/software-development-engineer-aws-proactive-security,Arlington, VA, USA
 Austin, TX, USA
 Seattle, WA, USA,Posted February 18, 2026,2026-02-18 15:21:22
+3183976,Device Software Engineer, Amazon Leo Government,https://www.amazon.jobs/en/jobs/3183976/device-software-engineer-amazon-leo-government,Arlington, VA, USA
+NORTHRIDGE, CA, USA
+Redmond, WA, USA,Posted February 18, 2026,2026-02-18 15:48:55
