@@ -267,3 +267,5 @@ Redmond, WA, USA,Posted February 16, 2026,2026-02-16 23:42:56
 3183357,Software Engineer-AI/ML, AWS Neuron Inference,https://www.amazon.jobs/en/jobs/3183357/software-engineer-ai-ml-aws-neuron-inference,Seattle, WA, USA,Posted February 17, 2026,2026-02-17 23:42:48
 3183392,Software Development Engineer, Alexa Endpoint Experiences,https://www.amazon.jobs/en/jobs/3183392/software-development-engineer-alexa-endpoint-experiences,Seattle, WA, USA,Posted February 18, 2026,2026-02-18 00:29:52
 3183367,Sr. FPGA Development Engineer, Antenna Calibration, Amazon Leo,https://www.amazon.jobs/en/jobs/3183367/sr-fpga-development-engineer-antenna-calibration-amazon-leo,Redmond, WA, USA,Posted February 17, 2026,2026-02-18 00:29:52
+3183393,Senior Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3183393/senior-embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted February 18, 2026,2026-02-18 00:57:52
+3183389,Embedded Software Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3183389/embedded-software-engineer-amazon-leo,Austin, TX, USA,Posted February 18, 2026,2026-02-18 00:57:52
