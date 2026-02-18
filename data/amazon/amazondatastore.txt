@@ -273,3 +273,6 @@ Redmond, WA, USA,Posted February 16, 2026,2026-02-16 23:42:56
 N.Reading, MA, USA,Posted February 18, 2026,2026-02-18 01:42:22
 3183456,Software Development Engineer II, Amazon SageMaker Catalog,https://www.amazon.jobs/en/jobs/3183456/software-development-engineer-ii-amazon-sagemaker-catalog,Arlington, VA, USA,Posted February 18, 2026,2026-02-18 03:05:13
 3183549,Software Development Engineer - II, Prime Video Ads,https://www.amazon.jobs/en/jobs/3183549/software-development-engineer-ii-prime-video-ads,New York, NY, USA,Posted February 18, 2026,2026-02-18 08:16:55
+3183911,Software Development Engineer, AWS Proactive Security,https://www.amazon.jobs/en/jobs/3183911/software-development-engineer-aws-proactive-security,Arlington, VA, USA
+Austin, TX, USA
+Seattle, WA, USA,Posted February 18, 2026,2026-02-18 15:21:22
