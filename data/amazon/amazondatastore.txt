@@ -285,3 +285,4 @@ Redmond, WA, USA,Posted February 18, 2026,2026-02-18 15:48:55
 3184395,Software Dev Engineer II, Conversational Ad Experiences,https://www.amazon.jobs/en/jobs/3184395/software-dev-engineer-ii-conversational-ad-experiences,Palo Alto, CA, USA
 Seattle, WA, USA,Posted February 18, 2026,2026-02-18 22:45:55
 3184465,Sr. Software Dev Engineer, Antenna System Validation, Amazon Leo,https://www.amazon.jobs/en/jobs/3184465/sr-software-dev-engineer-antenna-system-validation-amazon-leo,Redmond, WA, USA,Posted February 18, 2026,2026-02-19 00:30:24
+3185058,Software Development Engineer,https://www.amazon.jobs/en/jobs/3185058/software-development-engineer,San Luis Obispo, CA, USA,Posted February 19, 2026,2026-02-19 17:22:24
