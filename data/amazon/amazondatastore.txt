@@ -284,3 +284,4 @@ Redmond, WA, USA,Posted February 18, 2026,2026-02-18 15:48:55
 3184342,Senior Software Development Engineer, AWS Machine Learning Accelerators,https://www.amazon.jobs/en/jobs/3184342/senior-software-development-engineer-aws-machine-learning-accelerators,Cupertino, CA, USA,Posted February 18, 2026,2026-02-18 21:45:44
 3184395,Software Dev Engineer II, Conversational Ad Experiences,https://www.amazon.jobs/en/jobs/3184395/software-dev-engineer-ii-conversational-ad-experiences,Palo Alto, CA, USA
 Seattle, WA, USA,Posted February 18, 2026,2026-02-18 22:45:55
+3184465,Sr. Software Dev Engineer, Antenna System Validation, Amazon Leo,https://www.amazon.jobs/en/jobs/3184465/sr-software-dev-engineer-antenna-system-validation-amazon-leo,Redmond, WA, USA,Posted February 18, 2026,2026-02-19 00:30:24
