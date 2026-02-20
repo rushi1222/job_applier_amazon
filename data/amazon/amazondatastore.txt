@@ -288,3 +288,5 @@ Seattle, WA, USA,Posted February 18, 2026,2026-02-18 22:45:55
 3185058,Software Development Engineer,https://www.amazon.jobs/en/jobs/3185058/software-development-engineer,San Luis Obispo, CA, USA,Posted February 19, 2026,2026-02-19 17:22:24
 3185066,Software Development Engineer, AWS Hardware Engineering, AWS PCIe and Signal Integrity Team,https://www.amazon.jobs/en/jobs/3185066/software-development-engineer-aws-hardware-engineering-aws-pcie-and-signal-integrity-team,Seattle, WA, USA,Posted February 19, 2026,2026-02-19 17:48:43
 3185446,Senior Software Dev Engineer, EC2 Nitro,https://www.amazon.jobs/en/jobs/3185446/senior-software-dev-engineer-ec2-nitro,Seattle, WA, USA,Posted February 19, 2026,2026-02-19 22:10:17
+3185581,Senior Software Development Engineer, Amazon Leo OISL,https://www.amazon.jobs/en/jobs/3185581/senior-software-development-engineer-amazon-leo-oisl,Redmond, WA, USA
+REDMOND, WA, USA,Posted February 20, 2026,2026-02-20 00:27:50
