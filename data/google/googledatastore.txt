@@ -1485,3 +1485,5 @@
 134820416555229894,Staff Systems Engineer Display Metrology,https://www.google.com/about/careers/applications/jobs/results/134820416555229894-staff-systems-engineer-display-metrology?q=software%20developer&location=USA&sort_by=date,null,null
 99643191291978438,Senior Staff Software Engineer Aiml Youtube,https://www.google.com/about/careers/applications/jobs/results/99643191291978438-senior-staff-software-engineer-aiml-youtube?q=software%20developer&location=USA&sort_by=date,null,null
 96999965338804934,Software Engineer Ii Site Reliability Engineering,https://www.google.com/about/careers/applications/jobs/results/96999965338804934-software-engineer-ii-site-reliability-engineering?q=software%20developer&location=USA&sort_by=date,null,null
+141116769891689158,Operations Manager Iii,https://www.google.com/about/careers/applications/jobs/results/141116769891689158-operations-manager-iii?q=software%20developer&location=USA&sort_by=date,null,null
+110944521558074054,Principal Engineer Storage Ai,https://www.google.com/about/careers/applications/jobs/results/110944521558074054-principal-engineer-storage-ai?q=software%20developer&location=USA&sort_by=date,null,null
