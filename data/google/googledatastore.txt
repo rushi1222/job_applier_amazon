@@ -1440,3 +1440,4 @@
 118528969946342086,Technical Program Manager Ai Quality In Search Intelligence,https://www.google.com/about/careers/applications/jobs/results/118528969946342086-technical-program-manager-ai-quality-in-search-intelligence?q=software%20developer&location=USA&sort_by=date,null,null
 74260209450525382,Data Center Technician,https://www.google.com/about/careers/applications/jobs/results/74260209450525382-data-center-technician?q=software%20developer&location=USA&sort_by=date,null,null
 126471343729189574,Data Center Technician Ii,https://www.google.com/about/careers/applications/jobs/results/126471343729189574-data-center-technician-ii?q=software%20developer&location=USA&sort_by=date,null,null
+99605326860296902,Integration Architect Professional Services Google Cloud,https://www.google.com/about/careers/applications/jobs/results/99605326860296902-integration-architect-professional-services-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
