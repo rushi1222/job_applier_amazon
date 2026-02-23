@@ -300,3 +300,7 @@ REDMOND, WA, USA,Posted February 20, 2026,2026-02-20 00:27:50
 3187130,Sr Software Engineer, AWS Applied AI Solution – Core Services,https://www.amazon.jobs/en/jobs/3187130/sr-software-engineer-aws-applied-ai-solution-core-services,Seattle, WA, USA,Posted February 23, 2026,2026-02-23 18:25:01
 3187131,Sr Software Engineer, AWS Applied AI Solution – Core Services,https://www.amazon.jobs/en/jobs/3187131/sr-software-engineer-aws-applied-ai-solution-core-services,Seattle, WA, USA,Posted February 23, 2026,2026-02-23 18:25:01
 3187250,Software Dev Engineer II, Secure Customer Content Storage and Analytics, AWS Applied AI Solution – Core Services,https://www.amazon.jobs/en/jobs/3187250/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services,Seattle, WA, USA,Posted February 23, 2026,2026-02-23 19:28:00
+3187513,Front-End Engineer II, iOS (Mobile), Zappos Discovery Tech - Mobile,https://www.amazon.jobs/en/jobs/3187513/front-end-engineer-ii-ios-mobile-zappos-discovery-tech-mobile,Madison, WI, USA
+New York, NY, USA,Posted February 23, 2026,2026-02-23 23:15:42
+3187513,Front-End Engineer II, iOS (Mobile), Zappos Discovery Tech - Mobile,https://www.amazon.jobs/en/jobs/3187513/front-end-engineer-ii-ios-mobile-zappos-discovery-tech-mobile,Madison, WI, USA
+New York, NY, USA,Posted February 23, 2026,2026-02-23 23:15:42
