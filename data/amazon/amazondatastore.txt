@@ -308,3 +308,6 @@ New York, NY, USA,Posted February 23, 2026,2026-02-23 23:15:42
 3187627,Software Development Engineer II, Industrial Robotics Group,https://www.amazon.jobs/en/jobs/3187627/software-development-engineer-ii-industrial-robotics-group,N.reading, MA, USA
 N.Reading, MA, USA
 Seattle, WA, USA,Posted February 24, 2026,2026-02-24 00:55:00
+3188290,Software Development Engineer, Data Plane, Network Product Development,https://www.amazon.jobs/en/jobs/3188290/software-development-engineer-data-plane-network-product-development,Cupertino, CA, USA
+Raleigh, NC, USA
+Seattle, WA, USA,Posted February 24, 2026,2026-02-24 17:50:04
