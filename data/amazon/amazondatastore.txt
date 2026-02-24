@@ -305,3 +305,6 @@ New York, NY, USA,Posted February 23, 2026,2026-02-23 23:15:42
 3187513,Front-End Engineer II, iOS (Mobile), Zappos Discovery Tech - Mobile,https://www.amazon.jobs/en/jobs/3187513/front-end-engineer-ii-ios-mobile-zappos-discovery-tech-mobile,Madison, WI, USA
 New York, NY, USA,Posted February 23, 2026,2026-02-23 23:15:42
 3187608,Software Engineer, Community Health,https://www.amazon.jobs/en/jobs/3187608/software-engineer-community-health,San Francisco, CA, USA,Posted February 24, 2026,2026-02-24 00:28:33
+3187627,Software Development Engineer II, Industrial Robotics Group,https://www.amazon.jobs/en/jobs/3187627/software-development-engineer-ii-industrial-robotics-group,N.reading, MA, USA
+N.Reading, MA, USA
+Seattle, WA, USA,Posted February 24, 2026,2026-02-24 00:55:00
