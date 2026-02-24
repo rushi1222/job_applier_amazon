@@ -316,3 +316,4 @@ Seattle, WA, USA,Posted February 24, 2026,2026-02-24 17:50:04
 3188629,Sr. Software Development Engineer, GO-AI Technology & Development Team,https://www.amazon.jobs/en/jobs/3188629/sr-software-development-engineer-go-ai-technology-development-team,North Reading, MA, USA
 Seattle, WA, USA
 Westboro, MA, USA,Posted February 24, 2026,2026-02-24 21:46:02
+3188690,Software Dev Engineer II, Pricing Shared Services,https://www.amazon.jobs/en/jobs/3188690/software-dev-engineer-ii-pricing-shared-services,Seattle, WA, USA,Posted February 24, 2026,2026-02-24 23:11:39
