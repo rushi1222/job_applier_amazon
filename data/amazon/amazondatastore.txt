@@ -317,3 +317,4 @@ Seattle, WA, USA,Posted February 24, 2026,2026-02-24 17:50:04
 Seattle, WA, USA
 Westboro, MA, USA,Posted February 24, 2026,2026-02-24 21:46:02
 3188690,Software Dev Engineer II, Pricing Shared Services,https://www.amazon.jobs/en/jobs/3188690/software-dev-engineer-ii-pricing-shared-services,Seattle, WA, USA,Posted February 24, 2026,2026-02-24 23:11:39
+3188740,Principal Physical Design Engineer, Annapurna Labs,https://www.amazon.jobs/en/jobs/3188740/principal-physical-design-engineer-annapurna-labs,Cupertino, CA, USA,Posted February 24, 2026,2026-02-24 23:44:34
