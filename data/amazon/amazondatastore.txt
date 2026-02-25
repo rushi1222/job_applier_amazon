@@ -321,3 +321,7 @@ Westboro, MA, USA,Posted February 24, 2026,2026-02-24 21:46:02
 3188864,Sr Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/3188864/sr-software-engineer-graviton-software-annapurna-labs,Austin, TX, USA
 Cupertino, CA, USA,Posted February 25, 2026,2026-02-25 03:04:28
 3189357,Software Development Engineer, Sponsored Products and Brands Off-Search,https://www.amazon.jobs/en/jobs/3189357/software-development-engineer-sponsored-products-and-brands-off-search,Seattle, WA, USA,Posted February 25, 2026,2026-02-25 17:50:54
+3189414,Senior Software Development Engineer, Agentic AI Professional Services,https://www.amazon.jobs/en/jobs/3189414/senior-software-development-engineer-agentic-ai-professional-services,Austin, TX, USA
+Dallas, TX, USA
+New York, NY, USA
++1 other locations,Posted February 25, 2026,2026-02-25 18:26:18
