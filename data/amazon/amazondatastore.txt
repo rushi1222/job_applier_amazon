@@ -320,3 +320,4 @@ Westboro, MA, USA,Posted February 24, 2026,2026-02-24 21:46:02
 3188740,Principal Physical Design Engineer, Annapurna Labs,https://www.amazon.jobs/en/jobs/3188740/principal-physical-design-engineer-annapurna-labs,Cupertino, CA, USA,Posted February 24, 2026,2026-02-24 23:44:34
 3188864,Sr Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/3188864/sr-software-engineer-graviton-software-annapurna-labs,Austin, TX, USA
 Cupertino, CA, USA,Posted February 25, 2026,2026-02-25 03:04:28
+3189357,Software Development Engineer, Sponsored Products and Brands Off-Search,https://www.amazon.jobs/en/jobs/3189357/software-development-engineer-sponsored-products-and-brands-off-search,Seattle, WA, USA,Posted February 25, 2026,2026-02-25 17:50:54
