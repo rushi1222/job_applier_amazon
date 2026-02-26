@@ -329,3 +329,5 @@ New York, NY, USA
 Herndon, VA, USA,Posted February 26, 2026,2026-02-26 03:02:34
 3189987,Principal Software Engineer, Database Services,https://www.amazon.jobs/en/jobs/3189987/principal-software-engineer-database-services,Redmond, WA, USA,Posted February 26, 2026,2026-02-26 04:17:52
 3190420,Software Development Engineer,https://www.amazon.jobs/en/jobs/3190420/software-development-engineer,Austin, TX, USA,Posted February 26, 2026,2026-02-26 16:21:55
+3190693,Application Builder, Device Software Product Builders,https://www.amazon.jobs/en/jobs/3190693/application-builder-device-software-product-builders,Hawthorne, CA, USA
+North Reading, MA, USA,Posted February 26, 2026,2026-02-26 19:20:29
