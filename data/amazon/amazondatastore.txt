@@ -337,3 +337,4 @@ North Reading, MA, USA,Posted February 26, 2026,2026-02-26 19:20:29
 Palo Alto, CA, USA
 Seattle, WA, USA,Posted February 26, 2026,2026-02-26 20:13:25
 3190766,Embedded SDE, FPGA ML Accelerator , Annapurna Labs,https://www.amazon.jobs/en/jobs/3190766/embedded-sde-fpga-ml-accelerator-annapurna-labs,Austin, TX, USA,Posted February 26, 2026,2026-02-26 20:46:43
+3190996,Senior Software Development Engineer, AWS Security, Software Engineering, AWS Security Operations Centre (SOC),https://www.amazon.jobs/en/jobs/3190996/senior-software-development-engineer-aws-security-software-engineering-aws-security-operations-centre-soc,Herndon, VA, USA,Posted February 26, 2026,2026-02-26 22:45:20
