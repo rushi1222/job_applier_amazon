@@ -331,3 +331,5 @@ Herndon, VA, USA,Posted February 26, 2026,2026-02-26 03:02:34
 3190420,Software Development Engineer,https://www.amazon.jobs/en/jobs/3190420/software-development-engineer,Austin, TX, USA,Posted February 26, 2026,2026-02-26 16:21:55
 3190693,Application Builder, Device Software Product Builders,https://www.amazon.jobs/en/jobs/3190693/application-builder-device-software-product-builders,Hawthorne, CA, USA
 North Reading, MA, USA,Posted February 26, 2026,2026-02-26 19:20:29
+3190729,Front End Engineer II, AWS Marketplace,https://www.amazon.jobs/en/jobs/3190729/front-end-engineer-ii-aws-marketplace,Seattle, WA, USA,Posted February 26, 2026,2026-02-26 19:47:20
+3190732,Front-end Engineer, AWS Marketplace Search,https://www.amazon.jobs/en/jobs/3190732/front-end-engineer-aws-marketplace-search,Seattle, WA, USA,Posted February 26, 2026,2026-02-26 19:47:20
