@@ -339,3 +339,6 @@ Seattle, WA, USA,Posted February 26, 2026,2026-02-26 20:13:25
 3190766,Embedded SDE, FPGA ML Accelerator , Annapurna Labs,https://www.amazon.jobs/en/jobs/3190766/embedded-sde-fpga-ml-accelerator-annapurna-labs,Austin, TX, USA,Posted February 26, 2026,2026-02-26 20:46:43
 3190996,Senior Software Development Engineer, AWS Security, Software Engineering, AWS Security Operations Centre (SOC),https://www.amazon.jobs/en/jobs/3190996/senior-software-development-engineer-aws-security-software-engineering-aws-security-operations-centre-soc,Herndon, VA, USA,Posted February 26, 2026,2026-02-26 22:45:20
 3191087,Software Engineer - Ads Demand,https://www.amazon.jobs/en/jobs/3191087/software-engineer-ads-demand,San Francisco, CA, USA,Posted February 27, 2026,2026-02-27 00:29:19
+3191114,Software Development Engineer,https://www.amazon.jobs/en/jobs/3191114/software-development-engineer,Redmond, WA, USA,Posted February 27, 2026,2026-02-27 00:56:03
+3191101,Front End Engineer, Alexa Endpoints,https://www.amazon.jobs/en/jobs/3191101/front-end-engineer-alexa-endpoints,San Francisco, CA, USA
+Seattle, WA, USA,Posted February 27, 2026,2026-02-27 00:56:03
