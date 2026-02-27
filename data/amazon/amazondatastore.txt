@@ -343,3 +343,4 @@ Seattle, WA, USA,Posted February 26, 2026,2026-02-26 20:13:25
 3191101,Front End Engineer, Alexa Endpoints,https://www.amazon.jobs/en/jobs/3191101/front-end-engineer-alexa-endpoints,San Francisco, CA, USA
 Seattle, WA, USA,Posted February 27, 2026,2026-02-27 00:56:03
 3191123,Software Development Engineer,https://www.amazon.jobs/en/jobs/3191123/software-development-engineer,Redmond, WA, USA,Posted February 27, 2026,2026-02-27 01:37:10
+3191281,Software Dev Engineer II, AgentCore Gateway,https://www.amazon.jobs/en/jobs/3191281/software-dev-engineer-ii-agentcore-gateway,Bellevue, WA, USA,Posted February 27, 2026,2026-02-27 06:48:20
