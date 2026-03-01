@@ -351,3 +351,4 @@ Cupertino, CA, USA,Posted February 27, 2026,2026-02-27 18:14:25
 3192005,Software Dev Engineer, Shipping Engine - Shipping and Region Authority,https://www.amazon.jobs/en/jobs/3192005/software-dev-engineer-shipping-engine-shipping-and-region-authority,Seattle, WA, USA,Posted February 27, 2026,2026-02-27 19:16:15
 3192218,Software Development Engineer II, Security Issue Management,https://www.amazon.jobs/en/jobs/3192218/software-development-engineer-ii-security-issue-management,Austin, TX, USA,Posted February 27, 2026,2026-02-27 21:42:31
 3192062,Sr. Software Dev. Engineer, Amazon Leo Mission Operations,https://www.amazon.jobs/en/jobs/3192062/sr-software-dev-engineer-amazon-leo-mission-operations,Redmond, WA, USA,Posted February 27, 2026,2026-02-28 00:25:23
+3192409,Principal Software Engineer, AWS Neuron,https://www.amazon.jobs/en/jobs/3192409/principal-software-engineer-aws-neuron,Cupertino, CA, USA,Posted March 1, 2026,2026-03-01 01:36:03
