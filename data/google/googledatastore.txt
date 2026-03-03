@@ -1920,3 +1920,4 @@
 117561189260501702,Cloud Infrastructure Engineer Hpc Tpu Public Sector,https://www.google.com/about/careers/applications/jobs/results/117561189260501702-cloud-infrastructure-engineer-hpc-tpu-public-sector?q=software%20developer&location=USA&sort_by=date,null,null
 89594561252205254,Data Center Engineer,https://www.google.com/about/careers/applications/jobs/results/89594561252205254-data-center-engineer?q=software%20developer&location=USA&sort_by=date,null,null
 129012053107974854,Field Solutions Architect Applied Ai Google Cloud,https://www.google.com/about/careers/applications/jobs/results/129012053107974854-field-solutions-architect-applied-ai-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
+74268468672635590,Senior Product Manager Google Home Hardware,https://www.google.com/about/careers/applications/jobs/results/74268468672635590-senior-product-manager-google-home-hardware?q=software%20developer&location=USA&sort_by=date,null,null
