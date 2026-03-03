@@ -360,3 +360,7 @@ Herndon, VA, USA
 3193446,Sr iOS Engineer, Amazon Music, Community and Fandom,https://www.amazon.jobs/en/jobs/3193446/sr-ios-engineer-amazon-music-community-and-fandom,San Francisco, CA, USA,Posted March 2, 2026,2026-03-02 20:46:37
 3193658,Software Development Engineer, Fire TV,https://www.amazon.jobs/en/jobs/3193658/software-development-engineer-fire-tv,Sunnyvale, CA, USA,Posted March 3, 2026,2026-03-03 00:29:36
 3193758,Software Development Engineer II, MLA HW/SW Co-Design - Annapurna Labs,https://www.amazon.jobs/en/jobs/3193758/software-development-engineer-ii-mla-hw-sw-co-design-annapurna-labs,Austin, TX, USA,Posted March 3, 2026,2026-03-03 04:17:24
+3194445,Software Development Engineer, AWS Proactive Security,https://www.amazon.jobs/en/jobs/3194445/software-development-engineer-aws-proactive-security,Arlington, VA, USA
+Austin, TX, USA
+Herndon, VA, USA
++1 other locations,Posted March 3, 2026,2026-03-03 18:18:14
