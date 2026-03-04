@@ -370,3 +370,7 @@ Bellevue, WA, USA,Posted March 3, 2026,2026-03-03 19:44:53
 3195100,Software Development Engineer, Lep Telemetry and Command,https://www.amazon.jobs/en/jobs/3195100/software-development-engineer-lep-telemetry-and-command,Redmond, WA, USA,Posted March 3, 2026,2026-03-03 23:41:21
 3195126,Sr Android Developer, Ring Software Product Builders,https://www.amazon.jobs/en/jobs/3195126/sr-android-developer-ring-software-product-builders,Hawthorne, CA, USA
 North Reading, MA, USA,Posted March 3, 2026,2026-03-04 00:28:06
+3195765,Principal, Senior Principal and Distinguished Engineer, AWS Database Services,https://www.amazon.jobs/en/jobs/3195765/principal-senior-principal-and-distinguished-engineer-aws-database-services,Bellevue, WA, USA
+East Palo Alto, CA, USA
+Redmond, WA, USA
++1 other locations,Posted March 4, 2026,2026-03-04 16:15:11
