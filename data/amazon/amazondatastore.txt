@@ -384,3 +384,4 @@ Seattle, WA, USA,Posted March 4, 2026,2026-03-04 19:18:14
 3196097,Senior Software Development Engineer, Prime Video Intelligence,https://www.amazon.jobs/en/jobs/3196097/senior-software-development-engineer-prime-video-intelligence,Seattle, WA, USA,Posted March 4, 2026,2026-03-04 19:44:52
 3196213,Software Development Engineer, AWS VPC Zonal Interface Manager,https://www.amazon.jobs/en/jobs/3196213/software-development-engineer-aws-vpc-zonal-interface-manager,Arlington, VA, USA,Posted March 4, 2026,2026-03-04 21:11:44
 3196201,Software Development Engineer, EC2 Software Defined Networking, EC2 Networking(VPC Core),https://www.amazon.jobs/en/jobs/3196201/software-development-engineer-ec2-software-defined-networking-ec2-networking-vpc-core,Seattle, WA, USA,Posted March 4, 2026,2026-03-04 21:11:44
+3196266,Embedded SDE,https://www.amazon.jobs/en/jobs/3196266/embedded-sde,Sunnyvale, CA, USA,Posted March 4, 2026,2026-03-04 21:45:16
