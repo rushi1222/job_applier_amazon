@@ -396,3 +396,9 @@ Cupertino, CA, USA,Posted March 4, 2026,2026-03-04 22:09:39
 3196647,Software Development Engineer, AWS Proactive Security,https://www.amazon.jobs/en/jobs/3196647/software-development-engineer-aws-proactive-security,Seattle, WA, USA,Posted March 5, 2026,2026-03-05 03:01:26
 3196779,Front End Engineer II, AWS Marketplace , AWS Marketplace,https://www.amazon.jobs/en/jobs/3196779/front-end-engineer-ii-aws-marketplace-aws-marketplace,New York, NY, USA,Posted March 5, 2026,2026-03-05 07:20:44
 3196831,Software Development Engineer,https://www.amazon.jobs/en/jobs/3196831/software-development-engineer,San Francisco, CA, USA,Posted March 5, 2026,2026-03-05 10:16:43
+3197130,Software Engineer I,https://www.amazon.jobs/en/jobs/3197130/software-engineer-i,Irvine, CA, USA
+San Francisco, CA, USA,Posted March 5, 2026,2026-03-05 19:30:43
+3197248,Sr. Software Development Engineer, Amazon Leo for Government,https://www.amazon.jobs/en/jobs/3197248/sr-software-development-engineer-amazon-leo-for-government,Arlington, VA, USA
+El Segundo, CA, USA
+NORTHRIDGE, CA, USA
++2 other locations,Posted March 5, 2026,2026-03-05 19:30:43
