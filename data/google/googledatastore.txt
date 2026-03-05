@@ -2116,3 +2116,4 @@
 127658973053493958,Software Engineer Iii Google Distributed Cloud,https://www.google.com/about/careers/applications/jobs/results/127658973053493958-software-engineer-iii-google-distributed-cloud?q=software%20developer&location=USA&sort_by=date,null,null
 117792917778506438,Software Engineer Kernels And Performance Core Ml Frameworks,https://www.google.com/about/careers/applications/jobs/results/117792917778506438-software-engineer-kernels-and-performance-core-ml-frameworks?q=software%20developer&location=USA&sort_by=date,null,null
 77427406381425350,Senior Ux Engineer Support Platform,https://www.google.com/about/careers/applications/jobs/results/77427406381425350-senior-ux-engineer-support-platform?q=software%20developer&location=USA&sort_by=date,null,null
+77588072518034118,Asic Implementation Lead,https://www.google.com/about/careers/applications/jobs/results/77588072518034118-asic-implementation-lead?q=software%20developer&location=USA&sort_by=date,null,null
