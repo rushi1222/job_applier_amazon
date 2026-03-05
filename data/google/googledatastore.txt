@@ -2119,3 +2119,5 @@
 77588072518034118,Asic Implementation Lead,https://www.google.com/about/careers/applications/jobs/results/77588072518034118-asic-implementation-lead?q=software%20developer&location=USA&sort_by=date,null,null
 84752490284622534,Data Center Technician,https://www.google.com/about/careers/applications/jobs/results/84752490284622534-data-center-technician?q=software%20developer&location=USA&sort_by=date,null,null
 113616869536998086,Field Sales Representative Iii Financial Services Google Cloud,https://www.google.com/about/careers/applications/jobs/results/113616869536998086-field-sales-representative-iii-financial-services-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
+84206823279600326,Software Engineer Kubernetes Networking,https://www.google.com/about/careers/applications/jobs/results/84206823279600326-software-engineer-kubernetes-networking?q=software%20developer&location=USA&sort_by=date,null,null
+142595597998662342,Software Engineer Pixel Biometrics,https://www.google.com/about/careers/applications/jobs/results/142595597998662342-software-engineer-pixel-biometrics?q=software%20developer&location=USA&sort_by=date,null,null
