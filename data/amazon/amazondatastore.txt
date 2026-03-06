@@ -413,3 +413,4 @@ NORTHRIDGE, CA, USA
 Jersey City, NJ, USA,Posted March 6, 2026,2026-03-06 18:14:55
 3198595,Senior Architecture Modeling Engineer, AWS Machine Learning Accelerators,https://www.amazon.jobs/en/jobs/3198595/senior-architecture-modeling-engineer-aws-machine-learning-accelerators,Cupertino, CA, USA,Posted March 6, 2026,2026-03-06 19:16:41
 3198635,Software Development Engineer, Sponsored Brands Advertising,https://www.amazon.jobs/en/jobs/3198635/software-development-engineer-sponsored-brands-advertising,Seattle, WA, USA,Posted March 6, 2026,2026-03-06 19:43:57
+3198664,Sr. SDE, Machine Learning, Prime Video Personalization and Discovery,https://www.amazon.jobs/en/jobs/3198664/sr-sde-machine-learning-prime-video-personalization-and-discovery,Seattle, WA, USA,Posted March 6, 2026,2026-03-06 20:10:14
