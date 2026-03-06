@@ -404,3 +404,4 @@ NORTHRIDGE, CA, USA
 +2 other locations,Posted March 5, 2026,2026-03-05 19:30:43
 3191934,Front-End Engineer II - AMZ9639658,https://www.amazon.jobs/en/jobs/3191934/front-end-engineer-ii-amz9639658,Mountain View, CA, USA,Posted February 27, 2026,2026-03-05 20:46:51
 3197843,Machine Learning Engineer, AWS Applied AI Solution,https://www.amazon.jobs/en/jobs/3197843/machine-learning-engineer-aws-applied-ai-solution,Seattle, WA, USA,Posted March 5, 2026,2026-03-06 00:32:53
+3195729,Software Dev Engineer II - AMZ10016764,https://www.amazon.jobs/en/jobs/3195729/software-dev-engineer-ii-amz10016764,Seattle, WA, USA,Posted March 4, 2026,2026-03-06 16:47:47
