@@ -411,3 +411,4 @@ NORTHRIDGE, CA, USA
 3198450,Front-End Engineer II, Lambda Developer Experience,https://www.amazon.jobs/en/jobs/3198450/front-end-engineer-ii-lambda-developer-experience,Seattle, WA, USA,Posted March 6, 2026,2026-03-06 17:45:40
 3198486,Sr. Software Development Engineer, Workshop Studio, Catalog & Events,https://www.amazon.jobs/en/jobs/3198486/sr-software-development-engineer-workshop-studio-catalog-events,Austin, TX, USA
 Jersey City, NJ, USA,Posted March 6, 2026,2026-03-06 18:14:55
+3198595,Senior Architecture Modeling Engineer, AWS Machine Learning Accelerators,https://www.amazon.jobs/en/jobs/3198595/senior-architecture-modeling-engineer-aws-machine-learning-accelerators,Cupertino, CA, USA,Posted March 6, 2026,2026-03-06 19:16:41
