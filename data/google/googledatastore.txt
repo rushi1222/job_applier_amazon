@@ -2203,3 +2203,4 @@
 90190004780704454,Senior Software Engineer Aiml Search Ads,https://www.google.com/about/careers/applications/jobs/results/90190004780704454-senior-software-engineer-aiml-search-ads?q=software%20developer&location=USA&sort_by=date,null,null
 88432435443704518,Regional Manager Community Development Data Centers,https://www.google.com/about/careers/applications/jobs/results/88432435443704518-regional-manager-community-development-data-centers?q=software%20developer&location=USA&sort_by=date,null,null
 129809257020170950,Senior Software Engineer Ios Workspace Security,https://www.google.com/about/careers/applications/jobs/results/129809257020170950-senior-software-engineer-ios-workspace-security?q=software%20developer&location=USA&sort_by=date,null,null
+139869788414321350,Data Center Technician I,https://www.google.com/about/careers/applications/jobs/results/139869788414321350-data-center-technician-i?q=software%20developer&location=USA&sort_by=date,null,null
