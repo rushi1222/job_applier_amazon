@@ -416,3 +416,4 @@ Jersey City, NJ, USA,Posted March 6, 2026,2026-03-06 18:14:55
 3198664,Sr. SDE, Machine Learning, Prime Video Personalization and Discovery,https://www.amazon.jobs/en/jobs/3198664/sr-sde-machine-learning-prime-video-personalization-and-discovery,Seattle, WA, USA,Posted March 6, 2026,2026-03-06 20:10:14
 3198802,SW Automation and Framework Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3198802/sw-automation-and-framework-engineer-amazon-leo,Redmond, WA, USA,Posted March 6, 2026,2026-03-06 22:44:15
 3198862,Software Development Engineer, Fire TV,https://www.amazon.jobs/en/jobs/3198862/software-development-engineer-fire-tv,Sunnyvale, CA, USA,Posted March 7, 2026,2026-03-07 00:53:18
+3198935,Software Development Engineer, Ads Payments,https://www.amazon.jobs/en/jobs/3198935/software-development-engineer-ads-payments,New York, NY, USA,Posted March 8, 2026,2026-03-08 07:14:51
