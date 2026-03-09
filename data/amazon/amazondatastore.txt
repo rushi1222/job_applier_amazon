@@ -419,3 +419,5 @@ Jersey City, NJ, USA,Posted March 6, 2026,2026-03-06 18:14:55
 3198935,Software Development Engineer, Ads Payments,https://www.amazon.jobs/en/jobs/3198935/software-development-engineer-ads-payments,New York, NY, USA,Posted March 8, 2026,2026-03-08 07:14:51
 3199527,Software Dev Engineer II - AMZ9675632,https://www.amazon.jobs/en/jobs/3199527/software-dev-engineer-ii-amz9675632,New York, NY, USA,Posted March 9, 2026,2026-03-09 16:24:56
 3199532,Software Dev Engineer II - AMZ9673866,https://www.amazon.jobs/en/jobs/3199532/software-dev-engineer-ii-amz9673866,New York, NY, USA,Posted March 9, 2026,2026-03-09 16:24:56
+3199652,Software Development Engineer, AWS Marketplace Catalog Search,https://www.amazon.jobs/en/jobs/3199652/software-development-engineer-aws-marketplace-catalog-search,Seattle, WA, USA,Posted March 9, 2026,2026-03-09 17:20:39
+3199657,Software Dev Engineer, Offer Listing Systems,https://www.amazon.jobs/en/jobs/3199657/software-dev-engineer-offer-listing-systems,Seattle, WA, USA,Posted March 9, 2026,2026-03-09 17:20:39
