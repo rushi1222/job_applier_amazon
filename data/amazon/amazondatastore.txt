@@ -423,3 +423,13 @@ Jersey City, NJ, USA,Posted March 6, 2026,2026-03-06 18:14:55
 3199657,Software Dev Engineer, Offer Listing Systems,https://www.amazon.jobs/en/jobs/3199657/software-dev-engineer-offer-listing-systems,Seattle, WA, USA,Posted March 9, 2026,2026-03-09 17:20:39
 3200027,Software Development Engineer, Player Team,https://www.amazon.jobs/en/jobs/3200027/software-development-engineer-player-team,Newark, NJ, USA,Posted March 9, 2026,2026-03-09 21:11:08
 3200029,Lead Software Development Engineer, Consumer Domains,https://www.amazon.jobs/en/jobs/3200029/lead-software-development-engineer-consumer-domains,Newark, NJ, USA,Posted March 9, 2026,2026-03-09 21:11:08
+3197645,IT App Dev Engr II - AMZ9830115,https://www.amazon.jobs/en/jobs/3197645/it-app-dev-engr-ii-amz9830115,Denver, CO, USA,Posted March 5, 2026,2026-03-09 22:09:12
+3199554,Vendor Product Manager, re:Cycle Reverse Logistics,https://www.amazon.jobs/en/jobs/3199554/vendor-product-manager-re-cycle-reverse-logistics,Greencastle, PA, USA,Posted March 9, 2026,2026-03-09 22:09:12
+3199738,Software Development Manager, Stores Foundational AI -SFAI,https://www.amazon.jobs/en/jobs/3199738/software-development-manager-stores-foundational-ai-sfai,Palo Alto, CA, USA
+Seattle, WA, USA,Posted March 9, 2026,2026-03-09 22:09:12
+3197539,Software Development Manager, Identity Security & Abuse Prevention,https://www.amazon.jobs/en/jobs/3197539/software-development-manager-identity-security-abuse-prevention,Seattle, WA, USA,Posted March 5, 2026,2026-03-09 22:09:12
+3195596,Software Development Manager, ESCAPE,https://www.amazon.jobs/en/jobs/3195596/software-development-manager-escape,San Luis Obispo, CA, USA,Posted March 4, 2026,2026-03-09 22:09:12
+3197536,Software Development Manager, Identity Security & Abuse Prevention,https://www.amazon.jobs/en/jobs/3197536/software-development-manager-identity-security-abuse-prevention,Austin, TX, USA,Posted March 5, 2026,2026-03-09 22:09:12
+3196281,Software Development Engineer, Sponsored Brands Advertising,https://www.amazon.jobs/en/jobs/3196281/software-development-engineer-sponsored-brands-advertising,New York, NY, USA,Posted March 4, 2026,2026-03-09 22:09:12
+3185152,Quality Assurance Engineer II (ADBL185),https://www.amazon.jobs/en/jobs/3185152/quality-assurance-engineer-ii-adbl185,Cambridge, MA, USA,Posted February 19, 2026,2026-03-09 22:09:12
+3184510,Member of Technical Staff, Frontend, AGI,https://www.amazon.jobs/en/jobs/3184510/member-of-technical-staff-frontend-agi,San Francisco, CA, USA,Posted February 19, 2026,2026-03-09 22:09:12
