@@ -417,3 +417,5 @@ Jersey City, NJ, USA,Posted March 6, 2026,2026-03-06 18:14:55
 3198802,SW Automation and Framework Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/3198802/sw-automation-and-framework-engineer-amazon-leo,Redmond, WA, USA,Posted March 6, 2026,2026-03-06 22:44:15
 3198862,Software Development Engineer, Fire TV,https://www.amazon.jobs/en/jobs/3198862/software-development-engineer-fire-tv,Sunnyvale, CA, USA,Posted March 7, 2026,2026-03-07 00:53:18
 3198935,Software Development Engineer, Ads Payments,https://www.amazon.jobs/en/jobs/3198935/software-development-engineer-ads-payments,New York, NY, USA,Posted March 8, 2026,2026-03-08 07:14:51
+3199527,Software Dev Engineer II - AMZ9675632,https://www.amazon.jobs/en/jobs/3199527/software-dev-engineer-ii-amz9675632,New York, NY, USA,Posted March 9, 2026,2026-03-09 16:24:56
+3199532,Software Dev Engineer II - AMZ9673866,https://www.amazon.jobs/en/jobs/3199532/software-dev-engineer-ii-amz9673866,New York, NY, USA,Posted March 9, 2026,2026-03-09 16:24:56
