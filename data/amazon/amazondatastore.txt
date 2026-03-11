@@ -433,3 +433,4 @@ Seattle, WA, USA,Posted March 9, 2026,2026-03-09 22:09:12
 3196281,Software Development Engineer, Sponsored Brands Advertising,https://www.amazon.jobs/en/jobs/3196281/software-development-engineer-sponsored-brands-advertising,New York, NY, USA,Posted March 4, 2026,2026-03-09 22:09:12
 3185152,Quality Assurance Engineer II (ADBL185),https://www.amazon.jobs/en/jobs/3185152/quality-assurance-engineer-ii-adbl185,Cambridge, MA, USA,Posted February 19, 2026,2026-03-09 22:09:12
 3184510,Member of Technical Staff, Frontend, AGI,https://www.amazon.jobs/en/jobs/3184510/member-of-technical-staff-frontend-agi,San Francisco, CA, USA,Posted February 19, 2026,2026-03-09 22:09:12
+3202155,Software Development Manager, Specialist Technology Team,https://www.amazon.jobs/en/jobs/3202155/software-development-manager-specialist-technology-team,Austin, TX, USA,Posted March 11, 2026,2026-03-11 15:22:25
