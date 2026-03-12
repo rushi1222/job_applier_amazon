@@ -436,3 +436,5 @@ Seattle, WA, USA,Posted March 9, 2026,2026-03-09 22:09:12
 3202155,Software Development Manager, Specialist Technology Team,https://www.amazon.jobs/en/jobs/3202155/software-development-manager-specialist-technology-team,Austin, TX, USA,Posted March 11, 2026,2026-03-11 15:22:25
 3202563,Software Development Engineer, IAM Control Plane Team,https://www.amazon.jobs/en/jobs/3202563/software-development-engineer-iam-control-plane-team,Seattle, WA, USA,Posted March 11, 2026,2026-03-11 20:11:31
 3202559,Software Development Engineer, IAM Control Plane Team,https://www.amazon.jobs/en/jobs/3202559/software-development-engineer-iam-control-plane-team,Seattle, WA, USA,Posted March 11, 2026,2026-03-11 20:11:31
+3203761,Software Development Manager, AWS Marketing Demand Services,https://www.amazon.jobs/en/jobs/3203761/software-development-manager-aws-marketing-demand-services,New York, NY, USA
+Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
