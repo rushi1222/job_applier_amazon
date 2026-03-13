@@ -2552,3 +2552,4 @@
 83844194895831750,Senior Staff Software Engineer Aiml Security,https://www.google.com/about/careers/applications/jobs/results/83844194895831750-senior-staff-software-engineer-aiml-security?q=software%20developer&location=USA&sort_by=date,null,null
 90951438057775814,Insights Analyst Google Cloud,https://www.google.com/about/careers/applications/jobs/results/90951438057775814-insights-analyst-google-cloud?q=software%20developer&location=USA&sort_by=date,null,null
 127767485402227398,Data Center Technician,https://www.google.com/about/careers/applications/jobs/results/127767485402227398-data-center-technician?q=software%20developer&location=USA&sort_by=date,null,null
+112195173353431750,Senior Hardware Systems Design Engineer Board And Systems,https://www.google.com/about/careers/applications/jobs/results/112195173353431750-senior-hardware-systems-design-engineer-board-and-systems?q=software%20developer&location=USA&sort_by=date,null,null
