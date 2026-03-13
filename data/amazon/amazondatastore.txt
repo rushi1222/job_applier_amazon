@@ -438,3 +438,4 @@ Seattle, WA, USA,Posted March 9, 2026,2026-03-09 22:09:12
 3202559,Software Development Engineer, IAM Control Plane Team,https://www.amazon.jobs/en/jobs/3202559/software-development-engineer-iam-control-plane-team,Seattle, WA, USA,Posted March 11, 2026,2026-03-11 20:11:31
 3203761,Software Development Manager, AWS Marketing Demand Services,https://www.amazon.jobs/en/jobs/3203761/software-development-manager-aws-marketing-demand-services,New York, NY, USA
 Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
+3204620,Principal Software Dev Eng - AMZ9084456,https://www.amazon.jobs/en/jobs/3204620/principal-software-dev-eng-amz9084456,Santa Clara, CA, USA,Posted March 13, 2026,2026-03-13 20:11:23
