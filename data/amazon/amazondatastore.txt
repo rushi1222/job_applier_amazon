@@ -439,3 +439,4 @@ Seattle, WA, USA,Posted March 9, 2026,2026-03-09 22:09:12
 3203761,Software Development Manager, AWS Marketing Demand Services,https://www.amazon.jobs/en/jobs/3203761/software-development-manager-aws-marketing-demand-services,New York, NY, USA
 Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
 3204620,Principal Software Dev Eng - AMZ9084456,https://www.amazon.jobs/en/jobs/3204620/principal-software-dev-eng-amz9084456,Santa Clara, CA, USA,Posted March 13, 2026,2026-03-13 20:11:23
+3204666,Senior Software Development Engineer, Aurora PostgreSQL,https://www.amazon.jobs/en/jobs/3204666/senior-software-development-engineer-aurora-postgresql,Redmond, WA, USA,Posted March 13, 2026,2026-03-13 21:12:24
