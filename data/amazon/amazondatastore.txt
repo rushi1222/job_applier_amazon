@@ -440,3 +440,4 @@ Seattle, WA, USA,Posted March 9, 2026,2026-03-09 22:09:12
 Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
 3204620,Principal Software Dev Eng - AMZ9084456,https://www.amazon.jobs/en/jobs/3204620/principal-software-dev-eng-amz9084456,Santa Clara, CA, USA,Posted March 13, 2026,2026-03-13 20:11:23
 3204666,Senior Software Development Engineer, Aurora PostgreSQL,https://www.amazon.jobs/en/jobs/3204666/senior-software-development-engineer-aurora-postgresql,Redmond, WA, USA,Posted March 13, 2026,2026-03-13 21:12:24
+3201260,Quality Assurance Engineer II - AMZ9740777,https://www.amazon.jobs/en/jobs/3201260/quality-assurance-engineer-ii-amz9740777,Sunnyvale, CA, USA,Posted March 10, 2026,2026-03-13 21:45:12
