@@ -2627,3 +2627,8 @@
 129562927760843462,Software Engineer Docs Ai Workspace,https://www.google.com/about/careers/applications/jobs/results/129562927760843462-software-engineer-docs-ai-workspace?q=software%20developer&location=USA&sort_by=date,null,null
 75342161104511686,Lead Visual Designer Large Customer Sales,https://www.google.com/about/careers/applications/jobs/results/75342161104511686-lead-visual-designer-large-customer-sales?q=software%20developer&location=USA&sort_by=date,null,null
 72537856697868998,Software Engineer Genai Ads Forecasting,https://www.google.com/about/careers/applications/jobs/results/72537856697868998-software-engineer-genai-ads-forecasting?q=software%20developer&location=USA&sort_by=date,null,null
+97208011407139526,Developer Relations Engineer,https://www.google.com/about/careers/applications/jobs/results/97208011407139526-developer-relations-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+142631035773821638,Network Implementation Engineer,https://www.google.com/about/careers/applications/jobs/results/142631035773821638-network-implementation-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+78630662944236230,Network Engineer,https://www.google.com/about/careers/applications/jobs/results/78630662944236230-network-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+93232177361101510,Application Engineer,https://www.google.com/about/careers/applications/jobs/results/93232177361101510-application-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+77482772804838086,Network Test Engineer,https://www.google.com/about/careers/applications/jobs/results/77482772804838086-network-test-engineer?q=software%20developer&location=USA&sort_by=date,null,null
