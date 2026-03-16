@@ -2632,3 +2632,6 @@
 78630662944236230,Network Engineer,https://www.google.com/about/careers/applications/jobs/results/78630662944236230-network-engineer?q=software%20developer&location=USA&sort_by=date,null,null
 93232177361101510,Application Engineer,https://www.google.com/about/careers/applications/jobs/results/93232177361101510-application-engineer?q=software%20developer&location=USA&sort_by=date,null,null
 77482772804838086,Network Test Engineer,https://www.google.com/about/careers/applications/jobs/results/77482772804838086-network-test-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+113663852184249030,Silicon Engineer Pampd Gcpu Design Verification,https://www.google.com/about/careers/applications/jobs/results/113663852184249030-silicon-engineer-pampd-gcpu-design-verification?q=software%20developer&location=USA&sort_by=date,null,null
+98915552965075654,Network Implementation Engineer,https://www.google.com/about/careers/applications/jobs/results/98915552965075654-network-implementation-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+84747246129554118,Software Engineer Iii Quantum,https://www.google.com/about/careers/applications/jobs/results/84747246129554118-software-engineer-iii-quantum?q=software%20developer&location=USA&sort_by=date,null,null
