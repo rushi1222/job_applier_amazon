@@ -2654,3 +2654,4 @@
 132088712128275142,Software Engineer Gcs Transfer Appliance Infrastructure,https://www.google.com/about/careers/applications/jobs/results/132088712128275142-software-engineer-gcs-transfer-appliance-infrastructure?q=software%20developer&location=USA&sort_by=date,null,null
 94810869900157638,Data Center Technician Iii,https://www.google.com/about/careers/applications/jobs/results/94810869900157638-data-center-technician-iii?q=software%20developer&location=USA&sort_by=date,null,null
 123690642315322054,Data Center Facilities Technician Generators,https://www.google.com/about/careers/applications/jobs/results/123690642315322054-data-center-facilities-technician-generators?q=software%20developer&location=USA&sort_by=date,null,null
+85902626691916486,Data Center Technician Ii Operations,https://www.google.com/about/careers/applications/jobs/results/85902626691916486-data-center-technician-ii-operations?q=software%20developer&location=USA&sort_by=date,null,null
