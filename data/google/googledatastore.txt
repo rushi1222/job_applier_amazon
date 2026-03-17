@@ -2700,3 +2700,4 @@
 89313638178792134,Technical Solutions Engineer Home Automation,https://www.google.com/about/careers/applications/jobs/results/89313638178792134-technical-solutions-engineer-home-automation?q=software%20developer&location=USA&sort_by=date,null,null
 127089559174292166,Software Engineer Data Center Orchestration,https://www.google.com/about/careers/applications/jobs/results/127089559174292166-software-engineer-data-center-orchestration?q=software%20developer&location=USA&sort_by=date,null,null
 102580895235351238,Software Engineer Autocap,https://www.google.com/about/careers/applications/jobs/results/102580895235351238-software-engineer-autocap?q=software%20developer&location=USA&sort_by=date,null,null
+86059633516389062,Data Analytics Sales Specialist Us Retail,https://www.google.com/about/careers/applications/jobs/results/86059633516389062-data-analytics-sales-specialist-us-retail?q=software%20developer&location=USA&sort_by=date,null,null
