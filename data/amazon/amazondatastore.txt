@@ -443,3 +443,4 @@ Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
 3201260,Quality Assurance Engineer II - AMZ9740777,https://www.amazon.jobs/en/jobs/3201260/quality-assurance-engineer-ii-amz9740777,Sunnyvale, CA, USA,Posted March 10, 2026,2026-03-13 21:45:12
 3205554,Software Dev Engineer II, Item and Offers Platform,https://www.amazon.jobs/en/jobs/3205554/software-dev-engineer-ii-item-and-offers-platform,Sunnyvale, CA, USA,Posted March 16, 2026,2026-03-16 17:50:43
 3207036,Sr. Technical Program Manager, AIS Material Optimization,https://www.amazon.jobs/en/jobs/3207036/sr-technical-program-manager-ais-material-optimization,Austin, TX, USA,Posted March 17, 2026,2026-03-17 19:26:15
+3199465,Software Dev Engineer III - AMZ9673940,https://www.amazon.jobs/en/jobs/3199465/software-dev-engineer-iii-amz9673940,Boston, MA, USA,Posted March 9, 2026,2026-03-18 14:34:59
