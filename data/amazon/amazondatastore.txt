@@ -444,3 +444,4 @@ Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
 3205554,Software Dev Engineer II, Item and Offers Platform,https://www.amazon.jobs/en/jobs/3205554/software-dev-engineer-ii-item-and-offers-platform,Sunnyvale, CA, USA,Posted March 16, 2026,2026-03-16 17:50:43
 3207036,Sr. Technical Program Manager, AIS Material Optimization,https://www.amazon.jobs/en/jobs/3207036/sr-technical-program-manager-ais-material-optimization,Austin, TX, USA,Posted March 17, 2026,2026-03-17 19:26:15
 3199465,Software Dev Engineer III - AMZ9673940,https://www.amazon.jobs/en/jobs/3199465/software-dev-engineer-iii-amz9673940,Boston, MA, USA,Posted March 9, 2026,2026-03-18 14:34:59
+3207941,Manager III, Software Development, Secure Tools Foundation,https://www.amazon.jobs/en/jobs/3207941/manager-iii-software-development-secure-tools-foundation,Seattle, WA, USA,Posted March 18, 2026,2026-03-18 16:33:23
