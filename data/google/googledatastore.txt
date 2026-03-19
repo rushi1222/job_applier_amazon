@@ -2796,3 +2796,4 @@
 91182773586272966,Product Marketing Manager Cloud Observability,https://www.google.com/about/careers/applications/jobs/results/91182773586272966-product-marketing-manager-cloud-observability?q=software%20developer&location=USA&sort_by=date,null,null
 92852931748864710,Data Center Technician,https://www.google.com/about/careers/applications/jobs/results/92852931748864710-data-center-technician?q=software%20developer&location=USA&sort_by=date,null,null
 73273928193057478,Facilities Manager Data Center Operations,https://www.google.com/about/careers/applications/jobs/results/73273928193057478-facilities-manager-data-center-operations?q=software%20developer&location=USA&sort_by=date,null,null
+105356577979933382,Distinguished Engineer Search Content Platform,https://www.google.com/about/careers/applications/jobs/results/105356577979933382-distinguished-engineer-search-content-platform?q=software%20developer&location=USA&sort_by=date,null,null
