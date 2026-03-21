@@ -453,3 +453,7 @@ Seattle, WA, USA,Posted March 12, 2026,2026-03-12 20:46:29
 10372417,Software Development Engineer, Items and Offers Platform, Catalog Diagnostics & Analytics,https://www.amazon.jobs/en/jobs/10372417/software-development-engineer-items-and-offers-platform-catalog-diagnostics-analytics,Sunnyvale, CA, USA,Posted March 20, 2026,2026-03-20 15:18:32
 10372443,Software Development Engineer, Sponsored Brands Advertising,https://www.amazon.jobs/en/jobs/10372443/software-development-engineer-sponsored-brands-advertising,New York, NY, USA,Posted March 20, 2026,2026-03-20 15:47:06
 10372621,Software Development Manager, Amazon Leo Data Platform,https://www.amazon.jobs/en/jobs/10372621/software-development-manager-amazon-leo-data-platform,Redmond, WA, USA,Posted March 20, 2026,2026-03-20 18:47:58
+10372894,Sr. Software Development Manager, Engagement Growth,https://www.amazon.jobs/en/jobs/10372894/sr-software-development-manager-engagement-growth,Culver City, CA, USA
+Irvine, CA, USA
+New York, NY, USA
++2 other locations,Posted March 21, 2026,2026-03-21 01:36:31
