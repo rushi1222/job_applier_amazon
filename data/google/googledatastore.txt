@@ -2867,3 +2867,4 @@
 128153527263339206,Staff Software Engineer Data Cloud Memorystore,https://www.google.com/about/careers/applications/jobs/results/128153527263339206-staff-software-engineer-data-cloud-memorystore?q=software%20developer&location=USA&sort_by=date,null,null
 134494410820723398,Senior Software Engineer Full Stack Youtube,https://www.google.com/about/careers/applications/jobs/results/134494410820723398-senior-software-engineer-full-stack-youtube?q=software%20developer&location=USA&sort_by=date,null,null
 82765687268745926,Soc Silicon Toplevel Floorplan Engineer,https://www.google.com/about/careers/applications/jobs/results/82765687268745926-soc-silicon-toplevel-floorplan-engineer?q=software%20developer&location=USA&sort_by=date,null,null
+132711002960470726,Software Engineer Responsible Ai,https://www.google.com/about/careers/applications/jobs/results/132711002960470726-software-engineer-responsible-ai?q=software%20developer&location=USA&sort_by=date,null,null
