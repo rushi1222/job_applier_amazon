@@ -460,3 +460,4 @@ New York, NY, USA
 10374019,Software Dev Engineer III - AMZ10031491,https://www.amazon.jobs/en/jobs/10374019/software-dev-engineer-iii-amz10031491,Seattle, WA, USA,Posted March 23, 2026,2026-03-23 19:48:09
 10374217,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/10374217/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted March 23, 2026,2026-03-23 22:45:19
 10375169,Software Development Engineer, Aurora Control Plane,https://www.amazon.jobs/en/jobs/10375169/software-development-engineer-aurora-control-plane,Seattle, WA, USA,Posted March 24, 2026,2026-03-24 20:15:14
+10376127,Software Development Manager, AWS RDS PostgreSQL,https://www.amazon.jobs/en/jobs/10376127/software-development-manager-aws-rds-postgresql,East Palo Alto, CA, USA,Posted March 25, 2026,2026-03-25 16:31:49
