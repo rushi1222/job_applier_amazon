@@ -308,10 +308,6 @@ class GoogleJobApplier(BaseScraper):
                         continue
                         
                 print(f"\n✅ Extracted {extracted_jobs_count} jobs from {len(job_links)} job links")
-                
-                # Save to data/google/googledatastore.txt
-                if jobs:
-                    self._save_to_google_txt(jobs)
             else:
                 print("\n❌ No job links found on page")
                 
@@ -350,43 +346,11 @@ class GoogleJobApplier(BaseScraper):
             print(f"Error extracting job ID from URL {url}: {e}")
             return "N/A"  # Default for errors
 
-    def _save_to_google_txt(self, jobs):
-        """Save jobs to data/google/googledatastore.txt file in CSV format like Amazon."""
-        try:
-            # Create directory if it doesn't exist
-            google_dir = os.path.join('data', 'google')
-            os.makedirs(google_dir, exist_ok=True)
-            
-            google_txt_path = os.path.join(google_dir, 'googledatastore.txt')
-            
-            # Read existing job IDs to avoid duplicates
-            existing_job_ids = set()
-            if os.path.exists(google_txt_path):
-                with open(google_txt_path, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        if line.strip():
-                            job_id = line.split(',')[0]
-                            existing_job_ids.add(job_id)
-            
-            # Filter out jobs that already exist
-            new_jobs = [job for job in jobs if job['job_id'] not in existing_job_ids]
-            
-            if not new_jobs:
-                print(f"\n💾 No new jobs to save - all {len(jobs)} jobs already exist in googledatastore.txt")
-                return
-            
-            # Append only new jobs to file in CSV format
-            with open(google_txt_path, 'a', encoding='utf-8') as f:
-                for job in new_jobs:
-                    # Format: job_id,title,url,null,null (no location or date available)
-                    line = f"{job['job_id']},{job['title']},{job['url']},null,null\n"
-                    f.write(line)
-            
-            print(f"\n💾 Saved {len(new_jobs)} new jobs to {google_txt_path} (skipped {len(jobs) - len(new_jobs)} duplicates)")
-            
-        except Exception as e:
-            print(f"❌ Error saving to googledatastore.txt: {e}")
-            traceback.print_exc()
+    # REMOVED: _save_to_google_txt() - Now using base class _save_jobs_to_datastore() instead
+    # This function was causing duplicate saves and preventing timestamps from being added
+    # def _save_to_google_txt(self, jobs):
+    #     """Save jobs to data/google/googledatastore.txt file in CSV format like Amazon."""
+    #     # Function removed - base class handles saving with proper timestamps
     
     def no_more_jobs(self):
         # Placeholder function to determine if there are more jobs to apply for

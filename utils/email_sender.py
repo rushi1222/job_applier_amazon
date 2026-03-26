@@ -115,7 +115,9 @@ def send_job_notification(jobs_by_company, email_config):
     
     try:
         msg = MIMEMultipart('alternative')
-        msg['Subject'] = f'New Job Postings Found - {total_jobs} positions across {len(jobs_by_company)} companies'
+        # Create clear subject with company names
+        company_names = ', '.join([name.upper() for name in jobs_by_company.keys()])
+        msg['Subject'] = f'🔔 {total_jobs} New Jobs: {company_names}'
         msg['From'] = sender_email
         msg['To'] = ', '.join(recipient_email)
         
