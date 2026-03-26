@@ -118,6 +118,20 @@ class GoogleJobApplier(BaseScraper):
             if not success and ci_environment:
                 print("🚫 All approaches failed - Google may be blocking CI access")
         
+        # Deduplicate all_scraped_jobs by job_id (multiple searches may return same jobs)
+        seen_ids = set()
+        deduplicated_jobs = []
+        for job in self.all_scraped_jobs:
+            job_id = job.get('job_id')
+            if job_id and job_id not in seen_ids:
+                seen_ids.add(job_id)
+                deduplicated_jobs.append(job)
+        
+        if len(self.all_scraped_jobs) != len(deduplicated_jobs):
+            print(f"🔍 Removed {len(self.all_scraped_jobs) - len(deduplicated_jobs)} duplicate jobs from different search queries")
+        
+        self.all_scraped_jobs = deduplicated_jobs
+        
         # After all searches, check for duplicates and save
         new_jobs = self._filter_new_jobs()
         if new_jobs:
