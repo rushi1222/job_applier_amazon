@@ -460,3 +460,5 @@ New York, NY, USA
 10376410,Software Dev Manager, ADC Relational Database Services,https://www.amazon.jobs/en/jobs/10376410/software-dev-manager-adc-relational-database-services,Seattle, WA, USA,Posted March 25, 2026,2026-03-26 14:18:39
 10376127,Software Development Manager, AWS RDS PostgreSQL,https://www.amazon.jobs/en/jobs/10376127/software-development-manager-aws-rds-postgresql,East Palo Alto, CA, USA,Posted March 25, 2026,2026-03-26 14:18:39
 10374019,Software Dev Engineer III - AMZ10031491,https://www.amazon.jobs/en/jobs/10374019/software-dev-engineer-iii-amz10031491,Seattle, WA, USA,Posted March 23, 2026,2026-03-26 14:34:39
+10376561,Software Development Manager, Rufus Experience Science,https://www.amazon.jobs/en/jobs/10376561/software-development-manager-rufus-experience-science,Palo Alto, CA, USA,Posted March 25, 2026,2026-03-26 15:17:04
+10374217,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/10374217/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted March 23, 2026,2026-03-26 15:17:04
