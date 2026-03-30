@@ -462,3 +462,6 @@ New York, NY, USA
 10374019,Software Dev Engineer III - AMZ10031491,https://www.amazon.jobs/en/jobs/10374019/software-dev-engineer-iii-amz10031491,Seattle, WA, USA,Posted March 23, 2026,2026-03-26 14:34:39
 10376561,Software Development Manager, Rufus Experience Science,https://www.amazon.jobs/en/jobs/10376561/software-development-manager-rufus-experience-science,Palo Alto, CA, USA,Posted March 25, 2026,2026-03-26 15:17:04
 10374217,Software Development Engineer, Sponsored Products and Brands,https://www.amazon.jobs/en/jobs/10374217/software-development-engineer-sponsored-products-and-brands,Seattle, WA, USA,Posted March 23, 2026,2026-03-26 15:17:04
+10378214,Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10378214/software-development-engineer-aurora-storage,Redmond, WA, USA,Posted March 27, 2026,2026-03-30 22:13:54
+10376233,Manager III, Software Dev - AMZ9676874,https://www.amazon.jobs/en/jobs/10376233/manager-iii-software-dev-amz9676874,Seattle, WA, USA,Posted March 25, 2026,2026-03-30 22:13:54
+10378213,Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10378213/software-development-engineer-aurora-storage,Redmond, WA, USA,Posted March 27, 2026,2026-03-30 22:13:54
