@@ -467,3 +467,4 @@ New York, NY, USA
 10378213,Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10378213/software-development-engineer-aurora-storage,Redmond, WA, USA,Posted March 27, 2026,2026-03-30 22:13:54
 10381225,Software Development Manager, ESCAPE,https://www.amazon.jobs/en/jobs/10381225/software-development-manager-escape,Seattle, WA, USA,Posted April 1, 2026,2026-04-01 15:32:12
 10382566,Software Development Manager, Discovery Tech,https://www.amazon.jobs/en/jobs/10382566/software-development-manager-discovery-tech,New York, NY, USA,Posted April 2, 2026,2026-04-02 18:21:14
+10383413,Senior Software Developer - Amazon Robotics , Autonomous Mobility,https://www.amazon.jobs/en/jobs/10383413/senior-software-developer-amazon-robotics-autonomous-mobility,North Reading, MA, USA,Posted April 3, 2026,2026-04-03 20:46:28
