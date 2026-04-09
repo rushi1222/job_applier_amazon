@@ -473,3 +473,5 @@ Seattle, WA, USA,Posted April 3, 2026,2026-04-03 22:10:58
 10385457,Software Development Manager, Aurora DSQL,https://www.amazon.jobs/en/jobs/10385457/software-development-manager-aurora-dsql,Seattle, WA, USA,Posted April 7, 2026,2026-04-07 18:49:27
 10385456,Software Development Manager, Distributed SQL (DSQL) Control Plane,https://www.amazon.jobs/en/jobs/10385456/software-development-manager-distributed-sql-dsql-control-plane,Seattle, WA, USA,Posted April 7, 2026,2026-04-07 18:49:27
 10386559,Frontend Engineer, Fauna,https://www.amazon.jobs/en/jobs/10386559/frontend-engineer-fauna,New York, NY, USA,Posted April 8, 2026,2026-04-08 21:19:25
+10386908,Sr. Software Dev Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10386908/sr-software-dev-engineer-aurora-storage,East Palo Alto, CA, USA,Posted April 9, 2026,2026-04-09 07:00:48
+10386907,Senior Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10386907/senior-software-development-engineer-aurora-storage,Redmond, WA, USA,Posted April 9, 2026,2026-04-09 07:00:48
