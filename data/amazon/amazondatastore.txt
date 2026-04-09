@@ -475,3 +475,4 @@ Seattle, WA, USA,Posted April 3, 2026,2026-04-03 22:10:58
 10386559,Frontend Engineer, Fauna,https://www.amazon.jobs/en/jobs/10386559/frontend-engineer-fauna,New York, NY, USA,Posted April 8, 2026,2026-04-08 21:19:25
 10386908,Sr. Software Dev Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10386908/sr-software-dev-engineer-aurora-storage,East Palo Alto, CA, USA,Posted April 9, 2026,2026-04-09 07:00:48
 10386907,Senior Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10386907/senior-software-development-engineer-aurora-storage,Redmond, WA, USA,Posted April 9, 2026,2026-04-09 07:00:48
+10387292,Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/10387292/software-engineer-graviton-software-annapurna-labs,Austin, TX, USA,Posted April 9, 2026,2026-04-09 16:34:07
