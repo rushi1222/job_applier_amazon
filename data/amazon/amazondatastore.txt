@@ -478,3 +478,4 @@ Seattle, WA, USA,Posted April 3, 2026,2026-04-03 22:10:58
 10387292,Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/10387292/software-engineer-graviton-software-annapurna-labs,Austin, TX, USA,Posted April 9, 2026,2026-04-09 16:34:07
 10388149,Software Development Manager, Accessibility, Devices & Services, Trust, Privacy & Accessibility,https://www.amazon.jobs/en/jobs/10388149/software-development-manager-accessibility-devices-services-trust-privacy-accessibility,Seattle, WA, USA
 Sunnyvale, CA, USA,Posted April 10, 2026,2026-04-10 06:40:59
+10388670,Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools,https://www.amazon.jobs/en/jobs/10388670/firmware-engineer-annapurna-labs-ml-acceleration-performance-instrumentation-developer-tools,Cupertino, CA, USA,Posted April 10, 2026,2026-04-10 17:47:44
