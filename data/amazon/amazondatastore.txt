@@ -479,3 +479,4 @@ Seattle, WA, USA,Posted April 3, 2026,2026-04-03 22:10:58
 10388149,Software Development Manager, Accessibility, Devices & Services, Trust, Privacy & Accessibility,https://www.amazon.jobs/en/jobs/10388149/software-development-manager-accessibility-devices-services-trust-privacy-accessibility,Seattle, WA, USA
 Sunnyvale, CA, USA,Posted April 10, 2026,2026-04-10 06:40:59
 10388670,Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools,https://www.amazon.jobs/en/jobs/10388670/firmware-engineer-annapurna-labs-ml-acceleration-performance-instrumentation-developer-tools,Cupertino, CA, USA,Posted April 10, 2026,2026-04-10 17:47:44
+10391312,Software Development Manager, Network Life Cycle Management,https://www.amazon.jobs/en/jobs/10391312/software-development-manager-network-life-cycle-management,Santa Clara, CA, USA,Posted April 14, 2026,2026-04-14 17:55:58
