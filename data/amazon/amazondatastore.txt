@@ -480,3 +480,4 @@ Seattle, WA, USA,Posted April 3, 2026,2026-04-03 22:10:58
 Sunnyvale, CA, USA,Posted April 10, 2026,2026-04-10 06:40:59
 10388670,Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools,https://www.amazon.jobs/en/jobs/10388670/firmware-engineer-annapurna-labs-ml-acceleration-performance-instrumentation-developer-tools,Cupertino, CA, USA,Posted April 10, 2026,2026-04-10 17:47:44
 10391312,Software Development Manager, Network Life Cycle Management,https://www.amazon.jobs/en/jobs/10391312/software-development-manager-network-life-cycle-management,Santa Clara, CA, USA,Posted April 14, 2026,2026-04-14 17:55:58
+10392904,Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10392904/software-development-engineer-aurora-storage,Redmond, WA, USA,Posted April 15, 2026,2026-04-15 17:27:10
