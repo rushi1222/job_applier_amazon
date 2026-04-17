@@ -488,3 +488,4 @@ Sunnyvale, CA, USA,Posted April 10, 2026,2026-04-10 06:40:59
 10388588,Manager III, Software Dev - AMZ10016745,https://www.amazon.jobs/en/jobs/10388588/manager-iii-software-dev-amz10016745,Mountain View, CA, USA,Posted April 10, 2026,2026-04-16 18:29:09
 10391787,Software Dev Engineer III - AMZ9886633,https://www.amazon.jobs/en/jobs/10391787/software-dev-engineer-iii-amz9886633,Minneapolis, MN, USA,Posted April 14, 2026,2026-04-16 19:32:10
 10389796,Quality Assurance Engineer II - AMZ9674813,https://www.amazon.jobs/en/jobs/10389796/quality-assurance-engineer-ii-amz9674813,Denver, CO, USA,Posted April 13, 2026,2026-04-16 19:32:10
+10389979,Software Dev Engineer III - AMZ9802110,https://www.amazon.jobs/en/jobs/10389979/software-dev-engineer-iii-amz9802110,Herndon, VA, USA,Posted April 13, 2026,2026-04-17 15:26:34
