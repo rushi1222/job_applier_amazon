@@ -492,3 +492,4 @@ Sunnyvale, CA, USA,Posted April 10, 2026,2026-04-10 06:40:59
 10395039,Software Development Engineer, IAM Console Team,https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team,Seattle, WA, USA,Posted April 17, 2026,2026-04-17 20:17:29
 10392991,Software Dev Engineer III - AMZ9536513,https://www.amazon.jobs/en/jobs/10392991/software-dev-engineer-iii-amz9536513,Austin, TX, USA,Posted April 15, 2026,2026-04-21 16:28:09
 10393463,Software Dev Engineer III - AMZ9802885,https://www.amazon.jobs/en/jobs/10393463/software-dev-engineer-iii-amz9802885,Cupertino, CA, USA,Posted April 16, 2026,2026-04-21 19:30:46
+10398787,Senior Software Development Engineer, Aurora PostgreSQL,https://www.amazon.jobs/en/jobs/10398787/senior-software-development-engineer-aurora-postgresql,Redmond, WA, USA,Posted April 21, 2026,2026-04-21 21:18:56
