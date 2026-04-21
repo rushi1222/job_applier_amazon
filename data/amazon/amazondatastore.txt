@@ -490,3 +490,4 @@ Sunnyvale, CA, USA,Posted April 10, 2026,2026-04-10 06:40:59
 10389796,Quality Assurance Engineer II - AMZ9674813,https://www.amazon.jobs/en/jobs/10389796/quality-assurance-engineer-ii-amz9674813,Denver, CO, USA,Posted April 13, 2026,2026-04-16 19:32:10
 10389979,Software Dev Engineer III - AMZ9802110,https://www.amazon.jobs/en/jobs/10389979/software-dev-engineer-iii-amz9802110,Herndon, VA, USA,Posted April 13, 2026,2026-04-17 15:26:34
 10395039,Software Development Engineer, IAM Console Team,https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team,Seattle, WA, USA,Posted April 17, 2026,2026-04-17 20:17:29
+10392991,Software Dev Engineer III - AMZ9536513,https://www.amazon.jobs/en/jobs/10392991/software-dev-engineer-iii-amz9536513,Austin, TX, USA,Posted April 15, 2026,2026-04-21 16:28:09
