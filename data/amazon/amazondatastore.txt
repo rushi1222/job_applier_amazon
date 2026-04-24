@@ -502,3 +502,7 @@ SEATTLE, WA, USA,Posted April 22, 2026,2026-04-22 13:36:14
 10401493,Sr Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/10401493/sr-software-engineer-graviton-software-annapurna-labs,Austin, TX, USA,Posted April 23, 2026,2026-04-23 17:34:18
 10401459,Software Development Engineer, Business Data Technology, Business Data Technology,https://www.amazon.jobs/en/jobs/10401459/software-development-engineer-business-data-technology-business-data-technology,Seattle, WA, USA,Posted April 23, 2026,2026-04-23 17:34:18
 10402537,Software Development Engineer, Open Data Analytics - Engines,https://www.amazon.jobs/en/jobs/10402537/software-development-engineer-open-data-analytics-engines,Arlington, VA, USA,Posted April 24, 2026,2026-04-24 14:36:44
+10403254,Solutions Architect, Alexa Smart Properties,https://www.amazon.jobs/en/jobs/10403254/solutions-architect-alexa-smart-properties,Bellevue, WA, USA
+San Francisco, CA, USA
+Seattle, WA, USA
++1 other locations,Posted April 24, 2026,2026-04-24 22:46:38
