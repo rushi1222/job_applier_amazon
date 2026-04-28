@@ -508,3 +508,4 @@ Seattle, WA, USA
 +1 other locations,Posted April 24, 2026,2026-04-24 22:46:38
 10403396,Sr. Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10403396/sr-software-development-engineer-aurora-storage,Redmond, WA, USA,Posted April 25, 2026,2026-04-25 04:23:38
 10404266,Sr. Technical Program Manager, AIS Material Optimization,https://www.amazon.jobs/en/jobs/10404266/sr-technical-program-manager-ais-material-optimization,Austin, TX, USA,Posted April 27, 2026,2026-04-27 18:31:58
+10405621,Senior Software Developer Engineer, AWS Compliance & Security Assurance,https://www.amazon.jobs/en/jobs/10405621/senior-software-developer-engineer-aws-compliance-security-assurance,Herndon, VA, USA,Posted April 28, 2026,2026-04-28 17:06:55
