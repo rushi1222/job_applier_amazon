@@ -511,3 +511,4 @@ Seattle, WA, USA
 10405621,Senior Software Developer Engineer, AWS Compliance & Security Assurance,https://www.amazon.jobs/en/jobs/10405621/senior-software-developer-engineer-aws-compliance-security-assurance,Herndon, VA, USA,Posted April 28, 2026,2026-04-28 17:06:55
 10406098,Sr. Technical Program Manager, AWS Infrastructure Services (AIS) Material Optimization,https://www.amazon.jobs/en/jobs/10406098/sr-technical-program-manager-aws-infrastructure-services-ais-material-optimization,Austin, TX, USA
 Seattle, WA, USA,Posted April 28, 2026,2026-04-28 20:53:34
+10407322,Sr. Security Engineer, AWS Security,https://www.amazon.jobs/en/jobs/10407322/sr-security-engineer-aws-security,Seattle, WA, USA,Posted April 29, 2026,2026-04-29 22:22:51
