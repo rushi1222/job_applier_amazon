@@ -513,3 +513,4 @@ Seattle, WA, USA
 Seattle, WA, USA,Posted April 28, 2026,2026-04-28 20:53:34
 10407322,Sr. Security Engineer, AWS Security,https://www.amazon.jobs/en/jobs/10407322/sr-security-engineer-aws-security,Seattle, WA, USA,Posted April 29, 2026,2026-04-29 22:22:51
 10407388,Software Development Engineer, Neuron Collectives, Annapurna Labs,https://www.amazon.jobs/en/jobs/10407388/software-development-engineer-neuron-collectives-annapurna-labs,Cupertino, CA, USA,Posted April 29, 2026,2026-04-29 23:48:52
+10402973,Quality Assurance Engineer II - AMZ9830124,https://www.amazon.jobs/en/jobs/10402973/quality-assurance-engineer-ii-amz9830124,Seattle, WA, USA,Posted April 24, 2026,2026-04-30 17:01:18
