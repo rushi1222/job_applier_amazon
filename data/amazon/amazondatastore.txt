@@ -516,3 +516,4 @@ Seattle, WA, USA,Posted April 28, 2026,2026-04-28 20:53:34
 10402973,Quality Assurance Engineer II - AMZ9830124,https://www.amazon.jobs/en/jobs/10402973/quality-assurance-engineer-ii-amz9830124,Seattle, WA, USA,Posted April 24, 2026,2026-04-30 17:01:18
 10405687,Software Dev Engineer III - AMZ9893305,https://www.amazon.jobs/en/jobs/10405687/software-dev-engineer-iii-amz9893305,Boston, MA, USA,Posted April 28, 2026,2026-05-01 16:48:57
 10408955,Software Development Manager, Device Engagament Metrics,https://www.amazon.jobs/en/jobs/10408955/software-development-manager-device-engagament-metrics,Denver, CO, USA,Posted May 1, 2026,2026-05-01 17:24:55
+10408981,Software Development Manager, Kiro IDE,https://www.amazon.jobs/en/jobs/10408981/software-development-manager-kiro-ide,Seattle, WA, USA,Posted May 1, 2026,2026-05-01 17:49:29
