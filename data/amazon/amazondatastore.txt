@@ -523,3 +523,4 @@ Seattle, WA, USA,Posted April 28, 2026,2026-04-28 20:53:34
 10410252,Sr. Software Development Engineer, Aurora Control Plane,https://www.amazon.jobs/en/jobs/10410252/sr-software-development-engineer-aurora-control-plane,Seattle, WA, USA,Posted May 4, 2026,2026-05-04 18:36:47
 10410251,Front End Engineer, Amazon Leo, Amazon Leo OISL,https://www.amazon.jobs/en/jobs/10410251/front-end-engineer-amazon-leo-amazon-leo-oisl,Redmond, WA, USA
 REDMOND, WA, USA,Posted May 4, 2026,2026-05-04 18:36:47
+10411533,Software Development Engineer, AWS Identity,https://www.amazon.jobs/en/jobs/10411533/software-development-engineer-aws-identity,Seattle, WA, USA,Posted May 5, 2026,2026-05-05 17:35:48
