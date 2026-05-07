@@ -528,3 +528,4 @@ REDMOND, WA, USA,Posted May 4, 2026,2026-05-04 18:36:47
 10412840,Software Development Manager, Amazon Leo AI Foundations,https://www.amazon.jobs/en/jobs/10412840/software-development-manager-amazon-leo-ai-foundations,Redmond, WA, USA,Posted May 6, 2026,2026-05-06 20:05:48
 10413785,Senior Software Development Engineer, Developer Experience,https://www.amazon.jobs/en/jobs/10413785/senior-software-development-engineer-developer-experience,New York, NY, USA,Posted May 7, 2026,2026-05-07 17:09:04
 10413982,Software Dev Engineer II, Aurora PostgreSQL Engine,https://www.amazon.jobs/en/jobs/10413982/software-dev-engineer-ii-aurora-postgresql-engine,Redmond, WA, USA,Posted May 7, 2026,2026-05-07 19:06:32
+10413874,Sr Software Development Engineer, AWS Aurora Database,https://www.amazon.jobs/en/jobs/10413874/sr-software-development-engineer-aws-aurora-database,Redmond, WA, USA,Posted May 7, 2026,2026-05-07 20:02:19
