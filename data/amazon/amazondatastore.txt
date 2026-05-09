@@ -531,3 +531,4 @@ REDMOND, WA, USA,Posted May 4, 2026,2026-05-04 18:36:47
 10413874,Sr Software Development Engineer, AWS Aurora Database,https://www.amazon.jobs/en/jobs/10413874/sr-software-development-engineer-aws-aurora-database,Redmond, WA, USA,Posted May 7, 2026,2026-05-07 20:02:19
 10414626,Software Development Engineer II, Managed Operations, COMET Development Team,https://www.amazon.jobs/en/jobs/10414626/software-development-engineer-ii-managed-operations-comet-development-team,Seattle, WA, USA,Posted May 8, 2026,2026-05-08 22:48:52
 10414353,Software Development Engineer, Developer Experience,https://www.amazon.jobs/en/jobs/10414353/software-development-engineer-developer-experience,Raleigh, NC, USA,Posted May 8, 2026,2026-05-08 23:22:45
+10415440,Front-End Engineer III , Optimization Console,https://www.amazon.jobs/en/jobs/10415440/front-end-engineer-iii-optimization-console,New York, NY, USA,Posted May 9, 2026,2026-05-09 01:38:24
