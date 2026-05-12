@@ -532,3 +532,7 @@ REDMOND, WA, USA,Posted May 4, 2026,2026-05-04 18:36:47
 10414626,Software Development Engineer II, Managed Operations, COMET Development Team,https://www.amazon.jobs/en/jobs/10414626/software-development-engineer-ii-managed-operations-comet-development-team,Seattle, WA, USA,Posted May 8, 2026,2026-05-08 22:48:52
 10414353,Software Development Engineer, Developer Experience,https://www.amazon.jobs/en/jobs/10414353/software-development-engineer-developer-experience,Raleigh, NC, USA,Posted May 8, 2026,2026-05-08 23:22:45
 10415440,Front-End Engineer III , Optimization Console,https://www.amazon.jobs/en/jobs/10415440/front-end-engineer-iii-optimization-console,New York, NY, USA,Posted May 9, 2026,2026-05-09 01:38:24
+10417506,SDM, Training & Certification, Content Technology,https://www.amazon.jobs/en/jobs/10417506/sdm-training-certification-content-technology,Arlington, VA, USA
+Bellevue, WA, USA
+Herndon, VA, USA
++2 other locations,Posted May 12, 2026,2026-05-12 18:13:44
