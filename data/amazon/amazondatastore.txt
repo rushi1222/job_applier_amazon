@@ -537,3 +537,4 @@ Bellevue, WA, USA
 Herndon, VA, USA
 +2 other locations,Posted May 12, 2026,2026-05-12 18:13:44
 10417600,Software Dev Engineer III - AMZ9898441,https://www.amazon.jobs/en/jobs/10417600/software-dev-engineer-iii-amz9898441,Arlington, VA, USA,Posted May 12, 2026,2026-05-12 19:10:50
+10417962,Software Development Manager, Checkout Platform,https://www.amazon.jobs/en/jobs/10417962/software-development-manager-checkout-platform,Seattle, WA, USA,Posted May 12, 2026,2026-05-12 22:29:43
