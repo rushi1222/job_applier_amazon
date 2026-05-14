@@ -539,3 +539,5 @@ Herndon, VA, USA
 10417600,Software Dev Engineer III - AMZ9898441,https://www.amazon.jobs/en/jobs/10417600/software-dev-engineer-iii-amz9898441,Arlington, VA, USA,Posted May 12, 2026,2026-05-12 19:10:50
 10417962,Software Development Manager, Checkout Platform,https://www.amazon.jobs/en/jobs/10417962/software-development-manager-checkout-platform,Seattle, WA, USA,Posted May 12, 2026,2026-05-12 22:29:43
 10420172,Software Development Manager, AWS AI Agentic Automated Reasoning (AR),https://www.amazon.jobs/en/jobs/10420172/software-development-manager-aws-ai-agentic-automated-reasoning-ar,Seattle, WA, USA,Posted May 14, 2026,2026-05-14 18:40:55
+10420475,Software Development Engineer, Business Data Technologies,https://www.amazon.jobs/en/jobs/10420475/software-development-engineer-business-data-technologies,Seattle, WA, USA,Posted May 14, 2026,2026-05-14 21:56:10
+10420457,Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR), EMR EKS,https://www.amazon.jobs/en/jobs/10420457/software-development-engineer-big-data-aws-elastic-mapreduce-emr-emr-eks,East Palo Alto, CA, USA,Posted May 14, 2026,2026-05-14 21:56:10
