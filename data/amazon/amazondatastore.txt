@@ -541,3 +541,6 @@ Herndon, VA, USA
 10420172,Software Development Manager, AWS AI Agentic Automated Reasoning (AR),https://www.amazon.jobs/en/jobs/10420172/software-development-manager-aws-ai-agentic-automated-reasoning-ar,Seattle, WA, USA,Posted May 14, 2026,2026-05-14 18:40:55
 10420475,Software Development Engineer, Business Data Technologies,https://www.amazon.jobs/en/jobs/10420475/software-development-engineer-business-data-technologies,Seattle, WA, USA,Posted May 14, 2026,2026-05-14 21:56:10
 10420457,Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR), EMR EKS,https://www.amazon.jobs/en/jobs/10420457/software-development-engineer-big-data-aws-elastic-mapreduce-emr-emr-eks,East Palo Alto, CA, USA,Posted May 14, 2026,2026-05-14 21:56:10
+10422602,Software Development Engineer, AWS Identity,https://www.amazon.jobs/en/jobs/10422602/software-development-engineer-aws-identity,Santa Clara, CA, USA,Posted May 18, 2026,2026-05-18 16:36:55
+10422604,Software Development Engineer, AWS Identity,https://www.amazon.jobs/en/jobs/10422604/software-development-engineer-aws-identity,Santa Clara, CA, USA,Posted May 18, 2026,2026-05-18 16:36:55
+10422476,Software Development Manager , AWS DynamoDB,https://www.amazon.jobs/en/jobs/10422476/software-development-manager-aws-dynamodb,Seattle, WA, USA,Posted May 18, 2026,2026-05-18 16:36:55
