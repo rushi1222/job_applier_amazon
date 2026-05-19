@@ -545,3 +545,4 @@ Herndon, VA, USA
 10422604,Software Development Engineer, AWS Identity,https://www.amazon.jobs/en/jobs/10422604/software-development-engineer-aws-identity,Santa Clara, CA, USA,Posted May 18, 2026,2026-05-18 16:36:55
 10422476,Software Development Manager , AWS DynamoDB,https://www.amazon.jobs/en/jobs/10422476/software-development-manager-aws-dynamodb,Seattle, WA, USA,Posted May 18, 2026,2026-05-18 16:36:55
 10423208,Software Development Engineer , Aurora PostgreSQL Team,https://www.amazon.jobs/en/jobs/10423208/software-development-engineer-aurora-postgresql-team,East Palo Alto, CA, USA,Posted May 19, 2026,2026-05-19 00:49:28
+10423333,Software Development Engineer , Aurora PostgreSQL Team,https://www.amazon.jobs/en/jobs/10423333/software-development-engineer-aurora-postgresql-team,East Palo Alto, CA, USA,Posted May 19, 2026,2026-05-19 04:50:57
