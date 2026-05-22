@@ -555,3 +555,4 @@ Herndon, VA, USA
 10426906,Senior Brand Strategist, AWS Brand Strategy,https://www.amazon.jobs/en/jobs/10426906/senior-brand-strategist-aws-brand-strategy,Seattle, WA, USA,Posted May 21, 2026,2026-05-21 18:11:29
 10427400,Audio SW Dev Engineer , Edge Technology,https://www.amazon.jobs/en/jobs/10427400/audio-sw-dev-engineer-edge-technology,Sunnyvale, CA, USA,Posted May 21, 2026,2026-05-21 22:01:27
 10422663,Software Dev Engineer III - AMZ9742598,https://www.amazon.jobs/en/jobs/10422663/software-dev-engineer-iii-amz9742598,Dallas, TX, USA,Posted May 18, 2026,2026-05-22 15:06:16
+10428399,Sr. Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR), EMR EKS,https://www.amazon.jobs/en/jobs/10428399/sr-software-development-engineer-big-data-aws-elastic-mapreduce-emr-emr-eks,East Palo Alto, CA, USA,Posted May 22, 2026,2026-05-22 17:16:29
