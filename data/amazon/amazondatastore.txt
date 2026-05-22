@@ -554,3 +554,4 @@ Herndon, VA, USA
 10422955,Software Dev Engineer III - AMZ9675044,https://www.amazon.jobs/en/jobs/10422955/software-dev-engineer-iii-amz9675044,Portland, OR, USA,Posted May 18, 2026,2026-05-21 15:10:36
 10426906,Senior Brand Strategist, AWS Brand Strategy,https://www.amazon.jobs/en/jobs/10426906/senior-brand-strategist-aws-brand-strategy,Seattle, WA, USA,Posted May 21, 2026,2026-05-21 18:11:29
 10427400,Audio SW Dev Engineer , Edge Technology,https://www.amazon.jobs/en/jobs/10427400/audio-sw-dev-engineer-edge-technology,Sunnyvale, CA, USA,Posted May 21, 2026,2026-05-21 22:01:27
+10422663,Software Dev Engineer III - AMZ9742598,https://www.amazon.jobs/en/jobs/10422663/software-dev-engineer-iii-amz9742598,Dallas, TX, USA,Posted May 18, 2026,2026-05-22 15:06:16
