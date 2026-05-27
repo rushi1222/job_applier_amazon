@@ -559,3 +559,4 @@ Herndon, VA, USA
 10428464,Software Development Manager, AWS Network Firewall,https://www.amazon.jobs/en/jobs/10428464/software-development-manager-aws-network-firewall,Herndon, VA, USA,Posted May 22, 2026,2026-05-22 18:08:56
 10426059,Quality Assurance Engineer II - AMZ10451957,https://www.amazon.jobs/en/jobs/10426059/quality-assurance-engineer-ii-amz10451957,Sunnyvale, CA, USA,Posted May 20, 2026,2026-05-22 19:07:20
 10430060,Frontend Engineer, Fauna,https://www.amazon.jobs/en/jobs/10430060/frontend-engineer-fauna,New York, NY, USA,Posted May 26, 2026,2026-05-26 15:05:52
+10431039,Software Development Engineer, Developer Experience,https://www.amazon.jobs/en/jobs/10431039/software-development-engineer-developer-experience,New York, NY, USA,Posted May 27, 2026,2026-05-27 01:45:44
