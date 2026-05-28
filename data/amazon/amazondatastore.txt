@@ -569,3 +569,4 @@ Herndon, VA, USA
 10433271,Sr Software Development Engineer, Aurora Serverless Control Plane,https://www.amazon.jobs/en/jobs/10433271/sr-software-development-engineer-aurora-serverless-control-plane,Seattle, WA, USA,Posted May 28, 2026,2026-05-28 16:48:58
 10428970,Quality Assurance Engineer II - AMZ9803559,https://www.amazon.jobs/en/jobs/10428970/quality-assurance-engineer-ii-amz9803559,Dallas, TX, USA,Posted May 24, 2026,2026-05-28 19:25:10
 10427515,Quality Assurance Engineer III - AMZ9743174,https://www.amazon.jobs/en/jobs/10427515/quality-assurance-engineer-iii-amz9743174,Irvine, CA, USA,Posted May 21, 2026,2026-05-28 19:25:10
+10433733,Senior Software Developer Engineer, AWS Compliance & Security Assurance,https://www.amazon.jobs/en/jobs/10433733/senior-software-developer-engineer-aws-compliance-security-assurance,Seattle, WA, USA,Posted May 28, 2026,2026-05-28 22:09:40
