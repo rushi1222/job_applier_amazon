@@ -573,3 +573,4 @@ Herndon, VA, USA
 10433837,Software Development Manager, Amazon Foundational Security Services,https://www.amazon.jobs/en/jobs/10433837/software-development-manager-amazon-foundational-security-services,Bellevue, WA, USA
 BELLEVUE, WA, USA,Posted May 28, 2026,2026-05-29 00:52:59
 10433835,Software Development Engineer, Amazon Foundational Security Services, Amazon Foundational Security Services (AFSS),https://www.amazon.jobs/en/jobs/10433835/software-development-engineer-amazon-foundational-security-services-amazon-foundational-security-services-afss,Herndon, VA, USA,Posted May 28, 2026,2026-05-29 00:52:59
+10434341,Software Development Engineer, AWS Transform,https://www.amazon.jobs/en/jobs/10434341/software-development-engineer-aws-transform,Seattle, WA, USA,Posted May 29, 2026,2026-05-29 15:47:06
