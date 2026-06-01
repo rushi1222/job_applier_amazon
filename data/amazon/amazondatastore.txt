@@ -578,3 +578,4 @@ BELLEVUE, WA, USA,Posted May 28, 2026,2026-05-29 00:52:59
 10431577,Software Dev Engineer III - AMZ9673811,https://www.amazon.jobs/en/jobs/10431577/software-dev-engineer-iii-amz9673811,Seattle, WA, USA,Posted May 27, 2026,2026-05-29 17:13:30
 10429065,Software Dev Engineer III - AMZ9774220,https://www.amazon.jobs/en/jobs/10429065/software-dev-engineer-iii-amz9774220,Seattle, WA, USA,Posted May 24, 2026,2026-05-29 17:13:30
 10435089,Manager, Software Development, Center for Quantum Computing,https://www.amazon.jobs/en/jobs/10435089/manager-software-development-center-for-quantum-computing,Pasadena, CA, USA,Posted May 30, 2026,2026-05-30 00:49:03
+10435615,Software Developer Engineer, Omnichannel Grocery Advertising,https://www.amazon.jobs/en/jobs/10435615/software-developer-engineer-omnichannel-grocery-advertising,New York, NY, USA,Posted June 1, 2026,2026-06-01 15:37:51
