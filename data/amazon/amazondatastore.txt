@@ -583,3 +583,4 @@ BELLEVUE, WA, USA,Posted May 28, 2026,2026-05-29 00:52:59
 10437781,Quality Assurance Engineer III - AMZ10519393,https://www.amazon.jobs/en/jobs/10437781/quality-assurance-engineer-iii-amz10519393,Sunnyvale, CA, USA,Posted June 2, 2026,2026-06-02 20:04:25
 10437818,Software Dev Engineer III - AMZ9676918,https://www.amazon.jobs/en/jobs/10437818/software-dev-engineer-iii-amz9676918,Minneapolis, MN, USA,Posted June 2, 2026,2026-06-02 20:04:25
 10437822,Software Dev Engineer III - AMZ10519427,https://www.amazon.jobs/en/jobs/10437822/software-dev-engineer-iii-amz10519427,Denver, CO, USA,Posted June 2, 2026,2026-06-02 20:04:25
+10437934,Quality Assurance Engineer II - AMZ10519362,https://www.amazon.jobs/en/jobs/10437934/quality-assurance-engineer-ii-amz10519362,Denver, CO, USA,Posted June 2, 2026,2026-06-02 21:32:29
