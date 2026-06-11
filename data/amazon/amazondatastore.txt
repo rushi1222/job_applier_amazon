@@ -605,3 +605,4 @@ BELLEVUE, WA, USA,Posted June 7, 2026,2026-06-07 18:31:15
 10445126,Software Development Engineer – Big Data, AWS Elastic MapReduce (EMR),https://www.amazon.jobs/en/jobs/10445126/software-development-engineer-big-data-aws-elastic-mapreduce-emr,Redmond, WA, USA,Posted June 10, 2026,2026-06-10 18:04:40
 10444966,Sr Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/10444966/sr-software-engineer-graviton-software-annapurna-labs,Austin, TX, USA,Posted June 10, 2026,2026-06-10 18:04:40
 10446498,Principal Software Development Engineer - AMZ13289.8,https://www.amazon.jobs/en/jobs/10446498/principal-software-development-engineer-amz13289-8,Seattle, WA, USA,Posted June 11, 2026,2026-06-11 16:29:01
+10446843,Sr. Software Dev Engineer, Web Experiences,https://www.amazon.jobs/en/jobs/10446843/sr-software-dev-engineer-web-experiences,Seattle, WA, USA,Posted June 11, 2026,2026-06-11 20:18:26
