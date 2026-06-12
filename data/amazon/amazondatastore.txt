@@ -608,3 +608,4 @@ BELLEVUE, WA, USA,Posted June 7, 2026,2026-06-07 18:31:15
 10446843,Sr. Software Dev Engineer, Web Experiences,https://www.amazon.jobs/en/jobs/10446843/sr-software-dev-engineer-web-experiences,Seattle, WA, USA,Posted June 11, 2026,2026-06-11 20:18:26
 10447003,Software Dev Engineer, Amazon Application Recovery Controller,https://www.amazon.jobs/en/jobs/10447003/software-dev-engineer-amazon-application-recovery-controller,Portland, OR, USA
 Seattle, WA, USA,Posted June 11, 2026,2026-06-11 23:03:53
+10448226,Sr. Software Dev Engineer, Kiro Control Plane,https://www.amazon.jobs/en/jobs/10448226/sr-software-dev-engineer-kiro-control-plane,Bellevue, WA, USA,Posted June 12, 2026,2026-06-12 21:36:43
