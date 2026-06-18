@@ -612,3 +612,5 @@ Seattle, WA, USA,Posted June 11, 2026,2026-06-11 23:03:53
 10448297,Front End Engineer, IAM Console Team,https://www.amazon.jobs/en/jobs/10448297/front-end-engineer-iam-console-team,Seattle, WA, USA,Posted June 12, 2026,2026-06-12 22:34:48
 10450307,Software Development Manager, Robotic Movement team,https://www.amazon.jobs/en/jobs/10450307/software-development-manager-robotic-movement-team,North Reading, MA, USA
 Westboro, MA, USA,Posted June 16, 2026,2026-06-16 16:05:29
+10453265,Frontend Engineer, AI Business Automation, Prime Video,https://www.amazon.jobs/en/jobs/10453265/frontend-engineer-ai-business-automation-prime-video,Seattle, WA, USA
+SEATTLE, WA, USA,Posted June 18, 2026,2026-06-18 22:16:33
