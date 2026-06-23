@@ -618,3 +618,4 @@ SEATTLE, WA, USA,Posted June 18, 2026,2026-06-18 22:16:33
 10455121,Manager III, Software Dev, Agentic WorkSpaces,https://www.amazon.jobs/en/jobs/10455121/manager-iii-software-dev-agentic-workspaces,Seattle, WA, USA,Posted June 22, 2026,2026-06-22 17:12:37
 10455464,Software Development Engineer - AWS Cryptography, Transport libraries,https://www.amazon.jobs/en/jobs/10455464/software-development-engineer-aws-cryptography-transport-libraries,Seattle, WA, USA,Posted June 22, 2026,2026-06-22 20:04:26
 10456092,Software Development Engineer, Amazon Leo Antenna Development,https://www.amazon.jobs/en/jobs/10456092/software-development-engineer-amazon-leo-antenna-development,Redmond, WA, USA,Posted June 23, 2026,2026-06-23 01:43:49
+10456719,Software Development Manager, AWS Aurora PostgreSQL engine,https://www.amazon.jobs/en/jobs/10456719/software-development-manager-aws-aurora-postgresql-engine,Seattle, WA, USA,Posted June 23, 2026,2026-06-23 17:38:20
