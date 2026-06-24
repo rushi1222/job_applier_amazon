@@ -3914,3 +3914,4 @@
 94923443778003654,Software Engineer Aiml Ads Data,https://www.google.com/about/careers/applications/jobs/results/94923443778003654-software-engineer-aiml-ads-data?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-06-24 16:48:43
 132995133401375430,Senior Ux Engineer Youtube Live,https://www.google.com/about/careers/applications/jobs/results/132995133401375430-senior-ux-engineer-youtube-live?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-06-24 16:48:43
 89490756825162438,Software Engineer Magic Eye,https://www.google.com/about/careers/applications/jobs/results/89490756825162438-software-engineer-magic-eye?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-06-24 18:40:01
+73460839364862662,Senior Product Manager Sense Ai,https://www.google.com/about/careers/applications/jobs/results/73460839364862662-senior-product-manager-sense-ai?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-06-24 20:38:40
