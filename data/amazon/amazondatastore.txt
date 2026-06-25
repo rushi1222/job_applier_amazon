@@ -623,3 +623,4 @@ SEATTLE, WA, USA,Posted June 18, 2026,2026-06-18 22:16:33
 10456934,Software Development Manager, Kiro, Kiro,https://www.amazon.jobs/en/jobs/10456934/software-development-manager-kiro-kiro,Seattle, WA, USA,Posted June 23, 2026,2026-06-23 19:38:54
 10457238,Software Development Manager, AWS InfraSec Products, AWS InfraSec Raven Team,https://www.amazon.jobs/en/jobs/10457238/software-development-manager-aws-infrasec-products-aws-infrasec-raven-team,Seattle, WA, USA,Posted June 23, 2026,2026-06-23 23:27:19
 10457982,Software Dev Engineer II, Aurora PostgreSQL Engine,https://www.amazon.jobs/en/jobs/10457982/software-dev-engineer-ii-aurora-postgresql-engine,Redmond, WA, USA,Posted June 24, 2026,2026-06-24 17:39:54
+10458906,Software Development Manager, Customer Service, Endpoint Security,https://www.amazon.jobs/en/jobs/10458906/software-development-manager-customer-service-endpoint-security,Seattle, WA, USA,Posted June 25, 2026,2026-06-25 15:29:37
