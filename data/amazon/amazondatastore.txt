@@ -625,3 +625,4 @@ SEATTLE, WA, USA,Posted June 18, 2026,2026-06-18 22:16:33
 10457982,Software Dev Engineer II, Aurora PostgreSQL Engine,https://www.amazon.jobs/en/jobs/10457982/software-dev-engineer-ii-aurora-postgresql-engine,Redmond, WA, USA,Posted June 24, 2026,2026-06-24 17:39:54
 10458906,Software Development Manager, Customer Service, Endpoint Security,https://www.amazon.jobs/en/jobs/10458906/software-development-manager-customer-service-endpoint-security,Seattle, WA, USA,Posted June 25, 2026,2026-06-25 15:29:37
 10459242,Principal Software Dev Eng - AMZ9698082,https://www.amazon.jobs/en/jobs/10459242/principal-software-dev-eng-amz9698082,Cupertino, CA, USA,Posted June 25, 2026,2026-06-25 21:06:47
+10453205,Quality Assurance Engineer II - AMZ9899653,https://www.amazon.jobs/en/jobs/10453205/quality-assurance-engineer-ii-amz9899653,New York, NY, USA,Posted June 18, 2026,2026-06-25 23:37:37
