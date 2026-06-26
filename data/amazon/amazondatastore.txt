@@ -627,3 +627,7 @@ SEATTLE, WA, USA,Posted June 18, 2026,2026-06-18 22:16:33
 10459242,Principal Software Dev Eng - AMZ9698082,https://www.amazon.jobs/en/jobs/10459242/principal-software-dev-eng-amz9698082,Cupertino, CA, USA,Posted June 25, 2026,2026-06-25 21:06:47
 10453205,Quality Assurance Engineer II - AMZ9899653,https://www.amazon.jobs/en/jobs/10453205/quality-assurance-engineer-ii-amz9899653,New York, NY, USA,Posted June 18, 2026,2026-06-25 23:37:37
 10460020,Software Development Manager, Shopping Core Foundations - BuyForMe,https://www.amazon.jobs/en/jobs/10460020/software-development-manager-shopping-core-foundations-buyforme,Seattle, WA, USA,Posted June 26, 2026,2026-06-26 16:43:41
+10460299,Software Development Manager– (Payload SW), STAR (System Test Automation and Regression),https://www.amazon.jobs/en/jobs/10460299/software-development-manager-payload-sw-star-system-test-automation-and-regression,NORTHRIDGE, CA, USA
+Redmond, WA, USA
+San Diego, CA, USA
++1 other locations,Posted June 26, 2026,2026-06-26 22:55:56
