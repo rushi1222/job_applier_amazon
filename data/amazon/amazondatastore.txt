@@ -639,3 +639,4 @@ San Diego, CA, USA
 10468280,Software Dev Engineer II, AMZ Foundational Security Services,https://www.amazon.jobs/en/jobs/10468280/software-dev-engineer-ii-amz-foundational-security-services,Herndon, VA, USA,Posted July 7, 2026,2026-07-07 23:48:58
 10468279,Software Dev Engineer II, AMZ Foundational Security Services,https://www.amazon.jobs/en/jobs/10468279/software-dev-engineer-ii-amz-foundational-security-services,Herndon, VA, USA,Posted July 7, 2026,2026-07-07 23:48:58
 10468278,Software Dev Engineer II, AMZ Foundational Security Services,https://www.amazon.jobs/en/jobs/10468278/software-dev-engineer-ii-amz-foundational-security-services,Herndon, VA, USA,Posted July 7, 2026,2026-07-07 23:48:58
+10468127,Quality Assurance Engineer III - AMZ9795943,https://www.amazon.jobs/en/jobs/10468127/quality-assurance-engineer-iii-amz9795943,Arlington, VA, USA,Posted July 7, 2026,2026-07-08 15:17:57
