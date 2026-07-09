@@ -646,3 +646,4 @@ Seattle, WA, USA
 SEATTLE, WA, USA,Posted May 1, 2026,2026-07-08 17:00:39
 10462511,Quality Assurance Engineer II - AMZ27490.1,https://www.amazon.jobs/en/jobs/10462511/quality-assurance-engineer-ii-amz27490-1,Herndon, VA, USA,Posted June 30, 2026,2026-07-09 15:03:58
 10470499,Sr. SDE, AWS Transform Migrations,https://www.amazon.jobs/en/jobs/10470499/sr-sde-aws-transform-migrations,Boston, MA, USA,Posted July 9, 2026,2026-07-09 22:01:16
+10470558,Software Development Manager, Robotic Movement team,https://www.amazon.jobs/en/jobs/10470558/software-development-manager-robotic-movement-team,North Reading, MA, USA,Posted July 9, 2026,2026-07-09 22:55:20
