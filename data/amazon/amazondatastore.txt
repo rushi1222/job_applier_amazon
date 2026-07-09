@@ -644,3 +644,4 @@ San Diego, CA, USA
 10408664,Software Development Engineer, Shop the Show,https://www.amazon.jobs/en/jobs/10408664/software-development-engineer-shop-the-show,New York, NY, USA
 Seattle, WA, USA
 SEATTLE, WA, USA,Posted May 1, 2026,2026-07-08 17:00:39
+10462511,Quality Assurance Engineer II - AMZ27490.1,https://www.amazon.jobs/en/jobs/10462511/quality-assurance-engineer-ii-amz27490-1,Herndon, VA, USA,Posted June 30, 2026,2026-07-09 15:03:58
