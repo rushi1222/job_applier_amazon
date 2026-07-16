@@ -658,3 +658,4 @@ Seattle, WA, USA,Posted July 13, 2026,2026-07-13 18:59:54
 10476454,Software Dev Engineer II, Aurora Storage,https://www.amazon.jobs/en/jobs/10476454/software-dev-engineer-ii-aurora-storage,Redmond, WA, USA,Posted July 16, 2026,2026-07-16 16:31:21
 10474540,Software Dev Engineer III - AMZ10145052,https://www.amazon.jobs/en/jobs/10474540/software-dev-engineer-iii-amz10145052,Seattle, WA, USA,Posted July 14, 2026,2026-07-16 16:31:21
 10474534,Software Dev Engineer III - AMZ9740465,https://www.amazon.jobs/en/jobs/10474534/software-dev-engineer-iii-amz9740465,Seattle, WA, USA,Posted July 14, 2026,2026-07-16 16:31:21
+10476870,Senior DevEx Engineer, AWS Developer Experience,https://www.amazon.jobs/en/jobs/10476870/senior-devex-engineer-aws-developer-experience,Seattle, WA, USA,Posted July 16, 2026,2026-07-16 22:22:51
