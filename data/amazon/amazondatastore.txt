@@ -664,3 +664,4 @@ Seattle, WA, USA,Posted July 16, 2026,2026-07-16 23:49:01
 10478038,Senior Software Developer, AWS WorkSpaces,https://www.amazon.jobs/en/jobs/10478038/senior-software-developer-aws-workspaces,Seattle, WA, USA,Posted July 18, 2026,2026-07-18 01:35:44
 10479049,Software Development Manager, AWS DynamoDB Global Tables,https://www.amazon.jobs/en/jobs/10479049/software-development-manager-aws-dynamodb-global-tables,Seattle, WA, USA,Posted July 20, 2026,2026-07-20 17:50:48
 10480516,Software Development Manager III, Workforce Solutions - Employee Onboarding Experience,https://www.amazon.jobs/en/jobs/10480516/software-development-manager-iii-workforce-solutions-employee-onboarding-experience,Boston, MA, USA,Posted July 21, 2026,2026-07-21 18:31:16
+10480789,Frontend Engineer, Kiro,https://www.amazon.jobs/en/jobs/10480789/frontend-engineer-kiro,Portland, OR, USA,Posted July 21, 2026,2026-07-21 20:54:52
