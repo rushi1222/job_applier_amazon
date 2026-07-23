@@ -667,3 +667,4 @@ Seattle, WA, USA,Posted July 16, 2026,2026-07-16 23:49:01
 10480789,Frontend Engineer, Kiro,https://www.amazon.jobs/en/jobs/10480789/frontend-engineer-kiro,Portland, OR, USA,Posted July 21, 2026,2026-07-21 20:54:52
 10482046,Manager III, Software Dev, Agentic WorkSpaces,https://www.amazon.jobs/en/jobs/10482046/manager-iii-software-dev-agentic-workspaces,Seattle, WA, USA,Posted July 22, 2026,2026-07-22 23:49:44
 10476865,Network Dev Engineer II - AMZ10225543,https://www.amazon.jobs/en/jobs/10476865/network-dev-engineer-ii-amz10225543,Seattle, WA, USA,Posted July 16, 2026,2026-07-23 17:00:40
+10482975,Software Development Engineer, EC2 Core Provisioning,https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning,Seattle, WA, USA,Posted July 23, 2026,2026-07-23 22:23:25
