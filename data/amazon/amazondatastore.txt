@@ -675,3 +675,4 @@ Seattle, WA, USA,Posted July 16, 2026,2026-07-16 23:49:01
 10484947,Software Development Manager, NAT Gateway,https://www.amazon.jobs/en/jobs/10484947/software-development-manager-nat-gateway,Seattle, WA, USA,Posted July 27, 2026,2026-07-27 17:09:40
 10485271,Senior Software Developer - Amazon Robotics , Autonomous Mobility,https://www.amazon.jobs/en/jobs/10485271/senior-software-developer-amazon-robotics-autonomous-mobility,Denver, CO, USA
 North Reading, MA, USA,Posted July 27, 2026,2026-07-27 20:32:57
+10485329,Software Development Manager, Creative Advertiser Experiences,https://www.amazon.jobs/en/jobs/10485329/software-development-manager-creative-advertiser-experiences,Santa Monica, CA, USA,Posted July 27, 2026,2026-07-27 21:26:20
