@@ -672,3 +672,4 @@ Seattle, WA, USA,Posted July 16, 2026,2026-07-16 23:49:01
 10483895,Software Engineer, Graviton Software, Annapurna Labs,https://www.amazon.jobs/en/jobs/10483895/software-engineer-graviton-software-annapurna-labs,Austin, TX, USA,Posted July 24, 2026,2026-07-24 21:25:52
 10484211,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10484211/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA,Posted July 27, 2026,2026-07-27 03:07:44
 10484212,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10484212/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA,Posted July 27, 2026,2026-07-27 03:07:44
+10484947,Software Development Manager, NAT Gateway,https://www.amazon.jobs/en/jobs/10484947/software-development-manager-nat-gateway,Seattle, WA, USA,Posted July 27, 2026,2026-07-27 17:09:40
