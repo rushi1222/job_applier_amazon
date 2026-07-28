@@ -679,3 +679,4 @@ North Reading, MA, USA,Posted July 27, 2026,2026-07-27 20:32:57
 10486584,Software Development Manager, ESCAPE,https://www.amazon.jobs/en/jobs/10486584/software-development-manager-escape,San Luis Obispo, CA, USA
 Seattle, WA, USA,Posted July 28, 2026,2026-07-28 19:32:48
 10486082,IT App Dev Engr II - AMZ27485.1,https://www.amazon.jobs/en/jobs/10486082/it-app-dev-engr-ii-amz27485-1,Austin, TX, USA,Posted July 28, 2026,2026-07-28 20:28:29
+10486685,Software Development Engineer, Developer Agents and Experiences, Production Engineering,https://www.amazon.jobs/en/jobs/10486685/software-development-engineer-developer-agents-and-experiences-production-engineering,Seattle, WA, USA,Posted July 28, 2026,2026-07-28 21:26:53
