@@ -678,3 +678,4 @@ North Reading, MA, USA,Posted July 27, 2026,2026-07-27 20:32:57
 10485329,Software Development Manager, Creative Advertiser Experiences,https://www.amazon.jobs/en/jobs/10485329/software-development-manager-creative-advertiser-experiences,Santa Monica, CA, USA,Posted July 27, 2026,2026-07-27 21:26:20
 10486584,Software Development Manager, ESCAPE,https://www.amazon.jobs/en/jobs/10486584/software-development-manager-escape,San Luis Obispo, CA, USA
 Seattle, WA, USA,Posted July 28, 2026,2026-07-28 19:32:48
+10486082,IT App Dev Engr II - AMZ27485.1,https://www.amazon.jobs/en/jobs/10486082/it-app-dev-engr-ii-amz27485-1,Austin, TX, USA,Posted July 28, 2026,2026-07-28 20:28:29
