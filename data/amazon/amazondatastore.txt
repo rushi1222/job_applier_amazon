@@ -676,3 +676,5 @@ Seattle, WA, USA,Posted July 16, 2026,2026-07-16 23:49:01
 10485271,Senior Software Developer - Amazon Robotics , Autonomous Mobility,https://www.amazon.jobs/en/jobs/10485271/senior-software-developer-amazon-robotics-autonomous-mobility,Denver, CO, USA
 North Reading, MA, USA,Posted July 27, 2026,2026-07-27 20:32:57
 10485329,Software Development Manager, Creative Advertiser Experiences,https://www.amazon.jobs/en/jobs/10485329/software-development-manager-creative-advertiser-experiences,Santa Monica, CA, USA,Posted July 27, 2026,2026-07-27 21:26:20
+10486584,Software Development Manager, ESCAPE,https://www.amazon.jobs/en/jobs/10486584/software-development-manager-escape,San Luis Obispo, CA, USA
+Seattle, WA, USA,Posted July 28, 2026,2026-07-28 19:32:48
