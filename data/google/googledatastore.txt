@@ -5126,3 +5126,4 @@
 135695466313458374,Senior Software Engineer,https://www.google.com/about/careers/applications/jobs/results/135695466313458374-senior-software-engineer?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-07-27 20:33:47
 99666669294494406,Software Engineer,https://www.google.com/about/careers/applications/jobs/results/99666669294494406-software-engineer?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-07-27 20:33:47
 140881862661677766,Systems Development Engineer,https://www.google.com/about/careers/applications/jobs/results/140881862661677766-systems-development-engineer?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-07-27 20:33:47
+80111992433451718,Platform Customer Engineer Iii Saisv Google Cloud,https://www.google.com/about/careers/applications/jobs/results/80111992433451718-platform-customer-engineer-iii-saisv-google-cloud?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-07-28 07:04:46
