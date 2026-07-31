@@ -686,3 +686,5 @@ Seattle, WA, USA,Posted July 28, 2026,2026-07-28 19:32:48
 10488273,Software Development Engineer, Developer Agents and Experiences, Production Engineering,https://www.amazon.jobs/en/jobs/10488273/software-development-engineer-developer-agents-and-experiences-production-engineering,Seattle, WA, USA,Posted July 30, 2026,2026-07-30 14:48:10
 10487354,IT App Dev Engr II - AMZ10061220,https://www.amazon.jobs/en/jobs/10487354/it-app-dev-engr-ii-amz10061220,Austin, TX, USA,Posted July 29, 2026,2026-07-30 19:32:12
 10487348,Software Dev Engineer III - AMZ10061100,https://www.amazon.jobs/en/jobs/10487348/software-dev-engineer-iii-amz10061100,Boston, MA, USA,Posted July 29, 2026,2026-07-30 19:32:12
+10489398,Embedded Software Manager, Mobile Robotics,https://www.amazon.jobs/en/jobs/10489398/embedded-software-manager-mobile-robotics,North Reading, MA, USA
+Westboro, MA, USA,Posted July 31, 2026,2026-07-31 17:03:18
