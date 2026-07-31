@@ -692,3 +692,4 @@ Westboro, MA, USA,Posted July 31, 2026,2026-07-31 17:03:18
 10489701,Software Development Manager, PXTCS (People Experience and Technology Central Science),https://www.amazon.jobs/en/jobs/10489701/software-development-manager-pxtcs-people-experience-and-technology-central-science,Bellevue, WA, USA
 Seattle, WA, USA,Posted July 31, 2026,2026-07-31 20:30:58
 10489773,Software Development Engineer III (ADBL189),https://www.amazon.jobs/en/jobs/10489773/software-development-engineer-iii-adbl189,Newark, NJ, USA,Posted July 31, 2026,2026-07-31 21:25:25
+10489794,Software Development Engineer III (ADBL192),https://www.amazon.jobs/en/jobs/10489794/software-development-engineer-iii-adbl192,Cambridge, MA, USA,Posted July 31, 2026,2026-07-31 21:52:17
