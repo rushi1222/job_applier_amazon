@@ -714,3 +714,4 @@ Columbus, OH, USA
 10490830,Data Engineer I, Veritas, Security Tools Foundation,https://www.amazon.jobs/en/jobs/10490830/data-engineer-i-veritas-security-tools-foundation,Seattle, WA, USA,Posted August 3, 2026,2026-08-04 05:59:40
 10488807,Software Development Engineer, Amazon Kinesis Data Streams & Firehose,https://www.amazon.jobs/en/jobs/10488807/software-development-engineer-amazon-kinesis-data-streams-firehose,East Palo Alto, CA, USA,Posted July 30, 2026,2026-08-04 05:59:40
 10488510,Data Engineer II - AMZ9956938,https://www.amazon.jobs/en/jobs/10488510/data-engineer-ii-amz9956938,New York, NY, USA,Posted July 30, 2026,2026-08-04 05:59:40
+10488675,Data Engineer II, Business Data Technologies,https://www.amazon.jobs/en/jobs/10488675/data-engineer-ii-business-data-technologies,Seattle, WA, USA,Posted July 30, 2026,2026-08-04 13:10:00
