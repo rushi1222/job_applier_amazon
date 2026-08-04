@@ -97,7 +97,7 @@ class GoogleJobApplier(BaseScraper):
                         print(f"Navigated to: {search_url}")
                         
                         # Extract jobs from results page
-                        page_jobs = self._extract_jobs_from_page()
+                        page_jobs = self._extract_jobs_from_page(position)
                         
                         # Check if we got results or if we were blocked
                         if len(page_jobs) > 0:
@@ -217,7 +217,7 @@ class GoogleJobApplier(BaseScraper):
             # space_continue(self.browser, "Google search submission failed - check buttons")
     
     # 4. HTML PARSER: Extract job data from Google's page HTML
-    def _extract_jobs_from_page(self):
+    def _extract_jobs_from_page(self, position=None):
         """Extract job titles, URLs, and IDs from the current page. Returns list of job dicts."""
         jobs = []
         
@@ -310,7 +310,8 @@ class GoogleJobApplier(BaseScraper):
                             'title': title,
                             'url': job_url,
                             'location': "N/A",  # Location not available in URL
-                            'posted_date': None  # Date not available
+                            'posted_date': None,  # Date not available
+                            'position': position  # Track which position this job was found with
                         }
                         
                         jobs.append(job)

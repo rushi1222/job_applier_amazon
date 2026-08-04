@@ -3,8 +3,25 @@ job_search:
   positions:
     - "software developer"
     - "frontend engineer"
+    - "Data Engineer"
   locations:
     - "USA"
+
+# Map recipients to specific positions they want to receive
+# Each recipient gets jobs ONLY for their listed positions
+# If not specified or empty list, they get ALL positions
+recipient_filters:
+  "vaishnavireddyvundyala@gmail.com":
+    positions:
+      - "software developer"
+  "k.saraswathi1222@gmail.com":
+    positions:
+      - "software developer"
+      - "frontend engineer"  # Can subscribe to multiple positions
+  # Add more recipients here
+  "anilchalla926@gmail.com":
+    positions:
+      - "Data Engineer"
 
 contact:
   name: "Your Name"

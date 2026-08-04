@@ -69,7 +69,7 @@ class AmazonJobApplier(BaseScraper):
             self._sort_by_recent()
             
             # Extract jobs from first page only
-            page_jobs = self._extract_jobs_from_page()
+            page_jobs = self._extract_jobs_from_page(position)
             self.all_scraped_jobs.extend(page_jobs)
         
         # Deduplicate all_scraped_jobs by job_id (multiple searches may return same jobs)
@@ -198,7 +198,7 @@ class AmazonJobApplier(BaseScraper):
         except Exception as e:
             print(f"Could not sort by recent: {e}. Continuing with default sort...")
     
-    def _extract_jobs_from_page(self):
+    def _extract_jobs_from_page(self, position=None):
         """Extract job titles, URLs, and IDs from the current page. Returns list of job dicts."""
         jobs = []
         try:
@@ -248,7 +248,8 @@ class AmazonJobApplier(BaseScraper):
                         'title': job_title,
                         'url': job_link,
                         'location': location,
-                        'posted_date': posted_date
+                        'posted_date': posted_date,
+                        'position': position  # Track which position this job was found with
                     }
                     
                     jobs.append(job_data)

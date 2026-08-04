@@ -49,7 +49,8 @@ if __name__ == '__main__':
         'email_config': {
             'sender_email': sender_email,
             'sender_password': sender_password,
-            'recipient_email': recipient_email_list
+            'recipient_email': recipient_email_list,
+            'recipient_filters': config.get('recipient_filters', {})  # Add recipient filters
         },
     }
     
