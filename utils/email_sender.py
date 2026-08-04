@@ -174,19 +174,23 @@ def send_job_notification(jobs_by_company, email_config):
 
 def _filter_jobs_for_recipient(jobs_by_company, recipient_email, recipient_filters):
     """
-    Filter jobs based on recipient's position preferences
+    Filter jobs based on recipient's position preferences and optional keywords
+    Two-layer filtering:
+    1. Position filter (required)
+    2. Keyword filter (optional - only if keywords specified)
     
     Args:
         jobs_by_company: Dict of all jobs
         recipient_email: Email of the recipient
-        recipient_filters: Dict mapping emails to their position filters
+        recipient_filters: Dict mapping emails to their position and keyword filters
     
     Returns:
-        Filtered jobs_by_company dict containing only jobs for matching positions
+        Filtered jobs_by_company dict containing only jobs matching position AND keywords (if specified)
     """
-    # Get positions for this recipient
+    # Get filters for this recipient
     recipient_config = recipient_filters.get(recipient_email, {})
     positions = recipient_config.get('positions', [])
+    keywords = recipient_config.get('keywords', [])
     
     # If no positions specified, send all jobs
     if not positions:
@@ -195,15 +199,28 @@ def _filter_jobs_for_recipient(jobs_by_company, recipient_email, recipient_filte
     # Normalize positions for case-insensitive matching
     positions_lower = [pos.lower() for pos in positions]
     
-    # Filter jobs by positions
+    # Normalize keywords for case-insensitive matching
+    keywords_lower = [kw.lower() for kw in keywords] if keywords else []
+    
+    # Filter jobs by positions AND keywords
     filtered_jobs = {}
     for company_name, jobs in jobs_by_company.items():
         matching_jobs = []
         for job in jobs:
+            # First filter: Check position
             job_position = job.get('position', '').lower()
-            # Check if this job's position matches any of recipient's positions
-            if job_position in positions_lower:
-                matching_jobs.append(job)
+            if job_position not in positions_lower:
+                continue  # Skip if position doesn't match
+            
+            # Second filter: Check keywords (only if keywords are specified)
+            if keywords_lower:
+                job_title = job.get('title', '').lower()
+                # Check if any keyword appears in the job title
+                if not any(keyword in job_title for keyword in keywords_lower):
+                    continue  # Skip if no keyword matches
+            
+            # Job passed both filters
+            matching_jobs.append(job)
         
         # Only include company if there are matching jobs
         if matching_jobs:
