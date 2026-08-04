@@ -22,6 +22,9 @@ recipient_filters:
   "anilchalla926@gmail.com":
     positions:
       - "Data Engineer"
+  "mudupucharitha@gmail.com":
+    positions:
+      - "Data Engineer"
 
 contact:
   name: "Your Name"
