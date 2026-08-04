@@ -719,3 +719,4 @@ Columbus, OH, USA
 10487356,Data Engineer III - AMZ9444040,https://www.amazon.jobs/en/jobs/10487356/data-engineer-iii-amz9444040,Arlington, VA, USA,Posted July 29, 2026,2026-08-04 18:07:44
 10492086,Software Development Manager, Trust CX Innovations,https://www.amazon.jobs/en/jobs/10492086/software-development-manager-trust-cx-innovations,Sunnyvale, CA, USA,Posted August 4, 2026,2026-08-04 20:05:02
 10492301,Technical Program Manager, Facility Operations Center (FOC),https://www.amazon.jobs/en/jobs/10492301/technical-program-manager-facility-operations-center-foc,Herndon, VA, USA,Posted August 4, 2026,2026-08-04 21:57:54
+10492312,Data Center Project Engineer, Data Center Construction,https://www.amazon.jobs/en/jobs/10492312/data-center-project-engineer-data-center-construction,Culpeper, VA, USA,Posted August 4, 2026,2026-08-04 22:29:08
