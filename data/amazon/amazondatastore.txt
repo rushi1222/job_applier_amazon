@@ -693,3 +693,24 @@ Westboro, MA, USA,Posted July 31, 2026,2026-07-31 17:03:18
 Seattle, WA, USA,Posted July 31, 2026,2026-07-31 20:30:58
 10489773,Software Development Engineer III (ADBL189),https://www.amazon.jobs/en/jobs/10489773/software-development-engineer-iii-adbl189,Newark, NJ, USA,Posted July 31, 2026,2026-07-31 21:25:25
 10489794,Software Development Engineer III (ADBL192),https://www.amazon.jobs/en/jobs/10489794/software-development-engineer-iii-adbl192,Cambridge, MA, USA,Posted July 31, 2026,2026-07-31 21:52:17
+10490980,Mechanical Product Design Engineer, Data Center Eng, Mech Products and Services,https://www.amazon.jobs/en/jobs/10490980/mechanical-product-design-engineer-data-center-eng-mech-products-and-services,Atlanta, GA, USA
+Herndon, VA, USA
+Seattle, WA, USA,Posted August 3, 2026,2026-08-04 05:59:40
+10490813,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10490813/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 3, 2026,2026-08-04 05:59:40
+10490799,Electrical Design Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10490799/electrical-design-engineer-data-center-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 3, 2026,2026-08-04 05:59:40
+10490785,Sr. Electrical Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10490785/sr-electrical-engineer-data-center-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 3, 2026,2026-08-04 05:59:40
+10489784,Project Engineer, Project Engineer,https://www.amazon.jobs/en/jobs/10489784/project-engineer-project-engineer,Shreveport, LA, USA,Posted July 31, 2026,2026-08-04 05:59:40
+10489779,Systems Engineer, Controls Fleet, Data Center Capacity Delivery,https://www.amazon.jobs/en/jobs/10489779/systems-engineer-controls-fleet-data-center-capacity-delivery,Seattle, WA, USA,Posted July 31, 2026,2026-08-04 05:59:40
+10489805,Data Engineer II, NAST CX Tech,https://www.amazon.jobs/en/jobs/10489805/data-engineer-ii-nast-cx-tech,Bellevue, WA, USA,Posted July 31, 2026,2026-08-04 05:59:40
+10490830,Data Engineer I, Veritas, Security Tools Foundation,https://www.amazon.jobs/en/jobs/10490830/data-engineer-i-veritas-security-tools-foundation,Seattle, WA, USA,Posted August 3, 2026,2026-08-04 05:59:40
+10488807,Software Development Engineer, Amazon Kinesis Data Streams & Firehose,https://www.amazon.jobs/en/jobs/10488807/software-development-engineer-amazon-kinesis-data-streams-firehose,East Palo Alto, CA, USA,Posted July 30, 2026,2026-08-04 05:59:40
+10488510,Data Engineer II - AMZ9956938,https://www.amazon.jobs/en/jobs/10488510/data-engineer-ii-amz9956938,New York, NY, USA,Posted July 30, 2026,2026-08-04 05:59:40
