@@ -716,3 +716,4 @@ Columbus, OH, USA
 10488510,Data Engineer II - AMZ9956938,https://www.amazon.jobs/en/jobs/10488510/data-engineer-ii-amz9956938,New York, NY, USA,Posted July 30, 2026,2026-08-04 05:59:40
 10488675,Data Engineer II, Business Data Technologies,https://www.amazon.jobs/en/jobs/10488675/data-engineer-ii-business-data-technologies,Seattle, WA, USA,Posted July 30, 2026,2026-08-04 13:10:00
 10491192,Senior ML Software Engineer, Data Plane,https://www.amazon.jobs/en/jobs/10491192/senior-ml-software-engineer-data-plane,Cupertino, CA, USA,Posted August 4, 2026,2026-08-04 14:17:21
+10487356,Data Engineer III - AMZ9444040,https://www.amazon.jobs/en/jobs/10487356/data-engineer-iii-amz9444040,Arlington, VA, USA,Posted July 29, 2026,2026-08-04 18:07:44
