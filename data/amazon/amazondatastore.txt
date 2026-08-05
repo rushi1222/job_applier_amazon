@@ -722,3 +722,5 @@ Columbus, OH, USA
 10492312,Data Center Project Engineer, Data Center Construction,https://www.amazon.jobs/en/jobs/10492312/data-center-project-engineer-data-center-construction,Culpeper, VA, USA,Posted August 4, 2026,2026-08-04 22:29:08
 10492473,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10492473/data-center-controls-engineer-data-center-capacity-delivery-controls,Trenton, OH, USA,Posted August 5, 2026,2026-08-05 05:57:15
 10491611,Business Analyst III - AMZ9898258,https://www.amazon.jobs/en/jobs/10491611/business-analyst-iii-amz9898258,Bellevue, WA, USA,Posted August 4, 2026,2026-08-05 17:02:26
+10493180,Systems Development Engineer II, AWS Cross Domain Services (CDS),https://www.amazon.jobs/en/jobs/10493180/systems-development-engineer-ii-aws-cross-domain-services-cds,Seattle, WA, USA,Posted August 5, 2026,2026-08-05 18:03:21
+10493203,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10493203/data-center-controls-engineer-data-center-capacity-delivery-controls,Ashburn, VA, USA,Posted August 5, 2026,2026-08-05 18:03:21
