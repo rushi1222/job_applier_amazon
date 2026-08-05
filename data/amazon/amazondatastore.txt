@@ -724,3 +724,7 @@ Columbus, OH, USA
 10491611,Business Analyst III - AMZ9898258,https://www.amazon.jobs/en/jobs/10491611/business-analyst-iii-amz9898258,Bellevue, WA, USA,Posted August 4, 2026,2026-08-05 17:02:26
 10493180,Systems Development Engineer II, AWS Cross Domain Services (CDS),https://www.amazon.jobs/en/jobs/10493180/systems-development-engineer-ii-aws-cross-domain-services-cds,Seattle, WA, USA,Posted August 5, 2026,2026-08-05 18:03:21
 10493203,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10493203/data-center-controls-engineer-data-center-capacity-delivery-controls,Ashburn, VA, USA,Posted August 5, 2026,2026-08-05 18:03:21
+10493298,Systems Development Engineer II, AWS Cross Domain Services (CDS),https://www.amazon.jobs/en/jobs/10493298/systems-development-engineer-ii-aws-cross-domain-services-cds,Seattle, WA, USA,Posted August 5, 2026,2026-08-05 19:02:24
+10492136,IT App Analyst III - AMZ10322420,https://www.amazon.jobs/en/jobs/10492136/it-app-analyst-iii-amz10322420,Dallas, TX, USA,Posted August 4, 2026,2026-08-05 19:02:24
+10493279,Project Engineer,https://www.amazon.jobs/en/jobs/10493279/project-engineer,Canton, MS, USA,Posted August 5, 2026,2026-08-05 19:02:24
+10492034,Business Intel Engineer II - AMZ9890743,https://www.amazon.jobs/en/jobs/10492034/business-intel-engineer-ii-amz9890743,Culver City, CA, USA,Posted August 4, 2026,2026-08-05 19:02:24
