@@ -729,3 +729,4 @@ Columbus, OH, USA
 10493279,Project Engineer,https://www.amazon.jobs/en/jobs/10493279/project-engineer,Canton, MS, USA,Posted August 5, 2026,2026-08-05 19:02:24
 10492034,Business Intel Engineer II - AMZ9890743,https://www.amazon.jobs/en/jobs/10492034/business-intel-engineer-ii-amz9890743,Culver City, CA, USA,Posted August 4, 2026,2026-08-05 19:02:24
 10493420,Data Center Chief Engineer, CLT100,https://www.amazon.jobs/en/jobs/10493420/data-center-chief-engineer-clt100,Hamlet, NC, USA,Posted August 5, 2026,2026-08-05 20:04:10
+10493986,Project Engineer, DC Construction, Data Center Construction,https://www.amazon.jobs/en/jobs/10493986/project-engineer-dc-construction-data-center-construction,Shreveport, LA, USA,Posted August 6, 2026,2026-08-06 13:06:19
