@@ -731,3 +731,4 @@ Columbus, OH, USA
 10493420,Data Center Chief Engineer, CLT100,https://www.amazon.jobs/en/jobs/10493420/data-center-chief-engineer-clt100,Hamlet, NC, USA,Posted August 5, 2026,2026-08-05 20:04:10
 10493986,Project Engineer, DC Construction, Data Center Construction,https://www.amazon.jobs/en/jobs/10493986/project-engineer-dc-construction-data-center-construction,Shreveport, LA, USA,Posted August 6, 2026,2026-08-06 13:06:19
 10494000,Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT),https://www.amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat,New York, NY, USA,Posted August 6, 2026,2026-08-06 14:17:19
+10494838,Sr. Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10494838/sr-software-development-engineer-aurora-storage,Redmond, WA, USA,Posted August 6, 2026,2026-08-06 22:57:23
