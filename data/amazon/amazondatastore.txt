@@ -732,3 +732,9 @@ Columbus, OH, USA
 10493986,Project Engineer, DC Construction, Data Center Construction,https://www.amazon.jobs/en/jobs/10493986/project-engineer-dc-construction-data-center-construction,Shreveport, LA, USA,Posted August 6, 2026,2026-08-06 13:06:19
 10494000,Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT),https://www.amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat,New York, NY, USA,Posted August 6, 2026,2026-08-06 14:17:19
 10494838,Sr. Software Development Engineer, Aurora Storage,https://www.amazon.jobs/en/jobs/10494838/sr-software-development-engineer-aurora-storage,Redmond, WA, USA,Posted August 6, 2026,2026-08-06 22:57:23
+10496966,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10496966/data-center-chief-engineer,Wink, TX, USA,Posted August 10, 2026,2026-08-10 14:27:52
+10496967,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10496967/data-center-chief-engineer,Wink, TX, USA,Posted August 10, 2026,2026-08-10 14:27:52
+10496849,Sr. ICT Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10496849/sr-ict-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+COLUMBUS, OH, USA
++2 other locations,Posted August 10, 2026,2026-08-10 14:27:52
