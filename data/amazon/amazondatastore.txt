@@ -742,3 +742,4 @@ COLUMBUS, OH, USA
 10498619,Business Analyst III - AMZ10666414,https://www.amazon.jobs/en/jobs/10498619/business-analyst-iii-amz10666414,San Diego, CA, USA,Posted August 11, 2026,2026-08-11 16:19:50
 10498577,Data Engineer I, Amazon Publisher Monetization, Analytics,https://www.amazon.jobs/en/jobs/10498577/data-engineer-i-amazon-publisher-monetization-analytics,Seattle, WA, USA
 SEATTLE, WA, USA,Posted August 11, 2026,2026-08-11 16:19:50
+10498978,Software Development Engineer, Fintech,https://www.amazon.jobs/en/jobs/10498978/software-development-engineer-fintech,Seattle, WA, USA,Posted August 11, 2026,2026-08-11 19:24:40
