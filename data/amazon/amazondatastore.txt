@@ -746,3 +746,4 @@ SEATTLE, WA, USA,Posted August 11, 2026,2026-08-11 16:19:50
 10499032,Data Center Chief Engineer, DCEO,https://www.amazon.jobs/en/jobs/10499032/data-center-chief-engineer-dceo,Hobart, IN, USA,Posted August 11, 2026,2026-08-11 19:51:02
 10499060,Data Center Night Chief Engineer, DCC Communities,https://www.amazon.jobs/en/jobs/10499060/data-center-night-chief-engineer-dcc-communities,Frederick, MD, USA,Posted August 11, 2026,2026-08-11 20:16:05
 10499089,Commissioning Engineer, AWS Commissioning,https://www.amazon.jobs/en/jobs/10499089/commissioning-engineer-aws-commissioning,Atlanta, GA, USA,Posted August 11, 2026,2026-08-11 21:18:30
+10499131,Data Engineer II, Accounting, Accounting,https://www.amazon.jobs/en/jobs/10499131/data-engineer-ii-accounting-accounting,Arlington, VA, USA,Posted August 11, 2026,2026-08-11 21:48:09
