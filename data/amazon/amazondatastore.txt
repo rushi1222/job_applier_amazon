@@ -756,3 +756,7 @@ NEW CARLISLE, IN, USA,Posted August 13, 2026,2026-08-13 13:32:01
 Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted August 13, 2026,2026-08-13 14:29:28
+10500910,Sr. Electrical Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10500910/sr-electrical-engineer-data-center-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 13, 2026,2026-08-13 15:23:29
