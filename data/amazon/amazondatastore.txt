@@ -752,3 +752,7 @@ SEATTLE, WA, USA,Posted August 11, 2026,2026-08-11 16:19:50
 10499698,IT App Dev Engr II - AMZ10342241,https://www.amazon.jobs/en/jobs/10499698/it-app-dev-engr-ii-amz10342241,Seattle, WA, USA,Posted August 12, 2026,2026-08-12 19:52:28
 10500743,Controls Engineer, Data Center Capacity Delivery,https://www.amazon.jobs/en/jobs/10500743/controls-engineer-data-center-capacity-delivery,New Carlisle, IN, USA
 NEW CARLISLE, IN, USA,Posted August 13, 2026,2026-08-13 13:32:01
+10500797,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10500797/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 13, 2026,2026-08-13 14:29:28
