@@ -777,3 +777,5 @@ Sidney, OH, USA
 Wilimington, OH, USA,Posted August 13, 2026,2026-08-13 19:24:45
 10501354,Commissioning Engineer, AWS Commissioning,https://www.amazon.jobs/en/jobs/10501354/commissioning-engineer-aws-commissioning,New Carlisle, IN, USA,Posted August 13, 2026,2026-08-13 19:24:45
 10500089,Software Dev Engineer III - AMZ26539.2,https://www.amazon.jobs/en/jobs/10500089/software-dev-engineer-iii-amz26539-2,San Francisco, CA, USA,Posted August 12, 2026,2026-08-14 13:30:20
+10502321,Software Development Manager, AgentCore Memory,https://www.amazon.jobs/en/jobs/10502321/software-development-manager-agentcore-memory,Jersey City, NJ, USA
+New York, NY, USA,Posted August 14, 2026,2026-08-14 15:19:02
