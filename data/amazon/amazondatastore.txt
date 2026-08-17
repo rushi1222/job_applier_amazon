@@ -783,3 +783,4 @@ New York, NY, USA,Posted August 14, 2026,2026-08-14 15:19:02
 Herndon, VA, USA,Posted August 14, 2026,2026-08-15 00:14:32
 10503757,Data Engineer, CIA-Core Engine,https://www.amazon.jobs/en/jobs/10503757/data-engineer-cia-core-engine,Austin, TX, USA,Posted August 17, 2026,2026-08-17 16:07:06
 10503794,Sr. Software Development Engineer, Kiro Control Plane,https://www.amazon.jobs/en/jobs/10503794/sr-software-development-engineer-kiro-control-plane,Seattle, WA, USA,Posted August 17, 2026,2026-08-17 16:42:15
+10503913,Software Development Manager, Aurora DSQL,https://www.amazon.jobs/en/jobs/10503913/software-development-manager-aurora-dsql,Seattle, WA, USA,Posted August 17, 2026,2026-08-17 17:42:01
