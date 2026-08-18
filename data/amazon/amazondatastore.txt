@@ -785,3 +785,4 @@ Herndon, VA, USA,Posted August 14, 2026,2026-08-15 00:14:32
 10503794,Sr. Software Development Engineer, Kiro Control Plane,https://www.amazon.jobs/en/jobs/10503794/sr-software-development-engineer-kiro-control-plane,Seattle, WA, USA,Posted August 17, 2026,2026-08-17 16:42:15
 10503913,Software Development Manager, Aurora DSQL,https://www.amazon.jobs/en/jobs/10503913/software-development-manager-aurora-dsql,Seattle, WA, USA,Posted August 17, 2026,2026-08-17 17:42:01
 10503982,Software Development Engineer, Neuron Developer Experiences Team,https://www.amazon.jobs/en/jobs/10503982/software-development-engineer-neuron-developer-experiences-team,Seattle, WA, USA,Posted August 17, 2026,2026-08-17 18:46:44
+10505702,Software Dev Engineer III - AMZ10119675,https://www.amazon.jobs/en/jobs/10505702/software-dev-engineer-iii-amz10119675,New York, NY, USA,Posted August 18, 2026,2026-08-18 19:40:31
