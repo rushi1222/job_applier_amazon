@@ -791,3 +791,4 @@ COLUMBUS, OH, USA
 Herndon, VA, USA
 +1 other locations,Posted August 18, 2026,2026-08-18 20:40:32
 10506728,Data Center Controls Engineer, Wharton, TX,https://www.amazon.jobs/en/jobs/10506728/data-center-controls-engineer-wharton-tx,Boling, TX, USA,Posted August 19, 2026,2026-08-19 13:47:15
+10506841,Software Development Manager, Amazon Enterprise Security Products,https://www.amazon.jobs/en/jobs/10506841/software-development-manager-amazon-enterprise-security-products,Austin, TX, USA,Posted August 19, 2026,2026-08-19 15:44:45
