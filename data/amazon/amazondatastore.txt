@@ -804,3 +804,4 @@ San Diego, CA, USA,Posted August 19, 2026,2026-08-19 18:09:02
 San Diego, CA, USA,Posted August 19, 2026,2026-08-19 18:09:02
 10507174,Data Engineer II - AMZ10414442,https://www.amazon.jobs/en/jobs/10507174/data-engineer-ii-amz10414442,Dallas, TX, USA,Posted August 19, 2026,2026-08-19 18:09:02
 10508238,Commissioning Engineer, AWS Commissioning,https://www.amazon.jobs/en/jobs/10508238/commissioning-engineer-aws-commissioning,Herndon, VA, USA,Posted August 20, 2026,2026-08-20 17:10:05
+10505664,Software Dev Engineer III - AMZ10291251,https://www.amazon.jobs/en/jobs/10505664/software-dev-engineer-iii-amz10291251,Atlanta, GA, USA,Posted August 18, 2026,2026-08-20 17:42:32
