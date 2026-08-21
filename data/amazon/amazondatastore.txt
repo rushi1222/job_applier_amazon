@@ -806,3 +806,11 @@ San Diego, CA, USA,Posted August 19, 2026,2026-08-19 18:09:02
 10508238,Commissioning Engineer, AWS Commissioning,https://www.amazon.jobs/en/jobs/10508238/commissioning-engineer-aws-commissioning,Herndon, VA, USA,Posted August 20, 2026,2026-08-20 17:10:05
 10505664,Software Dev Engineer III - AMZ10291251,https://www.amazon.jobs/en/jobs/10505664/software-dev-engineer-iii-amz10291251,Atlanta, GA, USA,Posted August 18, 2026,2026-08-20 17:42:32
 10509566,Software Development Engineer, Advertiser 1P Data,https://www.amazon.jobs/en/jobs/10509566/software-development-engineer-advertiser-1p-data,Palo Alto, CA, USA,Posted August 20, 2026,2026-08-20 21:41:33
+10509698,Mechanical Product Design Engineer, Data Center Eng, Mech Products and Services,https://www.amazon.jobs/en/jobs/10509698/mechanical-product-design-engineer-data-center-eng-mech-products-and-services,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 00:15:22
+10509697,Sr. Mechanical Product Engineer, Data Center Eng, MPS,https://www.amazon.jobs/en/jobs/10509697/sr-mechanical-product-engineer-data-center-eng-mps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 00:15:22
