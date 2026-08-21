@@ -828,3 +828,7 @@ Columbus, OH, USA
 10510180,Data Center Controls Engineer, Controls Deployment Service,https://www.amazon.jobs/en/jobs/10510180/data-center-controls-engineer-controls-deployment-service,Hilliard, OH, USA,Posted August 21, 2026,2026-08-21 16:45:15
 10510179,Data Center Controls Engineer, Controls Deployment Service,https://www.amazon.jobs/en/jobs/10510179/data-center-controls-engineer-controls-deployment-service,New Albany, OH, USA
 NEW ALBANY, OH, USA,Posted August 21, 2026,2026-08-21 16:45:15
+10510430,Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services,https://www.amazon.jobs/en/jobs/10510430/product-lifecycle-electrical-engineer-data-center-electrical-products-and-services,Atlanta, GA, USA
+Austin, TX, USA
+COLUMBUS, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 18:09:52
