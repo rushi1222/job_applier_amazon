@@ -832,3 +832,8 @@ NEW ALBANY, OH, USA,Posted August 21, 2026,2026-08-21 16:45:15
 Austin, TX, USA
 COLUMBUS, OH, USA
 +2 other locations,Posted August 21, 2026,2026-08-21 18:09:52
+10510503,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10510503/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 19:12:57
+10510493,Software Development Engineer - Kinesis Data Streams, Kinesis Data Streams,https://www.amazon.jobs/en/jobs/10510493/software-development-engineer-kinesis-data-streams-kinesis-data-streams,Seattle, WA, USA,Posted August 21, 2026,2026-08-21 19:12:57
