@@ -837,3 +837,7 @@ Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted August 21, 2026,2026-08-21 19:12:57
 10510493,Software Development Engineer - Kinesis Data Streams, Kinesis Data Streams,https://www.amazon.jobs/en/jobs/10510493/software-development-engineer-kinesis-data-streams-kinesis-data-streams,Seattle, WA, USA,Posted August 21, 2026,2026-08-21 19:12:57
+10510527,Sr. Electrical Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10510527/sr-electrical-engineer-data-center-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 19:39:24
