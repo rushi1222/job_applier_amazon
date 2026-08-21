@@ -817,3 +817,14 @@ Columbus, OH, USA
 10509702,Senior Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics,https://www.amazon.jobs/en/jobs/10509702/senior-data-engineer-specialist-technology-team-stt-centralized-data-analytics,Austin, TX, USA
 New York, NY, USA
 Seattle, WA, USA,Posted August 21, 2026,2026-08-21 00:49:32
+10510154,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10510154/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 16:45:15
+10510142,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10510142/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 21, 2026,2026-08-21 16:45:15
+10510180,Data Center Controls Engineer, Controls Deployment Service,https://www.amazon.jobs/en/jobs/10510180/data-center-controls-engineer-controls-deployment-service,Hilliard, OH, USA,Posted August 21, 2026,2026-08-21 16:45:15
+10510179,Data Center Controls Engineer, Controls Deployment Service,https://www.amazon.jobs/en/jobs/10510179/data-center-controls-engineer-controls-deployment-service,New Albany, OH, USA
+NEW ALBANY, OH, USA,Posted August 21, 2026,2026-08-21 16:45:15
