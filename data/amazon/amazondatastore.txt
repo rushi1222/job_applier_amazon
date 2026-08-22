@@ -847,3 +847,7 @@ Columbus, OH, USA
 +2 other locations,Posted August 21, 2026,2026-08-21 20:06:38
 10510698,Software Development Manager, Applied AI Solutions,https://www.amazon.jobs/en/jobs/10510698/software-development-manager-applied-ai-solutions,Seattle, WA, USA,Posted August 21, 2026,2026-08-21 20:40:33
 10510684,Data Center Controls Engineer,https://www.amazon.jobs/en/jobs/10510684/data-center-controls-engineer,Herndon, VA, USA,Posted August 21, 2026,2026-08-21 20:40:33
+10511451,Sr. Electrical Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10511451/sr-electrical-engineer-data-center-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 22, 2026,2026-08-22 03:18:32
