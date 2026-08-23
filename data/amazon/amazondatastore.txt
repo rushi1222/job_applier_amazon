@@ -851,3 +851,9 @@ Columbus, OH, USA
 Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted August 22, 2026,2026-08-22 03:18:32
+10511535,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511535/data-center-chief-engineer,New Albany, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
+10511514,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511514/data-center-chief-engineer,New Albany, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
+10511534,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511534/data-center-chief-engineer,New Albany, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
+10511513,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511513/data-center-chief-engineer,New Albany, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
+10511512,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511512/data-center-chief-engineer,New Albany, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
+10511539,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511539/data-center-chief-engineer,Jeffersonville, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
