@@ -859,3 +859,4 @@ Columbus, OH, USA
 10511539,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10511539/data-center-chief-engineer,Jeffersonville, OH, USA,Posted August 23, 2026,2026-08-23 03:23:08
 10513842,Senior Business Intelligence Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/10513842/senior-business-intelligence-engineer-amazon-leo,Bellevue, WA, USA
 BELLEVUE, WA, USA,Posted August 25, 2026,2026-08-25 16:14:27
+10514548,Data Engineer, SPTC,https://www.amazon.jobs/en/jobs/10514548/data-engineer-sptc,Seattle, WA, USA,Posted August 25, 2026,2026-08-25 20:07:51
