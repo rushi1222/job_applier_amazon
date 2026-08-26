@@ -861,3 +861,7 @@ Columbus, OH, USA
 BELLEVUE, WA, USA,Posted August 25, 2026,2026-08-25 16:14:27
 10514548,Data Engineer, SPTC,https://www.amazon.jobs/en/jobs/10514548/data-engineer-sptc,Seattle, WA, USA,Posted August 25, 2026,2026-08-25 20:07:51
 10516095,Software Development Manager, Amazon Leo, Amazon Leo,https://www.amazon.jobs/en/jobs/10516095/software-development-manager-amazon-leo-amazon-leo,Redmond, WA, USA,Posted August 26, 2026,2026-08-26 19:35:05
+10516176,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10516176/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 26, 2026,2026-08-26 20:50:35
