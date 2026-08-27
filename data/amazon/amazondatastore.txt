@@ -875,3 +875,9 @@ Columbus, OH, USA
 +2 other locations,Posted August 27, 2026,2026-08-27 15:12:23
 10516695,Commissioning Engineer, AWS Commissioning, AMER-West,https://www.amazon.jobs/en/jobs/10516695/commissioning-engineer-aws-commissioning-amer-west,Avondale, AZ, USA,Posted August 27, 2026,2026-08-27 15:12:23
 10516691,Data Center Controls Engineer, Covington, Ga,https://www.amazon.jobs/en/jobs/10516691/data-center-controls-engineer-covington-ga,Covington, GA, USA,Posted August 27, 2026,2026-08-27 15:12:23
+10517532,Forward Deployed Engineering Manager, AWS Forward Deployed Engineering,https://www.amazon.jobs/en/jobs/10517532/forward-deployed-engineering-manager-aws-forward-deployed-engineering,Arlington, VA, USA
+Bellevue, WA, USA
+Boston, MA, USA
++5 other locations,Posted August 27, 2026,2026-08-27 22:47:50
+10517605,Sr. Technical Full Life Cycle Recruiter, Amazon Stores,https://www.amazon.jobs/en/jobs/10517605/sr-technical-full-life-cycle-recruiter-amazon-stores,N.Reading, MA, USA
+New York, NY, USA,Posted August 27, 2026,2026-08-27 22:47:50
