@@ -869,3 +869,9 @@ Columbus, OH, USA
 Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted August 26, 2026,2026-08-26 23:08:32
+10516697,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10516697/sr-mechanical-design-engineer-data-center-design-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted August 27, 2026,2026-08-27 15:12:23
+10516695,Commissioning Engineer, AWS Commissioning, AMER-West,https://www.amazon.jobs/en/jobs/10516695/commissioning-engineer-aws-commissioning-amer-west,Avondale, AZ, USA,Posted August 27, 2026,2026-08-27 15:12:23
+10516691,Data Center Controls Engineer, Covington, Ga,https://www.amazon.jobs/en/jobs/10516691/data-center-controls-engineer-covington-ga,Covington, GA, USA,Posted August 27, 2026,2026-08-27 15:12:23
