@@ -883,3 +883,4 @@ Boston, MA, USA
 New York, NY, USA,Posted August 27, 2026,2026-08-27 22:47:50
 10517797,Senior Constructability Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10517797/senior-constructability-engineer-data-center-design-engineering,Herndon, VA, USA
 Seattle, WA, USA,Posted August 28, 2026,2026-08-28 04:45:32
+10518484,Cleared Data Center Electrical Field Engineer, Field Engineering,https://www.amazon.jobs/en/jobs/10518484/cleared-data-center-electrical-field-engineer-field-engineering,Plain City, OH, USA,Posted August 28, 2026,2026-08-28 16:12:03
