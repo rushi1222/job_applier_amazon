@@ -884,3 +884,13 @@ New York, NY, USA,Posted August 27, 2026,2026-08-27 22:47:50
 10517797,Senior Constructability Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10517797/senior-constructability-engineer-data-center-design-engineering,Herndon, VA, USA
 Seattle, WA, USA,Posted August 28, 2026,2026-08-28 04:45:32
 10518484,Cleared Data Center Electrical Field Engineer, Field Engineering,https://www.amazon.jobs/en/jobs/10518484/cleared-data-center-electrical-field-engineer-field-engineering,Plain City, OH, USA,Posted August 28, 2026,2026-08-28 16:12:03
+10519775,Software Development Manager, Amazon Leo Data Platform,https://www.amazon.jobs/en/jobs/10519775/software-development-manager-amazon-leo-data-platform,Redmond, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10519713,Software Development Manager, Devices & Services Trust CX Innovations,https://www.amazon.jobs/en/jobs/10519713/software-development-manager-devices-services-trust-cx-innovations,Bellevue, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10520050,Software Development Engineer, Route 53,https://www.amazon.jobs/en/jobs/10520050/software-development-engineer-route-53,Herndon, VA, USA
+Seattle, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10520497,Project Engineer,https://www.amazon.jobs/en/jobs/10520497/project-engineer,New Carlisle, IN, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10519392,Data Engineer, AWS DC Central Operations,https://www.amazon.jobs/en/jobs/10519392/data-engineer-aws-dc-central-operations,Seattle, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10519667,Geospatial Data Engineer , WW Sustainability,https://www.amazon.jobs/en/jobs/10519667/geospatial-data-engineer-ww-sustainability,San Francisco, CA, USA
+Seattle, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10519658,Software Development Engineer, Reporting Data Platform,https://www.amazon.jobs/en/jobs/10519658/software-development-engineer-reporting-data-platform,Seattle, WA, USA
+SEATTLE, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
