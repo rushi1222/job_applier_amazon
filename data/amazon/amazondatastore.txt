@@ -894,3 +894,5 @@ Seattle, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
 Seattle, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
 10519658,Software Development Engineer, Reporting Data Platform,https://www.amazon.jobs/en/jobs/10519658/software-development-engineer-reporting-data-platform,Seattle, WA, USA
 SEATTLE, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
+10521254,Senior Software Development Engineer, Amazon Leo - Developer Productivity, AI, Test and Simulation,https://www.amazon.jobs/en/jobs/10521254/senior-software-development-engineer-amazon-leo-developer-productivity-ai-test-and-simulation,Redmond, WA, USA
+Sunnyvale, CA, USA,Posted August 29, 2026,2026-08-29 17:09:01
