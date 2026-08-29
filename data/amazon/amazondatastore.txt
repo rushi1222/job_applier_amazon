@@ -896,3 +896,7 @@ Seattle, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
 SEATTLE, WA, USA,Posted August 28, 2026,2026-08-28 20:25:25
 10521254,Senior Software Development Engineer, Amazon Leo - Developer Productivity, AI, Test and Simulation,https://www.amazon.jobs/en/jobs/10521254/senior-software-development-engineer-amazon-leo-developer-productivity-ai-test-and-simulation,Redmond, WA, USA
 Sunnyvale, CA, USA,Posted August 29, 2026,2026-08-29 17:09:01
+10521258,Data Engineer, PXT Central Science,https://www.amazon.jobs/en/jobs/10521258/data-engineer-pxt-central-science,Arlington, VA, USA
+Bellevue, WA, USA
+San Francisco, CA, USA
++1 other locations,Posted August 29, 2026,2026-08-29 19:08:56
