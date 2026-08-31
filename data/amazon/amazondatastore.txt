@@ -909,3 +909,4 @@ NEW ALBANY, OH, USA,Posted August 31, 2026,2026-08-31 15:12:05
 10522158,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10522158/data-center-chief-engineer,Berwick, PA, USA
 BERWICK, PA, USA,Posted August 31, 2026,2026-08-31 17:35:38
 10522951,Data Center Chief Engineer, CLT101,https://www.amazon.jobs/en/jobs/10522951/data-center-chief-engineer-clt101,Hamlet, NC, USA,Posted August 31, 2026,2026-08-31 22:11:05
+10522984,Senior Data Engineer, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10522984/senior-data-engineer-aws-analytics-engineering,Seattle, WA, USA,Posted August 31, 2026,2026-08-31 23:10:15
