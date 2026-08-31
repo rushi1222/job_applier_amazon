@@ -906,3 +906,5 @@ San Francisco, CA, USA
 NEW ALBANY, OH, USA,Posted August 31, 2026,2026-08-31 15:12:05
 10521946,Data Center Facility Manager II, Data Center Engineer Operations (DCEO),https://www.amazon.jobs/en/jobs/10521946/data-center-facility-manager-ii-data-center-engineer-operations-dceo,New Albany, OH, USA
 NEW ALBANY, OH, USA,Posted August 31, 2026,2026-08-31 15:12:05
+10522158,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10522158/data-center-chief-engineer,Berwick, PA, USA
+BERWICK, PA, USA,Posted August 31, 2026,2026-08-31 17:35:38
