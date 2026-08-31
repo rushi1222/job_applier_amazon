@@ -902,3 +902,7 @@ San Francisco, CA, USA
 +1 other locations,Posted August 29, 2026,2026-08-29 19:08:56
 10521896,DCEO Chief Engineer, ADC DCEO,https://www.amazon.jobs/en/jobs/10521896/dceo-chief-engineer-adc-dceo,Aurora, CO, USA,Posted August 31, 2026,2026-08-31 14:38:07
 10521897,DCEO Chief Engineer, ADC DCEO,https://www.amazon.jobs/en/jobs/10521897/dceo-chief-engineer-adc-dceo,Aurora, CO, USA,Posted August 31, 2026,2026-08-31 14:38:07
+10521943,Engineering Operation Technician, Data Center Engineer Operations (DCEO),https://www.amazon.jobs/en/jobs/10521943/engineering-operation-technician-data-center-engineer-operations-dceo,New Albany, OH, USA
+NEW ALBANY, OH, USA,Posted August 31, 2026,2026-08-31 15:12:05
+10521946,Data Center Facility Manager II, Data Center Engineer Operations (DCEO),https://www.amazon.jobs/en/jobs/10521946/data-center-facility-manager-ii-data-center-engineer-operations-dceo,New Albany, OH, USA
+NEW ALBANY, OH, USA,Posted August 31, 2026,2026-08-31 15:12:05
