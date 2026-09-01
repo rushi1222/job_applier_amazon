@@ -910,3 +910,6 @@ NEW ALBANY, OH, USA,Posted August 31, 2026,2026-08-31 15:12:05
 BERWICK, PA, USA,Posted August 31, 2026,2026-08-31 17:35:38
 10522951,Data Center Chief Engineer, CLT101,https://www.amazon.jobs/en/jobs/10522951/data-center-chief-engineer-clt101,Hamlet, NC, USA,Posted August 31, 2026,2026-08-31 22:11:05
 10522984,Senior Data Engineer, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10522984/senior-data-engineer-aws-analytics-engineering,Seattle, WA, USA,Posted August 31, 2026,2026-08-31 23:10:15
+10523938,Project Engineer, PNE,https://www.amazon.jobs/en/jobs/10523938/project-engineer-pne,Fairless Hills, PA, USA,Posted September 1, 2026,2026-09-01 16:33:39
+10523907,Facility Operations Center Engineer, ADC InfraOps FOC,https://www.amazon.jobs/en/jobs/10523907/facility-operations-center-engineer-adc-infraops-foc,Arlington, VA, USA,Posted September 1, 2026,2026-09-01 16:33:39
+10523919,Facility Operations Center Engineer, ADC InfraOps FOC,https://www.amazon.jobs/en/jobs/10523919/facility-operations-center-engineer-adc-infraops-foc,Arlington, VA, USA,Posted September 1, 2026,2026-09-01 16:33:39
