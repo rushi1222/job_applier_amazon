@@ -914,3 +914,6 @@ BERWICK, PA, USA,Posted August 31, 2026,2026-08-31 17:35:38
 10523907,Facility Operations Center Engineer, ADC InfraOps FOC,https://www.amazon.jobs/en/jobs/10523907/facility-operations-center-engineer-adc-infraops-foc,Arlington, VA, USA,Posted September 1, 2026,2026-09-01 16:33:39
 10523919,Facility Operations Center Engineer, ADC InfraOps FOC,https://www.amazon.jobs/en/jobs/10523919/facility-operations-center-engineer-adc-infraops-foc,Arlington, VA, USA,Posted September 1, 2026,2026-09-01 16:33:39
 10524274,Front End Engineer, IAM Console Team,https://www.amazon.jobs/en/jobs/10524274/front-end-engineer-iam-console-team,Seattle, WA, USA,Posted September 1, 2026,2026-09-01 18:14:50
+10524945,Business Intelligence Engineer, Internal Audit - Data Analytics Support,https://www.amazon.jobs/en/jobs/10524945/business-intelligence-engineer-internal-audit-data-analytics-support,Arlington, VA, USA
+Boston, MA, USA
+Jersey City, NJ, USA,Posted September 1, 2026,2026-09-01 22:10:22
