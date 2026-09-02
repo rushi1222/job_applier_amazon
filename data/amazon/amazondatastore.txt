@@ -920,3 +920,4 @@ Jersey City, NJ, USA,Posted September 1, 2026,2026-09-01 22:10:22
 10526760,Mechanical Product Engineer, Data Center Engineering, Mechanical Products and Services,https://www.amazon.jobs/en/jobs/10526760/mechanical-product-engineer-data-center-engineering-mechanical-products-and-services,Atlanta, GA, USA
 Herndon, VA, USA
 Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
+10526809,Software Dev Manager III, Amazon Leo,https://www.amazon.jobs/en/jobs/10526809/software-dev-manager-iii-amazon-leo,Redmond, WA, USA,Posted September 2, 2026,2026-09-02 22:11:03
