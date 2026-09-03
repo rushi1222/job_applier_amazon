@@ -929,3 +929,4 @@ Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
 10529005,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10529005/data-center-chief-engineer,Canton, MS, USA,Posted September 3, 2026,2026-09-03 18:14:39
 10529006,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10529006/data-center-chief-engineer,Canton, MS, USA,Posted September 3, 2026,2026-09-03 18:14:39
 10528919,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10528919/data-center-chief-engineer,Herndon, VA, USA,Posted September 3, 2026,2026-09-03 18:14:39
+10529008,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10529008/data-center-chief-engineer,Canton, MS, USA,Posted September 3, 2026,2026-09-03 18:40:20
