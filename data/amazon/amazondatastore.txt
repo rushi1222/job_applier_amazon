@@ -923,3 +923,4 @@ Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
 10526809,Software Dev Manager III, Amazon Leo,https://www.amazon.jobs/en/jobs/10526809/software-dev-manager-iii-amazon-leo,Redmond, WA, USA,Posted September 2, 2026,2026-09-02 22:11:03
 10526975,Project Engineer, IAH100,https://www.amazon.jobs/en/jobs/10526975/project-engineer-iah100,Wharton, TX, USA,Posted September 3, 2026,2026-09-03 01:52:50
 10515976,Quality Assurance Engineer II - AMZ27970.1,https://www.amazon.jobs/en/jobs/10515976/quality-assurance-engineer-ii-amz27970-1,Seattle, WA, USA,Posted August 26, 2026,2026-09-03 14:37:38
+10514232,Manager III, Software Dev - AMZ27948.1,https://www.amazon.jobs/en/jobs/10514232/manager-iii-software-dev-amz27948-1,San Francisco, CA, USA,Posted August 25, 2026,2026-09-03 15:12:34
