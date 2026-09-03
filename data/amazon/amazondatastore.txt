@@ -926,3 +926,6 @@ Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
 10514232,Manager III, Software Dev - AMZ27948.1,https://www.amazon.jobs/en/jobs/10514232/manager-iii-software-dev-amz27948-1,San Francisco, CA, USA,Posted August 25, 2026,2026-09-03 15:12:34
 10528891,Software Development Manager, BDT - Andes Storage / Cairns,https://www.amazon.jobs/en/jobs/10528891/software-development-manager-bdt-andes-storage-cairns,Seattle, WA, USA,Posted September 3, 2026,2026-09-03 17:36:03
 10528887,Data Engineer II, Amazon Leo,https://www.amazon.jobs/en/jobs/10528887/data-engineer-ii-amazon-leo,Arlington, VA, USA,Posted September 3, 2026,2026-09-03 17:36:03
+10529005,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10529005/data-center-chief-engineer,Canton, MS, USA,Posted September 3, 2026,2026-09-03 18:14:39
+10529006,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10529006/data-center-chief-engineer,Canton, MS, USA,Posted September 3, 2026,2026-09-03 18:14:39
+10528919,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10528919/data-center-chief-engineer,Herndon, VA, USA,Posted September 3, 2026,2026-09-03 18:14:39
