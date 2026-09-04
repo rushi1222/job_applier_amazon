@@ -939,3 +939,6 @@ Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
 10530500,Systems Dev Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team, Amazon Global Data Center Ops Central Insight and Analytics Team,https://www.amazon.jobs/en/jobs/10530500/systems-dev-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team-amazon-global-data-center-ops-central-insight-and-analytics-team,Seattle, WA, USA,Posted September 4, 2026,2026-09-04 21:35:15
 10530521,Firmware Engineer II,https://www.amazon.jobs/en/jobs/10530521/firmware-engineer-ii,N.reading, MA, USA
 N.Reading, MA, USA,Posted September 4, 2026,2026-09-04 22:10:40
+10530563,Senior Software Development Engineer - Release Engineering, Network Product Development,https://www.amazon.jobs/en/jobs/10530563/senior-software-development-engineer-release-engineering-network-product-development,Cupertino, CA, USA
+Raleigh, NC, USA
+Seattle, WA, USA,Posted September 4, 2026,2026-09-04 23:09:54
