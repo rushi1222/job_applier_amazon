@@ -935,3 +935,4 @@ Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
 10530062,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10530062/project-engineer-dccd-construction-ohio,Johnstown, OH, USA,Posted September 4, 2026,2026-09-04 17:10:18
 10530296,Software Dev Engineer II, Item and Offers Platform,https://www.amazon.jobs/en/jobs/10530296/software-dev-engineer-ii-item-and-offers-platform,Sunnyvale, CA, USA,Posted September 4, 2026,2026-09-04 18:38:41
 10530385,Project Engineer,https://www.amazon.jobs/en/jobs/10530385/project-engineer,Manassas, VA, USA,Posted September 4, 2026,2026-09-04 19:36:08
+10530444,Software Development Manager, Leo Avionics End Points,https://www.amazon.jobs/en/jobs/10530444/software-development-manager-leo-avionics-end-points,Redmond, WA, USA,Posted September 4, 2026,2026-09-04 20:35:45
