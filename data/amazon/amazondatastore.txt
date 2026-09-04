@@ -932,3 +932,4 @@ Seattle, WA, USA,Posted September 2, 2026,2026-09-02 21:35:27
 10529008,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10529008/data-center-chief-engineer,Canton, MS, USA,Posted September 3, 2026,2026-09-03 18:40:20
 10529301,Software Developer II, Cosmos,https://www.amazon.jobs/en/jobs/10529301/software-developer-ii-cosmos,Westboro, MA, USA,Posted September 3, 2026,2026-09-03 21:10:47
 10516205,Software Dev Engineer III - AMZ27966.1,https://www.amazon.jobs/en/jobs/10516205/software-dev-engineer-iii-amz27966-1,Madison, WI, USA,Posted August 26, 2026,2026-09-04 14:36:53
+10530062,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10530062/project-engineer-dccd-construction-ohio,Johnstown, OH, USA,Posted September 4, 2026,2026-09-04 17:10:18
