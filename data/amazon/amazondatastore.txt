@@ -942,3 +942,4 @@ N.Reading, MA, USA,Posted September 4, 2026,2026-09-04 22:10:40
 10530563,Senior Software Development Engineer - Release Engineering, Network Product Development,https://www.amazon.jobs/en/jobs/10530563/senior-software-development-engineer-release-engineering-network-product-development,Cupertino, CA, USA
 Raleigh, NC, USA
 Seattle, WA, USA,Posted September 4, 2026,2026-09-04 23:09:54
+10530763,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10530763/data-center-chief-engineer,Boardman, OR, USA,Posted September 6, 2026,2026-09-06 16:11:11
