@@ -943,3 +943,7 @@ N.Reading, MA, USA,Posted September 4, 2026,2026-09-04 22:10:40
 Raleigh, NC, USA
 Seattle, WA, USA,Posted September 4, 2026,2026-09-04 23:09:54
 10530763,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10530763/data-center-chief-engineer,Boardman, OR, USA,Posted September 6, 2026,2026-09-06 16:11:11
+10531248,Civil Design Engineer,https://www.amazon.jobs/en/jobs/10531248/civil-design-engineer,Columbus, OH, USA
+COLUMBUS, OH, USA
+Herndon, VA, USA
++1 other locations,Posted September 7, 2026,2026-09-07 23:35:15
