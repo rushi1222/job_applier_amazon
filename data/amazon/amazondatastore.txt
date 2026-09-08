@@ -947,3 +947,4 @@ Seattle, WA, USA,Posted September 4, 2026,2026-09-04 23:09:54
 COLUMBUS, OH, USA
 Herndon, VA, USA
 +1 other locations,Posted September 7, 2026,2026-09-07 23:35:15
+10530399,Controls Engineer, Deployment, Data Center Capacity Delivery,https://www.amazon.jobs/en/jobs/10530399/controls-engineer-deployment-data-center-capacity-delivery,Herndon, VA, USA,Posted September 4, 2026,2026-09-08 16:38:24
