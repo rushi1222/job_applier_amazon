@@ -953,3 +953,4 @@ Austin, TX, USA
 Dallas, TX, USA
 +1 other locations,Posted September 8, 2026,2026-09-08 18:40:21
 10532287,Sr Software Development Engineer, Aurora Serverless Control Plane,https://www.amazon.jobs/en/jobs/10532287/sr-software-development-engineer-aurora-serverless-control-plane,Seattle, WA, USA,Posted September 8, 2026,2026-09-08 19:35:34
+10532840,Manager III, Software Development, Leo Secure Communications Team,https://www.amazon.jobs/en/jobs/10532840/manager-iii-software-development-leo-secure-communications-team,Redmond, WA, USA,Posted September 8, 2026,2026-09-08 23:10:16
