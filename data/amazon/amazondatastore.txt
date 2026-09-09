@@ -955,3 +955,6 @@ Dallas, TX, USA
 10532287,Sr Software Development Engineer, Aurora Serverless Control Plane,https://www.amazon.jobs/en/jobs/10532287/sr-software-development-engineer-aurora-serverless-control-plane,Seattle, WA, USA,Posted September 8, 2026,2026-09-08 19:35:34
 10532840,Manager III, Software Development, Leo Secure Communications Team,https://www.amazon.jobs/en/jobs/10532840/manager-iii-software-development-leo-secure-communications-team,Redmond, WA, USA,Posted September 8, 2026,2026-09-08 23:10:16
 10534246,Bus Analyst II – AMZ010578,https://www.amazon.jobs/en/jobs/10534246/bus-analyst-ii-amz010578,New York, NY, USA,Posted September 9, 2026,2026-09-09 14:38:40
+10534326,Software Development Engineer II, ECS Developer Platforms,https://www.amazon.jobs/en/jobs/10534326/software-development-engineer-ii-ecs-developer-platforms,Jersey City, NJ, USA,Posted September 9, 2026,2026-09-09 15:11:04
+10534310,Project Engineer, DC Construction, Data Center Construction,https://www.amazon.jobs/en/jobs/10534310/project-engineer-dc-construction-data-center-construction,Dallas, TX, USA
+Shreveport, LA, USA,Posted September 9, 2026,2026-09-09 15:11:04
