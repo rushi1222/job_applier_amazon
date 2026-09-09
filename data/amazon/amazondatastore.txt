@@ -960,3 +960,4 @@ Dallas, TX, USA
 Shreveport, LA, USA,Posted September 9, 2026,2026-09-09 15:11:04
 10534430,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10534430/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 9, 2026,2026-09-09 16:12:50
 10532707,Software Development Manager, Alexa for Shopping/Rufus,https://www.amazon.jobs/en/jobs/10532707/software-development-manager-alexa-for-shopping-rufus,Seattle, WA, USA,Posted September 8, 2026,2026-09-09 16:38:39
+10534648,CMMS Engineer,https://www.amazon.jobs/en/jobs/10534648/cmms-engineer,Herndon, VA, USA,Posted September 9, 2026,2026-09-09 18:14:42
