@@ -962,3 +962,5 @@ Shreveport, LA, USA,Posted September 9, 2026,2026-09-09 15:11:04
 10532707,Software Development Manager, Alexa for Shopping/Rufus,https://www.amazon.jobs/en/jobs/10532707/software-development-manager-alexa-for-shopping-rufus,Seattle, WA, USA,Posted September 8, 2026,2026-09-09 16:38:39
 10534648,CMMS Engineer,https://www.amazon.jobs/en/jobs/10534648/cmms-engineer,Herndon, VA, USA,Posted September 9, 2026,2026-09-09 18:14:42
 10535008,Sr. Frontend Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/10535008/sr-frontend-engineer-amazon-leo,Redmond, WA, USA,Posted September 9, 2026,2026-09-09 19:34:54
+10536430,Software Development Manager, Network Lifecycle Management,https://www.amazon.jobs/en/jobs/10536430/software-development-manager-network-lifecycle-management,Santa Clara, CA, USA,Posted September 10, 2026,2026-09-10 18:13:51
+10536435,Manager III, Software Development,https://www.amazon.jobs/en/jobs/10536435/manager-iii-software-development,Seattle, WA, USA,Posted September 10, 2026,2026-09-10 18:13:51
