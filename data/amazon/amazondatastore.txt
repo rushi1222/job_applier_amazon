@@ -964,3 +964,14 @@ Shreveport, LA, USA,Posted September 9, 2026,2026-09-09 15:11:04
 10535008,Sr. Frontend Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/10535008/sr-frontend-engineer-amazon-leo,Redmond, WA, USA,Posted September 9, 2026,2026-09-09 19:34:54
 10536430,Software Development Manager, Network Lifecycle Management,https://www.amazon.jobs/en/jobs/10536430/software-development-manager-network-lifecycle-management,Santa Clara, CA, USA,Posted September 10, 2026,2026-09-10 18:13:51
 10536435,Manager III, Software Development,https://www.amazon.jobs/en/jobs/10536435/manager-iii-software-development,Seattle, WA, USA,Posted September 10, 2026,2026-09-10 18:13:51
+10536737,Software Development Manager, Amazon Connect Customer Data & Insights,https://www.amazon.jobs/en/jobs/10536737/software-development-manager-amazon-connect-customer-data-insights,Seattle, WA, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536756,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536756/project-engineer-dccd-construction-ohio,New Albany, OH, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536752,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536752/project-engineer-dccd-construction-ohio,New Albany, OH, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536750,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536750/project-engineer-dccd-construction-ohio,New Albany, OH, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536748,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536748/project-engineer-dccd-construction-ohio,New Albany, OH, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536741,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536741/project-engineer-dccd-construction-ohio,New Albany, OH, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536733,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536733/project-engineer-dccd-construction-ohio,New Albany, OH, USA,Posted September 10, 2026,2026-09-10 20:10:33
+10536727,Project Engineer, DCCD Construction Ohio,https://www.amazon.jobs/en/jobs/10536727/project-engineer-dccd-construction-ohio,Fredricksburg, VA, USA
+Louisa, VA, USA
+Manassas, VA, USA
++1 other locations,Posted September 10, 2026,2026-09-10 20:10:33
