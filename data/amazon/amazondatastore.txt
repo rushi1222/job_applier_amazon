@@ -979,3 +979,5 @@ Manassas, VA, USA
 10537840,Software Development Manager, Amazon Foundational Security Services,https://www.amazon.jobs/en/jobs/10537840/software-development-manager-amazon-foundational-security-services,Seattle, WA, USA,Posted September 11, 2026,2026-09-11 18:39:02
 10537844,Software Development Manager, ESCAPE, ESCAPE,https://www.amazon.jobs/en/jobs/10537844/software-development-manager-escape-escape,San Luis Obispo, CA, USA,Posted September 11, 2026,2026-09-11 18:39:02
 10537982,Data Engineer, SPTC,https://www.amazon.jobs/en/jobs/10537982/data-engineer-sptc,Seattle, WA, USA,Posted September 11, 2026,2026-09-11 20:11:32
+10538132,Lead Civil Design Engineer, DCDE AMER Civil East,https://www.amazon.jobs/en/jobs/10538132/lead-civil-design-engineer-dcde-amer-civil-east,COLUMBUS, OH, USA
+Herndon, VA, USA,Posted September 11, 2026,2026-09-11 23:10:08
