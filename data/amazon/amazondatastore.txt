@@ -976,3 +976,5 @@ Louisa, VA, USA
 Manassas, VA, USA
 +1 other locations,Posted September 10, 2026,2026-09-10 20:10:33
 10537574,Data Engineer 1, CIA Orchestration Team,https://www.amazon.jobs/en/jobs/10537574/data-engineer-1-cia-orchestration-team,Austin, TX, USA,Posted September 11, 2026,2026-09-11 16:38:00
+10537840,Software Development Manager, Amazon Foundational Security Services,https://www.amazon.jobs/en/jobs/10537840/software-development-manager-amazon-foundational-security-services,Seattle, WA, USA,Posted September 11, 2026,2026-09-11 18:39:02
+10537844,Software Development Manager, ESCAPE, ESCAPE,https://www.amazon.jobs/en/jobs/10537844/software-development-manager-escape-escape,San Luis Obispo, CA, USA,Posted September 11, 2026,2026-09-11 18:39:02
