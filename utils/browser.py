@@ -20,7 +20,11 @@ def get_chrome_options(headless=True, download_dir=None):
         Chrome Options object
     """
     chrome_options = Options()
-    
+
+    # Don't wait for every resource to finish loading (images, XHR, etc.) -
+    # just DOM-interactive. Avoids page_load_timeout on slow/JS-heavy pages.
+    chrome_options.page_load_strategy = 'eager'
+
     # Set Chrome binary for different environments
     chrome_binary_paths = [
         "/usr/bin/google-chrome",        # Standard installation
@@ -153,7 +157,7 @@ def init_browser(headless=True, download_dir=None):
 
     # Configure browser settings for stability
     driver.implicitly_wait(10)
-    driver.set_page_load_timeout(60)
+    driver.set_page_load_timeout(90)
     driver.set_script_timeout(30)
     
     # Execute script to remove webdriver detection

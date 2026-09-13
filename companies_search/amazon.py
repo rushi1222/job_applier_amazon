@@ -5,6 +5,7 @@ from itertools import product
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 import traceback
 from .base_scraper import BaseScraper
 
@@ -52,7 +53,9 @@ class AmazonJobApplier(BaseScraper):
             search_url = f"https://www.amazon.jobs/en/search?base_query={position_query}&loc_query={location_query}&country={location_query}&invalid_location=false&city=&region=&county="
             
             print(f"Search URL: {search_url}")
-            self.browser.get(search_url)
+            if not self._get_with_retry(search_url):
+                print(f"⚠️  Skipping '{position}' in '{location}' - page failed to load after retries")
+                continue
             time.sleep(3)
             
             # Click search button if it exists
@@ -96,6 +99,18 @@ class AmazonJobApplier(BaseScraper):
         return new_jobs  # Return new jobs instead of sending email
     
     
+    def _get_with_retry(self, url, max_attempts=3):
+        """Navigate to a URL, retrying on TimeoutException. Returns True on success."""
+        for attempt in range(1, max_attempts + 1):
+            try:
+                self.browser.get(url)
+                return True
+            except TimeoutException as e:
+                print(f"⚠️  Page load timed out (attempt {attempt}/{max_attempts}): {e}")
+                if attempt < max_attempts:
+                    time.sleep(5)
+        return False
+
     def _sort_by_recent(self):
         """Sort jobs by most recent posted date."""
         try:
