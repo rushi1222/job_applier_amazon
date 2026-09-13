@@ -19,11 +19,11 @@ if __name__ == '__main__':
     config_path = os.path.join(base_dir, 'config.yml')
     companies_path = os.path.join(base_dir, 'companies.yaml')
     
-    print(f"\n📄 Loading configuration from {config_path}...")
+    print(f"\nLoading configuration from {config_path}...")
     with open(config_path, "r") as f:
         config = yaml.safe_load(f)
     
-    print(f"📄 Loading companies from {companies_path}...")
+    print(f"Loading companies from {companies_path}...")
     with open(companies_path, "r") as f:
         companies_config = yaml.safe_load(f)
     
@@ -67,12 +67,12 @@ if __name__ == '__main__':
         # Process each enabled company
         for company in companies_config.get('companies', []):
             if not company.get('enabled', False):
-                print(f"\n⏭️  Skipping {company['name']} (disabled)")
+                print(f"\n Skipping {company['name']} (disabled)")
                 continue
             
             company_name = company['name']
             print(f"\n{'='*70}")
-            print(f"🏢 Processing: {company_name.upper()}")
+            print(f" Processing: {company_name.upper()}")
             print(f"{'='*70}")
             
             try:
@@ -80,18 +80,18 @@ if __name__ == '__main__':
                 if company.get('requires_login', False):
                     login_module_path = company.get('login_module')
                     if login_module_path:
-                        print(f"🔐 Login required for {company_name}")
+                        print(f"Login required for {company_name}")
                         module_parts = login_module_path.rsplit('.', 1)
                         login_module = importlib.import_module(module_parts[0])
                         LoginClass = getattr(login_module, module_parts[1].replace('_login', '_login').title().replace('_', '') + 'Login' if '.' not in module_parts[1] else 'AmazonLogin')
                         
                         # For now, just skip login requirement
-                        print(f"⚠️  Login handler exists but skipping for scraping")
+                        print(f"  Login handler exists but skipping for scraping")
                 
                 # Load and execute scraper
                 search_module_path = company.get('search_module')
                 if not search_module_path:
-                    print(f"❌ No search module specified for {company_name}")
+                    print(f" No search module specified for {company_name}")
                     continue
                 
                 # Import the scraper class

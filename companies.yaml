@@ -18,7 +18,15 @@ companies:
     login_module: null
     config:
       url: "https://www.google.com/about/careers/applications/jobs/results"
-  
+
+  - name: apple
+    enabled: true
+    requires_login: false
+    search_module: companies_search.apple
+    login_module: null
+    config:
+      url: "https://jobs.apple.com/api/v1/search"
+
   # - name: airbnb
   #   enabled: false
   #   requires_login: true
