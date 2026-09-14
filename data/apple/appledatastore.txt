@@ -52,3 +52,9 @@
 200643923,Bluetooth Embedded Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200643923/bluetooth-embedded-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-09-09T23:22:27.374Z,2026-09-14 08:30:48
 200682685,Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200682685/software-engineer-apple-ads,Cupertino,2026-09-09T22:10:52.316Z,2026-09-14 08:30:48
 200682706,Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200682706/software-engineer-apple-ads,Austin,2026-09-09T22:10:04.869Z,2026-09-14 08:30:48
+200683416,Staff Software Engineer, ASE Storage team,https://jobs.apple.com/en-us/details/200683416/staff-software-engineer-ase-storage-team,Cupertino,2026-09-14T17:59:33.376Z,2026-09-14 18:14:18
+200683054,Sr. Software Engineer, Infrastructure Services (Control Plane),https://jobs.apple.com/en-us/details/200683054/sr-software-engineer-infrastructure-services-control-plane,San Francisco Bay Area,2026-09-14T17:55:24.031Z,2026-09-14 18:14:18
+200683546,Senior Software Engineer, Developer Productivity, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200683546/senior-software-engineer-developer-productivity-sensing-connectivity,San Diego,2026-09-14T17:54:17.926Z,2026-09-14 18:14:18
+200677070,Sr. Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200677070/sr-software-engineer-enterprise-technology-services,Austin,2026-09-14T17:48:04.340Z,2026-09-14 18:14:18
+200646045,ASE - Engineering Program Manager, Search and Answer Relevance,https://jobs.apple.com/en-us/details/200646045/ase-engineering-program-manager-search-and-answer-relevance,Seattle,2026-09-14T17:47:36.982Z,2026-09-14 18:14:18
+200679705,Software Quality Engineer, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200679705/software-quality-engineer-sensing-connectivity,San Diego,2026-09-14T17:37:30.885Z,2026-09-14 18:14:18

@@ -985,3 +985,5 @@ Herndon, VA, USA,Posted September 11, 2026,2026-09-11 23:10:08
 Hilliard, OH, USA,Posted September 14, 2026,2026-09-14 03:15:24
 10538519,System Development Engineer, Data Center Security Ops Excellence,https://www.amazon.jobs/en/jobs/10538519/system-development-engineer-data-center-security-ops-excellence,Herndon, VA, USA,Posted September 14, 2026,2026-09-14 12:17:50
 10539006,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10539006/data-center-chief-engineer,Wilmer, TX, USA,Posted September 14, 2026,2026-09-14 17:09:45
+10539106,Data Engineer I, Business Data Technologies,https://www.amazon.jobs/en/jobs/10539106/data-engineer-i-business-data-technologies,Seattle, WA, USA,Posted September 14, 2026,2026-09-14 18:13:04
+10539104,Data Engineer I, Business Data Technologies,https://www.amazon.jobs/en/jobs/10539104/data-engineer-i-business-data-technologies,Seattle, WA, USA,Posted September 14, 2026,2026-09-14 18:13:04
