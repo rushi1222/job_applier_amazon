@@ -61,3 +61,4 @@
 200681357,Sr. Software Engineer, BPR: Supply Chain,https://jobs.apple.com/en-us/details/200681357/sr-software-engineer-bpr-supply-chain,Elk Grove,2026-09-14T19:12:51.935Z,2026-09-14 19:36:33
 200682827,Software Portfolio Strategist,https://jobs.apple.com/en-us/details/200682827/software-portfolio-strategist,Sunnyvale,2026-09-14T20:51:39.505Z,2026-09-14 21:11:22
 200683343,Software Engineer, Triage Services,https://jobs.apple.com/en-us/details/200683343/software-engineer-triage-services,Cupertino,2026-09-14T22:04:28.814Z,2026-09-14 22:12:12
+200683652,Security Infrastructure Software Engineer, SEAR,https://jobs.apple.com/en-us/details/200683652/security-infrastructure-software-engineer-sear,Austin,2026-09-14T22:26:30.316Z,2026-09-14 22:37:35
