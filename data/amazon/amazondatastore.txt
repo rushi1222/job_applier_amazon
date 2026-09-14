@@ -981,3 +981,5 @@ Manassas, VA, USA
 10537982,Data Engineer, SPTC,https://www.amazon.jobs/en/jobs/10537982/data-engineer-sptc,Seattle, WA, USA,Posted September 11, 2026,2026-09-11 20:11:32
 10538132,Lead Civil Design Engineer, DCDE AMER Civil East,https://www.amazon.jobs/en/jobs/10538132/lead-civil-design-engineer-dcde-amer-civil-east,COLUMBUS, OH, USA
 Herndon, VA, USA,Posted September 11, 2026,2026-09-11 23:10:08
+10538323,CMMS Engineer, Amazon Dedicated Cloud,https://www.amazon.jobs/en/jobs/10538323/cmms-engineer-amazon-dedicated-cloud,Herndon, VA, USA
+Hilliard, OH, USA,Posted September 14, 2026,2026-09-14 03:15:24
