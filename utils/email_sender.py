@@ -207,19 +207,21 @@ def _filter_jobs_for_recipient(jobs_by_company, recipient_email, recipient_filte
     for company_name, jobs in jobs_by_company.items():
         matching_jobs = []
         for job in jobs:
-            # First filter: Check position
-            job_position = job.get('position', '').lower()
-            if job_position not in positions_lower:
-                continue  # Skip if position doesn't match
-            
-            # Second filter: Check keywords (only if keywords are specified)
-            if keywords_lower:
-                job_title = job.get('title', '').lower()
-                # Check if any keyword appears in the job title
-                if not any(keyword in job_title for keyword in keywords_lower):
-                    continue  # Skip if no keyword matches
-            
-            # Job passed both filters
+            job_position = job.get('position')
+
+            # Jobs with no position tag (e.g. Apple's broad newest-jobs sweep,
+            # which isn't searched per-position) bypass filtering entirely and
+            # go to every recipient.
+            if job_position:
+                if job_position.lower() not in positions_lower:
+                    continue  # Skip if position doesn't match
+
+                # Keyword filter (only if keywords are specified)
+                if keywords_lower:
+                    job_title = job.get('title', '').lower()
+                    if not any(keyword in job_title for keyword in keywords_lower):
+                        continue  # Skip if no keyword matches
+
             matching_jobs.append(job)
         
         # Only include company if there are matching jobs
