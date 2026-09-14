@@ -58,3 +58,4 @@
 200677070,Sr. Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200677070/sr-software-engineer-enterprise-technology-services,Austin,2026-09-14T17:48:04.340Z,2026-09-14 18:14:18
 200646045,ASE - Engineering Program Manager, Search and Answer Relevance,https://jobs.apple.com/en-us/details/200646045/ase-engineering-program-manager-search-and-answer-relevance,Seattle,2026-09-14T17:47:36.982Z,2026-09-14 18:14:18
 200679705,Software Quality Engineer, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200679705/software-quality-engineer-sensing-connectivity,San Diego,2026-09-14T17:37:30.885Z,2026-09-14 18:14:18
+200681357,Sr. Software Engineer, BPR: Supply Chain,https://jobs.apple.com/en-us/details/200681357/sr-software-engineer-bpr-supply-chain,Elk Grove,2026-09-14T19:12:51.935Z,2026-09-14 19:36:33
