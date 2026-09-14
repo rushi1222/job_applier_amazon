@@ -62,3 +62,4 @@
 200682827,Software Portfolio Strategist,https://jobs.apple.com/en-us/details/200682827/software-portfolio-strategist,Sunnyvale,2026-09-14T20:51:39.505Z,2026-09-14 21:11:22
 200683343,Software Engineer, Triage Services,https://jobs.apple.com/en-us/details/200683343/software-engineer-triage-services,Cupertino,2026-09-14T22:04:28.814Z,2026-09-14 22:12:12
 200683652,Security Infrastructure Software Engineer, SEAR,https://jobs.apple.com/en-us/details/200683652/security-infrastructure-software-engineer-sear,Austin,2026-09-14T22:26:30.316Z,2026-09-14 22:37:35
+200679102,Sr. Software Development Engineer, ASE Storage,https://jobs.apple.com/en-us/details/200679102/sr-software-development-engineer-ase-storage,Seattle,2026-09-14T23:19:58.701Z,2026-09-14 23:36:46
