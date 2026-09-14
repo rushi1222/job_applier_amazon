@@ -983,3 +983,4 @@ Manassas, VA, USA
 Herndon, VA, USA,Posted September 11, 2026,2026-09-11 23:10:08
 10538323,CMMS Engineer, Amazon Dedicated Cloud,https://www.amazon.jobs/en/jobs/10538323/cmms-engineer-amazon-dedicated-cloud,Herndon, VA, USA
 Hilliard, OH, USA,Posted September 14, 2026,2026-09-14 03:15:24
+10538519,System Development Engineer, Data Center Security Ops Excellence,https://www.amazon.jobs/en/jobs/10538519/system-development-engineer-data-center-security-ops-excellence,Herndon, VA, USA,Posted September 14, 2026,2026-09-14 12:17:50
