@@ -1010,3 +1010,7 @@ Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted September 15, 2026,2026-09-15 17:35:29
 10543812,Software Development Engineer III, Contribution and Item Pipelines,https://www.amazon.jobs/en/jobs/10543812/software-development-engineer-iii-contribution-and-item-pipelines,Sunnyvale, CA, USA,Posted September 15, 2026,2026-09-15 20:11:48
+10543897,Electrical Engineer, Data Center, Colocation Regional Engineering - AMER,https://www.amazon.jobs/en/jobs/10543897/electrical-engineer-data-center-colocation-regional-engineering-amer,Mesa, AZ, USA
+Santa Clara, CA, USA
+Tempe, AZ, USA,Posted September 15, 2026,2026-09-15 21:10:23
+10543908,AI Platform Data Engineer, Ring Decision Science, Ring Decision Science,https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science,Hawthorne, CA, USA,Posted September 15, 2026,2026-09-15 21:10:23
