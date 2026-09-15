@@ -1005,3 +1005,7 @@ Columbus, OH, USA
 10541718,Systems Engineer - Controls Fleet, Data Center Capacity Delivery, Controls Fleet,https://www.amazon.jobs/en/jobs/10541718/systems-engineer-controls-fleet-data-center-capacity-delivery-controls-fleet,Arlington, VA, USA
 Herndon, VA, USA,Posted September 15, 2026,2026-09-15 14:38:26
 10542353,Data Engineer II, Data Engineer,Data Center Capacity Delivery,https://www.amazon.jobs/en/jobs/10542353/data-engineer-ii-data-engineer-data-center-capacity-delivery,Seattle, WA, USA,Posted September 15, 2026,2026-09-15 17:10:22
+10542580,Sr. Electrical Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10542580/sr-electrical-engineer-data-center-engineering,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted September 15, 2026,2026-09-15 17:35:29
