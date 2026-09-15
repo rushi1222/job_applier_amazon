@@ -63,3 +63,5 @@
 200683343,Software Engineer, Triage Services,https://jobs.apple.com/en-us/details/200683343/software-engineer-triage-services,Cupertino,2026-09-14T22:04:28.814Z,2026-09-14 22:12:12
 200683652,Security Infrastructure Software Engineer, SEAR,https://jobs.apple.com/en-us/details/200683652/security-infrastructure-software-engineer-sear,Austin,2026-09-14T22:26:30.316Z,2026-09-14 22:37:35
 200679102,Sr. Software Development Engineer, ASE Storage,https://jobs.apple.com/en-us/details/200679102/sr-software-development-engineer-ase-storage,Seattle,2026-09-14T23:19:58.701Z,2026-09-14 23:36:46
+200683681,Software Development Engineer - iOS for Keyboard,https://jobs.apple.com/en-us/details/200683681/software-development-engineer-ios-for-keyboard,Cupertino,2026-09-15T00:00:31.404Z,2026-09-15 00:32:57
+200680821,Engineering Program Manager - SWE Photos,https://jobs.apple.com/en-us/details/200680821/engineering-program-manager-swe-photos,Cupertino,2026-09-14T23:58:15.952Z,2026-09-15 00:32:57
