@@ -988,3 +988,15 @@ Hilliard, OH, USA,Posted September 14, 2026,2026-09-14 03:15:24
 10539106,Data Engineer I, Business Data Technologies,https://www.amazon.jobs/en/jobs/10539106/data-engineer-i-business-data-technologies,Seattle, WA, USA,Posted September 14, 2026,2026-09-14 18:13:04
 10539104,Data Engineer I, Business Data Technologies,https://www.amazon.jobs/en/jobs/10539104/data-engineer-i-business-data-technologies,Seattle, WA, USA,Posted September 14, 2026,2026-09-14 18:13:04
 10539398,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10539398/data-center-chief-engineer,Wilmer, TX, USA,Posted September 14, 2026,2026-09-14 22:10:59
+10541178,Product Lifecycle Mechanical Engineer, Data Center Mechanical Products & Services,https://www.amazon.jobs/en/jobs/10541178/product-lifecycle-mechanical-engineer-data-center-mechanical-products-services,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++3 other locations,Posted September 15, 2026,2026-09-15 01:24:47
+10541179,Senior Product Lifecycle Mechanical Engineer, Data Center Mechanical Products & Services,https://www.amazon.jobs/en/jobs/10541179/senior-product-lifecycle-mechanical-engineer-data-center-mechanical-products-services,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++3 other locations,Posted September 15, 2026,2026-09-15 01:24:47
+10541177,Senior Product Lifecycle Mechanical Engineer, Data Center Mechanical Products & Services,https://www.amazon.jobs/en/jobs/10541177/senior-product-lifecycle-mechanical-engineer-data-center-mechanical-products-services,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted September 15, 2026,2026-09-15 01:24:47
