@@ -75,3 +75,4 @@
 200683829,Software Engineering Manager (Watch Faces) - Watch Software ,https://jobs.apple.com/en-us/details/200683829/software-engineering-manager-watch-faces-watch-software,Cupertino,2026-09-15T17:42:04.543Z,2026-09-15 18:14:21
 200683855,Senior Software Engineer - 3D Vision & Perception,https://jobs.apple.com/en-us/details/200683855/senior-software-engineer-3d-vision-perception,Sunnyvale,2026-09-15T18:41:10.173Z,2026-09-15 18:41:21
 200681824,Software Engineering Manager, Fitness Intelligence Infrastructure - Watch Software ,https://jobs.apple.com/en-us/details/200681824/software-engineering-manager-fitness-intelligence-infrastructure-watch-software,Cupertino,2026-09-15T18:58:32.083Z,2026-09-15 19:11:03
+200683692,Software Development Engineer ,https://jobs.apple.com/en-us/details/200683692/software-development-engineer,Cupertino,2026-09-15T19:22:39.323Z,2026-09-15 19:36:44
