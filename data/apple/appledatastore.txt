@@ -66,3 +66,4 @@
 200683681,Software Development Engineer - iOS for Keyboard,https://jobs.apple.com/en-us/details/200683681/software-development-engineer-ios-for-keyboard,Cupertino,2026-09-15T00:00:31.404Z,2026-09-15 00:32:57
 200680821,Engineering Program Manager - SWE Photos,https://jobs.apple.com/en-us/details/200680821/engineering-program-manager-swe-photos,Cupertino,2026-09-14T23:58:15.952Z,2026-09-15 00:32:57
 200683519,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200683519/senior-systems-engineer-watch-software,Cupertino,2026-09-15T00:57:10.228Z,2026-09-15 01:26:01
+200683051,Sr. Software Engineer, Infrastructure Services (Data Plane),https://jobs.apple.com/en-us/details/200683051/sr-software-engineer-infrastructure-services-data-plane,San Francisco Bay Area,2026-09-15T05:21:47.960Z,2026-09-15 05:39:53
