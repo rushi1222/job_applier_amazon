@@ -79,3 +79,4 @@
 200683935,Software Engineer - Customer Feedback,https://jobs.apple.com/en-us/details/200683935/software-engineer-customer-feedback,San Diego,2026-09-15T22:29:41.105Z,2026-09-15 22:36:58
 200681873,Software Engineering Program Manager,https://jobs.apple.com/en-us/details/200681873/software-engineering-program-manager,Cupertino,2026-09-16T00:26:12.968Z,2026-09-16 00:31:19
 200683862,SOC Systems Software Engineer,https://jobs.apple.com/en-us/details/200683862/soc-systems-software-engineer,Cupertino,2026-09-16T01:06:26.833Z,2026-09-16 01:10:59
+200683541,Engineering Program Manager, SWE tvOS,https://jobs.apple.com/en-us/details/200683541/engineering-program-manager-swe-tvos,Cupertino,2026-09-16T01:45:13.328Z,2026-09-16 01:47:47
