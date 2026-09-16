@@ -84,3 +84,4 @@
 200635007,Software Engineer (Full Stack), eBusiness Services,https://jobs.apple.com/en-us/details/200635007/software-engineer-full-stack-ebusiness-services,Austin Metro Area,2026-09-16T17:31:12.908Z,2026-09-16 17:37:09
 200684133,Software Engineering Manager, Siri,https://jobs.apple.com/en-us/details/200684133/software-engineering-manager-siri,Seattle,2026-09-16T17:27:03.861Z,2026-09-16 17:37:09
 200683947,Sr. Software Development Engineer in Test,https://jobs.apple.com/en-us/details/200683947/sr-software-development-engineer-in-test,San Diego,2026-09-16T17:44:29.826Z,2026-09-16 18:15:17
+200683723,Software Development Engineer (Postgres), AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200683723/software-development-engineer-postgres-ai-data-platforms-aidp,Sunnyvale,2026-09-16T19:05:28.233Z,2026-09-16 19:11:05
