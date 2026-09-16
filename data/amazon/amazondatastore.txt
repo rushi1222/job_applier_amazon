@@ -1020,3 +1020,7 @@ Sunnyvale, CA, USA,Posted September 15, 2026,2026-09-15 23:10:21
 COLUMBUS, OH, USA
 Herndon, VA, USA
 +1 other locations,Posted September 16, 2026,2026-09-16 16:38:23
+10545844,Software Development Manager, Agentic AI, Velocity Labs,https://www.amazon.jobs/en/jobs/10545844/software-development-manager-agentic-ai-velocity-labs,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 17:10:08
+10545841,Software Development Manager, Agentic AI, Velocity Labs,https://www.amazon.jobs/en/jobs/10545841/software-development-manager-agentic-ai-velocity-labs,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 17:10:08
+10545836,Software Development Manager, Agentic AI, Velocity Labs,https://www.amazon.jobs/en/jobs/10545836/software-development-manager-agentic-ai-velocity-labs,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 17:10:08
+10545833,Software Development Manager, Agentic AI, Velocity Labs,https://www.amazon.jobs/en/jobs/10545833/software-development-manager-agentic-ai-velocity-labs,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 17:10:08
