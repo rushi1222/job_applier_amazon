@@ -78,3 +78,4 @@
 200683692,Software Development Engineer ,https://jobs.apple.com/en-us/details/200683692/software-development-engineer,Cupertino,2026-09-15T19:22:39.323Z,2026-09-15 19:36:44
 200683935,Software Engineer - Customer Feedback,https://jobs.apple.com/en-us/details/200683935/software-engineer-customer-feedback,San Diego,2026-09-15T22:29:41.105Z,2026-09-15 22:36:58
 200681873,Software Engineering Program Manager,https://jobs.apple.com/en-us/details/200681873/software-engineering-program-manager,Cupertino,2026-09-16T00:26:12.968Z,2026-09-16 00:31:19
+200683862,SOC Systems Software Engineer,https://jobs.apple.com/en-us/details/200683862/soc-systems-software-engineer,Cupertino,2026-09-16T01:06:26.833Z,2026-09-16 01:10:59
