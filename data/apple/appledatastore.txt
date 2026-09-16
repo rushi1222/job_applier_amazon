@@ -88,3 +88,4 @@
 200683655,Performance Control Software Engineer - Platform Architecture,https://jobs.apple.com/en-us/details/200683655/performance-control-software-engineer-platform-architecture,Austin,2026-09-16T20:46:33.047Z,2026-09-16 21:12:23
 200683654,Performance Control Software Engineer - Platform Architecture,https://jobs.apple.com/en-us/details/200683654/performance-control-software-engineer-platform-architecture,Cupertino,2026-09-16T20:45:24.733Z,2026-09-16 21:12:23
 200661492,Software Engineer - Cloud Infrastructure, Golang,https://jobs.apple.com/en-us/details/200661492/software-engineer-cloud-infrastructure-golang,Seattle Metro Area,2026-09-16T21:32:54.522Z,2026-09-16 21:37:26
+200683959,Sr Software Engineer - G&A Solutions Engineering (GSE) ,https://jobs.apple.com/en-us/details/200683959/sr-software-engineer-g-a-solutions-engineering-gse,San Francisco Bay Area,2026-09-16T22:13:40.447Z,2026-09-16 22:36:51
