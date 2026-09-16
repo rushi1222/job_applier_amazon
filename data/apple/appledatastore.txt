@@ -83,3 +83,4 @@
 200684137,Embedded 5G/4G Cellular RF Software/Firmware Engineer,https://jobs.apple.com/en-us/details/200684137/embedded-5g-4g-cellular-rf-software-firmware-engineer,San Diego,2026-09-16T16:23:07.274Z,2026-09-16 16:39:36
 200635007,Software Engineer (Full Stack), eBusiness Services,https://jobs.apple.com/en-us/details/200635007/software-engineer-full-stack-ebusiness-services,Austin Metro Area,2026-09-16T17:31:12.908Z,2026-09-16 17:37:09
 200684133,Software Engineering Manager, Siri,https://jobs.apple.com/en-us/details/200684133/software-engineering-manager-siri,Seattle,2026-09-16T17:27:03.861Z,2026-09-16 17:37:09
+200683947,Sr. Software Development Engineer in Test,https://jobs.apple.com/en-us/details/200683947/sr-software-development-engineer-in-test,San Diego,2026-09-16T17:44:29.826Z,2026-09-16 18:15:17
