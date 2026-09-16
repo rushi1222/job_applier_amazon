@@ -1016,3 +1016,7 @@ Tempe, AZ, USA,Posted September 15, 2026,2026-09-15 21:10:23
 10543908,AI Platform Data Engineer, Ring Decision Science, Ring Decision Science,https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science,Hawthorne, CA, USA,Posted September 15, 2026,2026-09-15 21:10:23
 10544023,Software Development Manager, Software Defined Network Control Plane,https://www.amazon.jobs/en/jobs/10544023/software-development-manager-software-defined-network-control-plane,Redmond, WA, USA
 Sunnyvale, CA, USA,Posted September 15, 2026,2026-09-15 23:10:21
+10545284,Controls Design Engineer, Data Center Engineering, GSI,https://www.amazon.jobs/en/jobs/10545284/controls-design-engineer-data-center-engineering-gsi,Austin, TX, USA
+COLUMBUS, OH, USA
+Herndon, VA, USA
++1 other locations,Posted September 16, 2026,2026-09-16 16:38:23

@@ -80,3 +80,4 @@
 200681873,Software Engineering Program Manager,https://jobs.apple.com/en-us/details/200681873/software-engineering-program-manager,Cupertino,2026-09-16T00:26:12.968Z,2026-09-16 00:31:19
 200683862,SOC Systems Software Engineer,https://jobs.apple.com/en-us/details/200683862/soc-systems-software-engineer,Cupertino,2026-09-16T01:06:26.833Z,2026-09-16 01:10:59
 200683541,Engineering Program Manager, SWE tvOS,https://jobs.apple.com/en-us/details/200683541/engineering-program-manager-swe-tvos,Cupertino,2026-09-16T01:45:13.328Z,2026-09-16 01:47:47
+200684137,Embedded 5G/4G Cellular RF Software/Firmware Engineer,https://jobs.apple.com/en-us/details/200684137/embedded-5g-4g-cellular-rf-software-firmware-engineer,San Diego,2026-09-16T16:23:07.274Z,2026-09-16 16:39:36
