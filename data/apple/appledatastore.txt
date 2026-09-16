@@ -85,3 +85,5 @@
 200684133,Software Engineering Manager, Siri,https://jobs.apple.com/en-us/details/200684133/software-engineering-manager-siri,Seattle,2026-09-16T17:27:03.861Z,2026-09-16 17:37:09
 200683947,Sr. Software Development Engineer in Test,https://jobs.apple.com/en-us/details/200683947/sr-software-development-engineer-in-test,San Diego,2026-09-16T17:44:29.826Z,2026-09-16 18:15:17
 200683723,Software Development Engineer (Postgres), AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200683723/software-development-engineer-postgres-ai-data-platforms-aidp,Sunnyvale,2026-09-16T19:05:28.233Z,2026-09-16 19:11:05
+200683655,Performance Control Software Engineer - Platform Architecture,https://jobs.apple.com/en-us/details/200683655/performance-control-software-engineer-platform-architecture,Austin,2026-09-16T20:46:33.047Z,2026-09-16 21:12:23
+200683654,Performance Control Software Engineer - Platform Architecture,https://jobs.apple.com/en-us/details/200683654/performance-control-software-engineer-platform-architecture,Cupertino,2026-09-16T20:45:24.733Z,2026-09-16 21:12:23
