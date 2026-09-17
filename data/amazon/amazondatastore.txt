@@ -1029,3 +1029,4 @@ Herndon, VA, USA
 10551850,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10551850/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 17, 2026,2026-09-17 13:11:22
 10551849,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10551849/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 17, 2026,2026-09-17 13:11:22
 10552528,Software Development Manager, CreativeX, Creative Intelligence and Optimization,https://www.amazon.jobs/en/jobs/10552528/software-development-manager-creativex-creative-intelligence-and-optimization,New York, NY, USA,Posted September 17, 2026,2026-09-17 19:10:04
+10552616,Sr. Data & Analytics Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/10552616/sr-data-analytics-engineer-amazon-leo,Redmond, WA, USA,Posted September 17, 2026,2026-09-17 20:12:22
