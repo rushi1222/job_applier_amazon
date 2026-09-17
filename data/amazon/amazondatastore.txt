@@ -1028,3 +1028,4 @@ Herndon, VA, USA
 10547654,Data Engineer , Amazon Customer Service,https://www.amazon.jobs/en/jobs/10547654/data-engineer-amazon-customer-service,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 19:35:00
 10551850,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10551850/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 17, 2026,2026-09-17 13:11:22
 10551849,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10551849/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 17, 2026,2026-09-17 13:11:22
+10552528,Software Development Manager, CreativeX, Creative Intelligence and Optimization,https://www.amazon.jobs/en/jobs/10552528/software-development-manager-creativex-creative-intelligence-and-optimization,New York, NY, USA,Posted September 17, 2026,2026-09-17 19:10:04
