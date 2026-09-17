@@ -90,3 +90,4 @@
 200661492,Software Engineer - Cloud Infrastructure, Golang,https://jobs.apple.com/en-us/details/200661492/software-engineer-cloud-infrastructure-golang,Seattle Metro Area,2026-09-16T21:32:54.522Z,2026-09-16 21:37:26
 200683959,Sr Software Engineer - G&A Solutions Engineering (GSE) ,https://jobs.apple.com/en-us/details/200683959/sr-software-engineer-g-a-solutions-engineering-gse,San Francisco Bay Area,2026-09-16T22:13:40.447Z,2026-09-16 22:36:51
 200653138,Camera Imaging Software Engineer, Camera & Photos ,https://jobs.apple.com/en-us/details/200653138/camera-imaging-software-engineer-camera-photos,Cupertino,2026-09-16T23:56:32.090Z,2026-09-17 00:31:07
+200670724,Security Software Engineer - Secure Transports, SEAR,https://jobs.apple.com/en-us/details/200670724/security-software-engineer-secure-transports-sear,Cupertino,2026-09-17T11:50:37.435Z,2026-09-17 12:19:00
