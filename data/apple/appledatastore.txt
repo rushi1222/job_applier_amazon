@@ -92,3 +92,4 @@
 200653138,Camera Imaging Software Engineer, Camera & Photos ,https://jobs.apple.com/en-us/details/200653138/camera-imaging-software-engineer-camera-photos,Cupertino,2026-09-16T23:56:32.090Z,2026-09-17 00:31:07
 200670724,Security Software Engineer - Secure Transports, SEAR,https://jobs.apple.com/en-us/details/200670724/security-software-engineer-secure-transports-sear,Cupertino,2026-09-17T11:50:37.435Z,2026-09-17 12:19:00
 200683106,Strategic Business Developer,https://jobs.apple.com/en-us/details/200683106/strategic-business-developer,Cupertino,2026-09-17T14:46:09.349Z,2026-09-17 15:13:04
+200683999,Sr. Machine Learning Engineer - Answers, Knowledge & Information (AKI),https://jobs.apple.com/en-us/details/200683999/sr-machine-learning-engineer-answers-knowledge-information-aki,Santa Clara,2026-09-17T15:15:33.854Z,2026-09-17 15:38:35
