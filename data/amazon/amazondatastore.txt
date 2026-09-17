@@ -1026,3 +1026,5 @@ Herndon, VA, USA
 10545833,Software Development Manager, Agentic AI, Velocity Labs,https://www.amazon.jobs/en/jobs/10545833/software-development-manager-agentic-ai-velocity-labs,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 17:10:08
 10547041,Software Development Engineer , Leo Commerce Data Platform,https://www.amazon.jobs/en/jobs/10547041/software-development-engineer-leo-commerce-data-platform,Redmond, WA, USA,Posted September 16, 2026,2026-09-16 18:14:03
 10547654,Data Engineer , Amazon Customer Service,https://www.amazon.jobs/en/jobs/10547654/data-engineer-amazon-customer-service,Seattle, WA, USA,Posted September 16, 2026,2026-09-16 19:35:00
+10551850,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10551850/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 17, 2026,2026-09-17 13:11:22
+10551849,Software Development Manager, AMPS Partnership Engineering,https://www.amazon.jobs/en/jobs/10551849/software-development-manager-amps-partnership-engineering,Austin, TX, USA,Posted September 17, 2026,2026-09-17 13:11:22
