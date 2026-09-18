@@ -106,3 +106,5 @@
 200680505,Software Engineer - UI Rendering,https://jobs.apple.com/en-us/details/200680505/software-engineer-ui-rendering,Cupertino,2026-09-18T18:41:40.268Z,2026-09-18 19:11:07
 200684265,Software Engineer, Finance Engineering,https://jobs.apple.com/en-us/details/200684265/software-engineer-finance-engineering,San Francisco Bay Area,2026-09-18T20:07:59.138Z,2026-09-18 20:12:39
 200684670,Software Engineer - Systems,https://jobs.apple.com/en-us/details/200684670/software-engineer-systems,Cupertino,2026-09-18T19:45:56.481Z,2026-09-18 20:12:39
+200683334,Senior Cloud Software Engineer, Find My,https://jobs.apple.com/en-us/details/200683334/senior-cloud-software-engineer-find-my,Cupertino,2026-09-18T20:36:28.544Z,2026-09-18 20:37:54
+200672921,Software Engineer, Algorithms (SDE),https://jobs.apple.com/en-us/details/200672921/software-engineer-algorithms-sde,Cupertino,2026-09-18T20:14:47.452Z,2026-09-18 20:37:54
