@@ -97,3 +97,4 @@
 200684226,Sr. Software Development Engineer In Test - Siri AI Quality,https://jobs.apple.com/en-us/details/200684226/sr-software-development-engineer-in-test-siri-ai-quality,Cupertino,2026-09-17T21:00:04.247Z,2026-09-17 21:12:26
 200683319,Software Engineer - AML, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200683319/software-engineer-aml-ai-data-platforms-aidp,Sunnyvale,2026-09-17T22:42:23.219Z,2026-09-17 23:10:49
 200684368,Senior Software Engineer, Capacity & Efficiency Engineering,https://jobs.apple.com/en-us/details/200684368/senior-software-engineer-capacity-efficiency-engineering,Cupertino,2026-09-18T02:09:29.655Z,2026-09-18 02:17:16
+200674386,Senior Software Engineer - Intelligence Platform Data Foundations, Proactive,https://jobs.apple.com/en-us/details/200674386/senior-software-engineer-intelligence-platform-data-foundations-proactive,Cupertino,2026-09-18T05:35:17.631Z,2026-09-18 05:39:14
