@@ -99,3 +99,4 @@
 200684368,Senior Software Engineer, Capacity & Efficiency Engineering,https://jobs.apple.com/en-us/details/200684368/senior-software-engineer-capacity-efficiency-engineering,Cupertino,2026-09-18T02:09:29.655Z,2026-09-18 02:17:16
 200674386,Senior Software Engineer - Intelligence Platform Data Foundations, Proactive,https://jobs.apple.com/en-us/details/200674386/senior-software-engineer-intelligence-platform-data-foundations-proactive,Cupertino,2026-09-18T05:35:17.631Z,2026-09-18 05:39:14
 200684594,Software Engineer (Graph), Supply Chain Integration,https://jobs.apple.com/en-us/details/200684594/software-engineer-graph-supply-chain-integration,Sunnyvale,2026-09-18T17:09:35.092Z,2026-09-18 17:11:09
+200684192,Software Engineer - Journal Team,https://jobs.apple.com/en-us/details/200684192/software-engineer-journal-team,San Diego,2026-09-18T17:16:00.614Z,2026-09-18 17:36:26
