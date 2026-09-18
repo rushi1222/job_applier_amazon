@@ -103,3 +103,4 @@
 200683544,Camera Software Frameworks Engineer,https://jobs.apple.com/en-us/details/200683544/camera-software-frameworks-engineer,San Diego Metro Area,2026-09-18T18:08:43.989Z,2026-09-18 18:14:46
 200684574,Software Engineer (AML), AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200684574/software-engineer-aml-ai-data-platforms-aidp,Austin,2026-09-18T17:59:47.127Z,2026-09-18 18:14:46
 200684577,Software Engineer (Data Solutions), AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200684577/software-engineer-data-solutions-ai-data-platforms-aidp,Austin,2026-09-18T17:57:30.132Z,2026-09-18 18:14:46
+200680505,Software Engineer - UI Rendering,https://jobs.apple.com/en-us/details/200680505/software-engineer-ui-rendering,Cupertino,2026-09-18T18:41:40.268Z,2026-09-18 19:11:07
