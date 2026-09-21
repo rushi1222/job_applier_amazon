@@ -111,3 +111,4 @@
 200683324,Senior Graphics Software Engineer,https://jobs.apple.com/en-us/details/200683324/senior-graphics-software-engineer,Seattle,2026-09-19T00:03:06.444Z,2026-09-19 00:31:22
 200674984,GUI Software Lead (SwiftUI),https://jobs.apple.com/en-us/details/200674984/gui-software-lead-swiftui,Cupertino,2026-09-21T16:04:58.287Z,2026-09-21 16:14:39
 200684740,Software Integrity Engineer, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200684740/software-integrity-engineer-sensing-connectivity,Cupertino,2026-09-21T16:38:30.972Z,2026-09-21 16:40:39
+200684595,Software Development Engineering Manager, ASK Production Engineering,https://jobs.apple.com/en-us/details/200684595/software-development-engineering-manager-ask-production-engineering,Cupertino,2026-09-21T17:01:04.552Z,2026-09-21 17:10:59
