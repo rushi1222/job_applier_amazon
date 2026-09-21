@@ -114,3 +114,4 @@
 200684595,Software Development Engineering Manager, ASK Production Engineering,https://jobs.apple.com/en-us/details/200684595/software-development-engineering-manager-ask-production-engineering,Cupertino,2026-09-21T17:01:04.552Z,2026-09-21 17:10:59
 200670440,Systems Software Engineer, Intelligence Orchestration, Proactive Intelligence,https://jobs.apple.com/en-us/details/200670440/systems-software-engineer-intelligence-orchestration-proactive-intelligence,Cupertino,2026-09-21T18:19:42.537Z,2026-09-21 18:42:27
 200677992,Software Image Quality Manager, Creativity Apps,https://jobs.apple.com/en-us/details/200677992/software-image-quality-manager-creativity-apps,Cupertino,2026-09-21T19:22:51.243Z,2026-09-21 19:37:13
+200684876,Principal Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200684876/principal-software-engineer-apple-services-engineering,San Francisco,2026-09-21T19:46:11.587Z,2026-09-21 20:13:03
