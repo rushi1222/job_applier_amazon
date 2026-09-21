@@ -1043,3 +1043,7 @@ NEW ALBANY, OH, USA,Posted September 18, 2026,2026-09-18 17:09:57
 10553932,Data Engineer III, Amazon Manufacturing Services (AMS),https://www.amazon.jobs/en/jobs/10553932/data-engineer-iii-amazon-manufacturing-services-ams,Bellevue, WA, USA,Posted September 18, 2026,2026-09-18 23:11:04
 10554080,Data Engineer, Marketing Tech BI, Stores Finance Analytics & Insights,https://www.amazon.jobs/en/jobs/10554080/data-engineer-marketing-tech-bi-stores-finance-analytics-insights,Seattle, WA, USA,Posted September 18, 2026,2026-09-18 23:11:04
 10554931,Systems Engineer, Controls Fleet, Data Center Capacity Delivery,https://www.amazon.jobs/en/jobs/10554931/systems-engineer-controls-fleet-data-center-capacity-delivery,Herndon, VA, USA,Posted September 21, 2026,2026-09-21 17:09:46
+10555440,Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10555440/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted September 21, 2026,2026-09-21 21:10:13
