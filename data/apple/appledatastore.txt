@@ -119,3 +119,5 @@
 200684904,Software Integrity Engineer, CoreMotion, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200684904/software-integrity-engineer-coremotion-sensing-connectivity,Cupertino,2026-09-21T20:47:38.785Z,2026-09-21 21:11:28
 200684878,Software Engineer - Generative UI, Input Experience,https://jobs.apple.com/en-us/details/200684878/software-engineer-generative-ui-input-experience,Cupertino,2026-09-21T21:52:52.644Z,2026-09-21 22:12:25
 200674937,Senior OS Software Engineer, Field Engagement & Analytics,https://jobs.apple.com/en-us/details/200674937/senior-os-software-engineer-field-engagement-analytics,Cupertino,2026-09-21T23:06:58.496Z,2026-09-21 23:12:06
+200671481,Software Engineer, Employee Experience & Productivity,https://jobs.apple.com/en-us/details/200671481/software-engineer-employee-experience-productivity,Culver City,2026-09-21T23:24:02.022Z,2026-09-21 23:37:07
+200652948,Software Engineer, Employee Experience & Productivity,https://jobs.apple.com/en-us/details/200652948/software-engineer-employee-experience-productivity,Culver City,2026-09-21T23:23:16.532Z,2026-09-21 23:37:07
