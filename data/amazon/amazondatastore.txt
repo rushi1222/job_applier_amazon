@@ -1057,3 +1057,5 @@ MESA, AZ, USA
 10556714,Data Engineer, Amazon Music, Amazon Music Finance,https://www.amazon.jobs/en/jobs/10556714/data-engineer-amazon-music-amazon-music-finance,Culver City, CA, USA
 Seattle, WA, USA,Posted September 22, 2026,2026-09-22 18:15:23
 10556787,AI Platform Data Engineer, Ring Agent Platform Org,https://www.amazon.jobs/en/jobs/10556787/ai-platform-data-engineer-ring-agent-platform-org,Hawthorne, CA, USA,Posted September 22, 2026,2026-09-22 18:40:45
+10557052,Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10557052/mechanical-design-engineer-data-center-design-engineering,Herndon, VA, USA,Posted September 22, 2026,2026-09-22 22:09:45
+10557061,Systems Engineer, Controls Fleet, Data Center Capacity Delivery,https://www.amazon.jobs/en/jobs/10557061/systems-engineer-controls-fleet-data-center-capacity-delivery,Herndon, VA, USA,Posted September 22, 2026,2026-09-22 22:09:45
