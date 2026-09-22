@@ -121,3 +121,6 @@
 200674937,Senior OS Software Engineer, Field Engagement & Analytics,https://jobs.apple.com/en-us/details/200674937/senior-os-software-engineer-field-engagement-analytics,Cupertino,2026-09-21T23:06:58.496Z,2026-09-21 23:12:06
 200671481,Software Engineer, Employee Experience & Productivity,https://jobs.apple.com/en-us/details/200671481/software-engineer-employee-experience-productivity,Culver City,2026-09-21T23:24:02.022Z,2026-09-21 23:37:07
 200652948,Software Engineer, Employee Experience & Productivity,https://jobs.apple.com/en-us/details/200652948/software-engineer-employee-experience-productivity,Culver City,2026-09-21T23:23:16.532Z,2026-09-21 23:37:07
+200684820,Software Development Engineer in Test - Charging & Inductive Power,https://jobs.apple.com/en-us/details/200684820/software-development-engineer-in-test-charging-inductive-power,San Diego,2026-09-22T00:29:55.988Z,2026-09-22 00:31:59
+200684973,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200684973/systems-software-engineer-platform-architecture,Austin,2026-09-22T00:08:16.707Z,2026-09-22 00:31:59
+200684839,Manager, WW App Store Developer Marketing,https://jobs.apple.com/en-us/details/200684839/manager-ww-app-store-developer-marketing,Culver City,2026-09-21T23:58:53.457Z,2026-09-22 00:31:59
