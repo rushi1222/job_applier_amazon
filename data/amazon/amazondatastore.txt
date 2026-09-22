@@ -1053,3 +1053,4 @@ Herndon, VA, USA
 MESA, AZ, USA
 +1 other locations,Posted September 21, 2026,2026-09-21 23:10:52
 10556333,Data Center Controls Engineer, Dallas, TX,https://www.amazon.jobs/en/jobs/10556333/data-center-controls-engineer-dallas-tx,Dallas, TX, USA,Posted September 22, 2026,2026-09-22 15:37:09
+10555137,Data Engineer III - AMZ10455847,https://www.amazon.jobs/en/jobs/10555137/data-engineer-iii-amz10455847,Charleston, SC, USA,Posted September 21, 2026,2026-09-22 16:12:10
