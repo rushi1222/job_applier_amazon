@@ -126,3 +126,5 @@
 200684839,Manager, WW App Store Developer Marketing,https://jobs.apple.com/en-us/details/200684839/manager-ww-app-store-developer-marketing,Culver City,2026-09-21T23:58:53.457Z,2026-09-22 00:31:59
 200684916,Analog Mixed-Signal Design Software Engineer,https://jobs.apple.com/en-us/details/200684916/analog-mixed-signal-design-software-engineer,Cupertino,2026-09-22T00:52:58.874Z,2026-09-22 01:10:24
 200684530,Sr Software Engineer, Applied AI and Test Automation - Camera Software,https://jobs.apple.com/en-us/details/200684530/sr-software-engineer-applied-ai-and-test-automation-camera-software,Cupertino,2026-09-22T17:02:18.223Z,2026-09-22 17:11:46
+200685051,Graphics Software Engineer,https://jobs.apple.com/en-us/details/200685051/graphics-software-engineer,Austin,2026-09-22T17:55:26.301Z,2026-09-22 18:16:36
+200683340,Senior Software Engineer, Find My,https://jobs.apple.com/en-us/details/200683340/senior-software-engineer-find-my,Cupertino,2026-09-22T17:55:10.676Z,2026-09-22 18:16:36
