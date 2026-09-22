@@ -124,3 +124,4 @@
 200684820,Software Development Engineer in Test - Charging & Inductive Power,https://jobs.apple.com/en-us/details/200684820/software-development-engineer-in-test-charging-inductive-power,San Diego,2026-09-22T00:29:55.988Z,2026-09-22 00:31:59
 200684973,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200684973/systems-software-engineer-platform-architecture,Austin,2026-09-22T00:08:16.707Z,2026-09-22 00:31:59
 200684839,Manager, WW App Store Developer Marketing,https://jobs.apple.com/en-us/details/200684839/manager-ww-app-store-developer-marketing,Culver City,2026-09-21T23:58:53.457Z,2026-09-22 00:31:59
+200684916,Analog Mixed-Signal Design Software Engineer,https://jobs.apple.com/en-us/details/200684916/analog-mixed-signal-design-software-engineer,Cupertino,2026-09-22T00:52:58.874Z,2026-09-22 01:10:24
