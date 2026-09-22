@@ -128,3 +128,4 @@
 200684530,Sr Software Engineer, Applied AI and Test Automation - Camera Software,https://jobs.apple.com/en-us/details/200684530/sr-software-engineer-applied-ai-and-test-automation-camera-software,Cupertino,2026-09-22T17:02:18.223Z,2026-09-22 17:11:46
 200685051,Graphics Software Engineer,https://jobs.apple.com/en-us/details/200685051/graphics-software-engineer,Austin,2026-09-22T17:55:26.301Z,2026-09-22 18:16:36
 200683340,Senior Software Engineer, Find My,https://jobs.apple.com/en-us/details/200683340/senior-software-engineer-find-my,Cupertino,2026-09-22T17:55:10.676Z,2026-09-22 18:16:36
+200685121,Systems Engineer - Health Software,https://jobs.apple.com/en-us/details/200685121/systems-engineer-health-software,San Diego,2026-09-22T18:19:04.608Z,2026-09-22 18:41:58

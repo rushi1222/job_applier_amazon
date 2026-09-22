@@ -1056,3 +1056,4 @@ MESA, AZ, USA
 10555137,Data Engineer III - AMZ10455847,https://www.amazon.jobs/en/jobs/10555137/data-engineer-iii-amz10455847,Charleston, SC, USA,Posted September 21, 2026,2026-09-22 16:12:10
 10556714,Data Engineer, Amazon Music, Amazon Music Finance,https://www.amazon.jobs/en/jobs/10556714/data-engineer-amazon-music-amazon-music-finance,Culver City, CA, USA
 Seattle, WA, USA,Posted September 22, 2026,2026-09-22 18:15:23
+10556787,AI Platform Data Engineer, Ring Agent Platform Org,https://www.amazon.jobs/en/jobs/10556787/ai-platform-data-engineer-ring-agent-platform-org,Hawthorne, CA, USA,Posted September 22, 2026,2026-09-22 18:40:45
