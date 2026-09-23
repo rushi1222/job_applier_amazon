@@ -133,3 +133,4 @@
 200685114,Software Engineering Program Manager - Video Computer Vision (CV/ML/ALGO),https://jobs.apple.com/en-us/details/200685114/software-engineering-program-manager-video-computer-vision-cv-ml-algo,Sunnyvale,2026-09-22T22:10:26.643Z,2026-09-22 22:10:57
 200685182,Senior Security Software Engineer - Secure Transports,https://jobs.apple.com/en-us/details/200685182/senior-security-software-engineer-secure-transports,Cupertino,2026-09-22T23:44:51.539Z,2026-09-23 00:30:15
 200676254,Backend Software Engineer (Golang),https://jobs.apple.com/en-us/details/200676254/backend-software-engineer-golang,Austin,2026-09-23T00:44:48.249Z,2026-09-23 01:09:59
+200685202,Software Engineer — Face ID,https://jobs.apple.com/en-us/details/200685202/software-engineer-face-id,Sunnyvale,2026-09-23T17:47:50.780Z,2026-09-23 18:16:42
