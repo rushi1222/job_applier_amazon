@@ -131,3 +131,4 @@
 200685121,Systems Engineer - Health Software,https://jobs.apple.com/en-us/details/200685121/systems-engineer-health-software,San Diego,2026-09-22T18:19:04.608Z,2026-09-22 18:41:58
 200651526,Software Engineering Program Manager - watchOS,https://jobs.apple.com/en-us/details/200651526/software-engineering-program-manager-watchos,Cupertino,2026-09-22T19:02:30.068Z,2026-09-22 19:11:31
 200685114,Software Engineering Program Manager - Video Computer Vision (CV/ML/ALGO),https://jobs.apple.com/en-us/details/200685114/software-engineering-program-manager-video-computer-vision-cv-ml-algo,Sunnyvale,2026-09-22T22:10:26.643Z,2026-09-22 22:10:57
+200685182,Senior Security Software Engineer - Secure Transports,https://jobs.apple.com/en-us/details/200685182/senior-security-software-engineer-secure-transports,Cupertino,2026-09-22T23:44:51.539Z,2026-09-23 00:30:15
