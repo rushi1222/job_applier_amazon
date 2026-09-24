@@ -1065,3 +1065,11 @@ Seattle, WA, USA,Posted September 22, 2026,2026-09-22 18:15:23
 Seattle, WA, USA,Posted September 24, 2026,2026-09-24 02:43:57
 10559344,Data Center Controls Engineer,https://www.amazon.jobs/en/jobs/10559344/data-center-controls-engineer,Umatilla, OR, USA,Posted September 24, 2026,2026-09-24 18:15:03
 10559474,Software Development Engineer II, Data Center Software (DC BRIDGE),https://www.amazon.jobs/en/jobs/10559474/software-development-engineer-ii-data-center-software-dc-bridge,Seattle, WA, USA,Posted September 24, 2026,2026-09-24 20:13:32
+10559511,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10559511/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA
+Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
+10559512,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10559512/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA
+Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
+10559513,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10559513/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA
+Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
+10559515,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10559515/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA
+Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
