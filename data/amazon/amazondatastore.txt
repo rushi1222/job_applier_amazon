@@ -1074,3 +1074,5 @@ Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
 10559515,Software Developer Engineer, Amazon WorkSpaces Core Managed Instances,https://www.amazon.jobs/en/jobs/10559515/software-developer-engineer-amazon-workspaces-core-managed-instances,Seattle, WA, USA
 Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
 10559715,Product Development Engineer, Annapurna Labs Silicon Operations,https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations,Austin, TX, USA,Posted September 24, 2026,2026-09-24 22:11:15
+10559754,Software Development Manager, Builder Tools Language Experience,https://www.amazon.jobs/en/jobs/10559754/software-development-manager-builder-tools-language-experience,Arlington, VA, USA
+Boston, MA, USA,Posted September 24, 2026,2026-09-24 22:36:24
