@@ -136,3 +136,4 @@
 200685202,Software Engineer — Face ID,https://jobs.apple.com/en-us/details/200685202/software-engineer-face-id,Sunnyvale,2026-09-23T17:47:50.780Z,2026-09-23 18:16:42
 200672806,Senior Software Engineer,https://jobs.apple.com/en-us/details/200672806/senior-software-engineer,Cupertino,2026-09-23T20:18:53.413Z,2026-09-23 20:38:47
 200685444,Senior Software ML Engineer - Watch Software ,https://jobs.apple.com/en-us/details/200685444/senior-software-ml-engineer-watch-software,Seattle,2026-09-23T20:45:47.745Z,2026-09-23 21:12:55
+200676528,Distributed Systems Software Engineer (Golang),https://jobs.apple.com/en-us/details/200676528/distributed-systems-software-engineer-golang,Austin,2026-09-24T02:49:55.626Z,2026-09-24 03:15:22
