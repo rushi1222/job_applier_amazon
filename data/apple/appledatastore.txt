@@ -140,3 +140,4 @@
 200683840,SWE Engineering Program Manager - Strategic Data Solutions,https://jobs.apple.com/en-us/details/200683840/swe-engineering-program-manager-strategic-data-solutions,Austin,2026-09-24T16:11:50.632Z,2026-09-24 16:15:01
 200684521,Software Engineer, Applied AI,https://jobs.apple.com/en-us/details/200684521/software-engineer-applied-ai,San Diego,2026-09-24T16:28:34.117Z,2026-09-24 16:40:27
 200685700,Experience Prototyper – Software,https://jobs.apple.com/en-us/details/200685700/experience-prototyper-software,Cupertino,2026-09-24T17:28:51.879Z,2026-09-24 17:37:51
+200684823,Senior Software Engineer (SDET), Infrastructure Services,https://jobs.apple.com/en-us/details/200684823/senior-software-engineer-sdet-infrastructure-services,San Francisco Bay Area,2026-09-24T18:54:46.104Z,2026-09-24 19:11:24
