@@ -147,3 +147,4 @@
 200685675,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200685675/systems-software-engineer-platform-architecture,Austin,2026-09-24T20:24:27.246Z,2026-09-24 20:40:22
 200685673,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200685673/systems-software-engineer-platform-architecture,Austin,2026-09-24T20:23:48.872Z,2026-09-24 20:40:22
 200646833,Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200646833/software-development-engineer-frameworks-ai-ml-wireless-technologies-ecosystems,Cupertino,2026-09-24T20:16:48.418Z,2026-09-24 20:40:22
+200685752,Sr.Software Engineer (Machine Learning), Ops & Sales Engineering,https://jobs.apple.com/en-us/details/200685752/sr-software-engineer-machine-learning-ops-sales-engineering,Sunnyvale,2026-09-24T21:08:32.072Z,2026-09-24 21:12:48
