@@ -141,3 +141,6 @@
 200684521,Software Engineer, Applied AI,https://jobs.apple.com/en-us/details/200684521/software-engineer-applied-ai,San Diego,2026-09-24T16:28:34.117Z,2026-09-24 16:40:27
 200685700,Experience Prototyper – Software,https://jobs.apple.com/en-us/details/200685700/experience-prototyper-software,Cupertino,2026-09-24T17:28:51.879Z,2026-09-24 17:37:51
 200684823,Senior Software Engineer (SDET), Infrastructure Services,https://jobs.apple.com/en-us/details/200684823/senior-software-engineer-sdet-infrastructure-services,San Francisco Bay Area,2026-09-24T18:54:46.104Z,2026-09-24 19:11:24
+200685701,Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems ,https://jobs.apple.com/en-us/details/200685701/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-09-24T20:00:53.844Z,2026-09-24 20:14:45
+200685582,Software Engineer, Reliability Engineering, AiDP,https://jobs.apple.com/en-us/details/200685582/software-engineer-reliability-engineering-aidp,Austin Metro Area,2026-09-24T19:46:29.018Z,2026-09-24 20:14:45
+200685683,Sr Software Engineer, Employee Experience & Productivity,https://jobs.apple.com/en-us/details/200685683/sr-software-engineer-employee-experience-productivity,Culver City,2026-09-24T19:46:13.065Z,2026-09-24 20:14:45
