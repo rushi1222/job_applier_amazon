@@ -1063,3 +1063,4 @@ Seattle, WA, USA,Posted September 22, 2026,2026-09-22 18:15:23
 10558429,Software Dev Engineer, Business Data Technologies,https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies,Detroit, MI, USA,Posted September 23, 2026,2026-09-23 23:09:59
 10558684,Senior Business Intelligence Engineer, Infra Supply Chain Automation,https://www.amazon.jobs/en/jobs/10558684/senior-business-intelligence-engineer-infra-supply-chain-automation,Austin, TX, USA
 Seattle, WA, USA,Posted September 24, 2026,2026-09-24 02:43:57
+10559344,Data Center Controls Engineer,https://www.amazon.jobs/en/jobs/10559344/data-center-controls-engineer,Umatilla, OR, USA,Posted September 24, 2026,2026-09-24 18:15:03
