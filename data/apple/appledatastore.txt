@@ -151,3 +151,4 @@
 200685742,Software Engineer, Music Search,https://jobs.apple.com/en-us/details/200685742/software-engineer-music-search,Culver City,2026-09-24T22:37:00.545Z,2026-09-24 22:37:37
 200685676,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200685676/senior-systems-engineer-watch-software,Boulder,2026-09-25T00:31:48.622Z,2026-09-25 00:32:48
 200679240,Sr Software Engineering Program Manager - Claris,https://jobs.apple.com/en-us/details/200679240/sr-software-engineering-program-manager-claris,Sunnyvale,2026-09-24T23:47:51.778Z,2026-09-25 00:32:48
+200635706,Developer Publications - Content Engineer,https://jobs.apple.com/en-us/details/200635706/developer-publications-content-engineer,Cupertino,2026-09-25T04:18:20.203Z,2026-09-25 04:42:51
