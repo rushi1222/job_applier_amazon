@@ -153,3 +153,4 @@
 200679240,Sr Software Engineering Program Manager - Claris,https://jobs.apple.com/en-us/details/200679240/sr-software-engineering-program-manager-claris,Sunnyvale,2026-09-24T23:47:51.778Z,2026-09-25 00:32:48
 200635706,Developer Publications - Content Engineer,https://jobs.apple.com/en-us/details/200635706/developer-publications-content-engineer,Cupertino,2026-09-25T04:18:20.203Z,2026-09-25 04:42:51
 200685900,Security Engineer - Health Software ,https://jobs.apple.com/en-us/details/200685900/security-engineer-health-software,San Diego,2026-09-25T17:26:54.173Z,2026-09-25 17:38:22
+200684879,Senior System Security Software Engineer, Platform Attestation,https://jobs.apple.com/en-us/details/200684879/senior-system-security-software-engineer-platform-attestation,Seattle,2026-09-25T18:47:44.287Z,2026-09-25 19:10:54
