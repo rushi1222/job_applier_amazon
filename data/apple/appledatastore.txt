@@ -149,3 +149,5 @@
 200646833,Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200646833/software-development-engineer-frameworks-ai-ml-wireless-technologies-ecosystems,Cupertino,2026-09-24T20:16:48.418Z,2026-09-24 20:40:22
 200685752,Sr.Software Engineer (Machine Learning), Ops & Sales Engineering,https://jobs.apple.com/en-us/details/200685752/sr-software-engineer-machine-learning-ops-sales-engineering,Sunnyvale,2026-09-24T21:08:32.072Z,2026-09-24 21:12:48
 200685742,Software Engineer, Music Search,https://jobs.apple.com/en-us/details/200685742/software-engineer-music-search,Culver City,2026-09-24T22:37:00.545Z,2026-09-24 22:37:37
+200685676,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200685676/senior-systems-engineer-watch-software,Boulder,2026-09-25T00:31:48.622Z,2026-09-25 00:32:48
+200679240,Sr Software Engineering Program Manager - Claris,https://jobs.apple.com/en-us/details/200679240/sr-software-engineering-program-manager-claris,Sunnyvale,2026-09-24T23:47:51.778Z,2026-09-25 00:32:48
