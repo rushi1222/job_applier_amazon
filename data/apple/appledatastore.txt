@@ -157,3 +157,4 @@
 200685954,Software Engineering Technical Lead, Apple Pay — Wallet, Payments & Commerce (WPC),https://jobs.apple.com/en-us/details/200685954/software-engineering-technical-lead-apple-pay-wallet-payments-commerce-wpc,Cupertino,2026-09-25T21:25:29.772Z,2026-09-25 21:38:03
 200685555,Senior Software Engineer, Development Engineering Workflows, Core OS,https://jobs.apple.com/en-us/details/200685555/senior-software-engineer-development-engineering-workflows-core-os,San Diego,2026-09-25T21:21:31.630Z,2026-09-25 21:38:03
 200685970,OS Power and Performance - Software Development Engineer in Test,https://jobs.apple.com/en-us/details/200685970/os-power-and-performance-software-development-engineer-in-test,San Diego,2026-09-25T21:21:19.357Z,2026-09-25 21:38:03
+200644094,Staff Software Engineer, Retail and Marcom Engineering,https://jobs.apple.com/en-us/details/200644094/staff-software-engineer-retail-and-marcom-engineering,Austin,2026-09-25T22:10:30.467Z,2026-09-25 22:12:21
