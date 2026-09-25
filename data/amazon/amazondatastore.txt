@@ -1076,3 +1076,5 @@ Sunnyvale, CA, USA,Posted September 24, 2026,2026-09-24 20:39:09
 10559715,Product Development Engineer, Annapurna Labs Silicon Operations,https://www.amazon.jobs/en/jobs/10559715/product-development-engineer-annapurna-labs-silicon-operations,Austin, TX, USA,Posted September 24, 2026,2026-09-24 22:11:15
 10559754,Software Development Manager, Builder Tools Language Experience,https://www.amazon.jobs/en/jobs/10559754/software-development-manager-builder-tools-language-experience,Arlington, VA, USA
 Boston, MA, USA,Posted September 24, 2026,2026-09-24 22:36:24
+10560542,Sr. Business Intelligence Engineer, Accounting,https://www.amazon.jobs/en/jobs/10560542/sr-business-intelligence-engineer-accounting,Arlington, VA, USA
+Seattle, WA, USA,Posted September 25, 2026,2026-09-25 17:10:18
