@@ -154,3 +154,6 @@
 200635706,Developer Publications - Content Engineer,https://jobs.apple.com/en-us/details/200635706/developer-publications-content-engineer,Cupertino,2026-09-25T04:18:20.203Z,2026-09-25 04:42:51
 200685900,Security Engineer - Health Software ,https://jobs.apple.com/en-us/details/200685900/security-engineer-health-software,San Diego,2026-09-25T17:26:54.173Z,2026-09-25 17:38:22
 200684879,Senior System Security Software Engineer, Platform Attestation,https://jobs.apple.com/en-us/details/200684879/senior-system-security-software-engineer-platform-attestation,Seattle,2026-09-25T18:47:44.287Z,2026-09-25 19:10:54
+200685954,Software Engineering Technical Lead, Apple Pay — Wallet, Payments & Commerce (WPC),https://jobs.apple.com/en-us/details/200685954/software-engineering-technical-lead-apple-pay-wallet-payments-commerce-wpc,Cupertino,2026-09-25T21:25:29.772Z,2026-09-25 21:38:03
+200685555,Senior Software Engineer, Development Engineering Workflows, Core OS,https://jobs.apple.com/en-us/details/200685555/senior-software-engineer-development-engineering-workflows-core-os,San Diego,2026-09-25T21:21:31.630Z,2026-09-25 21:38:03
+200685970,OS Power and Performance - Software Development Engineer in Test,https://jobs.apple.com/en-us/details/200685970/os-power-and-performance-software-development-engineer-in-test,San Diego,2026-09-25T21:21:19.357Z,2026-09-25 21:38:03
