@@ -1080,3 +1080,5 @@ Boston, MA, USA,Posted September 24, 2026,2026-09-24 22:36:24
 Seattle, WA, USA,Posted September 25, 2026,2026-09-25 17:10:18
 10560872,Data Engineer, Worldwide Grocery Data & Analytics,https://www.amazon.jobs/en/jobs/10560872/data-engineer-worldwide-grocery-data-analytics,Austin, TX, USA
 AUSTIN, TX, USA,Posted September 25, 2026,2026-09-25 21:10:46
+10561032,Data Engineer, Partner Experience,https://www.amazon.jobs/en/jobs/10561032/data-engineer-partner-experience,Seattle, WA, USA
+SEATTLE, WA, USA,Posted September 27, 2026,2026-09-27 15:10:31
