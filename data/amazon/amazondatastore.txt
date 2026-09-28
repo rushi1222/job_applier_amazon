@@ -1086,3 +1086,4 @@ SEATTLE, WA, USA,Posted September 27, 2026,2026-09-27 15:10:31
 NEW CARLISLE, IN, USA,Posted September 28, 2026,2026-09-28 01:32:37
 10561168,DCEO Principal Engineer, Data Center Engineering Principal Engineer,https://www.amazon.jobs/en/jobs/10561168/dceo-principal-engineer-data-center-engineering-principal-engineer,Hermiston, OR, USA,Posted September 28, 2026,2026-09-28 06:28:03
 10561691,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10561691/data-center-controls-engineer-data-center-capacity-delivery-controls,Chantilly, VA, USA,Posted September 28, 2026,2026-09-28 15:40:37
+10562311,Software Development Manager, Promotions Purchase Execution & Experience (PPEX),https://www.amazon.jobs/en/jobs/10562311/software-development-manager-promotions-purchase-execution-experience-ppex,Seattle, WA, USA,Posted September 28, 2026,2026-09-28 18:16:01
