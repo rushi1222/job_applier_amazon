@@ -1084,3 +1084,4 @@ AUSTIN, TX, USA,Posted September 25, 2026,2026-09-25 21:10:46
 SEATTLE, WA, USA,Posted September 27, 2026,2026-09-27 15:10:31
 10561062,Data Center Chief Engineer, DCEO,https://www.amazon.jobs/en/jobs/10561062/data-center-chief-engineer-dceo,New Carlisle, IN, USA
 NEW CARLISLE, IN, USA,Posted September 28, 2026,2026-09-28 01:32:37
+10561168,DCEO Principal Engineer, Data Center Engineering Principal Engineer,https://www.amazon.jobs/en/jobs/10561168/dceo-principal-engineer-data-center-engineering-principal-engineer,Hermiston, OR, USA,Posted September 28, 2026,2026-09-28 06:28:03
