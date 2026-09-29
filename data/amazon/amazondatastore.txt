@@ -1095,3 +1095,4 @@ Dallas, TX, USA
 SANTA CLARA, CA, USA,Posted September 29, 2026,2026-09-29 13:42:38
 10563826,Project Engineer, CLT100,https://www.amazon.jobs/en/jobs/10563826/project-engineer-clt100,Hamlet, NC, USA,Posted September 29, 2026,2026-09-29 15:12:44
 10564076,Data Center Controls Engineer, US-West, SFO,https://www.amazon.jobs/en/jobs/10564076/data-center-controls-engineer-us-west-sfo,Santa Clara, CA, USA,Posted September 29, 2026,2026-09-29 17:10:37
+10564106,Data Engineer, Studios Analytics,https://www.amazon.jobs/en/jobs/10564106/data-engineer-studios-analytics,Culver City, CA, USA,Posted September 29, 2026,2026-09-29 17:40:26
