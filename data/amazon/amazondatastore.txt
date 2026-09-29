@@ -1097,3 +1097,4 @@ SANTA CLARA, CA, USA,Posted September 29, 2026,2026-09-29 13:42:38
 10564076,Data Center Controls Engineer, US-West, SFO,https://www.amazon.jobs/en/jobs/10564076/data-center-controls-engineer-us-west-sfo,Santa Clara, CA, USA,Posted September 29, 2026,2026-09-29 17:10:37
 10564106,Data Engineer, Studios Analytics,https://www.amazon.jobs/en/jobs/10564106/data-engineer-studios-analytics,Culver City, CA, USA,Posted September 29, 2026,2026-09-29 17:40:26
 10564179,Data Engineer II, AWS Partnerships,https://www.amazon.jobs/en/jobs/10564179/data-engineer-ii-aws-partnerships,Austin, TX, USA,Posted September 29, 2026,2026-09-29 18:15:49
+10564194,Facility Operations Center Engineer, ADC InfraOps FOC,https://www.amazon.jobs/en/jobs/10564194/facility-operations-center-engineer-adc-infraops-foc,Denver, CO, USA,Posted September 29, 2026,2026-09-29 18:43:59
