@@ -172,3 +172,5 @@
 200685188,Software Engineer, Information Systems & Technology,https://jobs.apple.com/en-us/details/200685188/software-engineer-information-systems-technology,Austin,2026-09-29T18:24:26.549Z,2026-09-29 18:45:12
 200686392,Firmware/Software System Engineering Program Manager,https://jobs.apple.com/en-us/details/200686392/firmware-software-system-engineering-program-manager,Cupertino,2026-09-30T00:28:15.609Z,2026-09-30 00:35:18
 200686475,Software Engineer, Shortcuts - Proactive,https://jobs.apple.com/en-us/details/200686475/software-engineer-shortcuts-proactive,Cupertino,2026-09-30T00:05:09.682Z,2026-09-30 00:35:18
+200686590,Software Engineer, Siri Runtime Systems and Interaction,https://jobs.apple.com/en-us/details/200686590/software-engineer-siri-runtime-systems-and-interaction,Cupertino,2026-09-30T16:33:24.175Z,2026-09-30 16:42:18
+200662616,Software Engineer - AML,  AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200662616/software-engineer-aml-ai-data-platforms-aidp,Sunnyvale,2026-09-30T16:20:36.783Z,2026-09-30 16:42:18
