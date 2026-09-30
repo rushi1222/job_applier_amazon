@@ -178,3 +178,4 @@
 200686470,Software Engineer - Generative Data Platform, Evaluation,https://jobs.apple.com/en-us/details/200686470/software-engineer-generative-data-platform-evaluation,San Francisco,2026-09-30T17:51:24.359Z,2026-09-30 18:16:20
 200686494,Character Behavior Developer- Generative AI Experiences SW,https://jobs.apple.com/en-us/details/200686494/character-behavior-developer-generative-ai-experiences-sw,Cupertino,2026-09-30T18:36:50.241Z,2026-09-30 18:45:19
 200678453,Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200678453/software-engineer-apple-services-engineering,Seattle,2026-09-30T18:18:13.693Z,2026-09-30 18:45:19
+200686602,Senior Software Engineer, Platform Apps & Technologies, Developer Workflows,https://jobs.apple.com/en-us/details/200686602/senior-software-engineer-platform-apps-technologies-developer-workflows,Cupertino,2026-09-30T21:44:09.466Z,2026-09-30 22:13:20
