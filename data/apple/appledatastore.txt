@@ -174,3 +174,5 @@
 200686475,Software Engineer, Shortcuts - Proactive,https://jobs.apple.com/en-us/details/200686475/software-engineer-shortcuts-proactive,Cupertino,2026-09-30T00:05:09.682Z,2026-09-30 00:35:18
 200686590,Software Engineer, Siri Runtime Systems and Interaction,https://jobs.apple.com/en-us/details/200686590/software-engineer-siri-runtime-systems-and-interaction,Cupertino,2026-09-30T16:33:24.175Z,2026-09-30 16:42:18
 200662616,Software Engineer - AML,  AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200662616/software-engineer-aml-ai-data-platforms-aidp,Sunnyvale,2026-09-30T16:20:36.783Z,2026-09-30 16:42:18
+200648019,Software Engineer, Infrastructure Services ,https://jobs.apple.com/en-us/details/200648019/software-engineer-infrastructure-services,Austin,2026-09-30T18:14:23.484Z,2026-09-30 18:16:20
+200686470,Software Engineer - Generative Data Platform, Evaluation,https://jobs.apple.com/en-us/details/200686470/software-engineer-generative-data-platform-evaluation,San Francisco,2026-09-30T17:51:24.359Z,2026-09-30 18:16:20
