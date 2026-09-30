@@ -1103,3 +1103,4 @@ SANTA CLARA, CA, USA,Posted September 29, 2026,2026-09-29 13:42:38
 10564415,Commissioning Engineer - Retro, Amazon Commissioning,https://www.amazon.jobs/en/jobs/10564415/commissioning-engineer-retro-amazon-commissioning,Herndon, VA, USA,Posted September 29, 2026,2026-09-29 21:12:38
 10563610,Software Development Manager, Programming Foundations, ASBX,https://www.amazon.jobs/en/jobs/10563610/software-development-manager-programming-foundations-asbx,Arlington, VA, USA,Posted September 29, 2026,2026-09-30 17:38:56
 10565881,Software Development Manager, AWS DynamoDB,https://www.amazon.jobs/en/jobs/10565881/software-development-manager-aws-dynamodb,Seattle, WA, USA,Posted September 30, 2026,2026-09-30 19:11:21
+10566016,IT App Dev Engr III - AMZ10430591,https://www.amazon.jobs/en/jobs/10566016/it-app-dev-engr-iii-amz10430591,Santa Clara, CA, USA,Posted September 30, 2026,2026-09-30 21:12:12
