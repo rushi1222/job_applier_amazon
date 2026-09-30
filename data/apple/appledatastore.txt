@@ -170,3 +170,5 @@
 200678186,Full Stack Software Engineer, Developer Publications ,https://jobs.apple.com/en-us/details/200678186/full-stack-software-engineer-developer-publications,San Diego,2026-09-29T17:29:37.816Z,2026-09-29 17:41:39
 200685186,Software Engineer, Information Systems & Technology,https://jobs.apple.com/en-us/details/200685186/software-engineer-information-systems-technology,Sunnyvale,2026-09-29T18:25:22.008Z,2026-09-29 18:45:12
 200685188,Software Engineer, Information Systems & Technology,https://jobs.apple.com/en-us/details/200685188/software-engineer-information-systems-technology,Austin,2026-09-29T18:24:26.549Z,2026-09-29 18:45:12
+200686392,Firmware/Software System Engineering Program Manager,https://jobs.apple.com/en-us/details/200686392/firmware-software-system-engineering-program-manager,Cupertino,2026-09-30T00:28:15.609Z,2026-09-30 00:35:18
+200686475,Software Engineer, Shortcuts - Proactive,https://jobs.apple.com/en-us/details/200686475/software-engineer-shortcuts-proactive,Cupertino,2026-09-30T00:05:09.682Z,2026-09-30 00:35:18
