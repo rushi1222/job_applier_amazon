@@ -176,3 +176,5 @@
 200662616,Software Engineer - AML,  AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200662616/software-engineer-aml-ai-data-platforms-aidp,Sunnyvale,2026-09-30T16:20:36.783Z,2026-09-30 16:42:18
 200648019,Software Engineer, Infrastructure Services ,https://jobs.apple.com/en-us/details/200648019/software-engineer-infrastructure-services,Austin,2026-09-30T18:14:23.484Z,2026-09-30 18:16:20
 200686470,Software Engineer - Generative Data Platform, Evaluation,https://jobs.apple.com/en-us/details/200686470/software-engineer-generative-data-platform-evaluation,San Francisco,2026-09-30T17:51:24.359Z,2026-09-30 18:16:20
+200686494,Character Behavior Developer- Generative AI Experiences SW,https://jobs.apple.com/en-us/details/200686494/character-behavior-developer-generative-ai-experiences-sw,Cupertino,2026-09-30T18:36:50.241Z,2026-09-30 18:45:19
+200678453,Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200678453/software-engineer-apple-services-engineering,Seattle,2026-09-30T18:18:13.693Z,2026-09-30 18:45:19
