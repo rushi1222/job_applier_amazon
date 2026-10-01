@@ -180,3 +180,5 @@
 200678453,Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200678453/software-engineer-apple-services-engineering,Seattle,2026-09-30T18:18:13.693Z,2026-09-30 18:45:19
 200686602,Senior Software Engineer, Platform Apps & Technologies, Developer Workflows,https://jobs.apple.com/en-us/details/200686602/senior-software-engineer-platform-apps-technologies-developer-workflows,Cupertino,2026-09-30T21:44:09.466Z,2026-09-30 22:13:20
 200686638,RealityKit Media Pipeline Engineer, Vision Products Software,https://jobs.apple.com/en-us/details/200686638/realitykit-media-pipeline-engineer-vision-products-software,Sunnyvale,2026-09-30T23:22:31.859Z,2026-09-30 23:39:35
+200683761,People Analytics Full Stack Developer,https://jobs.apple.com/en-us/details/200683761/people-analytics-full-stack-developer,Cupertino,2026-10-01T00:29:52.612Z,2026-10-01 00:39:38
+200685278,Software Development Engineer in Test (SDET), Creativity Apps,https://jobs.apple.com/en-us/details/200685278/software-development-engineer-in-test-sdet-creativity-apps,San Diego,2026-09-30T23:46:39.444Z,2026-10-01 00:39:38
