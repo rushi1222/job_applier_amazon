@@ -1109,3 +1109,4 @@ SANTA CLARA, CA, USA,Posted September 29, 2026,2026-09-29 13:42:38
 MESA, AZ, USA
 Sparks, NV, USA
 +1 other locations,Posted October 1, 2026,2026-10-01 14:13:52
+10566618,Manager III, Software Dev - AMZ10519529,https://www.amazon.jobs/en/jobs/10566618/manager-iii-software-dev-amz10519529,Seattle, WA, USA,Posted October 1, 2026,2026-10-01 15:12:41
