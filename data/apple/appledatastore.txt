@@ -190,3 +190,6 @@
 200686879,System Software Engineer  - Headphone & Accessories, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200686879/system-software-engineer-headphone-accessories-sensing-connectivity,Cupertino,2026-10-01T22:35:12.454Z,2026-10-01 22:39:40
 200656819,Software Engineer (Framework Solutions), AI & Data Platforms  (AiDP),https://jobs.apple.com/en-us/details/200656819/software-engineer-framework-solutions-ai-data-platforms-aidp,Austin,2026-10-01T22:33:45.533Z,2026-10-01 22:39:40
 200686859,Senior Software Engineer, Triage Services,https://jobs.apple.com/en-us/details/200686859/senior-software-engineer-triage-services,Cupertino,2026-10-01T22:30:37.163Z,2026-10-01 22:39:40
+200686891,AIML - Sr Software Engineer - AI, Evaluation,https://jobs.apple.com/en-us/details/200686891/aiml-sr-software-engineer-ai-evaluation,Cupertino,2026-10-01T23:01:04.373Z,2026-10-01 23:11:44
+200686874,AI Software Engineer, App Intelligence,https://jobs.apple.com/en-us/details/200686874/ai-software-engineer-app-intelligence,Cupertino,2026-10-01T22:58:42.627Z,2026-10-01 23:11:44
+200686889,Staff/Sr. Software Engineer, Performance Testing Platform,https://jobs.apple.com/en-us/details/200686889/staff-sr-software-engineer-performance-testing-platform,Santa Clara,2026-10-01T22:42:03.076Z,2026-10-01 23:11:44
