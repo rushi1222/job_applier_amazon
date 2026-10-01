@@ -187,3 +187,6 @@
 200686659,Software Engineer: Linux Driver and Kernel Developer,https://jobs.apple.com/en-us/details/200686659/software-engineer-linux-driver-and-kernel-developer,Cupertino,2026-10-01T19:34:20.644Z,2026-10-01 19:39:12
 200686863,Backend Software Engineer (Golang),https://jobs.apple.com/en-us/details/200686863/backend-software-engineer-golang,San Diego,2026-10-01T20:32:28.609Z,2026-10-01 21:12:28
 200685812,Core OS Software Engineer - USB4/Thunderbolt,https://jobs.apple.com/en-us/details/200685812/core-os-software-engineer-usb4-thunderbolt,Cupertino,2026-10-01T21:15:50.912Z,2026-10-01 21:41:04
+200686879,System Software Engineer  - Headphone & Accessories, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200686879/system-software-engineer-headphone-accessories-sensing-connectivity,Cupertino,2026-10-01T22:35:12.454Z,2026-10-01 22:39:40
+200656819,Software Engineer (Framework Solutions), AI & Data Platforms  (AiDP),https://jobs.apple.com/en-us/details/200656819/software-engineer-framework-solutions-ai-data-platforms-aidp,Austin,2026-10-01T22:33:45.533Z,2026-10-01 22:39:40
+200686859,Senior Software Engineer, Triage Services,https://jobs.apple.com/en-us/details/200686859/senior-software-engineer-triage-services,Cupertino,2026-10-01T22:30:37.163Z,2026-10-01 22:39:40
