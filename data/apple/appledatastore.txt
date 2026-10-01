@@ -182,3 +182,4 @@
 200686638,RealityKit Media Pipeline Engineer, Vision Products Software,https://jobs.apple.com/en-us/details/200686638/realitykit-media-pipeline-engineer-vision-products-software,Sunnyvale,2026-09-30T23:22:31.859Z,2026-09-30 23:39:35
 200683761,People Analytics Full Stack Developer,https://jobs.apple.com/en-us/details/200683761/people-analytics-full-stack-developer,Cupertino,2026-10-01T00:29:52.612Z,2026-10-01 00:39:38
 200685278,Software Development Engineer in Test (SDET), Creativity Apps,https://jobs.apple.com/en-us/details/200685278/software-development-engineer-in-test-sdet-creativity-apps,San Diego,2026-09-30T23:46:39.444Z,2026-10-01 00:39:38
+200686670,Business Operations Program Manager — Software Engineering,https://jobs.apple.com/en-us/details/200686670/business-operations-program-manager-software-engineering,Cupertino,2026-10-01T01:03:40.007Z,2026-10-01 01:39:15
