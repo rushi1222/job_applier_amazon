@@ -1105,3 +1105,7 @@ SANTA CLARA, CA, USA,Posted September 29, 2026,2026-09-29 13:42:38
 10565881,Software Development Manager, AWS DynamoDB,https://www.amazon.jobs/en/jobs/10565881/software-development-manager-aws-dynamodb,Seattle, WA, USA,Posted September 30, 2026,2026-09-30 19:11:21
 10566016,IT App Dev Engr III - AMZ10430591,https://www.amazon.jobs/en/jobs/10566016/it-app-dev-engr-iii-amz10430591,Santa Clara, CA, USA,Posted September 30, 2026,2026-09-30 21:12:12
 10566517,Facility Operations Center Engineer, ADC InfraOps FOC,https://www.amazon.jobs/en/jobs/10566517/facility-operations-center-engineer-adc-infraops-foc,Denver, CO, USA,Posted October 1, 2026,2026-10-01 13:15:27
+10566567,Data Center Regional Chief Engineer, PHX/RNO,https://www.amazon.jobs/en/jobs/10566567/data-center-regional-chief-engineer-phx-rno,Avondale, AZ, USA
+MESA, AZ, USA
+Sparks, NV, USA
++1 other locations,Posted October 1, 2026,2026-10-01 14:13:52
