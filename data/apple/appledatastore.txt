@@ -185,3 +185,4 @@
 200686670,Business Operations Program Manager — Software Engineering,https://jobs.apple.com/en-us/details/200686670/business-operations-program-manager-software-engineering,Cupertino,2026-10-01T01:03:40.007Z,2026-10-01 01:39:15
 200686380,AI Software Engineer, Apple Cloud AI Platform,https://jobs.apple.com/en-us/details/200686380/ai-software-engineer-apple-cloud-ai-platform,Seattle,2026-10-01T17:02:41.138Z,2026-10-01 17:12:28
 200686659,Software Engineer: Linux Driver and Kernel Developer,https://jobs.apple.com/en-us/details/200686659/software-engineer-linux-driver-and-kernel-developer,Cupertino,2026-10-01T19:34:20.644Z,2026-10-01 19:39:12
+200686863,Backend Software Engineer (Golang),https://jobs.apple.com/en-us/details/200686863/backend-software-engineer-golang,San Diego,2026-10-01T20:32:28.609Z,2026-10-01 21:12:28

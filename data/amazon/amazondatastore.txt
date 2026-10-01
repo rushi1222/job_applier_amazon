@@ -1113,3 +1113,5 @@ Sparks, NV, USA
 10566720,Manager III, Software Dev - AMZ10376304,https://www.amazon.jobs/en/jobs/10566720/manager-iii-software-dev-amz10376304,Sunnyvale, CA, USA,Posted October 1, 2026,2026-10-01 16:39:50
 10567307,Business Intel Engineer III - AMZ10540501,https://www.amazon.jobs/en/jobs/10567307/business-intel-engineer-iii-amz10540501,Seattle, WA, USA,Posted October 1, 2026,2026-10-01 20:13:34
 10567314,Chief Engineer, CLT102,https://www.amazon.jobs/en/jobs/10567314/chief-engineer-clt102,Hamlet, NC, USA,Posted October 1, 2026,2026-10-01 20:13:34
+10567367,Software Dev Engineer - AWS Identity Access Management, AWS IAM Propagation,https://www.amazon.jobs/en/jobs/10567367/software-dev-engineer-aws-identity-access-management-aws-iam-propagation,Seattle, WA, USA,Posted October 1, 2026,2026-10-01 21:11:15
+10567385,Software Development Engineer, AWS Access Analyzer,https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer,Santa Clara, CA, USA,Posted October 1, 2026,2026-10-01 21:11:15
