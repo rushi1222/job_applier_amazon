@@ -186,3 +186,4 @@
 200686380,AI Software Engineer, Apple Cloud AI Platform,https://jobs.apple.com/en-us/details/200686380/ai-software-engineer-apple-cloud-ai-platform,Seattle,2026-10-01T17:02:41.138Z,2026-10-01 17:12:28
 200686659,Software Engineer: Linux Driver and Kernel Developer,https://jobs.apple.com/en-us/details/200686659/software-engineer-linux-driver-and-kernel-developer,Cupertino,2026-10-01T19:34:20.644Z,2026-10-01 19:39:12
 200686863,Backend Software Engineer (Golang),https://jobs.apple.com/en-us/details/200686863/backend-software-engineer-golang,San Diego,2026-10-01T20:32:28.609Z,2026-10-01 21:12:28
+200685812,Core OS Software Engineer - USB4/Thunderbolt,https://jobs.apple.com/en-us/details/200685812/core-os-software-engineer-usb4-thunderbolt,Cupertino,2026-10-01T21:15:50.912Z,2026-10-01 21:41:04
