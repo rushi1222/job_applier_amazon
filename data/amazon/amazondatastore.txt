@@ -1116,3 +1116,6 @@ Sparks, NV, USA
 10567367,Software Dev Engineer - AWS Identity Access Management, AWS IAM Propagation,https://www.amazon.jobs/en/jobs/10567367/software-dev-engineer-aws-identity-access-management-aws-iam-propagation,Seattle, WA, USA,Posted October 1, 2026,2026-10-01 21:11:15
 10567385,Software Development Engineer, AWS Access Analyzer,https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer,Santa Clara, CA, USA,Posted October 1, 2026,2026-10-01 21:11:15
 10567500,Bus Intel Eng II AMZ1242164, Reputation Marketing & Insights,https://www.amazon.jobs/en/jobs/10567500/bus-intel-eng-ii-amz1242164-reputation-marketing-insights,Arlington, VA, USA,Posted October 1, 2026,2026-10-01 22:38:26
+10568135,Principal Physical Security Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10568135/principal-physical-security-engineer-data-center-design-engineering,Austin, TX, USA
+Herndon, VA, USA
+Seattle, WA, USA,Posted October 2, 2026,2026-10-02 18:43:11
