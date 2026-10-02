@@ -199,3 +199,5 @@
 200686940,Senior Software Engineer - Compute,https://jobs.apple.com/en-us/details/200686940/senior-software-engineer-compute,Seattle,2026-10-02T15:53:07.715Z,2026-10-02 16:14:02
 200680764,Senior Software Engineer - Platform Apps & Technologies,https://jobs.apple.com/en-us/details/200680764/senior-software-engineer-platform-apps-technologies,Cupertino,2026-10-02T18:44:21.738Z,2026-10-02 18:44:24
 200654947,AIML - Sr Software Engineer in Test, Evaluation,https://jobs.apple.com/en-us/details/200654947/aiml-sr-software-engineer-in-test-evaluation,Seattle,2026-10-02T18:18:51.429Z,2026-10-02 18:44:24
+200687049,Software Engineer, Applied ML Connected Experiences, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200687049/software-engineer-applied-ml-connected-experiences-sensing-connectivity,San Diego,2026-10-02T19:34:31.349Z,2026-10-02 19:39:48
+200686995,Senior Software Engineer ,https://jobs.apple.com/en-us/details/200686995/senior-software-engineer,Cupertino,2026-10-02T19:34:03.310Z,2026-10-02 19:39:48
