@@ -193,3 +193,4 @@
 200686891,AIML - Sr Software Engineer - AI, Evaluation,https://jobs.apple.com/en-us/details/200686891/aiml-sr-software-engineer-ai-evaluation,Cupertino,2026-10-01T23:01:04.373Z,2026-10-01 23:11:44
 200686874,AI Software Engineer, App Intelligence,https://jobs.apple.com/en-us/details/200686874/ai-software-engineer-app-intelligence,Cupertino,2026-10-01T22:58:42.627Z,2026-10-01 23:11:44
 200686889,Staff/Sr. Software Engineer, Performance Testing Platform,https://jobs.apple.com/en-us/details/200686889/staff-sr-software-engineer-performance-testing-platform,Santa Clara,2026-10-01T22:42:03.076Z,2026-10-01 23:11:44
+200686880,Software Engineer: Linux Driver and Kernel Developer,https://jobs.apple.com/en-us/details/200686880/software-engineer-linux-driver-and-kernel-developer,San Diego,2026-10-02T01:16:46.419Z,2026-10-02 01:29:52
