@@ -204,3 +204,4 @@
 200687064,Software Engineer: Linux Driver and Kernel Developer,https://jobs.apple.com/en-us/details/200687064/software-engineer-linux-driver-and-kernel-developer,Cupertino,2026-10-02T19:51:18.138Z,2026-10-02 20:13:14
 200687072,Senior Systems Engineer, Watch Software,https://jobs.apple.com/en-us/details/200687072/senior-systems-engineer-watch-software,Cupertino,2026-10-02T20:32:01.370Z,2026-10-02 20:41:16
 200687074,Software Engineer, Satellite Operations,https://jobs.apple.com/en-us/details/200687074/software-engineer-satellite-operations,San Diego,2026-10-02T20:56:43.777Z,2026-10-02 21:12:21
+200687061,Software Engineer - Data Platform ,https://jobs.apple.com/en-us/details/200687061/software-engineer-data-platform,Cupertino,2026-10-02T21:37:48.756Z,2026-10-02 21:40:07
