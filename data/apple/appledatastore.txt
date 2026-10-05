@@ -210,3 +210,7 @@
 200686852,Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200686852/software-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-05T17:36:25.676Z,2026-10-05 17:41:29
 200687151,Core OS Software Engineer - USB4/Thunderbolt,https://jobs.apple.com/en-us/details/200687151/core-os-software-engineer-usb4-thunderbolt,Cupertino,2026-10-05T18:05:23.962Z,2026-10-05 18:17:05
 200687104,iOS Telephony Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687104/ios-telephony-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-05T17:59:13.131Z,2026-10-05 18:17:05
+200671236,Sr Software Engineer, GenAI Platform & Practice,https://jobs.apple.com/en-us/details/200671236/sr-software-engineer-genai-platform-practice,Cupertino,2026-10-05T20:43:33.856Z,2026-10-05 20:47:54
+200687219,Wi-Fi Software Engineering Manager, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687219/wi-fi-software-engineering-manager-wireless-technologies-ecosystems,Cupertino,2026-10-05T19:37:29.019Z,2026-10-05 20:47:54
+200686912,Software Development Engineer in Test - Platform System Validation,https://jobs.apple.com/en-us/details/200686912/software-development-engineer-in-test-platform-system-validation,San Diego,2026-10-05T19:31:32.976Z,2026-10-05 20:47:54
+200687310,Software Engineer - System Scheduling Performance,https://jobs.apple.com/en-us/details/200687310/software-engineer-system-scheduling-performance,San Diego,2026-10-05T19:31:29.087Z,2026-10-05 20:47:54
