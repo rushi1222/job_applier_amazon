@@ -1120,3 +1120,7 @@ Sparks, NV, USA
 Herndon, VA, USA
 Seattle, WA, USA,Posted October 2, 2026,2026-10-02 18:43:11
 10567535,Software Development Manager,VIRSAT, KMM, Leo,https://www.amazon.jobs/en/jobs/10567535/software-development-manager-virsat-kmm-leo,Redmond, WA, USA,Posted October 2, 2026,2026-10-02 21:11:07
+10568759,Delivery Consultant - Data, AWS Professional Services,https://www.amazon.jobs/en/jobs/10568759/delivery-consultant-data-aws-professional-services,Arlington, VA, USA
+Atlanta, GA, USA
+Austin, TX, USA
++4 other locations,Posted October 5, 2026,2026-10-05 13:18:47
