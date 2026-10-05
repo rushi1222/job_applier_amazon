@@ -1125,3 +1125,17 @@ Atlanta, GA, USA
 Austin, TX, USA
 +4 other locations,Posted October 5, 2026,2026-10-05 13:18:47
 10568813,Project Engineer, DCCD, DCCD,https://www.amazon.jobs/en/jobs/10568813/project-engineer-dccd-dccd,Manassas, VA, USA,Posted October 5, 2026,2026-10-05 14:15:40
+10569592,Software Dev Engineer III - AMZ10430678,https://www.amazon.jobs/en/jobs/10569592/software-dev-engineer-iii-amz10430678,Seattle, WA, USA,Posted October 5, 2026,2026-10-05 19:12:08
+10569590,Network Dev Engineer II - AMZ9971279,https://www.amazon.jobs/en/jobs/10569590/network-dev-engineer-ii-amz9971279,Seattle, WA, USA,Posted October 5, 2026,2026-10-05 19:12:08
+10569597,Sr. Mechanical Product Engineer, Data Center Eng, MPS,https://www.amazon.jobs/en/jobs/10569597/sr-mechanical-product-engineer-data-center-eng-mps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted October 5, 2026,2026-10-05 19:12:08
+10569548,Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10569548/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted October 5, 2026,2026-10-05 19:12:08
+10569598,Senior Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10569598/senior-product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted October 5, 2026,2026-10-05 19:12:08
