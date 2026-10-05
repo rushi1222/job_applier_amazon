@@ -208,3 +208,5 @@
 200686866,Core Audio Software Engineer, Audio & Media Technologies,https://jobs.apple.com/en-us/details/200686866/core-audio-software-engineer-audio-media-technologies,Cupertino,2026-10-02T23:51:05.481Z,2026-10-03 00:31:51
 200686152,Director, Software Test Engineering & Quality Assurance,https://jobs.apple.com/en-us/details/200686152/director-software-test-engineering-quality-assurance,Sunnyvale,2026-10-03T17:19:04.171Z,2026-10-03 17:48:31
 200686852,Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200686852/software-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-05T17:36:25.676Z,2026-10-05 17:41:29
+200687151,Core OS Software Engineer - USB4/Thunderbolt,https://jobs.apple.com/en-us/details/200687151/core-os-software-engineer-usb4-thunderbolt,Cupertino,2026-10-05T18:05:23.962Z,2026-10-05 18:17:05
+200687104,iOS Telephony Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687104/ios-telephony-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-05T17:59:13.131Z,2026-10-05 18:17:05
