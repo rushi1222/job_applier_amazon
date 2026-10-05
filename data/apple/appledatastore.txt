@@ -214,3 +214,4 @@
 200687219,Wi-Fi Software Engineering Manager, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687219/wi-fi-software-engineering-manager-wireless-technologies-ecosystems,Cupertino,2026-10-05T19:37:29.019Z,2026-10-05 20:47:54
 200686912,Software Development Engineer in Test - Platform System Validation,https://jobs.apple.com/en-us/details/200686912/software-development-engineer-in-test-platform-system-validation,San Diego,2026-10-05T19:31:32.976Z,2026-10-05 20:47:54
 200687310,Software Engineer - System Scheduling Performance,https://jobs.apple.com/en-us/details/200687310/software-engineer-system-scheduling-performance,San Diego,2026-10-05T19:31:29.087Z,2026-10-05 20:47:54
+200687353,Software Engineer, Apple Intelligence Model Platform,https://jobs.apple.com/en-us/details/200687353/software-engineer-apple-intelligence-model-platform,Cupertino,2026-10-05T22:55:32.048Z,2026-10-05 23:12:28
