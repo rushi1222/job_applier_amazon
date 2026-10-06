@@ -1140,3 +1140,4 @@ Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted October 5, 2026,2026-10-05 19:12:08
 10569700,Sr. Manager, Data and Insights, US Prime & Marketing Technology,https://www.amazon.jobs/en/jobs/10569700/sr-manager-data-and-insights-us-prime-marketing-technology,Seattle, WA, USA,Posted October 5, 2026,2026-10-05 20:46:41
+10569925,Software Development Manager, Flight Software, Amazon Leo, Amazon Leo - Avionics End Point and FDIR,https://www.amazon.jobs/en/jobs/10569925/software-development-manager-flight-software-amazon-leo-amazon-leo-avionics-end-point-and-fdir,Redmond, WA, USA,Posted October 5, 2026,2026-10-06 00:33:27
