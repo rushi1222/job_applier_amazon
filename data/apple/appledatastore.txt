@@ -225,3 +225,4 @@
 200686911,Sr Software Architect Perception Systems,https://jobs.apple.com/en-us/details/200686911/sr-software-architect-perception-systems,Cupertino,2026-10-06T19:46:48.452Z,2026-10-06 20:14:27
 200687573,AI Software Engineer, App Intelligence,https://jobs.apple.com/en-us/details/200687573/ai-software-engineer-app-intelligence,Cupertino,2026-10-06T22:27:37.060Z,2026-10-06 22:40:24
 200687470,Sr Software Engineer (Java) - Business Process Reengineering (BPR) and Sales Engineering,https://jobs.apple.com/en-us/details/200687470/sr-software-engineer-java-business-process-reengineering-bpr-and-sales-engineering,Cupertino,2026-10-06T22:24:55.618Z,2026-10-06 22:40:24
+200685980,Senior Software Engineer, Apple Services Engineering - Music Data Engineering,https://jobs.apple.com/en-us/details/200685980/senior-software-engineer-apple-services-engineering-music-data-engineering,New York City,2026-10-06T22:43:46.806Z,2026-10-06 23:12:45
