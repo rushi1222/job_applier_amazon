@@ -228,3 +228,4 @@
 200685980,Senior Software Engineer, Apple Services Engineering - Music Data Engineering,https://jobs.apple.com/en-us/details/200685980/senior-software-engineer-apple-services-engineering-music-data-engineering,New York City,2026-10-06T22:43:46.806Z,2026-10-06 23:12:45
 200686823,Software Engineer, Observability,https://jobs.apple.com/en-us/details/200686823/software-engineer-observability,Cupertino,2026-10-06T23:57:34.410Z,2026-10-07 00:35:54
 200687375,Software Engineer, Siri User Experiences,https://jobs.apple.com/en-us/details/200687375/software-engineer-siri-user-experiences,Cupertino,2026-10-07T03:55:06.477Z,2026-10-07 04:16:21
+200687597,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200687597/systems-software-engineer-platform-architecture,Cupertino,2026-10-07T15:34:54.326Z,2026-10-07 15:47:16
