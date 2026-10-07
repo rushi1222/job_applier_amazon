@@ -235,3 +235,6 @@
 200687255,Senior Software Engineer, Ads,https://jobs.apple.com/en-us/details/200687255/senior-software-engineer-ads,Cupertino,2026-10-07T20:04:19.405Z,2026-10-07 20:14:45
 200687715,Senior Software Engineer, ASE Data Platform,https://jobs.apple.com/en-us/details/200687715/senior-software-engineer-ase-data-platform,Seattle,2026-10-07T20:16:05.738Z,2026-10-07 20:41:22
 200687581,Cellular Software Architect/Developer - Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687581/cellular-software-architect-developer-wireless-technologies-ecosystems,Sunnyvale,2026-10-07T21:00:11.334Z,2026-10-07 21:12:31
+200687790,Screening & Integration Engineer, Watch Software, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200687790/screening-integration-engineer-watch-software-sensing-connectivity,Cupertino,2026-10-07T21:36:02.519Z,2026-10-07 21:41:25
+200687777,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200687777/senior-systems-engineer-watch-software,Boulder,2026-10-07T21:34:57.048Z,2026-10-07 21:41:25
+200687773,Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687773/software-engineer-wireless-technologies-ecosystems,Sunnyvale,2026-10-07T21:33:49.739Z,2026-10-07 21:41:25
