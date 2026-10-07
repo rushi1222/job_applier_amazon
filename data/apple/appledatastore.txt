@@ -229,3 +229,5 @@
 200686823,Software Engineer, Observability,https://jobs.apple.com/en-us/details/200686823/software-engineer-observability,Cupertino,2026-10-06T23:57:34.410Z,2026-10-07 00:35:54
 200687375,Software Engineer, Siri User Experiences,https://jobs.apple.com/en-us/details/200687375/software-engineer-siri-user-experiences,Cupertino,2026-10-07T03:55:06.477Z,2026-10-07 04:16:21
 200687597,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200687597/systems-software-engineer-platform-architecture,Cupertino,2026-10-07T15:34:54.326Z,2026-10-07 15:47:16
+200686820,Senior Software Support Engineer, Retail & Marcom Engineering (R&ME),https://jobs.apple.com/en-us/details/200686820/senior-software-support-engineer-retail-marcom-engineering-r-me,Austin,2026-10-07T16:30:43.147Z,2026-10-07 16:44:09
+200686808,Software Application Support Engineer, Retail & Marcom Engineering (R&ME),https://jobs.apple.com/en-us/details/200686808/software-application-support-engineer-retail-marcom-engineering-r-me,Sunnyvale,2026-10-07T16:29:57.818Z,2026-10-07 16:44:09
