@@ -234,3 +234,4 @@
 200687780,Software Tools and Automation Engineer - Apple Services Engineering,https://jobs.apple.com/en-us/details/200687780/software-tools-and-automation-engineer-apple-services-engineering,Seattle,2026-10-07T20:13:45.209Z,2026-10-07 20:14:45
 200687255,Senior Software Engineer, Ads,https://jobs.apple.com/en-us/details/200687255/senior-software-engineer-ads,Cupertino,2026-10-07T20:04:19.405Z,2026-10-07 20:14:45
 200687715,Senior Software Engineer, ASE Data Platform,https://jobs.apple.com/en-us/details/200687715/senior-software-engineer-ase-data-platform,Seattle,2026-10-07T20:16:05.738Z,2026-10-07 20:41:22
+200687581,Cellular Software Architect/Developer - Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687581/cellular-software-architect-developer-wireless-technologies-ecosystems,Sunnyvale,2026-10-07T21:00:11.334Z,2026-10-07 21:12:31
