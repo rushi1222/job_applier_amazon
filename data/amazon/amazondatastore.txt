@@ -1179,3 +1179,4 @@ Columbus, OH, USA
 +2 other locations,Posted October 6, 2026,2026-10-06 18:44:59
 10571041,ICT Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10571041/ict-design-engineer-data-center-design-engineering,Herndon, VA, USA
 Seattle, WA, USA,Posted October 6, 2026,2026-10-06 19:38:32
+10573518,Software Development Engineer, Developer Experience,https://www.amazon.jobs/en/jobs/10573518/software-development-engineer-developer-experience,New York, NY, USA,Posted October 8, 2026,2026-10-08 16:43:54
