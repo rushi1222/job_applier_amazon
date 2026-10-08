@@ -239,3 +239,4 @@
 200687777,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200687777/senior-systems-engineer-watch-software,Boulder,2026-10-07T21:34:57.048Z,2026-10-07 21:41:25
 200687773,Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687773/software-engineer-wireless-technologies-ecosystems,Sunnyvale,2026-10-07T21:33:49.739Z,2026-10-07 21:41:25
 200687837,Camera Embedded Software Engineer,https://jobs.apple.com/en-us/details/200687837/camera-embedded-software-engineer,Sunnyvale,2026-10-07T22:57:58.523Z,2026-10-07 23:11:52
+200687779,Software Integrity Engineer, Test Engineering & Engineering Efficiency,https://jobs.apple.com/en-us/details/200687779/software-integrity-engineer-test-engineering-engineering-efficiency,San Diego,2026-10-08T00:10:56.392Z,2026-10-08 00:34:12
