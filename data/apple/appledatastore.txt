@@ -243,3 +243,4 @@
 200687367,Sr. Software Engineer (Data Solutions), IS&T Ai & Data Platforms,https://jobs.apple.com/en-us/details/200687367/sr-software-engineer-data-solutions-is-t-ai-data-platforms,Austin,2026-10-08T03:02:54.529Z,2026-10-08 03:18:46
 200687840,Software Performance Engineer for Memory, CoreOS,https://jobs.apple.com/en-us/details/200687840/software-performance-engineer-for-memory-coreos,Cupertino,2026-10-08T16:44:13.730Z,2026-10-08 16:45:07
 200686844,Telephony Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200686844/telephony-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-08T17:19:36.600Z,2026-10-08 17:41:30
+200685479,SDET(Fitness) - Watch Software,https://jobs.apple.com/en-us/details/200685479/sdet-fitness-watch-software,Cupertino,2026-10-08T19:04:18.881Z,2026-10-08 19:12:18
