@@ -1184,3 +1184,4 @@ Seattle, WA, USA,Posted October 6, 2026,2026-10-06 19:38:32
 10573926,Software Development Manager, Agentic AI, Velocity Labs,https://www.amazon.jobs/en/jobs/10573926/software-development-manager-agentic-ai-velocity-labs,Seattle, WA, USA,Posted October 8, 2026,2026-10-08 19:40:07
 10574033,Senior Manager, Data Engineering, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10574033/senior-manager-data-engineering-aws-analytics-engineering,Seattle, WA, USA,Posted October 8, 2026,2026-10-08 21:11:43
 10574104,Software Development Manager , AWS DynamoDB,https://www.amazon.jobs/en/jobs/10574104/software-development-manager-aws-dynamodb,Seattle, WA, USA,Posted October 8, 2026,2026-10-08 22:12:02
+10574175,Software Development Manager, Amazon MQ,https://www.amazon.jobs/en/jobs/10574175/software-development-manager-amazon-mq,Seattle, WA, USA,Posted October 8, 2026,2026-10-08 23:11:14
