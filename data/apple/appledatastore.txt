@@ -248,3 +248,6 @@
 200683887,Backend Software Engineer - Apple TV Catalog,https://jobs.apple.com/en-us/details/200683887/backend-software-engineer-apple-tv-catalog,Cupertino,2026-10-08T23:39:49.358Z,2026-10-08 23:40:58
 200688072,Senior Software Engineer, Apple Card & Savings,https://jobs.apple.com/en-us/details/200688072/senior-software-engineer-apple-card-savings,Cary,2026-10-08T23:37:48.488Z,2026-10-08 23:40:58
 200688079,Software Engineering Technical Lead, Apple Card & Savings,https://jobs.apple.com/en-us/details/200688079/software-engineering-technical-lead-apple-card-savings,Cary,2026-10-08T23:37:29.565Z,2026-10-08 23:40:58
+200687601,ISE, System Experience - Senior Software Engineer, macOS System Experience,https://jobs.apple.com/en-us/details/200687601/ise-system-experience-senior-software-engineer-macos-system-experience,Aumsville,2026-10-09T17:38:10.194Z,2026-10-09 17:40:37
+200671616,UI and iOS Platform Software Engineer, Safari,https://jobs.apple.com/en-us/details/200671616/ui-and-ios-platform-software-engineer-safari,Cupertino,2026-10-09T17:35:52.872Z,2026-10-09 17:40:37
+200688065,Software Developer Engineer in Test Manager, Creativity Apps,https://jobs.apple.com/en-us/details/200688065/software-developer-engineer-in-test-manager-creativity-apps,Cupertino,2026-10-09T17:14:26.953Z,2026-10-09 17:40:37
