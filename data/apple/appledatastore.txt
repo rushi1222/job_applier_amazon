@@ -254,3 +254,4 @@
 200687998,Staff Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200687998/staff-software-engineer-apple-ads,Austin,2026-10-09T18:19:22.882Z,2026-10-09 18:45:38
 200688175,Software Engineering Manager - Apple Security Identity,https://jobs.apple.com/en-us/details/200688175/software-engineering-manager-apple-security-identity,Seattle,2026-10-09T19:31:04.643Z,2026-10-09 19:40:39
 200687534,Sr. Software Engineer (Java Middleware), eBusiness,https://jobs.apple.com/en-us/details/200687534/sr-software-engineer-java-middleware-ebusiness,Sunnyvale,2026-10-09T21:35:15.132Z,2026-10-09 21:41:30
+200688303,Graphics Software Engineer,https://jobs.apple.com/en-us/details/200688303/graphics-software-engineer,Austin,2026-10-09T22:15:23.625Z,2026-10-09 22:41:30
