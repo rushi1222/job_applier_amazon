@@ -251,3 +251,4 @@
 200687601,ISE, System Experience - Senior Software Engineer, macOS System Experience,https://jobs.apple.com/en-us/details/200687601/ise-system-experience-senior-software-engineer-macos-system-experience,Aumsville,2026-10-09T17:38:10.194Z,2026-10-09 17:40:37
 200671616,UI and iOS Platform Software Engineer, Safari,https://jobs.apple.com/en-us/details/200671616/ui-and-ios-platform-software-engineer-safari,Cupertino,2026-10-09T17:35:52.872Z,2026-10-09 17:40:37
 200688065,Software Developer Engineer in Test Manager, Creativity Apps,https://jobs.apple.com/en-us/details/200688065/software-developer-engineer-in-test-manager-creativity-apps,Cupertino,2026-10-09T17:14:26.953Z,2026-10-09 17:40:37
+200687998,Staff Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200687998/staff-software-engineer-apple-ads,Austin,2026-10-09T18:19:22.882Z,2026-10-09 18:45:38
