@@ -1192,3 +1192,4 @@ Sunnyvale, CA, USA,Posted October 9, 2026,2026-10-09 14:44:14
 10574813,Software Dev Engineer III - AMZ10564147,https://www.amazon.jobs/en/jobs/10574813/software-dev-engineer-iii-amz10564147,Seattle, WA, USA,Posted October 9, 2026,2026-10-09 15:40:58
 10574860,Software Engineering Manager, AWS Commercial Applications, Amazon Elastic VMware Service (EVS),https://www.amazon.jobs/en/jobs/10574860/software-engineering-manager-aws-commercial-applications-amazon-elastic-vmware-service-evs,Seattle, WA, USA,Posted October 9, 2026,2026-10-09 16:12:48
 10574842,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10574842/data-center-chief-engineer,Jeffersonville, OH, USA,Posted October 9, 2026,2026-10-09 16:12:48
+10574880,Software Development Engineer, Neuron Developer Experiences Team,https://www.amazon.jobs/en/jobs/10574880/software-development-engineer-neuron-developer-experiences-team,Seattle, WA, USA,Posted October 9, 2026,2026-10-09 16:41:43
