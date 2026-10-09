@@ -1195,3 +1195,4 @@ Sunnyvale, CA, USA,Posted October 9, 2026,2026-10-09 14:44:14
 10574880,Software Development Engineer, Neuron Developer Experiences Team,https://www.amazon.jobs/en/jobs/10574880/software-development-engineer-neuron-developer-experiences-team,Seattle, WA, USA,Posted October 9, 2026,2026-10-09 16:41:43
 10574968,Data Engineer, Accounting,https://www.amazon.jobs/en/jobs/10574968/data-engineer-accounting,Arlington, VA, USA,Posted October 9, 2026,2026-10-09 17:39:22
 10575079,Project Engineer, Data Center Construction,https://www.amazon.jobs/en/jobs/10575079/project-engineer-data-center-construction,Boardman, OR, USA,Posted October 9, 2026,2026-10-09 18:44:23
+10575179,Software Engineering Manager, Amazon Elastic VMware Service (EVS),https://www.amazon.jobs/en/jobs/10575179/software-engineering-manager-amazon-elastic-vmware-service-evs,Jersey City, NJ, USA,Posted October 9, 2026,2026-10-09 20:41:34
