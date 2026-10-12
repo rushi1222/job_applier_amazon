@@ -259,3 +259,4 @@
 200688300,Senior Software Engineer, Security Enablement Team ASE,https://jobs.apple.com/en-us/details/200688300/senior-software-engineer-security-enablement-team-ase,Seattle,2026-10-12T16:40:26.510Z,2026-10-12 16:42:25
 200688167,Senior Software Engineer, Apple Data Platform,https://jobs.apple.com/en-us/details/200688167/senior-software-engineer-apple-data-platform,Cupertino,2026-10-12T16:39:48.828Z,2026-10-12 16:42:25
 200645577,Sr. Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200645577/sr-software-engineer-enterprise-technology-services,Sunnyvale,2026-10-12T16:26:32.695Z,2026-10-12 16:42:25
+200686881,Software Development Engineer in Test (SDET) — Enterprise Technology Services,https://jobs.apple.com/en-us/details/200686881/software-development-engineer-in-test-sdet-enterprise-technology-services,Austin,2026-10-12T18:20:31.625Z,2026-10-12 18:47:57
