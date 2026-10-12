@@ -268,3 +268,4 @@
 200687637,Software Engineer, Computer Use & Automation,https://jobs.apple.com/en-us/details/200687637/software-engineer-computer-use-automation,Cupertino,2026-10-12T22:05:44.556Z,2026-10-12 22:12:56
 200647370,Senior Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200647370/senior-software-engineer-enterprise-technology-services,Austin,2026-10-12T21:52:33.569Z,2026-10-12 22:12:56
 200688625,OS Software Engineer, Evaluation,https://jobs.apple.com/en-us/details/200688625/os-software-engineer-evaluation,Cupertino,2026-10-12T22:23:14.634Z,2026-10-12 22:41:46
+200688604,Senior Software Engineer, Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200688604/senior-software-engineer-retail-marcom-engineering,Sunnyvale,2026-10-12T23:11:52.719Z,2026-10-12 23:12:47
