@@ -8682,3 +8682,4 @@
 142497183218705094,Senior Software Engineer,https://www.google.com/about/careers/applications/jobs/results/142497183218705094-senior-software-engineer?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-10-12 16:14:23
 82161757522404038,Analytics Engineer,https://www.google.com/about/careers/applications/jobs/results/82161757522404038-analytics-engineer?q=Data%20Engineer&location=USA&sort_by=date,N/A,None,2026-10-12 16:14:23
 127197753796108998,Customer Solutions Engineer,https://www.google.com/about/careers/applications/jobs/results/127197753796108998-customer-solutions-engineer?q=Data%20Engineer&location=USA&sort_by=date,N/A,None,2026-10-12 16:14:23
+107940907147240134,Software Engineer Security Silicon,https://www.google.com/about/careers/applications/jobs/results/107940907147240134-software-engineer-security-silicon?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-10-12 16:42:23
