@@ -1215,3 +1215,4 @@ Austin, TX, USA
 Seattle, WA, USA,Posted October 13, 2026,2026-10-13 17:11:31
 10577327,Software Development Engineer , FinTech Entity Data Service,https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service,Bellevue, WA, USA,Posted October 13, 2026,2026-10-13 17:40:41
 10577490,Data Engineer II - AMZ10595704,https://www.amazon.jobs/en/jobs/10577490/data-engineer-ii-amz10595704,Denver, CO, USA,Posted October 13, 2026,2026-10-13 18:16:58
+10577562,Data Engineer (L5) – AWS GND, PAX Data and Analytcis,https://www.amazon.jobs/en/jobs/10577562/data-engineer-l5-aws-gnd-pax-data-and-analytcis,Seattle, WA, USA,Posted October 13, 2026,2026-10-13 18:45:41
