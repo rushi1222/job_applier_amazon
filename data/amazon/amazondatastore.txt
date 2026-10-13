@@ -1203,3 +1203,8 @@ Sunnyvale, CA, USA,Posted October 9, 2026,2026-10-09 14:44:14
 Bellevue, WA, USA
 East Palo Alto, CA, USA
 +5 other locations,Posted October 13, 2026,2026-10-13 15:12:59
+10577074,Manager III, Software Dev - AMZ10119640,https://www.amazon.jobs/en/jobs/10577074/manager-iii-software-dev-amz10119640,Atlanta, GA, USA,Posted October 13, 2026,2026-10-13 16:13:58
+10577151,Mechanical Product Design Engineer , Data Center Engineering, Mechanical Products & Services,https://www.amazon.jobs/en/jobs/10577151/mechanical-product-design-engineer-data-center-engineering-mechanical-products-services,Atlanta, GA, USA
+Austin, TX, USA
+COLUMBUS, OH, USA
++2 other locations,Posted October 13, 2026,2026-10-13 16:13:58
