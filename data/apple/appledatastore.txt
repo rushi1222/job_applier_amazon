@@ -272,3 +272,5 @@
 200687942,Software Engineer (Full Stack), AiDP Solutions  - Sales ,https://jobs.apple.com/en-us/details/200687942/software-engineer-full-stack-aidp-solutions-sales,San Francisco Bay Area,2026-10-12T23:14:28.172Z,2026-10-12 23:41:16
 200687935,Software Engineer (Framework Solutions), AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200687935/software-engineer-framework-solutions-ai-data-platforms-aidp,San Francisco Bay Area,2026-10-12T23:13:04.408Z,2026-10-12 23:41:16
 200688785,Software Development Engineer in Test - Kernel Quality Engineering, Core OS ,https://jobs.apple.com/en-us/details/200688785/software-development-engineer-in-test-kernel-quality-engineering-core-os,Cupertino,2026-10-13T16:52:48.225Z,2026-10-13 17:12:44
+200688295,Camera Embedded Software Engineer,https://jobs.apple.com/en-us/details/200688295/camera-embedded-software-engineer,Cupertino,2026-10-13T18:01:08.344Z,2026-10-13 18:18:11
+200688638,Software Development Engineer - Test,https://jobs.apple.com/en-us/details/200688638/software-development-engineer-test,Sunnyvale,2026-10-13T17:47:08.062Z,2026-10-13 18:18:11
