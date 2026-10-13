@@ -1199,3 +1199,7 @@ Sunnyvale, CA, USA,Posted October 9, 2026,2026-10-09 14:44:14
 10575902,Commissioning Engineer, AMER-Central ACx,https://www.amazon.jobs/en/jobs/10575902/commissioning-engineer-amer-central-acx,New Albany, OH, USA,Posted October 12, 2026,2026-10-12 16:13:11
 10575901,Commissioning Engineer, AMER-Central ACx,https://www.amazon.jobs/en/jobs/10575901/commissioning-engineer-amer-central-acx,New Florence, MO, USA,Posted October 12, 2026,2026-10-12 16:13:11
 10576580,Senior Data Engineer, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10576580/senior-data-engineer-aws-analytics-engineering,Seattle, WA, USA,Posted October 13, 2026,2026-10-13 01:36:16
+10577071,Principal, Senior, Distinguished Engineer, AWS Foundational Data & Storage Services, AWS Foundational Data & Storage Services,https://www.amazon.jobs/en/jobs/10577071/principal-senior-distinguished-engineer-aws-foundational-data-storage-services-aws-foundational-data-storage-services,Arlington, VA, USA
+Bellevue, WA, USA
+East Palo Alto, CA, USA
++5 other locations,Posted October 13, 2026,2026-10-13 15:12:59
