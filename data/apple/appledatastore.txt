@@ -278,3 +278,4 @@
 200688648,Senior Software Engineer - Security,https://jobs.apple.com/en-us/details/200688648/senior-software-engineer-security,Seattle,2026-10-13T21:05:46.758Z,2026-10-13 21:11:04
 200688647,Senior Software Engineer - Host Access,https://jobs.apple.com/en-us/details/200688647/senior-software-engineer-host-access,Seattle,2026-10-13T21:05:44.690Z,2026-10-13 21:11:04
 200688858,Embedded Software Engineer - Biophotonics,https://jobs.apple.com/en-us/details/200688858/embedded-software-engineer-biophotonics,Cupertino,2026-10-13T21:03:57.980Z,2026-10-13 21:11:04
+200688860,Embedded Software Engineer - Biophotonics,https://jobs.apple.com/en-us/details/200688860/embedded-software-engineer-biophotonics,Cupertino,2026-10-13T21:22:32.620Z,2026-10-13 21:37:23

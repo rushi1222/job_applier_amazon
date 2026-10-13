@@ -1222,3 +1222,4 @@ Seattle, WA, USA,Posted October 13, 2026,2026-10-13 17:11:31
 Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted October 13, 2026,2026-10-13 21:09:51
+10577792,Chief Engineer,https://www.amazon.jobs/en/jobs/10577792/chief-engineer,Boardman, OR, USA,Posted October 13, 2026,2026-10-13 21:36:09
