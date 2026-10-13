@@ -1218,3 +1218,7 @@ Seattle, WA, USA,Posted October 13, 2026,2026-10-13 17:11:31
 10577562,Data Engineer (L5) – AWS GND, PAX Data and Analytcis,https://www.amazon.jobs/en/jobs/10577562/data-engineer-l5-aws-gnd-pax-data-and-analytcis,Seattle, WA, USA,Posted October 13, 2026,2026-10-13 18:45:41
 10577607,Software Development Engineer , Ads Data Manager,https://www.amazon.jobs/en/jobs/10577607/software-development-engineer-ads-data-manager,New York, NY, USA,Posted October 13, 2026,2026-10-13 19:09:22
 10577720,Analytics and Insights Lead, AWS SMGS Ops DP&I(DP&I),https://www.amazon.jobs/en/jobs/10577720/analytics-and-insights-lead-aws-smgs-ops-dp-i-dp-i,Seattle, WA, USA,Posted October 13, 2026,2026-10-13 20:40:30
+10577753,Sr. Mechanical Product Engineer, Data Center Eng, MPS,https://www.amazon.jobs/en/jobs/10577753/sr-mechanical-product-engineer-data-center-eng-mps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted October 13, 2026,2026-10-13 21:09:51
