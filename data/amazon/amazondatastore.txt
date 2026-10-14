@@ -1230,3 +1230,4 @@ Columbus, OH, USA
 10578707,Commissioning Engineer, AWS Commissioning, AMER-West,https://www.amazon.jobs/en/jobs/10578707/commissioning-engineer-aws-commissioning-amer-west,Dallas, TX, USA,Posted October 14, 2026,2026-10-14 16:12:56
 10578711,Commissioning Engineer, AWS Commissioning, AMER-West,https://www.amazon.jobs/en/jobs/10578711/commissioning-engineer-aws-commissioning-amer-west,Dallas, TX, USA,Posted October 14, 2026,2026-10-14 16:12:56
 10578713,Commissioning Engineer, AWS Commissioning, AMER-West,https://www.amazon.jobs/en/jobs/10578713/commissioning-engineer-aws-commissioning-amer-west,Dallas, TX, USA,Posted October 14, 2026,2026-10-14 16:12:56
+10579267,Software Dev Engineer III, AWS Billing,https://www.amazon.jobs/en/jobs/10579267/software-dev-engineer-iii-aws-billing,Seattle, WA, USA,Posted October 14, 2026,2026-10-14 21:37:23
