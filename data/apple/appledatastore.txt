@@ -282,3 +282,4 @@
 200688634,Software Engineer Manager, Apple Streaming Platform and Solutions,https://jobs.apple.com/en-us/details/200688634/software-engineer-manager-apple-streaming-platform-and-solutions,Seattle,2026-10-13T21:58:25.093Z,2026-10-13 22:10:56
 200677613,Senior Software Engineer Enterprise Technology Services ,https://jobs.apple.com/en-us/details/200677613/senior-software-engineer-enterprise-technology-services,Sunnyvale,2026-10-13T21:42:10.152Z,2026-10-13 22:10:56
 200677406,Senior Software Engineer, Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200677406/senior-software-engineer-retail-marcom-engineering,Cupertino,2026-10-14T09:15:28.519Z,2026-10-14 09:41:41
+200688902,Software Engineer, ,https://jobs.apple.com/en-us/details/200688902/software-engineer,New York City,2026-10-14T13:43:43.311Z,2026-10-14 14:13:06
