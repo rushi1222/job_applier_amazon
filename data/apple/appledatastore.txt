@@ -287,3 +287,7 @@
 200687817,Software Engineer - Systems Performance, CoreOS,https://jobs.apple.com/en-us/details/200687817/software-engineer-systems-performance-coreos,San Diego,2026-10-14T19:33:20.989Z,2026-10-14 19:39:09
 200687778,iOS Telephony Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200687778/ios-telephony-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-14T21:00:34.375Z,2026-10-14 21:11:40
 200672753,Software Engineer - Journal Team,https://jobs.apple.com/en-us/details/200672753/software-engineer-journal-team,San Diego,2026-10-14T20:46:37.333Z,2026-10-14 21:11:40
+200689325,Software Engineer, Apple Services Engineering, iCloud Platform,https://jobs.apple.com/en-us/details/200689325/software-engineer-apple-services-engineering-icloud-platform,Seattle,2026-10-14T22:59:34.135Z,2026-10-14 23:11:28
+200689308,Senior Software Engineer, Apple Services Engineering, iCloud Platform,https://jobs.apple.com/en-us/details/200689308/senior-software-engineer-apple-services-engineering-icloud-platform,Seattle,2026-10-14T22:59:18.014Z,2026-10-14 23:11:28
+200689259,iOS Software Engineer, Shortcuts Actions - Proactive,https://jobs.apple.com/en-us/details/200689259/ios-software-engineer-shortcuts-actions-proactive,Seattle,2026-10-14T22:51:17.451Z,2026-10-14 23:11:28
+200678772,Sr iOS Software Engineer, Creativity Apps,https://jobs.apple.com/en-us/details/200678772/sr-ios-software-engineer-creativity-apps,Vancouver,2026-10-14T22:41:45.369Z,2026-10-14 23:11:28
