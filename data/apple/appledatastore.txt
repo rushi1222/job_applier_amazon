@@ -291,3 +291,5 @@
 200689308,Senior Software Engineer, Apple Services Engineering, iCloud Platform,https://jobs.apple.com/en-us/details/200689308/senior-software-engineer-apple-services-engineering-icloud-platform,Seattle,2026-10-14T22:59:18.014Z,2026-10-14 23:11:28
 200689259,iOS Software Engineer, Shortcuts Actions - Proactive,https://jobs.apple.com/en-us/details/200689259/ios-software-engineer-shortcuts-actions-proactive,Seattle,2026-10-14T22:51:17.451Z,2026-10-14 23:11:28
 200678772,Sr iOS Software Engineer, Creativity Apps,https://jobs.apple.com/en-us/details/200678772/sr-ios-software-engineer-creativity-apps,Vancouver,2026-10-14T22:41:45.369Z,2026-10-14 23:11:28
+200689303,Senior Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689303/senior-software-engineer-apple-services-engineering,Seattle,2026-10-14T23:23:59.880Z,2026-10-14 23:36:06
+200689298,Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689298/software-engineer-apple-services-engineering,Seattle,2026-10-14T23:23:49.521Z,2026-10-14 23:36:06
