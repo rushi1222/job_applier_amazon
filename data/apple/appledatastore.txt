@@ -284,3 +284,4 @@
 200677406,Senior Software Engineer, Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200677406/senior-software-engineer-retail-marcom-engineering,Cupertino,2026-10-14T09:15:28.519Z,2026-10-14 09:41:41
 200688902,Software Engineer, ,https://jobs.apple.com/en-us/details/200688902/software-engineer,New York City,2026-10-14T13:43:43.311Z,2026-10-14 14:13:06
 200685330,Haptics Software Engineer,https://jobs.apple.com/en-us/details/200685330/haptics-software-engineer,Cupertino,2026-10-14T18:28:20.354Z,2026-10-14 18:45:31
+200687817,Software Engineer - Systems Performance, CoreOS,https://jobs.apple.com/en-us/details/200687817/software-engineer-systems-performance-coreos,San Diego,2026-10-14T19:33:20.989Z,2026-10-14 19:39:09
