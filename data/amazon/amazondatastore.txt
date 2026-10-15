@@ -1234,3 +1234,7 @@ Columbus, OH, USA
 10579375,Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence,https://www.amazon.jobs/en/jobs/10579375/senior-data-engineer-aws-infrastructure-supply-chain-intelligence,Austin, TX, USA
 Bellevue, WA, USA,Posted October 15, 2026,2026-10-15 00:28:00
 10579730,Data Engineer, Amazon Prime,https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime,Seattle, WA, USA,Posted October 15, 2026,2026-10-15 12:17:18
+10580060,Sr. Software Development Engineer, DC Console,https://www.amazon.jobs/en/jobs/10580060/sr-software-development-engineer-dc-console,Denver, CO, USA,Posted October 15, 2026,2026-10-15 17:10:11
+10580062,Software Development Engineer , DC Console/InfraMap,https://www.amazon.jobs/en/jobs/10580062/software-development-engineer-dc-console-inframap,Denver, CO, USA,Posted October 15, 2026,2026-10-15 17:10:11
+10580107,Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence,https://www.amazon.jobs/en/jobs/10580107/senior-data-engineer-aws-infrastructure-supply-chain-intelligence,Bellevue, WA, USA,Posted October 15, 2026,2026-10-15 17:10:11
+10580099,Software Development Engineer, AWS Network Data Management and Research,https://www.amazon.jobs/en/jobs/10580099/software-development-engineer-aws-network-data-management-and-research,Seattle, WA, USA,Posted October 15, 2026,2026-10-15 17:10:11
