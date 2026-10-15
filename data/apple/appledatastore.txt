@@ -295,3 +295,4 @@
 200689298,Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689298/software-engineer-apple-services-engineering,Seattle,2026-10-14T23:23:49.521Z,2026-10-14 23:36:06
 200689230,Senior Rendering Engine Software Engineer,https://jobs.apple.com/en-us/details/200689230/senior-rendering-engine-software-engineer,Cupertino,2026-10-15T00:27:49.684Z,2026-10-15 00:29:13
 200689260,Engineering Manager - Software Performance - Apple Maps,https://jobs.apple.com/en-us/details/200689260/engineering-manager-software-performance-apple-maps,Cupertino,2026-10-15T00:27:47.960Z,2026-10-15 00:29:13
+200689295,Software Engineer, WebKit Accessibility,https://jobs.apple.com/en-us/details/200689295/software-engineer-webkit-accessibility,Cupertino,2026-10-15T00:47:49.890Z,2026-10-15 01:07:03
