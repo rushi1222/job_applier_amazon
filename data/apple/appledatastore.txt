@@ -298,3 +298,5 @@
 200689295,Software Engineer, WebKit Accessibility,https://jobs.apple.com/en-us/details/200689295/software-engineer-webkit-accessibility,Cupertino,2026-10-15T00:47:49.890Z,2026-10-15 01:07:03
 200689351,Graphics Software Content Engineer,https://jobs.apple.com/en-us/details/200689351/graphics-software-content-engineer,Orlando,2026-10-15T16:03:35.092Z,2026-10-15 16:13:25
 200689345,Graphics Software Content Engineer,https://jobs.apple.com/en-us/details/200689345/graphics-software-content-engineer,Orlando,2026-10-15T16:01:54.030Z,2026-10-15 16:13:25
+200689338,Software QA Engineer, Fitness+ Team,https://jobs.apple.com/en-us/details/200689338/software-qa-engineer-fitness-team,Cupertino,2026-10-15T17:48:30.641Z,2026-10-15 18:15:27
+200689252,UX and UI Software Engineer — Observability,https://jobs.apple.com/en-us/details/200689252/ux-and-ui-software-engineer-observability,San Francisco,2026-10-15T17:48:14.821Z,2026-10-15 18:15:27
