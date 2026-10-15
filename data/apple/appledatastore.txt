@@ -293,3 +293,5 @@
 200678772,Sr iOS Software Engineer, Creativity Apps,https://jobs.apple.com/en-us/details/200678772/sr-ios-software-engineer-creativity-apps,Vancouver,2026-10-14T22:41:45.369Z,2026-10-14 23:11:28
 200689303,Senior Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689303/senior-software-engineer-apple-services-engineering,Seattle,2026-10-14T23:23:59.880Z,2026-10-14 23:36:06
 200689298,Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689298/software-engineer-apple-services-engineering,Seattle,2026-10-14T23:23:49.521Z,2026-10-14 23:36:06
+200689230,Senior Rendering Engine Software Engineer,https://jobs.apple.com/en-us/details/200689230/senior-rendering-engine-software-engineer,Cupertino,2026-10-15T00:27:49.684Z,2026-10-15 00:29:13
+200689260,Engineering Manager - Software Performance - Apple Maps,https://jobs.apple.com/en-us/details/200689260/engineering-manager-software-performance-apple-maps,Cupertino,2026-10-15T00:27:47.960Z,2026-10-15 00:29:13
