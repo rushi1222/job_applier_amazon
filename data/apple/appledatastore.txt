@@ -304,3 +304,4 @@
 200671928,Senior Compute Runtime Software Engineer,https://jobs.apple.com/en-us/details/200671928/senior-compute-runtime-software-engineer,Seattle,2026-10-15T18:25:23.282Z,2026-10-15 18:45:18
 200689576,Software Engineer, Watch Software, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200689576/software-engineer-watch-software-sensing-connectivity,Cupertino,2026-10-15T20:39:38.505Z,2026-10-15 20:40:08
 200595175,Software Engineer, Applied ML Connected Experiences, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200595175/software-engineer-applied-ml-connected-experiences-sensing-connectivity,San Diego,2026-10-15T20:32:25.205Z,2026-10-15 20:40:08
+200673176,Senior Software Engineer, Partner Onboarding - Apple Services Engineering,https://jobs.apple.com/en-us/details/200673176/senior-software-engineer-partner-onboarding-apple-services-engineering,Cupertino,2026-10-15T20:57:24.824Z,2026-10-15 21:12:51
