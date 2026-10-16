@@ -1251,3 +1251,5 @@ COLUMBUS, OH, USA
 10581756,Data engineer, Decision Intelligence Technology,https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology,Bellevue, WA, USA,Posted October 16, 2026,2026-10-16 20:39:20
 10581923,ICT Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10581923/ict-design-engineer-data-center-design-engineering,Herndon, VA, USA
 Seattle, WA, USA,Posted October 16, 2026,2026-10-16 23:09:25
+10581926,Associate Physical Security Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10581926/associate-physical-security-engineer-data-center-design-engineering,Herndon, VA, USA
+Seattle, WA, USA,Posted October 16, 2026,2026-10-16 23:34:58
