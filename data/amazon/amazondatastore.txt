@@ -1244,3 +1244,7 @@ Bellevue, WA, USA,Posted October 15, 2026,2026-10-15 00:28:00
 10580496,Project Engineer, CLT100,https://www.amazon.jobs/en/jobs/10580496/project-engineer-clt100,Hamlet, NC, USA,Posted October 15, 2026,2026-10-15 20:10:56
 10581562,Senior Software Engineer, Lambda Developer Experience,https://www.amazon.jobs/en/jobs/10581562/senior-software-engineer-lambda-developer-experience,Seattle, WA, USA,Posted October 16, 2026,2026-10-16 18:13:51
 10581607,Senior Product Development Engineer, Annapurna Labs Silicon Operations,https://www.amazon.jobs/en/jobs/10581607/senior-product-development-engineer-annapurna-labs-silicon-operations,Austin, TX, USA,Posted October 16, 2026,2026-10-16 18:42:08
+10581714,Product Lifecycle Mechanical Engineer, Data Center Mechanical Products & Services,https://www.amazon.jobs/en/jobs/10581714/product-lifecycle-mechanical-engineer-data-center-mechanical-products-services,Atlanta, GA, USA
+Austin, TX, USA
+COLUMBUS, OH, USA
++2 other locations,Posted October 16, 2026,2026-10-16 20:10:49
