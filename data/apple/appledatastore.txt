@@ -307,3 +307,4 @@
 200673176,Senior Software Engineer, Partner Onboarding - Apple Services Engineering,https://jobs.apple.com/en-us/details/200673176/senior-software-engineer-partner-onboarding-apple-services-engineering,Cupertino,2026-10-15T20:57:24.824Z,2026-10-15 21:12:51
 200689488,SoC Machine Learning Software Engineer,https://jobs.apple.com/en-us/details/200689488/soc-machine-learning-software-engineer,Sunnyvale,2026-10-15T23:02:01.919Z,2026-10-15 23:10:02
 200687576,Software Quality Engineer, Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200687576/software-quality-engineer-retail-marcom-engineering,Austin,2026-10-15T22:53:28.210Z,2026-10-15 23:10:02
+200689107,Senior Software Engineer - Fulfillment Ops,https://jobs.apple.com/en-us/details/200689107/senior-software-engineer-fulfillment-ops,Austin,2026-10-16T02:12:19.734Z,2026-10-16 02:17:01
