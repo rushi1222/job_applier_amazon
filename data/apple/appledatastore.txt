@@ -309,3 +309,4 @@
 200687576,Software Quality Engineer, Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200687576/software-quality-engineer-retail-marcom-engineering,Austin,2026-10-15T22:53:28.210Z,2026-10-15 23:10:02
 200689107,Senior Software Engineer - Fulfillment Ops,https://jobs.apple.com/en-us/details/200689107/senior-software-engineer-fulfillment-ops,Austin,2026-10-16T02:12:19.734Z,2026-10-16 02:17:01
 200689577,Software Data Engineer, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200689577/software-data-engineer-sensing-connectivity,Cupertino,2026-10-16T04:34:49.664Z,2026-10-16 04:42:55
+200688626,Software Engineer, Apple Streaming Platform and Solutions,https://jobs.apple.com/en-us/details/200688626/software-engineer-apple-streaming-platform-and-solutions,Seattle,2026-10-16T14:02:09.860Z,2026-10-16 14:13:20
