@@ -1242,3 +1242,4 @@ Bellevue, WA, USA,Posted October 15, 2026,2026-10-15 00:28:00
 10580357,Data Engineer II, AWS DC Global Network Delivery,https://www.amazon.jobs/en/jobs/10580357/data-engineer-ii-aws-dc-global-network-delivery,Seattle, WA, USA,Posted October 15, 2026,2026-10-15 18:44:05
 10580478,Data Center Chief Engineer, Data Center,https://www.amazon.jobs/en/jobs/10580478/data-center-chief-engineer-data-center,Covington, GA, USA,Posted October 15, 2026,2026-10-15 20:10:56
 10580496,Project Engineer, CLT100,https://www.amazon.jobs/en/jobs/10580496/project-engineer-clt100,Hamlet, NC, USA,Posted October 15, 2026,2026-10-15 20:10:56
+10581562,Senior Software Engineer, Lambda Developer Experience,https://www.amazon.jobs/en/jobs/10581562/senior-software-engineer-lambda-developer-experience,Seattle, WA, USA,Posted October 16, 2026,2026-10-16 18:13:51
