@@ -1248,3 +1248,4 @@ Bellevue, WA, USA,Posted October 15, 2026,2026-10-15 00:28:00
 Austin, TX, USA
 COLUMBUS, OH, USA
 +2 other locations,Posted October 16, 2026,2026-10-16 20:10:49
+10581756,Data engineer, Decision Intelligence Technology,https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology,Bellevue, WA, USA,Posted October 16, 2026,2026-10-16 20:39:20
