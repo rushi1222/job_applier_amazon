@@ -1253,3 +1253,7 @@ COLUMBUS, OH, USA
 Seattle, WA, USA,Posted October 16, 2026,2026-10-16 23:09:25
 10581926,Associate Physical Security Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10581926/associate-physical-security-engineer-data-center-design-engineering,Herndon, VA, USA
 Seattle, WA, USA,Posted October 16, 2026,2026-10-16 23:34:58
+10582038,Editor-in-Chief, AWS Blogs, AWS Cross Category Product Marketing,https://www.amazon.jobs/en/jobs/10582038/editor-in-chief-aws-blogs-aws-cross-category-product-marketing,Arlington, VA, USA
+Boston, MA, USA
+San Francisco, CA, USA
++2 other locations,Posted October 17, 2026,2026-10-17 01:05:57
