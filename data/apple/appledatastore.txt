@@ -310,3 +310,5 @@
 200689107,Senior Software Engineer - Fulfillment Ops,https://jobs.apple.com/en-us/details/200689107/senior-software-engineer-fulfillment-ops,Austin,2026-10-16T02:12:19.734Z,2026-10-16 02:17:01
 200689577,Software Data Engineer, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200689577/software-data-engineer-sensing-connectivity,Cupertino,2026-10-16T04:34:49.664Z,2026-10-16 04:42:55
 200688626,Software Engineer, Apple Streaming Platform and Solutions,https://jobs.apple.com/en-us/details/200688626/software-engineer-apple-streaming-platform-and-solutions,Seattle,2026-10-16T14:02:09.860Z,2026-10-16 14:13:20
+200689896,Software Engineer, Internal Tools - Media, Graphics & Compute Tech,https://jobs.apple.com/en-us/details/200689896/software-engineer-internal-tools-media-graphics-compute-tech,San Diego Metro Area,2026-10-16T23:50:54.794Z,2026-10-17 00:29:35
+200689630,Senior Security Software Engineer, Datacenter Infrastructure Security,https://jobs.apple.com/en-us/details/200689630/senior-security-software-engineer-datacenter-infrastructure-security,Austin,2026-10-16T23:49:07.998Z,2026-10-17 00:29:35
