@@ -312,3 +312,4 @@
 200688626,Software Engineer, Apple Streaming Platform and Solutions,https://jobs.apple.com/en-us/details/200688626/software-engineer-apple-streaming-platform-and-solutions,Seattle,2026-10-16T14:02:09.860Z,2026-10-16 14:13:20
 200689896,Software Engineer, Internal Tools - Media, Graphics & Compute Tech,https://jobs.apple.com/en-us/details/200689896/software-engineer-internal-tools-media-graphics-compute-tech,San Diego Metro Area,2026-10-16T23:50:54.794Z,2026-10-17 00:29:35
 200689630,Senior Security Software Engineer, Datacenter Infrastructure Security,https://jobs.apple.com/en-us/details/200689630/senior-security-software-engineer-datacenter-infrastructure-security,Austin,2026-10-16T23:49:07.998Z,2026-10-17 00:29:35
+200689551,Systems Software Engineer, Compute,https://jobs.apple.com/en-us/details/200689551/systems-software-engineer-compute,Cupertino,2026-10-19T17:04:02.755Z,2026-10-19 17:11:32
