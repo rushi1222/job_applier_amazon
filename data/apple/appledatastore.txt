@@ -316,3 +316,4 @@
 200689792,Senior/Staff Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689792/senior-staff-software-engineer-apple-services-engineering,Seattle,2026-10-19T18:12:45.176Z,2026-10-19 18:17:24
 200689875,UX and UI Software Engineer — Observability,https://jobs.apple.com/en-us/details/200689875/ux-and-ui-software-engineer-observability,San Francisco,2026-10-19T18:12:42.494Z,2026-10-19 18:17:24
 200689948,ASE Compute - Lead SRE Software Engineer,https://jobs.apple.com/en-us/details/200689948/ase-compute-lead-sre-software-engineer,San Francisco,2026-10-19T18:12:39.984Z,2026-10-19 18:17:24
+200688599,Software Engineer, IS&T Early Career Opportunities,https://jobs.apple.com/en-us/details/200688599/software-engineer-is-t-early-career-opportunities,Austin,2026-10-19T19:37:48.929Z,2026-10-19 19:38:24
