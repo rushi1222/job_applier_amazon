@@ -320,3 +320,4 @@
 200690154,Sr. Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200690154/sr-software-engineer-enterprise-technology-services,Sunnyvale,2026-10-19T19:38:15.736Z,2026-10-19 20:13:22
 200689349,Software Engineer, IS&T Early Career Opportunities,https://jobs.apple.com/en-us/details/200689349/software-engineer-is-t-early-career-opportunities,Cupertino,2026-10-19T20:46:45.819Z,2026-10-19 21:11:53
 200690215,Principal Security Software Engineer,https://jobs.apple.com/en-us/details/200690215/principal-security-software-engineer,Seattle,2026-10-19T21:11:54.792Z,2026-10-19 21:38:48
+200690248,Senior Software Engineer,  Private Cloud Compute Inference Routing,https://jobs.apple.com/en-us/details/200690248/senior-software-engineer-private-cloud-compute-inference-routing,Cupertino,2026-10-19T21:51:22.555Z,2026-10-19 22:12:31
