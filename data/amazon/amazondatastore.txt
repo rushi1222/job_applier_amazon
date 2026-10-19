@@ -1262,3 +1262,7 @@ San Francisco, CA, USA
 10582631,Data Center Controls Engineer, Boling, TX,https://www.amazon.jobs/en/jobs/10582631/data-center-controls-engineer-boling-tx,Boling, TX, USA,Posted October 19, 2026,2026-10-19 15:39:04
 10582684,Project Engineer, Data Center Construction,https://www.amazon.jobs/en/jobs/10582684/project-engineer-data-center-construction,Hobart, IN, USA,Posted October 19, 2026,2026-10-19 16:13:48
 10582746,Data Engineer, Amazon Security Experience,https://www.amazon.jobs/en/jobs/10582746/data-engineer-amazon-security-experience,Seattle, WA, USA,Posted October 19, 2026,2026-10-19 16:41:43
+10583165,Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10583165/product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
+Austin, TX, USA
+Columbus, OH, USA
++2 other locations,Posted October 19, 2026,2026-10-19 19:08:55
