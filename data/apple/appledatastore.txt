@@ -313,3 +313,6 @@
 200689896,Software Engineer, Internal Tools - Media, Graphics & Compute Tech,https://jobs.apple.com/en-us/details/200689896/software-engineer-internal-tools-media-graphics-compute-tech,San Diego Metro Area,2026-10-16T23:50:54.794Z,2026-10-17 00:29:35
 200689630,Senior Security Software Engineer, Datacenter Infrastructure Security,https://jobs.apple.com/en-us/details/200689630/senior-security-software-engineer-datacenter-infrastructure-security,Austin,2026-10-16T23:49:07.998Z,2026-10-17 00:29:35
 200689551,Systems Software Engineer, Compute,https://jobs.apple.com/en-us/details/200689551/systems-software-engineer-compute,Cupertino,2026-10-19T17:04:02.755Z,2026-10-19 17:11:32
+200689792,Senior/Staff Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200689792/senior-staff-software-engineer-apple-services-engineering,Seattle,2026-10-19T18:12:45.176Z,2026-10-19 18:17:24
+200689875,UX and UI Software Engineer — Observability,https://jobs.apple.com/en-us/details/200689875/ux-and-ui-software-engineer-observability,San Francisco,2026-10-19T18:12:42.494Z,2026-10-19 18:17:24
+200689948,ASE Compute - Lead SRE Software Engineer,https://jobs.apple.com/en-us/details/200689948/ase-compute-lead-sre-software-engineer,San Francisco,2026-10-19T18:12:39.984Z,2026-10-19 18:17:24
