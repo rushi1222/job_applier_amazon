@@ -1274,3 +1274,4 @@ San Francisco, CA, USA
 10583412,Structural Engineer, Data Center Eng, Mech Products and Services,https://www.amazon.jobs/en/jobs/10583412/structural-engineer-data-center-eng-mech-products-and-services,Atlanta, GA, USA
 Herndon, VA, USA
 Seattle, WA, USA,Posted October 19, 2026,2026-10-19 22:11:18
+10583499,Software Development Manager, Programming Foundations, ASBX,https://www.amazon.jobs/en/jobs/10583499/software-development-manager-programming-foundations-asbx,Arlington, VA, USA,Posted October 19, 2026,2026-10-19 23:11:22
