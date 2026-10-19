@@ -1259,3 +1259,4 @@ San Francisco, CA, USA
 +2 other locations,Posted October 17, 2026,2026-10-17 01:05:57
 10582606,Controls Engineer, Deployment, CDS - DCCD,https://www.amazon.jobs/en/jobs/10582606/controls-engineer-deployment-cds-dccd,Herndon, VA, USA,Posted October 19, 2026,2026-10-19 15:11:26
 10582602,Controls Engineer, Deployment, CDS - DCCD,https://www.amazon.jobs/en/jobs/10582602/controls-engineer-deployment-cds-dccd,Herndon, VA, USA,Posted October 19, 2026,2026-10-19 15:11:26
+10582631,Data Center Controls Engineer, Boling, TX,https://www.amazon.jobs/en/jobs/10582631/data-center-controls-engineer-boling-tx,Boling, TX, USA,Posted October 19, 2026,2026-10-19 15:39:04
