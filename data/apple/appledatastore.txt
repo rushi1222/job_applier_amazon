@@ -319,3 +319,4 @@
 200688599,Software Engineer, IS&T Early Career Opportunities,https://jobs.apple.com/en-us/details/200688599/software-engineer-is-t-early-career-opportunities,Austin,2026-10-19T19:37:48.929Z,2026-10-19 19:38:24
 200690154,Sr. Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200690154/sr-software-engineer-enterprise-technology-services,Sunnyvale,2026-10-19T19:38:15.736Z,2026-10-19 20:13:22
 200689349,Software Engineer, IS&T Early Career Opportunities,https://jobs.apple.com/en-us/details/200689349/software-engineer-is-t-early-career-opportunities,Cupertino,2026-10-19T20:46:45.819Z,2026-10-19 21:11:53
+200690215,Principal Security Software Engineer,https://jobs.apple.com/en-us/details/200690215/principal-security-software-engineer,Seattle,2026-10-19T21:11:54.792Z,2026-10-19 21:38:48

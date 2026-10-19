@@ -1266,3 +1266,8 @@ San Francisco, CA, USA
 Austin, TX, USA
 Columbus, OH, USA
 +2 other locations,Posted October 19, 2026,2026-10-19 19:08:55
+10583377,Software Development Engineer II, PXT Departures,https://www.amazon.jobs/en/jobs/10583377/software-development-engineer-ii-pxt-departures,Seattle, WA, USA,Posted October 19, 2026,2026-10-19 21:37:35
+10583368,Sr. Customer Success Specialist, Applied AI, AWS WWSO CDS,https://www.amazon.jobs/en/jobs/10583368/sr-customer-success-specialist-applied-ai-aws-wwso-cds,East Palo Alto, CA, USA
+Irvine, CA, USA
+San Francisco, CA, USA
++1 other locations,Posted October 19, 2026,2026-10-19 21:37:35
