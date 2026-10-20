@@ -322,3 +322,4 @@
 200690215,Principal Security Software Engineer,https://jobs.apple.com/en-us/details/200690215/principal-security-software-engineer,Seattle,2026-10-19T21:11:54.792Z,2026-10-19 21:38:48
 200690248,Senior Software Engineer,  Private Cloud Compute Inference Routing,https://jobs.apple.com/en-us/details/200690248/senior-software-engineer-private-cloud-compute-inference-routing,Cupertino,2026-10-19T21:51:22.555Z,2026-10-19 22:12:31
 200690350,Storage Systems Engineer, Software Delivery & Technologies,https://jobs.apple.com/en-us/details/200690350/storage-systems-engineer-software-delivery-technologies,Cupertino,2026-10-20T16:20:19.297Z,2026-10-20 16:40:51
+200690299,WiFi Software Systems Analysis Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200690299/wifi-software-systems-analysis-engineer-wireless-technologies-ecosystems,San Diego,2026-10-20T16:59:10.031Z,2026-10-20 17:14:08
