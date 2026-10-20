@@ -1281,3 +1281,7 @@ Boston, MA, USA
 Dallas, TX, USA
 +1 other locations,Posted October 20, 2026,2026-10-20 18:42:20
 10584525,IT App Dev Engr II - AMZ10564128,https://www.amazon.jobs/en/jobs/10584525/it-app-dev-engr-ii-amz10564128,Seattle, WA, USA,Posted October 20, 2026,2026-10-20 20:11:53
+10584710,Senior System Dev Engineer, Data Center Engineering,https://www.amazon.jobs/en/jobs/10584710/senior-system-dev-engineer-data-center-engineering,Austin, TX, USA
+Bellevue, WA, USA
+Herndon, VA, USA
++1 other locations,Posted October 20, 2026,2026-10-20 22:37:11
