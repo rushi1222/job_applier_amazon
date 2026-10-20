@@ -1276,3 +1276,7 @@ Herndon, VA, USA
 Seattle, WA, USA,Posted October 19, 2026,2026-10-19 22:11:18
 10583499,Software Development Manager, Programming Foundations, ASBX,https://www.amazon.jobs/en/jobs/10583499/software-development-manager-programming-foundations-asbx,Arlington, VA, USA,Posted October 19, 2026,2026-10-19 23:11:22
 10584217,Software Dev Engineer , Key Management Service,https://www.amazon.jobs/en/jobs/10584217/software-dev-engineer-key-management-service,Seattle, WA, USA,Posted October 20, 2026,2026-10-20 17:12:55
+10584439,Software Dev Engineer II, AWS Emerging Planning Solutions,https://www.amazon.jobs/en/jobs/10584439/software-dev-engineer-ii-aws-emerging-planning-solutions,Arlington, VA, USA
+Boston, MA, USA
+Dallas, TX, USA
++1 other locations,Posted October 20, 2026,2026-10-20 18:42:20
