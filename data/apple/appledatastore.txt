@@ -333,3 +333,5 @@
 200661000,Senior Software Engineer (Observability Solutions) - Enterprise Technology Services,https://jobs.apple.com/en-us/details/200661000/senior-software-engineer-observability-solutions-enterprise-technology-services,Sunnyvale,2026-10-21T20:10:54.580Z,2026-10-21 20:12:43
 200689603,Software QE Manager - Input Experience, T3E,https://jobs.apple.com/en-us/details/200689603/software-qe-manager-input-experience-t3e,Cupertino,2026-10-21T20:09:43.059Z,2026-10-21 20:12:43
 200690683,Software Engineering (AI/ML), Retail and Marcom Engineering,https://jobs.apple.com/en-us/details/200690683/software-engineering-ai-ml-retail-and-marcom-engineering,Sunnyvale,2026-10-21T19:49:40.637Z,2026-10-21 20:12:43
+200643641,Senior Software Engineer, Enterprise Technology Services ,https://jobs.apple.com/en-us/details/200643641/senior-software-engineer-enterprise-technology-services,Austin,2026-10-21T21:33:37.103Z,2026-10-21 21:40:43
+200690588,Apple Developer App Engineer, WWDR,https://jobs.apple.com/en-us/details/200690588/apple-developer-app-engineer-wwdr,Cupertino,2026-10-21T21:24:10.173Z,2026-10-21 21:40:43
