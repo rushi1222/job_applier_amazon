@@ -1286,3 +1286,4 @@ Bellevue, WA, USA
 Herndon, VA, USA
 +1 other locations,Posted October 20, 2026,2026-10-20 22:37:11
 10585326,Software Dev Engineer III - AMZ10376287,https://www.amazon.jobs/en/jobs/10585326/software-dev-engineer-iii-amz10376287,Madison, WI, USA,Posted October 21, 2026,2026-10-21 18:14:44
+10585662,Data Center Controls Engineer, AWS DC Acqn&Construction-VAR,https://www.amazon.jobs/en/jobs/10585662/data-center-controls-engineer-aws-dc-acqn-construction-var,Boardman, OR, USA,Posted October 21, 2026,2026-10-21 20:40:35
