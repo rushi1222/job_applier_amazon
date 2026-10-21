@@ -328,3 +328,4 @@
 200690235,Senior Security Software Engineer EDR,https://jobs.apple.com/en-us/details/200690235/senior-security-software-engineer-edr,Seattle,2026-10-21T02:24:47.178Z,2026-10-21 02:46:36
 200690607,Senior Software Engineer - Compute,https://jobs.apple.com/en-us/details/200690607/senior-software-engineer-compute,Cupertino,2026-10-21T16:11:45.424Z,2026-10-21 16:13:12
 200689627,Software Quality Engineer, Media Applications & Live Experiences,https://jobs.apple.com/en-us/details/200689627/software-quality-engineer-media-applications-live-experiences,Irvine,2026-10-21T15:47:52.696Z,2026-10-21 16:13:12
+200674593,Software Development Engineer (Developer Experience and Platform Tools),https://jobs.apple.com/en-us/details/200674593/software-development-engineer-developer-experience-and-platform-tools,Cupertino,2026-10-21T16:20:19.223Z,2026-10-21 16:42:33
