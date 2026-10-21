@@ -1287,3 +1287,6 @@ Herndon, VA, USA
 +1 other locations,Posted October 20, 2026,2026-10-20 22:37:11
 10585326,Software Dev Engineer III - AMZ10376287,https://www.amazon.jobs/en/jobs/10585326/software-dev-engineer-iii-amz10376287,Madison, WI, USA,Posted October 21, 2026,2026-10-21 18:14:44
 10585662,Data Center Controls Engineer, AWS DC Acqn&Construction-VAR,https://www.amazon.jobs/en/jobs/10585662/data-center-controls-engineer-aws-dc-acqn-construction-var,Boardman, OR, USA,Posted October 21, 2026,2026-10-21 20:40:35
+10585845,Senior Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10585845/senior-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
+Herndon, VA, USA
+Seattle, WA, USA,Posted October 21, 2026,2026-10-21 23:09:42
