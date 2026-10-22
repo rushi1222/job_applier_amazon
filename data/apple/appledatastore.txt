@@ -344,3 +344,4 @@
 200690787,Software Engineer - SoC Level Validation Engineer,https://jobs.apple.com/en-us/details/200690787/software-engineer-soc-level-validation-engineer,Beaverton,2026-10-22T14:49:09.794Z,2026-10-22 15:13:39
 200690845,Software Engineering Program Manager (EPM) - Apple Vision Pro ,https://jobs.apple.com/en-us/details/200690845/software-engineering-program-manager-epm-apple-vision-pro,Sunnyvale,2026-10-22T15:18:09.003Z,2026-10-22 15:41:34
 200689757,Software Engineer - Journal Team,https://jobs.apple.com/en-us/details/200689757/software-engineer-journal-team,San Diego,2026-10-22T16:32:21.516Z,2026-10-22 16:42:10
+200690013,Senior Software Engineer - Finance Engineering,https://jobs.apple.com/en-us/details/200690013/senior-software-engineer-finance-engineering,San Francisco Bay Area,2026-10-22T17:20:25.465Z,2026-10-22 17:39:21
