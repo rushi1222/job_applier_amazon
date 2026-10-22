@@ -337,3 +337,4 @@
 200690588,Apple Developer App Engineer, WWDR,https://jobs.apple.com/en-us/details/200690588/apple-developer-app-engineer-wwdr,Cupertino,2026-10-21T21:24:10.173Z,2026-10-21 21:40:43
 200643421,Software Engineer - Generative AI & ML, Customer Systems,https://jobs.apple.com/en-us/details/200643421/software-engineer-generative-ai-ml-customer-systems,Austin,2026-10-21T22:08:15.973Z,2026-10-21 22:11:57
 200690790,Software Engineer - SoC Level Validation Engineer,https://jobs.apple.com/en-us/details/200690790/software-engineer-soc-level-validation-engineer,San Diego,2026-10-21T21:56:30.841Z,2026-10-21 22:11:57
+200690530,Software Engineer - AML - Ai & Data Platforms,https://jobs.apple.com/en-us/details/200690530/software-engineer-aml-ai-data-platforms,Sunnyvale,2026-10-22T01:28:48.096Z,2026-10-22 01:48:33
