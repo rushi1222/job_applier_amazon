@@ -1292,3 +1292,6 @@ Herndon, VA, USA
 Seattle, WA, USA,Posted October 21, 2026,2026-10-21 23:09:42
 10586295,Data Center Controls Engineer, Controls team,https://www.amazon.jobs/en/jobs/10586295/data-center-controls-engineer-controls-team,Ridgeland, MS, USA,Posted October 22, 2026,2026-10-22 13:41:14
 10584678,Software Dev Engineer - II, AWS Field Experiences AFX-Fixed,https://www.amazon.jobs/en/jobs/10584678/software-dev-engineer-ii-aws-field-experiences-afx-fixed,Seattle, WA, USA,Posted October 22, 2026,2026-10-22 15:12:25
+10586771,Data Center Regional Chief Engineer, PHX,https://www.amazon.jobs/en/jobs/10586771/data-center-regional-chief-engineer-phx,Avondale, AZ, USA
+Glendale, AZ, USA
+MESA, AZ, USA,Posted October 22, 2026,2026-10-22 18:13:56
