@@ -1290,3 +1290,4 @@ Herndon, VA, USA
 10585845,Senior Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10585845/senior-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
 Herndon, VA, USA
 Seattle, WA, USA,Posted October 21, 2026,2026-10-21 23:09:42
+10586295,Data Center Controls Engineer, Controls team,https://www.amazon.jobs/en/jobs/10586295/data-center-controls-engineer-controls-team,Ridgeland, MS, USA,Posted October 22, 2026,2026-10-22 13:41:14
