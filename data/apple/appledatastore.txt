@@ -342,3 +342,4 @@
 200690563,Fitness Tools & Automation Engineer, Watch Software, Sensing & Connectivity ,https://jobs.apple.com/en-us/details/200690563/fitness-tools-automation-engineer-watch-software-sensing-connectivity,Cupertino,2026-10-22T04:00:13.456Z,2026-10-22 04:14:16
 200690747,Software Engineer - SoC Level Validation Engineer,https://jobs.apple.com/en-us/details/200690747/software-engineer-soc-level-validation-engineer,Austin,2026-10-22T14:57:55.568Z,2026-10-22 15:13:39
 200690787,Software Engineer - SoC Level Validation Engineer,https://jobs.apple.com/en-us/details/200690787/software-engineer-soc-level-validation-engineer,Beaverton,2026-10-22T14:49:09.794Z,2026-10-22 15:13:39
+200690845,Software Engineering Program Manager (EPM) - Apple Vision Pro ,https://jobs.apple.com/en-us/details/200690845/software-engineering-program-manager-epm-apple-vision-pro,Sunnyvale,2026-10-22T15:18:09.003Z,2026-10-22 15:41:34
