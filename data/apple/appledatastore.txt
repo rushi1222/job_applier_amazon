@@ -346,3 +346,5 @@
 200689757,Software Engineer - Journal Team,https://jobs.apple.com/en-us/details/200689757/software-engineer-journal-team,San Diego,2026-10-22T16:32:21.516Z,2026-10-22 16:42:10
 200690013,Senior Software Engineer - Finance Engineering,https://jobs.apple.com/en-us/details/200690013/senior-software-engineer-finance-engineering,San Francisco Bay Area,2026-10-22T17:20:25.465Z,2026-10-22 17:39:21
 200676418,Software Engineer, Safari Extensions,https://jobs.apple.com/en-us/details/200676418/software-engineer-safari-extensions,San Diego,2026-10-22T19:07:44.522Z,2026-10-22 19:10:29
+200642910,Engineering Program Manager, SWE Factory,https://jobs.apple.com/en-us/details/200642910/engineering-program-manager-swe-factory,Cupertino,2026-10-22T19:27:42.275Z,2026-10-22 19:38:27
+200691025,Software Engineer, Find My,https://jobs.apple.com/en-us/details/200691025/software-engineer-find-my,Cupertino,2026-10-22T19:25:12.952Z,2026-10-22 19:38:27
