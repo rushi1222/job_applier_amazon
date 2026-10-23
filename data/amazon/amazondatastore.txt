@@ -1303,3 +1303,4 @@ Herndon, VA, USA
 10585300,Data Engineer II - AMZ26680.2,https://www.amazon.jobs/en/jobs/10585300/data-engineer-ii-amz26680-2,Dallas, TX, USA,Posted October 21, 2026,2026-10-23 14:42:01
 10587548,Software Development Manager, Infra AGE,https://www.amazon.jobs/en/jobs/10587548/software-development-manager-infra-age,Denver, CO, USA,Posted October 23, 2026,2026-10-23 15:41:45
 10587007,Data Engineer, Infra-Finance Business intelligence & Transformations,https://www.amazon.jobs/en/jobs/10587007/data-engineer-infra-finance-business-intelligence-transformations,Seattle, WA, USA,Posted October 22, 2026,2026-10-23 16:12:56
+10587730,Data Engineer, Workforce Solutions - Talent Mobility,https://www.amazon.jobs/en/jobs/10587730/data-engineer-workforce-solutions-talent-mobility,Bellevue, WA, USA,Posted October 23, 2026,2026-10-23 17:09:32
