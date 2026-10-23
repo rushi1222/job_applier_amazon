@@ -1305,3 +1305,7 @@ Herndon, VA, USA
 10587007,Data Engineer, Infra-Finance Business intelligence & Transformations,https://www.amazon.jobs/en/jobs/10587007/data-engineer-infra-finance-business-intelligence-transformations,Seattle, WA, USA,Posted October 22, 2026,2026-10-23 16:12:56
 10587730,Data Engineer, Workforce Solutions - Talent Mobility,https://www.amazon.jobs/en/jobs/10587730/data-engineer-workforce-solutions-talent-mobility,Bellevue, WA, USA,Posted October 23, 2026,2026-10-23 17:09:32
 10587820,Business Intelligence Engineer, Data Center Capacity Delivery Tooling,https://www.amazon.jobs/en/jobs/10587820/business-intelligence-engineer-data-center-capacity-delivery-tooling,Seattle, WA, USA,Posted October 23, 2026,2026-10-23 18:43:52
+10584831,Sr. Customer Success Specialist, Applied AI, AWS WWSO CDS,https://www.amazon.jobs/en/jobs/10584831/sr-customer-success-specialist-applied-ai-aws-wwso-cds,Boston, MA, USA
+East Palo Alto, CA, USA
+New York, NY, USA
++2 other locations,Posted October 23, 2026,2026-10-23 23:36:29
