@@ -350,3 +350,4 @@
 200691025,Software Engineer, Find My,https://jobs.apple.com/en-us/details/200691025/software-engineer-find-my,Cupertino,2026-10-22T19:25:12.952Z,2026-10-22 19:38:27
 200688556,Machine Learning Engineer, Answers Knowledge and Information - Proactive ,https://jobs.apple.com/en-us/details/200688556/machine-learning-engineer-answers-knowledge-and-information-proactive,Cupertino,2026-10-22T22:08:30.587Z,2026-10-22 22:12:10
 200690883,Senior Software Engineer - Tools, Intelligent Automation & Developer Platforms,https://jobs.apple.com/en-us/details/200690883/senior-software-engineer-tools-intelligent-automation-developer-platforms,San Francisco Bay Area,2026-10-23T01:32:25.490Z,2026-10-23 01:51:20
+200690587,Location Software Engineer,https://jobs.apple.com/en-us/details/200690587/location-software-engineer,Cupertino,2026-10-23T15:49:18.876Z,2026-10-23 16:16:04
