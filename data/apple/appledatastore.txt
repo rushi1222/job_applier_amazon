@@ -354,3 +354,6 @@
 200690980,Senior Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200690980/senior-software-engineer-ai-data-platforms-aidp,Austin,2026-10-23T17:03:43.677Z,2026-10-23 17:10:45
 200690752,Sr Software Engineer (Security), Ai & Data Platforms,https://jobs.apple.com/en-us/details/200690752/sr-software-engineer-security-ai-data-platforms,Austin,2026-10-23T17:02:47.765Z,2026-10-23 17:10:45
 200690763,Director of Software Engineering: Quality, Insights, and Delivery - Apple Maps,https://jobs.apple.com/en-us/details/200690763/director-of-software-engineering-quality-insights-and-delivery-apple-maps,Cupertino,2026-10-23T17:30:58.964Z,2026-10-23 17:39:48
+200690827,Senior Software Engineer, On-Device Health Agentic Systems,https://jobs.apple.com/en-us/details/200690827/senior-software-engineer-on-device-health-agentic-systems,Sunnyvale,2026-10-23T17:55:14.984Z,2026-10-23 18:15:02
+200691192,Software Architect - iOS Devices,https://jobs.apple.com/en-us/details/200691192/software-architect-ios-devices,Sunnyvale,2026-10-23T17:45:15.780Z,2026-10-23 18:15:02
+200691084,Software Engineer - Camera,https://jobs.apple.com/en-us/details/200691084/software-engineer-camera,Cupertino,2026-10-23T17:43:03.147Z,2026-10-23 18:15:02
