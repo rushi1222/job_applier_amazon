@@ -357,3 +357,4 @@
 200690827,Senior Software Engineer, On-Device Health Agentic Systems,https://jobs.apple.com/en-us/details/200690827/senior-software-engineer-on-device-health-agentic-systems,Sunnyvale,2026-10-23T17:55:14.984Z,2026-10-23 18:15:02
 200691192,Software Architect - iOS Devices,https://jobs.apple.com/en-us/details/200691192/software-architect-ios-devices,Sunnyvale,2026-10-23T17:45:15.780Z,2026-10-23 18:15:02
 200691084,Software Engineer - Camera,https://jobs.apple.com/en-us/details/200691084/software-engineer-camera,Cupertino,2026-10-23T17:43:03.147Z,2026-10-23 18:15:02
+200691282,Senior Software Engineer, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200691282/senior-software-engineer-enterprise-technology-services,Austin,2026-10-23T20:49:49.397Z,2026-10-23 21:12:04
