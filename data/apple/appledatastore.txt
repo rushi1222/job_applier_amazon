@@ -361,3 +361,4 @@
 200691391,Software Engineer, Evaluation,https://jobs.apple.com/en-us/details/200691391/software-engineer-evaluation,Cupertino,2026-10-23T22:35:07.201Z,2026-10-23 22:38:43
 200689588,Software Engineer - Generative UI, Input Experience,https://jobs.apple.com/en-us/details/200689588/software-engineer-generative-ui-input-experience,Cupertino,2026-10-23T22:31:56.138Z,2026-10-23 22:38:43
 200686221,Software Development Engineer in Test, Systems & Algorithms Evaluation, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200686221/software-development-engineer-in-test-systems-algorithms-evaluation-sensing-connectivity,Cupertino,2026-10-23T23:34:10.883Z,2026-10-23 23:37:42
+200691333,Senior Software Systems Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200691333/senior-software-systems-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-24T00:24:25.890Z,2026-10-24 00:29:42
