@@ -363,3 +363,4 @@
 200686221,Software Development Engineer in Test, Systems & Algorithms Evaluation, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200686221/software-development-engineer-in-test-systems-algorithms-evaluation-sensing-connectivity,Cupertino,2026-10-23T23:34:10.883Z,2026-10-23 23:37:42
 200691333,Senior Software Systems Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200691333/senior-software-systems-engineer-wireless-technologies-ecosystems,Cupertino,2026-10-24T00:24:25.890Z,2026-10-24 00:29:42
 200688205,Senior Software Engineering Manager, Agentic Infrastructure,https://jobs.apple.com/en-us/details/200688205/senior-software-engineering-manager-agentic-infrastructure,Seattle,2026-10-24T00:47:40.538Z,2026-10-24 01:07:26
+200691076,Sr Software Engineer ,https://jobs.apple.com/en-us/details/200691076/sr-software-engineer,Cupertino,2026-10-26T15:25:40.409Z,2026-10-26 15:37:28
