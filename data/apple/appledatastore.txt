@@ -367,3 +367,5 @@
 200691225,Software Engineer - Power and Performance Analytics Platform,https://jobs.apple.com/en-us/details/200691225/software-engineer-power-and-performance-analytics-platform,Cupertino,2026-10-26T16:07:46.243Z,2026-10-26 16:16:33
 200691490,Software Engineer, System Services & Daemons, Core OS,https://jobs.apple.com/en-us/details/200691490/software-engineer-system-services-daemons-core-os,Beaverton,2026-10-26T16:07:33.964Z,2026-10-26 16:16:33
 200690212,Software Engineer, System Services & Daemons, Core OS,https://jobs.apple.com/en-us/details/200690212/software-engineer-system-services-daemons-core-os,Beaverton,2026-10-26T16:07:32.117Z,2026-10-26 16:16:33
+200681631,Cellular Modem RF Software Engineering Program Manager,https://jobs.apple.com/en-us/details/200681631/cellular-modem-rf-software-engineering-program-manager,San Diego,2026-10-26T18:05:07.161Z,2026-10-26 18:19:05
+200691655,Sr. Software Engineer, Generative Experiences,https://jobs.apple.com/en-us/details/200691655/sr-software-engineer-generative-experiences,Seattle,2026-10-26T17:58:54.305Z,2026-10-26 18:19:05
