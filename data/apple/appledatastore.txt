@@ -370,3 +370,4 @@
 200681631,Cellular Modem RF Software Engineering Program Manager,https://jobs.apple.com/en-us/details/200681631/cellular-modem-rf-software-engineering-program-manager,San Diego,2026-10-26T18:05:07.161Z,2026-10-26 18:19:05
 200691655,Sr. Software Engineer, Generative Experiences,https://jobs.apple.com/en-us/details/200691655/sr-software-engineer-generative-experiences,Seattle,2026-10-26T17:58:54.305Z,2026-10-26 18:19:05
 200662789,iOS Analytics Software Engineer - Video Applications,https://jobs.apple.com/en-us/details/200662789/ios-analytics-software-engineer-video-applications,Boulder,2026-10-26T18:21:36.036Z,2026-10-26 18:54:04
+200677065,Software Development Engineer in Test ,https://jobs.apple.com/en-us/details/200677065/software-development-engineer-in-test,Seattle,2026-10-26T19:34:43.042Z,2026-10-26 19:41:03
