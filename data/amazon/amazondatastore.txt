@@ -1316,3 +1316,4 @@ ALDIE, VA, USA,Posted October 26, 2026,2026-10-26 17:10:47
 10588969,Tech Ops Engineer Intern, 2027 Summer Intern,https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-summer-intern,San Diego, CA, USA,Posted October 26, 2026,2026-10-26 18:17:52
 10588950,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10588950/data-center-controls-engineer-data-center-capacity-delivery-controls,Ashburn, VA, USA,Posted October 26, 2026,2026-10-26 18:17:52
 10588977,Data Engineer I,https://www.amazon.jobs/en/jobs/10588977/data-engineer-i,Seattle, WA, USA,Posted October 26, 2026,2026-10-26 18:17:52
+10588993,Software Development Engineer, Amazon Foundation Security Services,https://www.amazon.jobs/en/jobs/10588993/software-development-engineer-amazon-foundation-security-services,San Diego, CA, USA,Posted October 26, 2026,2026-10-26 18:52:49
