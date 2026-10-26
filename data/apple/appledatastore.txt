@@ -372,3 +372,4 @@
 200662789,iOS Analytics Software Engineer - Video Applications,https://jobs.apple.com/en-us/details/200662789/ios-analytics-software-engineer-video-applications,Boulder,2026-10-26T18:21:36.036Z,2026-10-26 18:54:04
 200677065,Software Development Engineer in Test ,https://jobs.apple.com/en-us/details/200677065/software-development-engineer-in-test,Seattle,2026-10-26T19:34:43.042Z,2026-10-26 19:41:03
 200686840, Machine Learning Engineer, Answers Knowledge and Information - Proactive ,https://jobs.apple.com/en-us/details/200686840/machine-learning-engineer-answers-knowledge-and-information-proactive,Seattle,2026-10-26T20:38:55.249Z,2026-10-26 20:42:35
+200691740,Software Engineer - Developer Productivity Engineering,https://jobs.apple.com/en-us/details/200691740/software-engineer-developer-productivity-engineering,Seattle,2026-10-26T22:09:06.904Z,2026-10-26 22:12:40
