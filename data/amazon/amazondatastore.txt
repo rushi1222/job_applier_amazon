@@ -1309,3 +1309,7 @@ Herndon, VA, USA
 East Palo Alto, CA, USA
 New York, NY, USA
 +2 other locations,Posted October 23, 2026,2026-10-23 23:36:29
+10588757,Software Development Engineer , Amazon Foundational Security Services (AFSS),https://www.amazon.jobs/en/jobs/10588757/software-development-engineer-amazon-foundational-security-services-afss,Arlington, VA, USA,Posted October 26, 2026,2026-10-26 17:10:47
+10588746,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10588746/data-center-controls-engineer-data-center-capacity-delivery-controls,Chantilly, VA, USA,Posted October 26, 2026,2026-10-26 17:10:47
+10588710,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10588710/data-center-controls-engineer-data-center-capacity-delivery-controls,Aldie, VA, USA
+ALDIE, VA, USA,Posted October 26, 2026,2026-10-26 17:10:47
