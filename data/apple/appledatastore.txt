@@ -381,3 +381,4 @@
 200691337,Sr. Software Engineer - Business Process Reengineering (BPR) and Sales Engineering,https://jobs.apple.com/en-us/details/200691337/sr-software-engineer-business-process-reengineering-bpr-and-sales-engineering,Austin,2026-10-27T18:12:15.139Z,2026-10-27 18:36:25
 200691968,Systems Software Engineer - Performance & Agentic Tools,https://jobs.apple.com/en-us/details/200691968/systems-software-engineer-performance-agentic-tools,Cupertino,2026-10-27T18:49:30.871Z,2026-10-27 19:09:01
 200691400,Senior Software Engineer, Applied ML - Watch Software ,https://jobs.apple.com/en-us/details/200691400/senior-software-engineer-applied-ml-watch-software,San Diego,2026-10-27T21:25:33.000Z,2026-10-27 21:36:58
+200692096,iOS Application Developer - Health Software,https://jobs.apple.com/en-us/details/200692096/ios-application-developer-health-software,Sunnyvale,2026-10-27T21:56:47.940Z,2026-10-27 22:09:21
