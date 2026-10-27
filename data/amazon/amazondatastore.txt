@@ -1327,3 +1327,5 @@ ALDIE, VA, USA,Posted October 26, 2026,2026-10-26 17:10:47
 10589761,Commissioning Engineer, AWS Commissioning,https://www.amazon.jobs/en/jobs/10589761/commissioning-engineer-aws-commissioning,Berwick, PA, USA
 BERWICK, PA, USA
 FAIRLESS HILLS, PA, USA,Posted October 27, 2026,2026-10-27 22:08:07
+10586228,Frontend Engineer, AI Business Automation, Prime Video,https://www.amazon.jobs/en/jobs/10586228/frontend-engineer-ai-business-automation-prime-video,Seattle, WA, USA
+SEATTLE, WA, USA,Posted October 27, 2026,2026-10-27 23:34:55
