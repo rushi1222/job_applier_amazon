@@ -374,3 +374,4 @@
 200686840, Machine Learning Engineer, Answers Knowledge and Information - Proactive ,https://jobs.apple.com/en-us/details/200686840/machine-learning-engineer-answers-knowledge-and-information-proactive,Seattle,2026-10-26T20:38:55.249Z,2026-10-26 20:42:35
 200691740,Software Engineer - Developer Productivity Engineering,https://jobs.apple.com/en-us/details/200691740/software-engineer-developer-productivity-engineering,Seattle,2026-10-26T22:09:06.904Z,2026-10-26 22:12:40
 200625186,Senior Software Engineer,https://jobs.apple.com/en-us/details/200625186/senior-software-engineer,Cupertino,2026-10-27T00:35:06.969Z,2026-10-27 01:13:02
+200620195,Sr. Software Engineer, Information Systems & Technology,https://jobs.apple.com/en-us/details/200620195/sr-software-engineer-information-systems-technology,Cupertino,2026-10-27T04:03:34.833Z,2026-10-27 04:13:45
