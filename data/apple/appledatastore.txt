@@ -383,3 +383,4 @@
 200691400,Senior Software Engineer, Applied ML - Watch Software ,https://jobs.apple.com/en-us/details/200691400/senior-software-engineer-applied-ml-watch-software,San Diego,2026-10-27T21:25:33.000Z,2026-10-27 21:36:58
 200692096,iOS Application Developer - Health Software,https://jobs.apple.com/en-us/details/200692096/ios-application-developer-health-software,Sunnyvale,2026-10-27T21:56:47.940Z,2026-10-27 22:09:21
 200692106,iOS Software Engineer,https://jobs.apple.com/en-us/details/200692106/ios-software-engineer,Cupertino,2026-10-28T09:33:36.766Z,2026-10-28 09:35:38
+200680221,Software Development Engineer - Test,https://jobs.apple.com/en-us/details/200680221/software-development-engineer-test,Sunnyvale,2026-10-28T17:06:58.432Z,2026-10-28 17:09:24
