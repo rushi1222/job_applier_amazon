@@ -1329,3 +1329,4 @@ BERWICK, PA, USA
 FAIRLESS HILLS, PA, USA,Posted October 27, 2026,2026-10-27 22:08:07
 10586228,Frontend Engineer, AI Business Automation, Prime Video,https://www.amazon.jobs/en/jobs/10586228/frontend-engineer-ai-business-automation-prime-video,Seattle, WA, USA
 SEATTLE, WA, USA,Posted October 27, 2026,2026-10-27 23:34:55
+10590794,Senior Software Development Engineer, Developer Experience,https://www.amazon.jobs/en/jobs/10590794/senior-software-development-engineer-developer-experience,New York, NY, USA,Posted October 28, 2026,2026-10-28 00:53:43
