@@ -386,3 +386,4 @@
 200680221,Software Development Engineer - Test,https://jobs.apple.com/en-us/details/200680221/software-development-engineer-test,Sunnyvale,2026-10-28T17:06:58.432Z,2026-10-28 17:09:24
 200692285,Sr. Software Engineer, Security Server Applications, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200692285/sr-software-engineer-security-server-applications-enterprise-technology-services,Sunnyvale,2026-10-28T20:40:24.724Z,2026-10-28 21:09:10
 200692315,Software Development Engineer in Test – Apps, Identity Management Services,https://jobs.apple.com/en-us/details/200692315/software-development-engineer-in-test-apps-identity-management-services,Sunnyvale,2026-10-28T20:39:38.375Z,2026-10-28 21:09:10
+200692290,Software Development Engineer in Test (SDET), Creative Apps,https://jobs.apple.com/en-us/details/200692290/software-development-engineer-in-test-sdet-creative-apps,Cupertino,2026-10-28T22:05:10.169Z,2026-10-28 22:09:56
