@@ -392,3 +392,4 @@
 200692377,Software Development Engineer-Health,https://jobs.apple.com/en-us/details/200692377/software-development-engineer-health,Sunnyvale,2026-10-29T01:06:45.104Z,2026-10-29 01:10:42
 200692473,AI Software Engineer, App Intelligence,https://jobs.apple.com/en-us/details/200692473/ai-software-engineer-app-intelligence,San Francisco Bay Area,2026-10-29T16:49:08.489Z,2026-10-29 17:09:27
 200660661,Software Engineer (Framework Solutions), AI & Data Platforms  (AiDP),https://jobs.apple.com/en-us/details/200660661/software-engineer-framework-solutions-ai-data-platforms-aidp,Austin,2026-10-29T17:27:19.224Z,2026-10-29 17:36:20
+200692126,Software Engineering Manager - Keyboard UI, Input Experience,https://jobs.apple.com/en-us/details/200692126/software-engineering-manager-keyboard-ui-input-experience,Cupertino,2026-10-29T22:10:42.173Z,2026-10-29 22:36:32
