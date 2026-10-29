@@ -1337,3 +1337,4 @@ SEATTLE, WA, USA,Posted October 27, 2026,2026-10-27 23:34:55
 10587176,Data Center Chief Engineer Night Role,https://www.amazon.jobs/en/jobs/10587176/data-center-chief-engineer-night-role,Andrews, TX, USA,Posted October 29, 2026,2026-10-29 00:22:39
 10587175,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10587175/data-center-chief-engineer,Andrews, TX, USA,Posted October 28, 2026,2026-10-29 00:22:39
 10591361,Data Engineer II, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10591361/data-engineer-ii-aws-analytics-engineering,Seattle, WA, USA,Posted October 29, 2026,2026-10-29 04:35:52
+10591672,Quality Assurance Engineer II - AMZ27362.1,https://www.amazon.jobs/en/jobs/10591672/quality-assurance-engineer-ii-amz27362-1,Sunnyvale, CA, USA,Posted October 28, 2026,2026-10-29 15:09:14
