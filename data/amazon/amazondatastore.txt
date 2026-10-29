@@ -1336,3 +1336,4 @@ SEATTLE, WA, USA,Posted October 27, 2026,2026-10-27 23:34:55
 10591546,Software Development Manager, AI Foundations, Amazon Leo AI Foundations,https://www.amazon.jobs/en/jobs/10591546/software-development-manager-ai-foundations-amazon-leo-ai-foundations,Redmond, WA, USA,Posted October 28, 2026,2026-10-28 22:08:42
 10587176,Data Center Chief Engineer Night Role,https://www.amazon.jobs/en/jobs/10587176/data-center-chief-engineer-night-role,Andrews, TX, USA,Posted October 29, 2026,2026-10-29 00:22:39
 10587175,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10587175/data-center-chief-engineer,Andrews, TX, USA,Posted October 28, 2026,2026-10-29 00:22:39
+10591361,Data Engineer II, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10591361/data-engineer-ii-aws-analytics-engineering,Seattle, WA, USA,Posted October 29, 2026,2026-10-29 04:35:52
