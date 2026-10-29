@@ -1339,3 +1339,7 @@ SEATTLE, WA, USA,Posted October 27, 2026,2026-10-27 23:34:55
 10591361,Data Engineer II, AWS Analytics Engineering,https://www.amazon.jobs/en/jobs/10591361/data-engineer-ii-aws-analytics-engineering,Seattle, WA, USA,Posted October 29, 2026,2026-10-29 04:35:52
 10591672,Quality Assurance Engineer II - AMZ27362.1,https://www.amazon.jobs/en/jobs/10591672/quality-assurance-engineer-ii-amz27362-1,Sunnyvale, CA, USA,Posted October 28, 2026,2026-10-29 15:09:14
 10592334,Data Engineer, WW Ops Finance S&A,https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a,Bellevue, WA, USA,Posted October 29, 2026,2026-10-29 16:35:28
+10592915,Senior Business Intelligence Engineer, North America Supply Chain Execution Strategy,https://www.amazon.jobs/en/jobs/10592915/senior-business-intelligence-engineer-north-america-supply-chain-execution-strategy,Arlington, VA, USA
+Austin, TX, USA
+Bellevue, WA, USA
++2 other locations,Posted October 29, 2026,2026-10-29 19:35:42
