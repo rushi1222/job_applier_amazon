@@ -389,3 +389,4 @@
 200692290,Software Development Engineer in Test (SDET), Creative Apps,https://jobs.apple.com/en-us/details/200692290/software-development-engineer-in-test-sdet-creative-apps,Cupertino,2026-10-28T22:05:10.169Z,2026-10-28 22:09:56
 200653511,Senior Software Engineer — Full Stack ,https://jobs.apple.com/en-us/details/200653511/senior-software-engineer-full-stack,Cupertino,2026-10-28T23:08:58.618Z,2026-10-28 23:09:04
 200692365,Software Development Engineer - Tools,https://jobs.apple.com/en-us/details/200692365/software-development-engineer-tools,San Diego,2026-10-29T00:42:06.370Z,2026-10-29 00:54:37
+200692377,Software Development Engineer-Health,https://jobs.apple.com/en-us/details/200692377/software-development-engineer-health,Sunnyvale,2026-10-29T01:06:45.104Z,2026-10-29 01:10:42
