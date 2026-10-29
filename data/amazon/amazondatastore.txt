@@ -1334,3 +1334,5 @@ SEATTLE, WA, USA,Posted October 27, 2026,2026-10-27 23:34:55
 10590795,Data Engineer, Global Logistics Product Analytics Team,https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team,Bellevue, WA, USA,Posted October 28, 2026,2026-10-28 14:34:55
 10591325,Data Center Controls Engineer, Data Center Capacity Delivery - Controls,https://www.amazon.jobs/en/jobs/10591325/data-center-controls-engineer-data-center-capacity-delivery-controls,Trenton, OH, USA,Posted October 28, 2026,2026-10-28 17:35:42
 10591546,Software Development Manager, AI Foundations, Amazon Leo AI Foundations,https://www.amazon.jobs/en/jobs/10591546/software-development-manager-ai-foundations-amazon-leo-ai-foundations,Redmond, WA, USA,Posted October 28, 2026,2026-10-28 22:08:42
+10587176,Data Center Chief Engineer Night Role,https://www.amazon.jobs/en/jobs/10587176/data-center-chief-engineer-night-role,Andrews, TX, USA,Posted October 29, 2026,2026-10-29 00:22:39
+10587175,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10587175/data-center-chief-engineer,Andrews, TX, USA,Posted October 28, 2026,2026-10-29 00:22:39
