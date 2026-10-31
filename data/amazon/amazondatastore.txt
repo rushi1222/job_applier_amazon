@@ -1351,3 +1351,4 @@ Columbus, OH, USA
 10593738,Controls Engineer, Data Center, Colocation Regional Engineering - AMER,https://www.amazon.jobs/en/jobs/10593738/controls-engineer-data-center-colocation-regional-engineering-amer,Denver, CO, USA,Posted October 30, 2026,2026-10-30 21:06:37
 10593828,Data Center Structural Engineer, AMER Design Engineering - East Regional Team,https://www.amazon.jobs/en/jobs/10593828/data-center-structural-engineer-amer-design-engineering-east-regional-team,Herndon, VA, USA,Posted October 30, 2026,2026-10-30 21:06:37
 10593873,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10593873/data-center-chief-engineer,Boardman, OR, USA,Posted October 30, 2026,2026-10-30 21:34:11
+10593724,Facility Operations Center (FOC) Engineer, Facility Operations Center,https://www.amazon.jobs/en/jobs/10593724/facility-operations-center-foc-engineer-facility-operations-center,Herndon, VA, USA,Posted October 31, 2026,2026-10-31 04:08:29
