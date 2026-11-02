@@ -408,3 +408,5 @@
 200690727,Sr. Software Engineer, Infrastructure Services,https://jobs.apple.com/en-us/details/200690727/sr-software-engineer-infrastructure-services,Sunnyvale,2026-11-02T18:39:55.141Z,2026-11-02 19:07:45
 200692906,Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience,https://jobs.apple.com/en-us/details/200692906/software-engineer-ios-engineer-springboard-multitasking-system-experience,Cupertino,2026-11-02T20:21:17.523Z,2026-11-02 20:35:19
 200692522,Senior Software Engineer — Service Observability & Detection,https://jobs.apple.com/en-us/details/200692522/senior-software-engineer-service-observability-detection,Cupertino,2026-11-02T21:43:18.197Z,2026-11-02 22:08:45
+200692944,Senior Software Engineer - 3D Vision & Perception,https://jobs.apple.com/en-us/details/200692944/senior-software-engineer-3d-vision-perception,Sunnyvale,2026-11-02T22:33:44.818Z,2026-11-02 22:35:26
+200692999,Senior Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200692999/senior-software-engineer-apple-services-engineering,Cupertino,2026-11-02T22:26:49.478Z,2026-11-02 22:35:26
