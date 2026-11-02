@@ -401,3 +401,4 @@
 200692583,Sr. Software Engineer for Location and Spatial Awareness - Daemon / Framework engineer, Sensing & Connectivity,https://jobs.apple.com/en-us/details/200692583/sr-software-engineer-for-location-and-spatial-awareness-daemon-framework-engineer-sensing-connectivity,Cupertino,2026-10-30T22:24:25.740Z,2026-10-30 22:35:20
 200691946,Engineering Program Manager, SWE Security,https://jobs.apple.com/en-us/details/200691946/engineering-program-manager-swe-security,Cupertino,2026-11-02T00:00:00.000Z,2026-11-02 00:22:08
 200692103,Software Engineer, watchOS Apps & Experiences,https://jobs.apple.com/en-us/details/200692103/software-engineer-watchos-apps-experiences,Cupertino,2026-11-02T16:32:46.263Z,2026-11-02 16:36:10
+200692741,Senior Software Engineer - Distributed Systems,https://jobs.apple.com/en-us/details/200692741/senior-software-engineer-distributed-systems,San Diego,2026-11-02T17:07:29.709Z,2026-11-02 17:08:00
