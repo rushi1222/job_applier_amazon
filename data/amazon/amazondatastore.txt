@@ -1353,3 +1353,4 @@ Columbus, OH, USA
 10593873,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10593873/data-center-chief-engineer,Boardman, OR, USA,Posted October 30, 2026,2026-10-30 21:34:11
 10593724,Facility Operations Center (FOC) Engineer, Facility Operations Center,https://www.amazon.jobs/en/jobs/10593724/facility-operations-center-foc-engineer-facility-operations-center,Herndon, VA, USA,Posted October 31, 2026,2026-10-31 04:08:29
 10593815,Software Dev Engineer III - AMZ26892.1,https://www.amazon.jobs/en/jobs/10593815/software-dev-engineer-iii-amz26892-1,Miami, FL, USA,Posted October 30, 2026,2026-11-01 17:06:05
+10594574,Business Intel Engineer III - AMZ9599350,https://www.amazon.jobs/en/jobs/10594574/business-intel-engineer-iii-amz9599350,San Diego, CA, USA,Posted November 2, 2026,2026-11-02 18:09:31
