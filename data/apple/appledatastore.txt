@@ -412,3 +412,4 @@
 200692999,Senior Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200692999/senior-software-engineer-apple-services-engineering,Cupertino,2026-11-02T22:26:49.478Z,2026-11-02 22:35:26
 200692562,Security Software Engineering Manager, SEAR ,https://jobs.apple.com/en-us/details/200692562/security-software-engineering-manager-sear,Cupertino,2026-11-02T22:46:45.085Z,2026-11-02 23:08:10
 200693053,iOS Application Developer - Health Software,https://jobs.apple.com/en-us/details/200693053/ios-application-developer-health-software,Sunnyvale,2026-11-03T00:22:56.005Z,2026-11-03 00:46:38
+200693087,Software Engineer - Visual Intelligence,https://jobs.apple.com/en-us/details/200693087/software-engineer-visual-intelligence,Seattle,2026-11-03T15:33:23.893Z,2026-11-03 15:36:07
