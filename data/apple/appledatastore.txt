@@ -416,3 +416,5 @@
 200691979,Applied Research Software Engineer,https://jobs.apple.com/en-us/details/200691979/applied-research-software-engineer,San Jose,2026-11-03T17:22:58.504Z,2026-11-03 17:35:28
 200692539,Software Engineer (Marcom Interactive Apps), Retail and Marcom Engineering,https://jobs.apple.com/en-us/details/200692539/software-engineer-marcom-interactive-apps-retail-and-marcom-engineering,Sunnyvale,2026-11-03T17:46:40.707Z,2026-11-03 18:10:24
 200690609,Senior Software Engineer, Security Authorization,https://jobs.apple.com/en-us/details/200690609/senior-software-engineer-security-authorization,Seattle,2026-11-03T18:45:32.733Z,2026-11-03 19:07:43
+200692974,Software Development Engineer - Test,https://jobs.apple.com/en-us/details/200692974/software-development-engineer-test,Sunnyvale,2026-11-03T19:08:59.765Z,2026-11-03 19:35:53
+200693002,Software Engineer - VE,https://jobs.apple.com/en-us/details/200693002/software-engineer-ve,Cupertino,2026-11-03T19:08:51.371Z,2026-11-03 19:35:53
