@@ -418,3 +418,4 @@
 200690609,Senior Software Engineer, Security Authorization,https://jobs.apple.com/en-us/details/200690609/senior-software-engineer-security-authorization,Seattle,2026-11-03T18:45:32.733Z,2026-11-03 19:07:43
 200692974,Software Development Engineer - Test,https://jobs.apple.com/en-us/details/200692974/software-development-engineer-test,Sunnyvale,2026-11-03T19:08:59.765Z,2026-11-03 19:35:53
 200693002,Software Engineer - VE,https://jobs.apple.com/en-us/details/200693002/software-engineer-ve,Cupertino,2026-11-03T19:08:51.371Z,2026-11-03 19:35:53
+200690613,Senior Software Engineer - Security Automation,https://jobs.apple.com/en-us/details/200690613/senior-software-engineer-security-automation,Seattle,2026-11-03T21:34:07.843Z,2026-11-03 21:35:15
