@@ -1377,3 +1377,4 @@ Santa Clara, CA, USA
 +1 other locations,Posted November 3, 2026,2026-11-03 17:34:15
 10595558,Data Center Mechanical Infrastructure Engineer, JAN Field Engineering,https://www.amazon.jobs/en/jobs/10595558/data-center-mechanical-infrastructure-engineer-jan-field-engineering,Canton, MS, USA,Posted November 3, 2026,2026-11-03 18:09:11
 10595880,Data Engineer, WW Pricing - Data & Analytics,https://www.amazon.jobs/en/jobs/10595880/data-engineer-ww-pricing-data-analytics,Seattle, WA, USA,Posted November 3, 2026,2026-11-03 20:34:23
+10595968,Project Engineer, Data Center Construction,https://www.amazon.jobs/en/jobs/10595968/project-engineer-data-center-construction,Benton, LA, USA,Posted November 3, 2026,2026-11-03 22:06:36
