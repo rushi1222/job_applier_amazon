@@ -420,3 +420,4 @@
 200693002,Software Engineer - VE,https://jobs.apple.com/en-us/details/200693002/software-engineer-ve,Cupertino,2026-11-03T19:08:51.371Z,2026-11-03 19:35:53
 200690613,Senior Software Engineer - Security Automation,https://jobs.apple.com/en-us/details/200690613/senior-software-engineer-security-automation,Seattle,2026-11-03T21:34:07.843Z,2026-11-03 21:35:15
 200693199,AI Software Engineer, App Intelligence,https://jobs.apple.com/en-us/details/200693199/ai-software-engineer-app-intelligence,Cupertino,2026-11-03T22:21:28.466Z,2026-11-03 22:35:38
+200682065,Software Engineering Manager - Analytics Platform,https://jobs.apple.com/en-us/details/200682065/software-engineering-manager-analytics-platform,Cupertino,2026-11-03T23:27:32.855Z,2026-11-03 23:35:13
