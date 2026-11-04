@@ -1389,3 +1389,4 @@ LITHIA SPRINGS, GA, USA,Posted November 4, 2026,2026-11-04 02:10:17
 Seattle, WA, USA,Posted November 4, 2026,2026-11-04 13:07:38
 10596530,Software Development Manager, Robotic Movement team,https://www.amazon.jobs/en/jobs/10596530/software-development-manager-robotic-movement-team,Westboro, MA, USA,Posted November 4, 2026,2026-11-04 16:08:08
 10593917,Software Development Manager,https://www.amazon.jobs/en/jobs/10593917/software-development-manager,Austin, TX, USA,Posted November 4, 2026,2026-11-04 16:34:37
+10596935,Software Development Manager, Amazon Robotics,https://www.amazon.jobs/en/jobs/10596935/software-development-manager-amazon-robotics,Bellevue, WA, USA,Posted November 4, 2026,2026-11-04 20:07:51
