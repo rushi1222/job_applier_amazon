@@ -425,3 +425,5 @@
 200692665,Senior Software Engineer (Backend), Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200692665/senior-software-engineer-backend-retail-marcom-engineering,Sunnyvale,2026-11-03T23:52:13.317Z,2026-11-04 00:20:35
 200692891,Sr. Platform Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200692891/sr-platform-software-engineer-ai-data-platforms-aidp,Austin,2026-11-03T23:44:43.725Z,2026-11-04 00:20:35
 200693310,Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML),https://jobs.apple.com/en-us/details/200693310/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml,Seattle,2026-11-04T00:30:38.149Z,2026-11-04 00:46:07
+200680546,Bluetooth Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200680546/bluetooth-software-engineer-wireless-technologies-ecosystems,San Diego,2026-11-04T01:06:35.528Z,2026-11-04 01:09:09
+200693309,Software Engineering Systems,https://jobs.apple.com/en-us/details/200693309/software-engineering-systems,Cupertino,2026-11-04T00:52:00.925Z,2026-11-04 01:09:09
