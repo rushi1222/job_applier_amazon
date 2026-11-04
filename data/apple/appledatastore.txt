@@ -433,3 +433,4 @@
 200693489,Hardware/Software Modeling and Validation Engineer,https://jobs.apple.com/en-us/details/200693489/hardware-software-modeling-and-validation-engineer,Cupertino,2026-11-04T19:56:23.016Z,2026-11-04 20:09:05
 200693470,Hardware/Software Modeling and Validation Engineer,https://jobs.apple.com/en-us/details/200693470/hardware-software-modeling-and-validation-engineer,Cupertino,2026-11-04T19:54:47.593Z,2026-11-04 20:09:05
 200663027,Senior Software Development Engineer Test - Customer Systems,https://jobs.apple.com/en-us/details/200663027/senior-software-development-engineer-test-customer-systems,Sunnyvale,2026-11-04T19:38:11.286Z,2026-11-04 20:09:05
+200692542,Software Automation Engineer, Test Platforms - Media, Graphics & Compute Tech,https://jobs.apple.com/en-us/details/200692542/software-automation-engineer-test-platforms-media-graphics-compute-tech,San Diego Metro Area,2026-11-04T21:21:57.530Z,2026-11-04 21:35:47
