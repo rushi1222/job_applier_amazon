@@ -1392,3 +1392,7 @@ Seattle, WA, USA,Posted November 4, 2026,2026-11-04 13:07:38
 10596935,Software Development Manager, Amazon Robotics,https://www.amazon.jobs/en/jobs/10596935/software-development-manager-amazon-robotics,Bellevue, WA, USA,Posted November 4, 2026,2026-11-04 20:07:51
 10597081,Sr. Data Engineer - Amazon Leo, Leo Global Business,https://www.amazon.jobs/en/jobs/10597081/sr-data-engineer-amazon-leo-leo-global-business,Bellevue, WA, USA
 BELLEVUE, WA, USA,Posted November 4, 2026,2026-11-04 22:06:48
+10597200,Controls Engineer, Data Center, Colocation Regional Engineering - AMER,https://www.amazon.jobs/en/jobs/10597200/controls-engineer-data-center-colocation-regional-engineering-amer,Atlanta, GA, USA
+Austin, TX, USA
+Boardman, OR, USA
++6 other locations,Posted November 4, 2026,2026-11-04 22:34:25
