@@ -421,3 +421,6 @@
 200690613,Senior Software Engineer - Security Automation,https://jobs.apple.com/en-us/details/200690613/senior-software-engineer-security-automation,Seattle,2026-11-03T21:34:07.843Z,2026-11-03 21:35:15
 200693199,AI Software Engineer, App Intelligence,https://jobs.apple.com/en-us/details/200693199/ai-software-engineer-app-intelligence,Cupertino,2026-11-03T22:21:28.466Z,2026-11-03 22:35:38
 200682065,Software Engineering Manager - Analytics Platform,https://jobs.apple.com/en-us/details/200682065/software-engineering-manager-analytics-platform,Cupertino,2026-11-03T23:27:32.855Z,2026-11-03 23:35:13
+200690757,Software Engineer, Content Management Systems - Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200690757/software-engineer-content-management-systems-retail-marcom-engineering,Austin,2026-11-03T23:52:53.172Z,2026-11-04 00:20:35
+200692665,Senior Software Engineer (Backend), Retail & Marcom Engineering,https://jobs.apple.com/en-us/details/200692665/senior-software-engineer-backend-retail-marcom-engineering,Sunnyvale,2026-11-03T23:52:13.317Z,2026-11-04 00:20:35
+200692891,Sr. Platform Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200692891/sr-platform-software-engineer-ai-data-platforms-aidp,Austin,2026-11-03T23:44:43.725Z,2026-11-04 00:20:35
