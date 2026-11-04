@@ -427,3 +427,4 @@
 200693310,Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML),https://jobs.apple.com/en-us/details/200693310/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml,Seattle,2026-11-04T00:30:38.149Z,2026-11-04 00:46:07
 200680546,Bluetooth Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200680546/bluetooth-software-engineer-wireless-technologies-ecosystems,San Diego,2026-11-04T01:06:35.528Z,2026-11-04 01:09:09
 200693309,Software Engineering Systems,https://jobs.apple.com/en-us/details/200693309/software-engineering-systems,Cupertino,2026-11-04T00:52:00.925Z,2026-11-04 01:09:09
+200693427,Forward Deployed Software Engineer - Platforms Engineering, Enterprise Technology Services,https://jobs.apple.com/en-us/details/200693427/forward-deployed-software-engineer-platforms-engineering-enterprise-technology-services,Austin,2026-11-04T17:05:27.900Z,2026-11-04 17:07:47
