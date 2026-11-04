@@ -1385,3 +1385,5 @@ Chicago, IL, USA
 +3 other locations,Posted November 4, 2026,2026-11-04 00:44:53
 10596128,Regional Chief Engineer,https://www.amazon.jobs/en/jobs/10596128/regional-chief-engineer,Lithia Springs, GA, USA
 LITHIA SPRINGS, GA, USA,Posted November 4, 2026,2026-11-04 02:10:17
+10596393,Software Development Engineer III, Resilience Infrastruction and Solutions: Incident Mitigation,https://www.amazon.jobs/en/jobs/10596393/software-development-engineer-iii-resilience-infrastruction-and-solutions-incident-mitigation,Portland, OR, USA
+Seattle, WA, USA,Posted November 4, 2026,2026-11-04 13:07:38
