@@ -1379,3 +1379,7 @@ Santa Clara, CA, USA
 10595880,Data Engineer, WW Pricing - Data & Analytics,https://www.amazon.jobs/en/jobs/10595880/data-engineer-ww-pricing-data-analytics,Seattle, WA, USA,Posted November 3, 2026,2026-11-03 20:34:23
 10595968,Project Engineer, Data Center Construction,https://www.amazon.jobs/en/jobs/10595968/project-engineer-data-center-construction,Benton, LA, USA,Posted November 3, 2026,2026-11-03 22:06:36
 10595565,Software Development Engineer, Data and Analytics,https://www.amazon.jobs/en/jobs/10595565/software-development-engineer-data-and-analytics,Virtual, USA,Posted November 3, 2026,2026-11-03 23:06:25
+10596104,Product Design Electrical Engineer, Data Center Engineering - Electrical Products and Services (DCE-EPS),https://www.amazon.jobs/en/jobs/10596104/product-design-electrical-engineer-data-center-engineering-electrical-products-and-services-dce-eps,Atlanta, GA, USA
+Austin, TX, USA
+Chicago, IL, USA
++3 other locations,Posted November 4, 2026,2026-11-04 00:44:53
