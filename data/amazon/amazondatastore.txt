@@ -1411,3 +1411,4 @@ BELLEVUE, WA, USA,Posted November 5, 2026,2026-11-05 06:13:06
 10597548,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597548/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:08:27
 10597585,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597585/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:34:41
 10597679,Bus Intel EngIII - 10563836,https://www.amazon.jobs/en/jobs/10597679/bus-intel-engiii-10563836,Orlando, FL, USA,Posted November 5, 2026,2026-11-05 16:08:41
+10597793,Systems Development Engineer II, AWS Cross Domain Services (CDS),https://www.amazon.jobs/en/jobs/10597793/systems-development-engineer-ii-aws-cross-domain-services-cds,Herndon, VA, USA,Posted November 5, 2026,2026-11-05 17:34:37
