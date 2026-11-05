@@ -438,3 +438,4 @@
 200693290,Cellular Software Enablement Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200693290/cellular-software-enablement-engineer-wireless-technologies-ecosystems,Sunnyvale,2026-11-04T22:37:52.483Z,2026-11-04 23:08:05
 200693302,Senior Software Engineer - Apple Vision Pro,https://jobs.apple.com/en-us/details/200693302/senior-software-engineer-apple-vision-pro,Los Angeles,2026-11-04T23:45:15.195Z,2026-11-05 00:21:38
 200691326,Software Development Engineer,https://jobs.apple.com/en-us/details/200691326/software-development-engineer,Austin,2026-11-05T16:25:50.819Z,2026-11-05 16:36:44
+200693628,Senior Software Engineer - Compute,https://jobs.apple.com/en-us/details/200693628/senior-software-engineer-compute,Cupertino,2026-11-05T18:34:22.708Z,2026-11-05 18:35:37
