@@ -442,3 +442,4 @@
 200693606,MultiRadio Coex Software QA Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200693606/multiradio-coex-software-qa-engineer-wireless-technologies-ecosystems,Cupertino,2026-11-05T19:07:05.547Z,2026-11-05 19:07:27
 200666022,Sr. Software Engineer, Customer Systems ,https://jobs.apple.com/en-us/details/200666022/sr-software-engineer-customer-systems,Austin,2026-11-05T19:32:49.705Z,2026-11-05 19:35:17
 200693720,Software Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200693720/software-engineer-watch-software,Cupertino,2026-11-05T19:17:25.255Z,2026-11-05 19:35:17
+200693226,Senior Application Software Engineer - Spatial Intelligence Experiences, Vision Products Software,https://jobs.apple.com/en-us/details/200693226/senior-application-software-engineer-spatial-intelligence-experiences-vision-products-software,Seattle,2026-11-05T21:20:07.963Z,2026-11-05 21:35:41
