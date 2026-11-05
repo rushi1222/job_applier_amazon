@@ -1404,3 +1404,8 @@ Chicago, IL, USA
 +2 other locations,Posted November 5, 2026,2026-11-05 00:45:30
 10597409,Senior Business Intelligence Engineer, Amazon Leo,https://www.amazon.jobs/en/jobs/10597409/senior-business-intelligence-engineer-amazon-leo,Bellevue, WA, USA
 BELLEVUE, WA, USA,Posted November 5, 2026,2026-11-05 06:13:06
+10597566,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597566/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:08:27
+10597573,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597573/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:08:27
+10597550,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597550/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:08:27
+10597549,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597549/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:08:27
+10597548,Data Center Chief Engineer - Nights,https://www.amazon.jobs/en/jobs/10597548/data-center-chief-engineer-nights,Jeffersonville, OH, USA,Posted November 5, 2026,2026-11-05 13:08:27
