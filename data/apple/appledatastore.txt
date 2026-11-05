@@ -440,3 +440,5 @@
 200691326,Software Development Engineer,https://jobs.apple.com/en-us/details/200691326/software-development-engineer,Austin,2026-11-05T16:25:50.819Z,2026-11-05 16:36:44
 200693628,Senior Software Engineer - Compute,https://jobs.apple.com/en-us/details/200693628/senior-software-engineer-compute,Cupertino,2026-11-05T18:34:22.708Z,2026-11-05 18:35:37
 200693606,MultiRadio Coex Software QA Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200693606/multiradio-coex-software-qa-engineer-wireless-technologies-ecosystems,Cupertino,2026-11-05T19:07:05.547Z,2026-11-05 19:07:27
+200666022,Sr. Software Engineer, Customer Systems ,https://jobs.apple.com/en-us/details/200666022/sr-software-engineer-customer-systems,Austin,2026-11-05T19:32:49.705Z,2026-11-05 19:35:17
+200693720,Software Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200693720/software-engineer-watch-software,Cupertino,2026-11-05T19:17:25.255Z,2026-11-05 19:35:17
