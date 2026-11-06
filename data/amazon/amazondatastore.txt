@@ -1413,3 +1413,4 @@ BELLEVUE, WA, USA,Posted November 5, 2026,2026-11-05 06:13:06
 10597679,Bus Intel EngIII - 10563836,https://www.amazon.jobs/en/jobs/10597679/bus-intel-engiii-10563836,Orlando, FL, USA,Posted November 5, 2026,2026-11-05 16:08:41
 10597793,Systems Development Engineer II, AWS Cross Domain Services (CDS),https://www.amazon.jobs/en/jobs/10597793/systems-development-engineer-ii-aws-cross-domain-services-cds,Herndon, VA, USA,Posted November 5, 2026,2026-11-05 17:34:37
 10598162,Data Engineer I, Secure Third Party Tools (S3T),https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t,Austin, TX, USA,Posted November 5, 2026,2026-11-05 21:34:28
+10598572,Data Center Chief Engineer, ATL89,https://www.amazon.jobs/en/jobs/10598572/data-center-chief-engineer-atl89,Covington, GA, USA,Posted November 6, 2026,2026-11-06 13:34:33
