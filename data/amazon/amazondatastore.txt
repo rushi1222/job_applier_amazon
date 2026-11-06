@@ -1420,3 +1420,4 @@ Austin, TX, USA
 Boston, MA, USA
 +7 other locations,Posted November 6, 2026,2026-11-06 17:06:57
 10598886,Software Development Manager,https://www.amazon.jobs/en/jobs/10598886/software-development-manager,Redmond, WA, USA,Posted November 6, 2026,2026-11-06 18:10:43
+10599006,Project Engineer, DCCD,https://www.amazon.jobs/en/jobs/10599006/project-engineer-dccd,Stafford, VA, USA,Posted November 6, 2026,2026-11-06 20:07:58
