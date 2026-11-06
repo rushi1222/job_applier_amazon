@@ -1419,3 +1419,4 @@ BELLEVUE, WA, USA,Posted November 5, 2026,2026-11-05 06:13:06
 Austin, TX, USA
 Boston, MA, USA
 +7 other locations,Posted November 6, 2026,2026-11-06 17:06:57
+10598886,Software Development Manager,https://www.amazon.jobs/en/jobs/10598886/software-development-manager,Redmond, WA, USA,Posted November 6, 2026,2026-11-06 18:10:43
