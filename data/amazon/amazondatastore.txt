@@ -1414,3 +1414,8 @@ BELLEVUE, WA, USA,Posted November 5, 2026,2026-11-05 06:13:06
 10597793,Systems Development Engineer II, AWS Cross Domain Services (CDS),https://www.amazon.jobs/en/jobs/10597793/systems-development-engineer-ii-aws-cross-domain-services-cds,Herndon, VA, USA,Posted November 5, 2026,2026-11-05 17:34:37
 10598162,Data Engineer I, Secure Third Party Tools (S3T),https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t,Austin, TX, USA,Posted November 5, 2026,2026-11-05 21:34:28
 10598572,Data Center Chief Engineer, ATL89,https://www.amazon.jobs/en/jobs/10598572/data-center-chief-engineer-atl89,Covington, GA, USA,Posted November 6, 2026,2026-11-06 13:34:33
+10598798,Senior Software Development Engineer, Rendering Foundations,https://www.amazon.jobs/en/jobs/10598798/senior-software-development-engineer-rendering-foundations,Seattle, WA, USA,Posted November 6, 2026,2026-11-06 17:06:57
+10598803,Data Engineer, Deal Intelligence & Automation, AWS GDSP,https://www.amazon.jobs/en/jobs/10598803/data-engineer-deal-intelligence-automation-aws-gdsp,Arlington, VA, USA
+Austin, TX, USA
+Boston, MA, USA
++7 other locations,Posted November 6, 2026,2026-11-06 17:06:57
