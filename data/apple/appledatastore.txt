@@ -449,3 +449,4 @@
 200693908,AI Software Evaluation Engineer, Siri AI Quality,https://jobs.apple.com/en-us/details/200693908/ai-software-evaluation-engineer-siri-ai-quality,Cupertino,2026-11-06T19:52:58.679Z,2026-11-06 20:09:11
 200665281,Wi-Fi Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200665281/wi-fi-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-11-06T21:09:45.780Z,2026-11-06 21:35:16
 200693283,AI Operations, Applied AI Research and Design Developer,https://jobs.apple.com/en-us/details/200693283/ai-operations-applied-ai-research-and-design-developer,Cupertino,2026-11-06T21:42:36.722Z,2026-11-06 22:08:35
+200690608,Security Engineer - Developer Experience,https://jobs.apple.com/en-us/details/200690608/security-engineer-developer-experience,Seattle,2026-11-06T23:58:06.102Z,2026-11-07 00:18:59
