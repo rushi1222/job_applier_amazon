@@ -455,3 +455,4 @@
 200690865,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200690865/senior-systems-engineer-watch-software,San Diego,2026-11-09T14:30:16.049Z,2026-11-09 14:35:44
 200693863,Senior Software Engineer,https://jobs.apple.com/en-us/details/200693863/senior-software-engineer,Cupertino,2026-11-09T17:26:14.434Z,2026-11-09 17:35:42
 200692268,Location Software Engineer,https://jobs.apple.com/en-us/details/200692268/location-software-engineer,San Diego,2026-11-09T21:24:03.996Z,2026-11-09 21:35:32
+200694167,Software Engineer, Deployment Platform MultiCloud,https://jobs.apple.com/en-us/details/200694167/software-engineer-deployment-platform-multicloud,San Diego,2026-11-09T22:37:49.383Z,2026-11-09 23:07:42
