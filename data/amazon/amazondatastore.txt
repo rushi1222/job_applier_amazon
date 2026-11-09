@@ -1421,3 +1421,5 @@ Boston, MA, USA
 +7 other locations,Posted November 6, 2026,2026-11-06 17:06:57
 10598886,Software Development Manager,https://www.amazon.jobs/en/jobs/10598886/software-development-manager,Redmond, WA, USA,Posted November 6, 2026,2026-11-06 18:10:43
 10599006,Project Engineer, DCCD,https://www.amazon.jobs/en/jobs/10599006/project-engineer-dccd,Stafford, VA, USA,Posted November 6, 2026,2026-11-06 20:07:58
+10599883,Sr. Database & AI GTM Specialist, Startups, WWSO Startup GTM,https://www.amazon.jobs/en/jobs/10599883/sr-database-ai-gtm-specialist-startups-wwso-startup-gtm,New York, NY, USA
+San Francisco, CA, USA,Posted November 9, 2026,2026-11-09 16:34:17
