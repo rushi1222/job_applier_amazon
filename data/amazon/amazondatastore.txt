@@ -1424,3 +1424,4 @@ Boston, MA, USA
 10599883,Sr. Database & AI GTM Specialist, Startups, WWSO Startup GTM,https://www.amazon.jobs/en/jobs/10599883/sr-database-ai-gtm-specialist-startups-wwso-startup-gtm,New York, NY, USA
 San Francisco, CA, USA,Posted November 9, 2026,2026-11-09 16:34:17
 10600170,Software Development Engineer II, Managed Rendering for App,https://www.amazon.jobs/en/jobs/10600170/software-development-engineer-ii-managed-rendering-for-app,Seattle, WA, USA,Posted November 9, 2026,2026-11-09 19:06:20
+10600212,Data Center Controls Engineer, Midland, TX,https://www.amazon.jobs/en/jobs/10600212/data-center-controls-engineer-midland-tx,Odessa, TX, USA,Posted November 9, 2026,2026-11-09 19:34:23
