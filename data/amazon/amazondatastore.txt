@@ -1423,3 +1423,4 @@ Boston, MA, USA
 10599006,Project Engineer, DCCD,https://www.amazon.jobs/en/jobs/10599006/project-engineer-dccd,Stafford, VA, USA,Posted November 6, 2026,2026-11-06 20:07:58
 10599883,Sr. Database & AI GTM Specialist, Startups, WWSO Startup GTM,https://www.amazon.jobs/en/jobs/10599883/sr-database-ai-gtm-specialist-startups-wwso-startup-gtm,New York, NY, USA
 San Francisco, CA, USA,Posted November 9, 2026,2026-11-09 16:34:17
+10600170,Software Development Engineer II, Managed Rendering for App,https://www.amazon.jobs/en/jobs/10600170/software-development-engineer-ii-managed-rendering-for-app,Seattle, WA, USA,Posted November 9, 2026,2026-11-09 19:06:20
