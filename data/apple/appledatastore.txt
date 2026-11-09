@@ -453,3 +453,4 @@
 200693977,Senior Software Developer in Test - Embedded Sensors QE, Core OS,https://jobs.apple.com/en-us/details/200693977/senior-software-developer-in-test-embedded-sensors-qe-core-os,Cupertino,2026-11-07T01:55:27.471Z,2026-11-07 02:11:15
 200693933,Machine Learning System Software Engineer,https://jobs.apple.com/en-us/details/200693933/machine-learning-system-software-engineer,Sunnyvale,2026-11-08T21:57:45.870Z,2026-11-08 22:08:03
 200690865,Senior Systems Engineer, Watch Software ,https://jobs.apple.com/en-us/details/200690865/senior-systems-engineer-watch-software,San Diego,2026-11-09T14:30:16.049Z,2026-11-09 14:35:44
+200693863,Senior Software Engineer,https://jobs.apple.com/en-us/details/200693863/senior-software-engineer,Cupertino,2026-11-09T17:26:14.434Z,2026-11-09 17:35:42
