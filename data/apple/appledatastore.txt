@@ -457,3 +457,5 @@
 200692268,Location Software Engineer,https://jobs.apple.com/en-us/details/200692268/location-software-engineer,San Diego,2026-11-09T21:24:03.996Z,2026-11-09 21:35:32
 200694167,Software Engineer, Deployment Platform MultiCloud,https://jobs.apple.com/en-us/details/200694167/software-engineer-deployment-platform-multicloud,San Diego,2026-11-09T22:37:49.383Z,2026-11-09 23:07:42
 200693896,Software Engineer, Contacts ,https://jobs.apple.com/en-us/details/200693896/software-engineer-contacts,Cupertino,2026-11-09T23:11:38.813Z,2026-11-09 23:35:26
+200692246,Software Development Engineer - Cellular (Instrument Engineering),https://jobs.apple.com/en-us/details/200692246/software-development-engineer-cellular-instrument-engineering,San Diego,2026-11-10T01:16:25.098Z,2026-11-10 01:37:50
+200694215,AI Software Engineer - Calendar Intelligence,https://jobs.apple.com/en-us/details/200694215/ai-software-engineer-calendar-intelligence,Cupertino,2026-11-10T01:15:13.572Z,2026-11-10 01:37:50
