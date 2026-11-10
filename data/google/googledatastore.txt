@@ -10002,3 +10002,4 @@
 92726456605385414,Product Manager Ii,https://www.google.com/about/careers/applications/jobs/results/92726456605385414-product-manager-ii?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-11-10 10:09:18
 124548522136478406,Staff Software Engineer Deepmind,https://www.google.com/about/careers/applications/jobs/results/124548522136478406-staff-software-engineer-deepmind?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-11-10 10:09:18
 114138346044695238,Group Product Manager,https://www.google.com/about/careers/applications/jobs/results/114138346044695238-group-product-manager?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-11-10 10:09:18
+90089827721978566,Engineering Manager Agent Registry,https://www.google.com/about/careers/applications/jobs/results/90089827721978566-engineering-manager-agent-registry?q=software%20developer&location=USA&sort_by=date,N/A,None,2026-11-10 11:08:14
