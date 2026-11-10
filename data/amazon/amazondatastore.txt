@@ -1429,3 +1429,9 @@ San Francisco, CA, USA,Posted November 9, 2026,2026-11-09 16:34:17
 10600903,Software Development Engineer, Amazon Customer Service,https://www.amazon.jobs/en/jobs/10600903/software-development-engineer-amazon-customer-service,Seattle, WA, USA,Posted November 10, 2026,2026-11-10 09:34:27
 10594739,Quality Assurance Engineer III - AMZ21815.4,https://www.amazon.jobs/en/jobs/10594739/quality-assurance-engineer-iii-amz21815-4,Austin, TX, USA,Posted November 2, 2026,2026-11-10 16:08:49
 10600521,Data Engineer III - AMZ27926.2,https://www.amazon.jobs/en/jobs/10600521/data-engineer-iii-amz27926-2,Austin, TX, USA,Posted November 9, 2026,2026-11-10 16:08:49
+10601223,DC Civil Engineer, DCDE AMER Civil East, AWS DC Engineering,https://www.amazon.jobs/en/jobs/10601223/dc-civil-engineer-dcde-amer-civil-east-aws-dc-engineering,Chicago, IL, USA
+COLUMBUS, OH, USA
+Herndon, VA, USA,Posted November 10, 2026,2026-11-10 17:06:35
+10601215,Fire Protection Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10601215/fire-protection-engineer-data-center-design-engineering,Austin, TX, USA
+Herndon, VA, USA
+Seattle, WA, USA,Posted November 10, 2026,2026-11-10 17:06:35
