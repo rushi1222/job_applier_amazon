@@ -464,3 +464,4 @@
 200693892,Software Development Engineer - System Analytics & Intelligence (SAIL),https://jobs.apple.com/en-us/details/200693892/software-development-engineer-system-analytics-intelligence-sail,Cupertino,2026-11-10T18:48:09.638Z,2026-11-10 19:07:51
 200694108,Software Engineer, Applied ML,https://jobs.apple.com/en-us/details/200694108/software-engineer-applied-ml,Cupertino,2026-11-10T19:19:53.145Z,2026-11-10 19:35:37
 200694183,Senior Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200694183/senior-software-engineer-apple-services-engineering,Seattle,2026-11-10T19:53:02.410Z,2026-11-10 20:09:02
+200694375,Software Development Engineer - iOS for Keyboard,https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard,Cupertino,2026-11-10T20:43:42.195Z,2026-11-10 21:08:22
