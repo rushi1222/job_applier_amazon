@@ -461,3 +461,4 @@
 200694215,AI Software Engineer - Calendar Intelligence,https://jobs.apple.com/en-us/details/200694215/ai-software-engineer-calendar-intelligence,Cupertino,2026-11-10T01:15:13.572Z,2026-11-10 01:37:50
 200691617,Software Engineer, Deployment Compliance,https://jobs.apple.com/en-us/details/200691617/software-engineer-deployment-compliance,Seattle,2026-11-10T04:20:27.277Z,2026-11-10 05:09:28
 200694338,Senior Software Engineer, Wallet Identity Server,https://jobs.apple.com/en-us/details/200694338/senior-software-engineer-wallet-identity-server,Austin,2026-11-10T18:31:19.777Z,2026-11-10 18:35:51
+200693892,Software Development Engineer - System Analytics & Intelligence (SAIL),https://jobs.apple.com/en-us/details/200693892/software-development-engineer-system-analytics-intelligence-sail,Cupertino,2026-11-10T18:48:09.638Z,2026-11-10 19:07:51
