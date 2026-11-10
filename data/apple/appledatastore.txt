@@ -459,3 +459,4 @@
 200693896,Software Engineer, Contacts ,https://jobs.apple.com/en-us/details/200693896/software-engineer-contacts,Cupertino,2026-11-09T23:11:38.813Z,2026-11-09 23:35:26
 200692246,Software Development Engineer - Cellular (Instrument Engineering),https://jobs.apple.com/en-us/details/200692246/software-development-engineer-cellular-instrument-engineering,San Diego,2026-11-10T01:16:25.098Z,2026-11-10 01:37:50
 200694215,AI Software Engineer - Calendar Intelligence,https://jobs.apple.com/en-us/details/200694215/ai-software-engineer-calendar-intelligence,Cupertino,2026-11-10T01:15:13.572Z,2026-11-10 01:37:50
+200691617,Software Engineer, Deployment Compliance,https://jobs.apple.com/en-us/details/200691617/software-engineer-deployment-compliance,Seattle,2026-11-10T04:20:27.277Z,2026-11-10 05:09:28
