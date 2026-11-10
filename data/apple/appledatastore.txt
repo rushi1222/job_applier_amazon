@@ -466,3 +466,5 @@
 200694183,Senior Software Engineer, Apple Services Engineering,https://jobs.apple.com/en-us/details/200694183/senior-software-engineer-apple-services-engineering,Seattle,2026-11-10T19:53:02.410Z,2026-11-10 20:09:02
 200694375,Software Development Engineer - iOS for Keyboard,https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard,Cupertino,2026-11-10T20:43:42.195Z,2026-11-10 21:08:22
 200694384,IOS SOFTWARE MANAGER - SpringBoard Home Screen,https://jobs.apple.com/en-us/details/200694384/ios-software-manager-springboard-home-screen,Cupertino,2026-11-10T21:12:06.168Z,2026-11-10 21:35:23
+200694400,Sr. Software Engineer, Enterprise Technology Services (Forge),https://jobs.apple.com/en-us/details/200694400/sr-software-engineer-enterprise-technology-services-forge,Austin,2026-11-10T22:18:41.836Z,2026-11-10 22:35:16
+200694131,Software Development Engineer in Test - Camera API,https://jobs.apple.com/en-us/details/200694131/software-development-engineer-in-test-camera-api,San Francisco Bay Area,2026-11-10T22:12:23.607Z,2026-11-10 22:35:16
