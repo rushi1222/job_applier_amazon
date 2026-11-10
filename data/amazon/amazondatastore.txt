@@ -1426,3 +1426,4 @@ San Francisco, CA, USA,Posted November 9, 2026,2026-11-09 16:34:17
 10600170,Software Development Engineer II, Managed Rendering for App,https://www.amazon.jobs/en/jobs/10600170/software-development-engineer-ii-managed-rendering-for-app,Seattle, WA, USA,Posted November 9, 2026,2026-11-09 19:06:20
 10600212,Data Center Controls Engineer, Midland, TX,https://www.amazon.jobs/en/jobs/10600212/data-center-controls-engineer-midland-tx,Odessa, TX, USA,Posted November 9, 2026,2026-11-09 19:34:23
 10600506,DCEO Chief Engineer, ADC DCEO,https://www.amazon.jobs/en/jobs/10600506/dceo-chief-engineer-adc-dceo,Fairfax, VA, USA,Posted November 9, 2026,2026-11-09 22:34:09
+10600903,Software Development Engineer, Amazon Customer Service,https://www.amazon.jobs/en/jobs/10600903/software-development-engineer-amazon-customer-service,Seattle, WA, USA,Posted November 10, 2026,2026-11-10 09:34:27
