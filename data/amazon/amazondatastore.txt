@@ -1440,3 +1440,6 @@ Seattle, WA, USA,Posted November 10, 2026,2026-11-10 17:06:35
 10599933,Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10599933/mechanical-design-engineer-data-center-design-engineering,Austin, TX, USA
 Herndon, VA, USA
 Seattle, WA, USA,Posted November 10, 2026,2026-11-10 23:06:33
+10599947,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10599947/sr-mechanical-design-engineer-data-center-design-engineering,Austin, TX, USA
+Herndon, VA, USA
+Seattle, WA, USA,Posted November 10, 2026,2026-11-10 23:34:08
