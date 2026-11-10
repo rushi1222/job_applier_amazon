@@ -1437,3 +1437,6 @@ Herndon, VA, USA
 Seattle, WA, USA,Posted November 10, 2026,2026-11-10 17:06:35
 10601713,Software Development Engineer II, Business Data Technologies,https://www.amazon.jobs/en/jobs/10601713/software-development-engineer-ii-business-data-technologies,Detroit, MI, USA,Posted November 10, 2026,2026-11-10 20:07:48
 10599515,Senior Frontend Engineer, AWS Applied AI Solutions,https://www.amazon.jobs/en/jobs/10599515/senior-frontend-engineer-aws-applied-ai-solutions,Seattle, WA, USA,Posted November 10, 2026,2026-11-10 20:07:48
+10599933,Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10599933/mechanical-design-engineer-data-center-design-engineering,Austin, TX, USA
+Herndon, VA, USA
+Seattle, WA, USA,Posted November 10, 2026,2026-11-10 23:06:33
