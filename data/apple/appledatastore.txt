@@ -481,3 +481,4 @@
 200693576,Senior Software Engineer (Platform Engineer), G&A Solutions Engineering (GSE),https://jobs.apple.com/en-us/details/200693576/senior-software-engineer-platform-engineer-g-a-solutions-engineering-gse,Sunnyvale,2026-11-11T04:05:10.972Z,2026-11-11 04:10:11
 200694418,SoC Embedded Software Engineer for Factory,https://jobs.apple.com/en-us/details/200694418/soc-embedded-software-engineer-for-factory,Cupertino,2026-11-11T16:36:32.363Z,2026-11-11 16:40:03
 200694412,SoC Embedded Software Engineer for Factory,https://jobs.apple.com/en-us/details/200694412/soc-embedded-software-engineer-for-factory,Cupertino,2026-11-11T16:36:04.113Z,2026-11-11 16:40:03
+200694095,Senior Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694095/senior-software-engineer-apple-ads,Cupertino,2026-11-11T17:32:50.751Z,2026-11-11 17:36:16
