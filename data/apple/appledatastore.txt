@@ -489,3 +489,5 @@
 200668600,Senior Software Engineer, Ads,https://jobs.apple.com/en-us/details/200668600/senior-software-engineer-ads,Austin,2026-11-11T18:58:01.551Z,2026-11-11 19:07:54
 200694577,Senior Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694577/senior-software-engineer-apple-ads,Cupertino,2026-11-11T19:25:58.082Z,2026-11-11 19:35:45
 200694381,Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694381/software-engineer-apple-ads,Austin,2026-11-11T21:23:53.325Z,2026-11-11 21:35:46
+200693935,Systems Software Engineer - Human Interface Devices,https://jobs.apple.com/en-us/details/200693935/systems-software-engineer-human-interface-devices,Sunnyvale,2026-11-11T23:34:38.712Z,2026-11-11 23:35:25
+200694649,Senior Software Engineer, Apple Card & Savings,https://jobs.apple.com/en-us/details/200694649/senior-software-engineer-apple-card-savings,New York City,2026-11-11T23:11:43.157Z,2026-11-11 23:35:25
