@@ -1443,3 +1443,4 @@ Seattle, WA, USA,Posted November 10, 2026,2026-11-10 23:06:33
 10599947,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10599947/sr-mechanical-design-engineer-data-center-design-engineering,Austin, TX, USA
 Herndon, VA, USA
 Seattle, WA, USA,Posted November 10, 2026,2026-11-10 23:34:08
+10601986,Software Development Engineer, Billing Data Services, Billing Data Services,https://www.amazon.jobs/en/jobs/10601986/software-development-engineer-billing-data-services-billing-data-services,Seattle, WA, USA,Posted November 11, 2026,2026-11-11 01:07:51
