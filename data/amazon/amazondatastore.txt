@@ -1445,3 +1445,8 @@ Herndon, VA, USA
 Seattle, WA, USA,Posted November 10, 2026,2026-11-10 23:34:08
 10601986,Software Development Engineer, Billing Data Services, Billing Data Services,https://www.amazon.jobs/en/jobs/10601986/software-development-engineer-billing-data-services-billing-data-services,Seattle, WA, USA,Posted November 11, 2026,2026-11-11 01:07:51
 10600523,Software Dev Engineer III - AMZ27727.1,https://www.amazon.jobs/en/jobs/10600523/software-dev-engineer-iii-amz27727-1,Cupertino, CA, USA,Posted November 9, 2026,2026-11-11 16:12:02
+10602619,Frontend Engineer II, Ground Control Console,https://www.amazon.jobs/en/jobs/10602619/frontend-engineer-ii-ground-control-console,Redmond, WA, USA,Posted November 11, 2026,2026-11-11 19:06:40
+10602591,Sr. Mechanical Design Engineer, Data Center Design Engineering,https://www.amazon.jobs/en/jobs/10602591/sr-mechanical-design-engineer-data-center-design-engineering,Austin, TX, USA
+Chicago, IL, USA
+COLUMBUS, OH, USA
++2 other locations,Posted November 11, 2026,2026-11-11 19:06:40
