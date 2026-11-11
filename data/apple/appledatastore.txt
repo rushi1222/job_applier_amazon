@@ -482,3 +482,6 @@
 200694418,SoC Embedded Software Engineer for Factory,https://jobs.apple.com/en-us/details/200694418/soc-embedded-software-engineer-for-factory,Cupertino,2026-11-11T16:36:32.363Z,2026-11-11 16:40:03
 200694412,SoC Embedded Software Engineer for Factory,https://jobs.apple.com/en-us/details/200694412/soc-embedded-software-engineer-for-factory,Cupertino,2026-11-11T16:36:04.113Z,2026-11-11 16:40:03
 200694095,Senior Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694095/senior-software-engineer-apple-ads,Cupertino,2026-11-11T17:32:50.751Z,2026-11-11 17:36:16
+200694530,System Software Developer,https://jobs.apple.com/en-us/details/200694530/system-software-developer,Cupertino,2026-11-11T17:56:01.010Z,2026-11-11 18:09:20
+200678541,Software Development Engineer - Data, MLO,https://jobs.apple.com/en-us/details/200678541/software-development-engineer-data-mlo,Cupertino,2026-11-11T17:52:02.514Z,2026-11-11 18:09:20
+200687791,Compute Runtime Software Engineer,https://jobs.apple.com/en-us/details/200687791/compute-runtime-software-engineer,Seattle,2026-11-11T17:41:37.531Z,2026-11-11 18:09:20
