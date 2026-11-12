@@ -1458,3 +1458,5 @@ MESA, AZ, USA,Posted November 12, 2026,2026-11-12 01:08:07
 10603322,Software Development Manager, Quality and Test Strategy, Amazon Leo, D2D Software,https://www.amazon.jobs/en/jobs/10603322/software-development-manager-quality-and-test-strategy-amazon-leo-d2d-software,Redmond, WA, USA,Posted November 12, 2026,2026-11-12 16:09:01
 10602687,Business Intel Engineer II - AMZ27732.1,https://www.amazon.jobs/en/jobs/10602687/business-intel-engineer-ii-amz27732-1,Boston, MA, USA,Posted November 11, 2026,2026-11-12 16:09:01
 10603393,Facility Operations Center Engineer, ADC InfraOps FOC, ADC FOC,https://www.amazon.jobs/en/jobs/10603393/facility-operations-center-engineer-adc-infraops-foc-adc-foc,Arlington, VA, USA,Posted November 12, 2026,2026-11-12 17:07:01
+10603653,Business Intel Engineer II - AMZ10590870,https://www.amazon.jobs/en/jobs/10603653/business-intel-engineer-ii-amz10590870,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 12, 2026,2026-11-12 20:07:55
