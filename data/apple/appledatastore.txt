@@ -495,3 +495,4 @@
 200694513,Software Development Engineer, Vision Products Software,https://jobs.apple.com/en-us/details/200694513/software-development-engineer-vision-products-software,Seattle,2026-11-12T01:08:43.075Z,2026-11-12 01:37:56
 200693736,AIOps Software Engineer - Strategic Data Solutions,https://jobs.apple.com/en-us/details/200693736/aiops-software-engineer-strategic-data-solutions,Austin,2026-11-12T14:46:07.883Z,2026-11-12 15:09:04
 200694769,Software Engineer, Ad Platforms,https://jobs.apple.com/en-us/details/200694769/software-engineer-ad-platforms,Cupertino,2026-11-12T19:19:23.921Z,2026-11-12 19:35:27
+200694541,Senior Software Engineer, AI Inference Asset Delivery Platform,https://jobs.apple.com/en-us/details/200694541/senior-software-engineer-ai-inference-asset-delivery-platform,Seattle,2026-11-12T23:32:35.131Z,2026-11-12 23:36:01
