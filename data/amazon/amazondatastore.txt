@@ -1451,3 +1451,5 @@ Chicago, IL, USA
 COLUMBUS, OH, USA
 +2 other locations,Posted November 11, 2026,2026-11-11 19:06:40
 10602616,Frontend Engineer II, Ground Control Console,https://www.amazon.jobs/en/jobs/10602616/frontend-engineer-ii-ground-control-console,Redmond, WA, USA,Posted November 11, 2026,2026-11-11 19:34:32
+10602946,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10602946/data-center-chief-engineer,Mesa, AZ, USA
+MESA, AZ, USA,Posted November 12, 2026,2026-11-12 01:08:07
