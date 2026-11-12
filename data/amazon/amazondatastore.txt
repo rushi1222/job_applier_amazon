@@ -1460,3 +1460,4 @@ MESA, AZ, USA,Posted November 12, 2026,2026-11-12 01:08:07
 10603393,Facility Operations Center Engineer, ADC InfraOps FOC, ADC FOC,https://www.amazon.jobs/en/jobs/10603393/facility-operations-center-engineer-adc-infraops-foc-adc-foc,Arlington, VA, USA,Posted November 12, 2026,2026-11-12 17:07:01
 10603653,Business Intel Engineer II - AMZ10590870,https://www.amazon.jobs/en/jobs/10603653/business-intel-engineer-ii-amz10590870,Seattle, WA, USA
 SEATTLE, WA, USA,Posted November 12, 2026,2026-11-12 20:07:55
+10603861,Software Development Manager, Amazon Software Builder Experience - Change Review, Amazon Software Builder Experience – Change Auto Review Experience (CRUX),https://www.amazon.jobs/en/jobs/10603861/software-development-manager-amazon-software-builder-experience-change-review-amazon-software-builder-experience-change-auto-review-experience-crux,Seattle, WA, USA,Posted November 12, 2026,2026-11-12 23:06:21
