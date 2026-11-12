@@ -493,3 +493,4 @@
 200694649,Senior Software Engineer, Apple Card & Savings,https://jobs.apple.com/en-us/details/200694649/senior-software-engineer-apple-card-savings,New York City,2026-11-11T23:11:43.157Z,2026-11-11 23:35:25
 200694651,Software Engineering Technical Lead, Apple Card & Savings,https://jobs.apple.com/en-us/details/200694651/software-engineering-technical-lead-apple-card-savings,New York City,2026-11-11T23:47:33.073Z,2026-11-12 00:21:09
 200694513,Software Development Engineer, Vision Products Software,https://jobs.apple.com/en-us/details/200694513/software-development-engineer-vision-products-software,Seattle,2026-11-12T01:08:43.075Z,2026-11-12 01:37:56
+200693736,AIOps Software Engineer - Strategic Data Solutions,https://jobs.apple.com/en-us/details/200693736/aiops-software-engineer-strategic-data-solutions,Austin,2026-11-12T14:46:07.883Z,2026-11-12 15:09:04
