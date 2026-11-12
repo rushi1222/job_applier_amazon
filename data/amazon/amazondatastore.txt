@@ -1455,3 +1455,5 @@ COLUMBUS, OH, USA
 MESA, AZ, USA,Posted November 12, 2026,2026-11-12 01:08:07
 10602670,Software Engineering Manager, Internet Edge Services, Internet Edge Services,https://www.amazon.jobs/en/jobs/10602670/software-engineering-manager-internet-edge-services-internet-edge-services,Seattle, WA, USA,Posted November 12, 2026,2026-11-12 02:34:23
 10599138,Software Development Manager, Amazon Leo - Payload Dataplane Team,https://www.amazon.jobs/en/jobs/10599138/software-development-manager-amazon-leo-payload-dataplane-team,Sunnyvale, CA, USA,Posted November 12, 2026,2026-11-12 04:34:42
+10603322,Software Development Manager, Quality and Test Strategy, Amazon Leo, D2D Software,https://www.amazon.jobs/en/jobs/10603322/software-development-manager-quality-and-test-strategy-amazon-leo-d2d-software,Redmond, WA, USA,Posted November 12, 2026,2026-11-12 16:09:01
+10602687,Business Intel Engineer II - AMZ27732.1,https://www.amazon.jobs/en/jobs/10602687/business-intel-engineer-ii-amz27732-1,Boston, MA, USA,Posted November 11, 2026,2026-11-12 16:09:01
