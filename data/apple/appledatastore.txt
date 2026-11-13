@@ -502,3 +502,5 @@
 200694621,Sr Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694621/sr-software-engineer-apple-ads,Cupertino,2026-11-13T14:33:18.568Z,2026-11-13 14:35:57
 200693202,Software Engineer, Infrastructure Applications,https://jobs.apple.com/en-us/details/200693202/software-engineer-infrastructure-applications,Sunnyvale,2026-11-13T16:13:21.594Z,2026-11-13 16:35:58
 200694569,Sr. Software Engineer - Distributed Storage,https://jobs.apple.com/en-us/details/200694569/sr-software-engineer-distributed-storage,Cupertino,2026-11-13T18:05:42.058Z,2026-11-13 18:09:21
+200694982,Sr Software Engineer, Infrastructure Services,https://jobs.apple.com/en-us/details/200694982/sr-software-engineer-infrastructure-services,San Francisco Bay Area,2026-11-13T20:42:57.893Z,2026-11-13 21:07:33
+200694981,Sr Software Engineer, Infrastructure Services,https://jobs.apple.com/en-us/details/200694981/sr-software-engineer-infrastructure-services,San Francisco Bay Area,2026-11-13T20:41:36.359Z,2026-11-13 21:07:33
