@@ -501,3 +501,4 @@
 200693291,Software Development Engineer, Test Tooling,https://jobs.apple.com/en-us/details/200693291/software-development-engineer-test-tooling,Cupertino,2026-11-13T01:57:23.171Z,2026-11-13 05:09:11
 200694621,Sr Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694621/sr-software-engineer-apple-ads,Cupertino,2026-11-13T14:33:18.568Z,2026-11-13 14:35:57
 200693202,Software Engineer, Infrastructure Applications,https://jobs.apple.com/en-us/details/200693202/software-engineer-infrastructure-applications,Sunnyvale,2026-11-13T16:13:21.594Z,2026-11-13 16:35:58
+200694569,Sr. Software Engineer - Distributed Storage,https://jobs.apple.com/en-us/details/200694569/sr-software-engineer-distributed-storage,Cupertino,2026-11-13T18:05:42.058Z,2026-11-13 18:09:21
