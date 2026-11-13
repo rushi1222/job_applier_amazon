@@ -1470,3 +1470,5 @@ SEATTLE, WA, USA,Posted November 12, 2026,2026-11-13 16:34:44
 SEATTLE, WA, USA,Posted November 12, 2026,2026-11-13 16:34:44
 10601834,Business Intel Engineer III - AMZ10563890,https://www.amazon.jobs/en/jobs/10601834/business-intel-engineer-iii-amz10563890,Seattle, WA, USA
 SEATTLE, WA, USA,Posted November 10, 2026,2026-11-13 16:34:44
+10604188,Project Engineer,https://www.amazon.jobs/en/jobs/10604188/project-engineer,Mcadoo, PA, USA
+McAdoo, PA, USA,Posted November 13, 2026,2026-11-13 17:06:55
