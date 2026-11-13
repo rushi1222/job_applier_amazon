@@ -497,3 +497,5 @@
 200694769,Software Engineer, Ad Platforms,https://jobs.apple.com/en-us/details/200694769/software-engineer-ad-platforms,Cupertino,2026-11-12T19:19:23.921Z,2026-11-12 19:35:27
 200694541,Senior Software Engineer, AI Inference Asset Delivery Platform,https://jobs.apple.com/en-us/details/200694541/senior-software-engineer-ai-inference-asset-delivery-platform,Seattle,2026-11-12T23:32:35.131Z,2026-11-12 23:36:01
 200694832,UI Software Engineer - Apple TV,https://jobs.apple.com/en-us/details/200694832/ui-software-engineer-apple-tv,San Diego,2026-11-12T23:48:50.367Z,2026-11-13 00:20:49
+200694842,Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694842/software-engineer-apple-ads,Cupertino,2026-11-13T01:57:36.061Z,2026-11-13 05:09:11
+200693291,Software Development Engineer, Test Tooling,https://jobs.apple.com/en-us/details/200693291/software-development-engineer-test-tooling,Cupertino,2026-11-13T01:57:23.171Z,2026-11-13 05:09:11
