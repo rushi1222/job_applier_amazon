@@ -1462,3 +1462,11 @@ MESA, AZ, USA,Posted November 12, 2026,2026-11-12 01:08:07
 SEATTLE, WA, USA,Posted November 12, 2026,2026-11-12 20:07:55
 10603861,Software Development Manager, Amazon Software Builder Experience - Change Review, Amazon Software Builder Experience – Change Auto Review Experience (CRUX),https://www.amazon.jobs/en/jobs/10603861/software-development-manager-amazon-software-builder-experience-change-review-amazon-software-builder-experience-change-auto-review-experience-crux,Seattle, WA, USA,Posted November 12, 2026,2026-11-12 23:06:21
 10604174,Software Development Manager, Amazon Security,https://www.amazon.jobs/en/jobs/10604174/software-development-manager-amazon-security,Arlington, VA, USA,Posted November 13, 2026,2026-11-13 16:08:25
+10603658,Software Dev Engineer III - AMZ10563967,https://www.amazon.jobs/en/jobs/10603658/software-dev-engineer-iii-amz10563967,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 12, 2026,2026-11-13 16:34:44
+10603743,Business Intel Engineer II - AMZ10518408,https://www.amazon.jobs/en/jobs/10603743/business-intel-engineer-ii-amz10518408,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 12, 2026,2026-11-13 16:34:44
+10603661,Business Analyst III - AMZ10563738,https://www.amazon.jobs/en/jobs/10603661/business-analyst-iii-amz10563738,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 12, 2026,2026-11-13 16:34:44
+10601834,Business Intel Engineer III - AMZ10563890,https://www.amazon.jobs/en/jobs/10601834/business-intel-engineer-iii-amz10563890,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 10, 2026,2026-11-13 16:34:44
