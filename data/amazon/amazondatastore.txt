@@ -1475,3 +1475,6 @@ McAdoo, PA, USA,Posted November 13, 2026,2026-11-13 17:06:55
 10604643,Software Dev Engineer II, Access Management Services, Amazon Foundational Security Services,https://www.amazon.jobs/en/jobs/10604643/software-dev-engineer-ii-access-management-services-amazon-foundational-security-services,San Diego, CA, USA,Posted November 13, 2026,2026-11-13 18:08:07
 10604672,Senior Frontend Engineer, OpenSearch Dashboards Platform Team,https://www.amazon.jobs/en/jobs/10604672/senior-frontend-engineer-opensearch-dashboards-platform-team,Bellevue, WA, USA,Posted November 13, 2026,2026-11-13 18:34:41
 10604967,Data Center Controls Engineer,https://www.amazon.jobs/en/jobs/10604967/data-center-controls-engineer,Frederick, MD, USA,Posted November 13, 2026,2026-11-13 21:34:34
+10605132,Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast,https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast,Boardman, OR, USA
+Hayward, CA, USA
+Umatilla, OR, USA,Posted November 14, 2026,2026-11-14 01:07:58
