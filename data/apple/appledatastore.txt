@@ -513,3 +513,5 @@
 200695045,Performance Modeling Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200695045/performance-modeling-software-engineer-platform-architecture,Cupertino,2026-11-13T23:59:46.427Z,2026-11-14 00:20:17
 200694233,Sr. Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200694233/sr-software-engineer-ai-data-platforms-aidp,Sunnyvale,2026-11-13T23:38:53.941Z,2026-11-14 00:20:17
 200692913,Sr. Platform Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200692913/sr-platform-software-engineer-ai-data-platforms-aidp,Sunnyvale,2026-11-13T23:38:22.087Z,2026-11-14 00:20:17
+200695054,Performance Modeling Software Architect, Platform Architecture,https://jobs.apple.com/en-us/details/200695054/performance-modeling-software-architect-platform-architecture,Austin,2026-11-14T00:28:59.123Z,2026-11-14 00:45:32
+200694963,Machine Learning Research Engineer, Fitness Intelligence – Watch Software,https://jobs.apple.com/en-us/details/200694963/machine-learning-research-engineer-fitness-intelligence-watch-software,Cupertino,2026-11-14T00:27:19.113Z,2026-11-14 00:45:32
