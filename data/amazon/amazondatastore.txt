@@ -1478,3 +1478,4 @@ McAdoo, PA, USA,Posted November 13, 2026,2026-11-13 17:06:55
 10605132,Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast,https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast,Boardman, OR, USA
 Hayward, CA, USA
 Umatilla, OR, USA,Posted November 14, 2026,2026-11-14 01:07:58
+10605141,Data Center Infrastructure Engineer Intern, Summer 2027 - East,https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east,Herndon, VA, USA,Posted November 14, 2026,2026-11-14 01:36:48
