@@ -519,3 +519,5 @@
 200694999,Software Engineering Program Manager - visionOS,https://jobs.apple.com/en-us/details/200694999/software-engineering-program-manager-visionos,Sunnyvale,2026-11-14T01:35:29.956Z,2026-11-14 01:38:01
 200695051,Systems Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200695051/systems-software-engineer-platform-architecture,Cambridge,2026-11-14T02:16:23.411Z,2026-11-14 02:35:36
 200694835,Software Engineering Manager, cloudOS Core Systems,https://jobs.apple.com/en-us/details/200694835/software-engineering-manager-cloudos-core-systems,Seattle,2026-11-12T22:53:57.525Z,2026-11-14 03:35:41
+200694942,Systems Software Developer, CAD Infrastructure,https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure,Cupertino,2026-11-14T13:47:42.324Z,2026-11-14 14:08:09
+200694969,Systems Software Developer, CAD Infrastructure,https://jobs.apple.com/en-us/details/200694969/systems-software-developer-cad-infrastructure,Beaverton,2026-11-14T13:46:48.896Z,2026-11-14 14:08:09
