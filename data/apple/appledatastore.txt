@@ -510,3 +510,6 @@
 200694753,Software Engineer - Distributed Data Systems,https://jobs.apple.com/en-us/details/200694753/software-engineer-distributed-data-systems,San Diego,2026-11-13T23:10:41.635Z,2026-11-13 23:35:18
 200694773,Software Development Engineer, Enterprise and Education, CoreOS,https://jobs.apple.com/en-us/details/200694773/software-development-engineer-enterprise-and-education-coreos,Cupertino,2026-11-13T23:10:37.220Z,2026-11-13 23:35:18
 200694630,Senior Software Power Systems Engineer,https://jobs.apple.com/en-us/details/200694630/senior-software-power-systems-engineer,San Diego,2026-11-13T23:10:30.368Z,2026-11-13 23:35:18
+200695045,Performance Modeling Software Engineer, Platform Architecture,https://jobs.apple.com/en-us/details/200695045/performance-modeling-software-engineer-platform-architecture,Cupertino,2026-11-13T23:59:46.427Z,2026-11-14 00:20:17
+200694233,Sr. Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200694233/sr-software-engineer-ai-data-platforms-aidp,Sunnyvale,2026-11-13T23:38:53.941Z,2026-11-14 00:20:17
+200692913,Sr. Platform Software Engineer, AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200692913/sr-platform-software-engineer-ai-data-platforms-aidp,Sunnyvale,2026-11-13T23:38:22.087Z,2026-11-14 00:20:17
