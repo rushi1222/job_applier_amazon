@@ -530,3 +530,4 @@
 200695212,Senior Software Engineer — Streaming Speech Translation Data,https://jobs.apple.com/en-us/details/200695212/senior-software-engineer-streaming-speech-translation-data,Cupertino,2026-11-16T19:29:21.726Z,2026-11-16 19:35:31
 200695259,Senior Camera Imaging Software Engineer - Camera & Photos,https://jobs.apple.com/en-us/details/200695259/senior-camera-imaging-software-engineer-camera-photos,Cupertino,2026-11-16T20:06:44.147Z,2026-11-16 20:09:27
 200695213,iOS Software Engineer - Video Applications,https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications,Vancouver,2026-11-16T19:39:45.758Z,2026-11-16 20:09:27
+200695275,Bluetooth/Thread Embedded Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200695275/bluetooth-thread-embedded-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-11-16T21:05:54.709Z,2026-11-16 21:08:48
