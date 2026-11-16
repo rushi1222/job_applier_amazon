@@ -528,3 +528,5 @@
 200694970,Software Engineering Manager, AIML — LLM Inference Quality,https://jobs.apple.com/en-us/details/200694970/software-engineering-manager-aiml-llm-inference-quality,Seattle,2026-11-16T18:59:49.582Z,2026-11-16 19:08:53
 200695247,Senior Software Engineer: CloudOS Build Quality and Release,https://jobs.apple.com/en-us/details/200695247/senior-software-engineer-cloudos-build-quality-and-release,Seattle,2026-11-16T18:53:03.023Z,2026-11-16 19:08:53
 200695212,Senior Software Engineer — Streaming Speech Translation Data,https://jobs.apple.com/en-us/details/200695212/senior-software-engineer-streaming-speech-translation-data,Cupertino,2026-11-16T19:29:21.726Z,2026-11-16 19:35:31
+200695259,Senior Camera Imaging Software Engineer - Camera & Photos,https://jobs.apple.com/en-us/details/200695259/senior-camera-imaging-software-engineer-camera-photos,Cupertino,2026-11-16T20:06:44.147Z,2026-11-16 20:09:27
+200695213,iOS Software Engineer - Video Applications,https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications,Vancouver,2026-11-16T19:39:45.758Z,2026-11-16 20:09:27
