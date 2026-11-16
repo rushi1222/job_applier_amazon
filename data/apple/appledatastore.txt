@@ -531,3 +531,6 @@
 200695259,Senior Camera Imaging Software Engineer - Camera & Photos,https://jobs.apple.com/en-us/details/200695259/senior-camera-imaging-software-engineer-camera-photos,Cupertino,2026-11-16T20:06:44.147Z,2026-11-16 20:09:27
 200695213,iOS Software Engineer - Video Applications,https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications,Vancouver,2026-11-16T19:39:45.758Z,2026-11-16 20:09:27
 200695275,Bluetooth/Thread Embedded Software Engineer, Wireless Technologies & Ecosystems,https://jobs.apple.com/en-us/details/200695275/bluetooth-thread-embedded-software-engineer-wireless-technologies-ecosystems,Cupertino,2026-11-16T21:05:54.709Z,2026-11-16 21:08:48
+200694096,Senior Software Engineer, Apple Ads,https://jobs.apple.com/en-us/details/200694096/senior-software-engineer-apple-ads,Cupertino,2026-11-16T21:44:55.770Z,2026-11-16 22:09:19
+200695312,Senior Software Engineer, System Performance,https://jobs.apple.com/en-us/details/200695312/senior-software-engineer-system-performance,Seattle,2026-11-16T21:42:17.265Z,2026-11-16 22:09:19
+200692351,Software Engineering Manager, Supply Chain Systems,https://jobs.apple.com/en-us/details/200692351/software-engineering-manager-supply-chain-systems,Austin,2026-11-16T21:38:23.416Z,2026-11-16 22:09:19
