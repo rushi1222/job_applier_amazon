@@ -1483,3 +1483,6 @@ Umatilla, OR, USA,Posted November 14, 2026,2026-11-14 01:07:58
 10604286,Business Analyst III - AMZ28201.1,https://www.amazon.jobs/en/jobs/10604286/business-analyst-iii-amz28201-1,Bellevue, WA, USA,Posted November 13, 2026,2026-11-16 17:35:47
 10604284,Business Intel Engineer III - AMZ27976.1,https://www.amazon.jobs/en/jobs/10604284/business-intel-engineer-iii-amz27976-1,Austin, TX, USA,Posted November 13, 2026,2026-11-16 17:35:47
 10605564,Software Development Manager, Console Traffic Engineering,https://www.amazon.jobs/en/jobs/10605564/software-development-manager-console-traffic-engineering,East Palo Alto, CA, USA,Posted November 16, 2026,2026-11-16 19:34:18
+10606546,Software Developer Engineer, AWS Security, Audit Management Platform (AMP),https://www.amazon.jobs/en/jobs/10606546/software-developer-engineer-aws-security-audit-management-platform-amp,Seattle, WA, USA,Posted November 16, 2026,2026-11-16 20:34:41
+10606542,Critical Infrastructure Electrical Engineer – Supply Chain and Rack Testing Facility, Field Engineering,https://www.amazon.jobs/en/jobs/10606542/critical-infrastructure-electrical-engineer-supply-chain-and-rack-testing-facility-field-engineering,Florence, KY, USA
+Trenton, OH, USA,Posted November 16, 2026,2026-11-16 20:34:41
