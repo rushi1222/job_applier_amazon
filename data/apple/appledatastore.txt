@@ -535,3 +535,4 @@
 200695312,Senior Software Engineer, System Performance,https://jobs.apple.com/en-us/details/200695312/senior-software-engineer-system-performance,Seattle,2026-11-16T21:42:17.265Z,2026-11-16 22:09:19
 200692351,Software Engineering Manager, Supply Chain Systems,https://jobs.apple.com/en-us/details/200692351/software-engineering-manager-supply-chain-systems,Austin,2026-11-16T21:38:23.416Z,2026-11-16 22:09:19
 200694951,AR/VR Software Engineer, Spatial Experiences - Vision Products Software,https://jobs.apple.com/en-us/details/200694951/ar-vr-software-engineer-spatial-experiences-vision-products-software,San Francisco,2026-11-16T22:32:30.827Z,2026-11-16 22:36:11
+200695044,Sr. Software Engineer (Framework Solutions), AI & Data Platforms (AiDP),https://jobs.apple.com/en-us/details/200695044/sr-software-engineer-framework-solutions-ai-data-platforms-aidp,Austin,2026-11-16T22:51:19.833Z,2026-11-16 23:07:52
