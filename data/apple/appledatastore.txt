@@ -527,3 +527,4 @@
 200693162,Application Software Engineer, Productivity Apps,https://jobs.apple.com/en-us/details/200693162/application-software-engineer-productivity-apps,Cupertino,2026-11-16T18:25:15.118Z,2026-11-16 18:36:22
 200694970,Software Engineering Manager, AIML — LLM Inference Quality,https://jobs.apple.com/en-us/details/200694970/software-engineering-manager-aiml-llm-inference-quality,Seattle,2026-11-16T18:59:49.582Z,2026-11-16 19:08:53
 200695247,Senior Software Engineer: CloudOS Build Quality and Release,https://jobs.apple.com/en-us/details/200695247/senior-software-engineer-cloudos-build-quality-and-release,Seattle,2026-11-16T18:53:03.023Z,2026-11-16 19:08:53
+200695212,Senior Software Engineer — Streaming Speech Translation Data,https://jobs.apple.com/en-us/details/200695212/senior-software-engineer-streaming-speech-translation-data,Cupertino,2026-11-16T19:29:21.726Z,2026-11-16 19:35:31
