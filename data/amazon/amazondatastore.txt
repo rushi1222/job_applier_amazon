@@ -1480,3 +1480,5 @@ Hayward, CA, USA
 Umatilla, OR, USA,Posted November 14, 2026,2026-11-14 01:07:58
 10605141,Data Center Infrastructure Engineer Intern, Summer 2027 - East,https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east,Herndon, VA, USA,Posted November 14, 2026,2026-11-14 01:36:48
 10603741,Software Dev Engineer III - AMZ10564016,https://www.amazon.jobs/en/jobs/10603741/software-dev-engineer-iii-amz10564016,Arlington, VA, USA,Posted November 12, 2026,2026-11-16 15:41:22
+10604286,Business Analyst III - AMZ28201.1,https://www.amazon.jobs/en/jobs/10604286/business-analyst-iii-amz28201-1,Bellevue, WA, USA,Posted November 13, 2026,2026-11-16 17:35:47
+10604284,Business Intel Engineer III - AMZ27976.1,https://www.amazon.jobs/en/jobs/10604284/business-intel-engineer-iii-amz27976-1,Austin, TX, USA,Posted November 13, 2026,2026-11-16 17:35:47
