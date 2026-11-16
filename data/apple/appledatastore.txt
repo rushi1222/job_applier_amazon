@@ -524,3 +524,4 @@
 200677400,Sr Software Engineer, Customer Systems,https://jobs.apple.com/en-us/details/200677400/sr-software-engineer-customer-systems,Cupertino,2026-11-16T01:24:01.224Z,2026-11-16 01:39:49
 200695206,Software Development Engineer,https://jobs.apple.com/en-us/details/200695206/software-development-engineer,Cupertino,2026-11-16T18:06:04.161Z,2026-11-16 18:11:02
 200693159,Software Engineer, Freeform Application,https://jobs.apple.com/en-us/details/200693159/software-engineer-freeform-application,Vancouver,2026-11-16T18:03:27.989Z,2026-11-16 18:11:02
+200693162,Application Software Engineer, Productivity Apps,https://jobs.apple.com/en-us/details/200693162/application-software-engineer-productivity-apps,Cupertino,2026-11-16T18:25:15.118Z,2026-11-16 18:36:22
