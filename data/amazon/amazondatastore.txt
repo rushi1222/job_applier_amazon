@@ -1488,3 +1488,29 @@ Umatilla, OR, USA,Posted November 14, 2026,2026-11-14 01:07:58
 Trenton, OH, USA,Posted November 16, 2026,2026-11-16 20:34:41
 10606680,Software Development Engineer, Neuron Developer Experiences Team,https://www.amazon.jobs/en/jobs/10606680/software-development-engineer-neuron-developer-experiences-team,Seattle, WA, USA,Posted November 16, 2026,2026-11-16 22:34:57
 10606723,Business Intel Engineer III - AMZ9599350,https://www.amazon.jobs/en/jobs/10606723/business-intel-engineer-iii-amz9599350,San Diego, CA, USA,Posted November 16, 2026,2026-11-16 23:34:30
+10612080,Manager III, Software Dev - AMZ10563899,https://www.amazon.jobs/en/jobs/10612080/manager-iii-software-dev-amz10563899,Tempe, AZ, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10611850,Quality Assurance Engineer II - AMZ9803590,https://www.amazon.jobs/en/jobs/10611850/quality-assurance-engineer-ii-amz9803590,Irvine, CA, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10609588,Software Development Engineer II, Managed Operations (MO),https://www.amazon.jobs/en/jobs/10609588/software-development-engineer-ii-managed-operations-mo,Seattle, WA, USA,Posted November 19, 2026,2026-11-24 05:23:03
+10608841,Software Dev Engineer III - AMZ10593798,https://www.amazon.jobs/en/jobs/10608841/software-dev-engineer-iii-amz10593798,Santa Clara, CA, USA,Posted November 18, 2026,2026-11-24 05:23:03
+10608789,Software Dev Engineer III - AMZ10564025,https://www.amazon.jobs/en/jobs/10608789/software-dev-engineer-iii-amz10564025,New York, NY, USA,Posted November 18, 2026,2026-11-24 05:23:03
+10608772,UX Designer III - AMZ10030.12,https://www.amazon.jobs/en/jobs/10608772/ux-designer-iii-amz10030-12,Herndon, VA, USA,Posted November 18, 2026,2026-11-24 05:23:03
+10608274,Software Dev Engineer III - AMZ10564011,https://www.amazon.jobs/en/jobs/10608274/software-dev-engineer-iii-amz10564011,Dallas, TX, USA,Posted November 18, 2026,2026-11-24 05:23:03
+10611123,Software Development Manager - Settings, AWS Cross Console Experience,https://www.amazon.jobs/en/jobs/10611123/software-development-manager-settings-aws-cross-console-experience,East Palo Alto, CA, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10607992,Software Dev Engineer III - AMZ10593751,https://www.amazon.jobs/en/jobs/10607992/software-dev-engineer-iii-amz10593751,Herndon, VA, USA,Posted November 18, 2026,2026-11-24 05:23:03
+10607996,Manager III, Software Dev - AMZ10563759,https://www.amazon.jobs/en/jobs/10607996/manager-iii-software-dev-amz10563759,Austin, TX, USA,Posted November 18, 2026,2026-11-24 05:23:03
+10611625,Business Intel Engineer III - AMZ10563940,https://www.amazon.jobs/en/jobs/10611625/business-intel-engineer-iii-amz10563940,New York, NY, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10612171,Data Engineer III - AMZ10486127,https://www.amazon.jobs/en/jobs/10612171/data-engineer-iii-amz10486127,San Francisco, CA, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10611999,Business Intel Engineer III - AMZ10421461,https://www.amazon.jobs/en/jobs/10611999/business-intel-engineer-iii-amz10421461,East Palo Alto, CA, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10611655,Business Intel Engineer II - AMZ10587294,https://www.amazon.jobs/en/jobs/10611655/business-intel-engineer-ii-amz10587294,Mountain View, CA, USA,Posted November 23, 2026,2026-11-24 05:23:03
+10612340,Data Center Chief Engineer, DCC Communities,https://www.amazon.jobs/en/jobs/10612340/data-center-chief-engineer-dcc-communities,New Florence, MO, USA
+NEW FLORENCE, MO, USA,Posted November 24, 2026,2026-11-24 05:23:03
+10610750,Data Center Controls Engineer,https://www.amazon.jobs/en/jobs/10610750/data-center-controls-engineer,Stafford, VA, USA,Posted November 20, 2026,2026-11-24 05:23:03
+10610408,Business Analyst II - AMZ10237573,https://www.amazon.jobs/en/jobs/10610408/business-analyst-ii-amz10237573,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 20, 2026,2026-11-24 05:23:03
+10612129,Robotics Software Engineer, Data Center Robotics,https://www.amazon.jobs/en/jobs/10612129/robotics-software-engineer-data-center-robotics,Austin, TX, USA
+San Francisco, CA, USA
+Santa Clara, CA, USA
++1 other locations,Posted November 23, 2026,2026-11-24 05:23:03
+10610540,Systems Automation Engineer, Data Center Operations - Business Automation & Optimization, Business Automation & Optimization,https://www.amazon.jobs/en/jobs/10610540/systems-automation-engineer-data-center-operations-business-automation-optimization-business-automation-optimization,Herndon, VA, USA,Posted November 20, 2026,2026-11-24 05:23:03
+10609791,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10609791/data-center-chief-engineer,Hamlet, NC, USA
+HAMLET, NC, USA,Posted November 19, 2026,2026-11-24 05:23:03
