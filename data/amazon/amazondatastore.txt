@@ -1522,3 +1522,7 @@ SEATTLE, WA, USA,Posted November 24, 2026,2026-11-24 20:08:00
 10612968,Manager III, Software Dev - AMZ10563848,https://www.amazon.jobs/en/jobs/10612968/manager-iii-software-dev-amz10563848,Austin, TX, USA,Posted November 24, 2026,2026-11-24 20:08:00
 10612972,Business Analyst II - AMZ10563821,https://www.amazon.jobs/en/jobs/10612972/business-analyst-ii-amz10563821,Irving, TX, USA,Posted November 24, 2026,2026-11-24 20:08:00
 10613258,Data Engineer II - AMZ10549866,https://www.amazon.jobs/en/jobs/10613258/data-engineer-ii-amz10549866,Hawthorne, CA, USA,Posted November 24, 2026,2026-11-24 20:08:00
+10612941,Software Dev Engineer III - AMZ10593794,https://www.amazon.jobs/en/jobs/10612941/software-dev-engineer-iii-amz10593794,Herndon, VA, USA,Posted November 24, 2026,2026-11-24 21:07:38
+10612944,Software Dev Engineer III - AMZ10563900,https://www.amazon.jobs/en/jobs/10612944/software-dev-engineer-iii-amz10563900,Nashville, TN, USA,Posted November 24, 2026,2026-11-24 21:07:38
+10612077,Software Dev Engineer III - AMZ10563921,https://www.amazon.jobs/en/jobs/10612077/software-dev-engineer-iii-amz10563921,Portland, OR, USA,Posted November 23, 2026,2026-11-24 21:07:38
+10612076,Business Analyst III - AMZ10563854,https://www.amazon.jobs/en/jobs/10612076/business-analyst-iii-amz10563854,Nashville, TN, USA,Posted November 23, 2026,2026-11-24 21:07:38
