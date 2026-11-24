@@ -1514,3 +1514,6 @@ Santa Clara, CA, USA
 10610540,Systems Automation Engineer, Data Center Operations - Business Automation & Optimization, Business Automation & Optimization,https://www.amazon.jobs/en/jobs/10610540/systems-automation-engineer-data-center-operations-business-automation-optimization-business-automation-optimization,Herndon, VA, USA,Posted November 20, 2026,2026-11-24 05:23:03
 10609791,Data Center Chief Engineer,https://www.amazon.jobs/en/jobs/10609791/data-center-chief-engineer,Hamlet, NC, USA
 HAMLET, NC, USA,Posted November 19, 2026,2026-11-24 05:23:03
+10613030,Quality Assurance Engineer III - AMZ10564110,https://www.amazon.jobs/en/jobs/10613030/quality-assurance-engineer-iii-amz10564110,Irvine, CA, USA,Posted November 24, 2026,2026-11-24 18:35:42
+10613027,Business Analyst III - AMZ10564071,https://www.amazon.jobs/en/jobs/10613027/business-analyst-iii-amz10564071,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 24, 2026,2026-11-24 18:35:42
