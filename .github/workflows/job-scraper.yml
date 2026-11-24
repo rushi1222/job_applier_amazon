@@ -8,7 +8,7 @@ on:
 
 jobs:
   scrape-jobs:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-26.04 removed apt-key used below
     permissions:
       contents: write  # Allow pushing datastore updates back to repo
     
