@@ -1517,3 +1517,8 @@ HAMLET, NC, USA,Posted November 19, 2026,2026-11-24 05:23:03
 10613030,Quality Assurance Engineer III - AMZ10564110,https://www.amazon.jobs/en/jobs/10613030/quality-assurance-engineer-iii-amz10564110,Irvine, CA, USA,Posted November 24, 2026,2026-11-24 18:35:42
 10613027,Business Analyst III - AMZ10564071,https://www.amazon.jobs/en/jobs/10613027/business-analyst-iii-amz10564071,Seattle, WA, USA
 SEATTLE, WA, USA,Posted November 24, 2026,2026-11-24 18:35:42
+10612962,Manager III, Software Dev - AMZ10590899,https://www.amazon.jobs/en/jobs/10612962/manager-iii-software-dev-amz10590899,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 24, 2026,2026-11-24 20:08:00
+10612968,Manager III, Software Dev - AMZ10563848,https://www.amazon.jobs/en/jobs/10612968/manager-iii-software-dev-amz10563848,Austin, TX, USA,Posted November 24, 2026,2026-11-24 20:08:00
+10612972,Business Analyst II - AMZ10563821,https://www.amazon.jobs/en/jobs/10612972/business-analyst-ii-amz10563821,Irving, TX, USA,Posted November 24, 2026,2026-11-24 20:08:00
+10613258,Data Engineer II - AMZ10549866,https://www.amazon.jobs/en/jobs/10613258/data-engineer-ii-amz10549866,Hawthorne, CA, USA,Posted November 24, 2026,2026-11-24 20:08:00
