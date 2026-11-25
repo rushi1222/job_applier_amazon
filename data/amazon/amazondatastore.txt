@@ -1533,3 +1533,5 @@ Seattle, WA, USA,Posted November 25, 2026,2026-11-25 04:10:37
 10614195,ASIC AI/ML Engineer, Annapurna Labs, MLA SOC, Methodology & Infrastructure,https://www.amazon.jobs/en/jobs/10614195/asic-ai-ml-engineer-annapurna-labs-mla-soc-methodology-infrastructure,Austin, TX, USA
 Cupertino, CA, USA,Posted November 25, 2026,2026-11-25 18:35:09
 10614362,Software Development Engineer III, Optimization Data,https://www.amazon.jobs/en/jobs/10614362/software-development-engineer-iii-optimization-data,Seattle, WA, USA,Posted November 25, 2026,2026-11-25 19:07:17
+10614931,Business Analyst III - AMZ10564071,https://www.amazon.jobs/en/jobs/10614931/business-analyst-iii-amz10564071,Seattle, WA, USA
+SEATTLE, WA, USA,Posted November 25, 2026,2026-11-25 23:35:28
