@@ -1528,3 +1528,5 @@ SEATTLE, WA, USA,Posted November 24, 2026,2026-11-24 20:08:00
 10612076,Business Analyst III - AMZ10563854,https://www.amazon.jobs/en/jobs/10612076/business-analyst-iii-amz10563854,Nashville, TN, USA,Posted November 23, 2026,2026-11-24 21:07:38
 10613190,Business Intel Engineer II - AMZ10563881,https://www.amazon.jobs/en/jobs/10613190/business-intel-engineer-ii-amz10563881,Seattle, WA, USA
 SEATTLE, WA, USA,Posted November 24, 2026,2026-11-24 21:35:41
+10613726,Sr. Software Development Engineer, Resilience Infrastruction and Solutions: Incident Mitigation,https://www.amazon.jobs/en/jobs/10613726/sr-software-development-engineer-resilience-infrastruction-and-solutions-incident-mitigation,Portland, OR, USA
+Seattle, WA, USA,Posted November 25, 2026,2026-11-25 04:10:37
